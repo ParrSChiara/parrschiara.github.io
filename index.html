@@ -19,6 +19,7 @@
       justify-content: flex-start;
       background-color: #f4f4f9;
       padding: 20px;
+      padding-bottom: 80px;
     }
 
     /* Stile per la sezione del logo */
@@ -50,7 +51,6 @@
       cursor: pointer;
       text-decoration: none;
       text-transform: uppercase;
-      z-index: 9999;
     }
 
     .download-button:hover {
@@ -84,27 +84,15 @@
     <img src="assets/logo.png" alt="Logo">
   </div>
 
-  <!-- Pulsante per scaricare il PDF -->
-  <a href="assets/santa_chiara_foglietto_settimanale.pdf" download="santa_chiara_foglietto_settimanale.pdf" class="download-button">Scarica il foglietto settimanale</a>
-
   <!-- Contenitore per il visualizzatore PDF -->
   <div id="pdf-viewer"></div>
+
+  <!-- Pulsante per scaricare il PDF -->
+  <a href="assets/santa_chiara_foglietto_settimanale.pdf" download="santa_chiara_foglietto_settimanale.pdf" class="download-button">Scarica il foglietto settimanale</a>
 
   <!-- Inclusione di PDF.js tramite CDN -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
   <script>
-
-    //Rimozione banner pubblicitario appena il caricamento della finestra è completato
-    window.addEventListener('load',() => setTimeout(removeAdContainer, 100));
-    function removeAdContainer() {
-      const adContainer = Array.from(document.querySelectorAll('div'))
-        .find(div => div.style.position === 'fixed' && div.style.bottom === '0%');
-          
-      if (adContainer) {
-        adContainer.remove();
-        document.body.style.marginBottom = '';
-      }
-    } 
 
     const url = 'assets/santa_chiara_foglietto_settimanale.pdf'; // Percorso del PDF
 
