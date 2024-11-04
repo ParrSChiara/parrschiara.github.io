@@ -37,20 +37,20 @@
 
     /* Stile del pulsante di download */
     .download-button {
-      display: inline-block;
-      padding: 10px 20px;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%; 
+      padding: 15px;
+      background-color: #007bff; 
       color: white;
-      background-color: #007bff;
-      border-radius: 5px;
-      text-decoration: none;
-      font-size: 16px;
-      font-weight: bold;
       text-align: center;
-      width: 80%;
-      max-width: 300px;
-      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-      transition: background-color 0.3s;
-      margin-bottom: 15px;
+      font-size: 18px;
+      border: none;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      z-index: 9999;
     }
 
     .download-button:hover {
@@ -74,6 +74,7 @@
       justify-content: center;
       margin-bottom: 10px;
     }
+
   </style>
 </head>
 <body>
@@ -92,6 +93,19 @@
   <!-- Inclusione di PDF.js tramite CDN -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
   <script>
+
+    //Rimozione banner pubblicitario appena il caricamento della finestra è completato
+    window.addEventListener('load',() => setTimeout(removeAdContainer, 100));
+    function removeAdContainer() {
+      const adContainer = Array.from(document.querySelectorAll('div'))
+        .find(div => div.style.position === 'fixed' && div.style.bottom === '0%');
+          
+      if (adContainer) {
+        adContainer.remove();
+        document.body.style.marginBottom = '';
+      }
+    } 
+
     const url = 'assets/santa_chiara_foglietto_settimanale.pdf'; // Percorso del PDF
 
     const pdfjsLib = window['pdfjs-dist/build/pdf'];
@@ -123,6 +137,5 @@
     // Chiama la funzione per caricare il PDF
     renderPDF(url);
   </script>
-
 </body>
 </html>
