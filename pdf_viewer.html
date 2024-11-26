@@ -3,30 +3,139 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Visualizzatore PDF</title>
+  <title>Visualizzatore PDF - Parrocchia Santa Chiara</title>
   <style>
-    body {
+    * {
       margin: 0;
       padding: 0;
+      box-sizing: border-box;
     }
-    iframe {
+
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      background-color: #f4f4f9;
+      padding: 20px;
+      padding-bottom: 80px;
+    }
+
+    /* Stile per la sezione del logo */
+    .logo-container {
       width: 100%;
-      height: 100vh;
+      max-width: 300px;
+      text-align: center;
+      margin-bottom: 15px;
+    }
+
+    .logo-container img {
+      width: 100%;
+      max-width: 150px; /* Dimensione massima del logo */
+      height: auto;
+    }
+
+    /* Contenitore per il visualizzatore PDF */
+    #pdf-viewer {
+      width: 100%;
+      max-width: 600px;
+      height: 90vh;
+      overflow-y: scroll;
+      border: 1px solid #ddd;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Pagina del PDF */
+    .pdf-page {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 10px;
+    }
+
+    /* Stile del pulsante di download */
+    .download-button {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      padding: 15px;
+      background-color: #007bff;
+      color: white;
+      text-align: center;
+      font-size: 18px;
       border: none;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+
+    .download-button:hover {
+      background-color: #0056b3;
     }
   </style>
 </head>
 <body>
-<iframe id="pdfViewer" src="" allowfullscreen></iframe>
+
+<!-- Sezione del logo -->
+<!--<div class="logo-container">
+  <img src="assets/logo.png" alt="Logo">
+</div>-->
+
+<!-- Contenitore per il visualizzatore PDF -->
+<div id="pdf-viewer"></div>
+
+<!-- Pulsante per scaricare il PDF (il file sarà lo stesso mostrato nel visualizzatore) -->
+<a id="download-button" class="download-button" href="#" download>Download</a>
+
+<!-- Inclusione di PDF.js tramite CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
 <script>
   // Recupera il parametro "file" dalla URL
   const urlParams = new URLSearchParams(window.location.search);
   const pdfFile = urlParams.get('file');
 
-  // Imposta il file PDF nel visualizzatore
   if (pdfFile) {
-    document.getElementById('pdfViewer').src = `assets/pdf/${pdfFile}`;
+    const pdfUrl = `assets/pdf/${pdfFile}`;
+
+    // Imposta il file PDF nel visualizzatore
+    const pdfViewer = document.getElementById('pdf-viewer');
+    const downloadButton = document.getElementById('download-button');
+
+    // Imposta il link di download per il PDF
+    downloadButton.href = pdfUrl;
+    downloadButton.download = pdfFile;
+
+    // Carica e visualizza il PDF usando PDF.js
+    const pdfjsLib = window['pdfjs-dist/build/pdf'];
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.worker.min.js';
+
+    async function renderPDF(url) {
+      const pdfDoc = await pdfjsLib.getDocument(url).promise;
+      // Itera su ogni pagina del PDF e la renderizza
+      for (let pageNum = 1; pageNum <= pdfDoc.numPages; pageNum++) {
+        const page = await pdfDoc.getPage(pageNum);
+        const viewport = page.getViewport({ scale: 1.5 });
+
+        // Creazione di un canvas per ciascuna pagina
+        const canvas = document.createElement('canvas');
+        canvas.classList.add('pdf-page');
+        canvas.width = viewport.width;
+        canvas.height = viewport.height;
+
+        const context = canvas.getContext('2d');
+        await page.render({ canvasContext: context, viewport: viewport }).promise;
+
+        pdfViewer.appendChild(canvas); // Aggiungi la pagina al visualizzatore
+      }
+    }
+
+    // Chiama la funzione per caricare il PDF
+    renderPDF(pdfUrl);
+
   } else {
+    // Se non viene trovato il parametro "file", mostra un messaggio di errore
     document.body.innerHTML = "<h1>Errore: file PDF non specificato.</h1>";
   }
 </script>
