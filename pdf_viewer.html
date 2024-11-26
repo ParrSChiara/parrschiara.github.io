@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visualizzatore PDF</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    iframe {
+      width: 100%;
+      height: 100vh;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+<iframe id="pdfViewer" src="" allowfullscreen></iframe>
+<script>
+  // Recupera il parametro "file" dalla URL
+  const urlParams = new URLSearchParams(window.location.search);
+  const pdfFile = urlParams.get('file');
+
+  // Imposta il file PDF nel visualizzatore
+  if (pdfFile) {
+    document.getElementById('pdfViewer').src = `assets/pdf/${pdfFile}`;
+  } else {
+    document.body.innerHTML = "<h1>Errore: file PDF non specificato.</h1>";
+  }
+</script>
+</body>
+</html>

@@ -1,129 +1,186 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Foglietto Settimanale - Parrocchia Santa Chiara - Trani</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parrocchia Santa Chiara</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
 
-    body {
-      font-family: Arial, sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: flex-start;
-      background-color: #f4f4f9;
-      padding: 20px;
-      padding-bottom: 80px;
-    }
+        header {
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
 
-    /* Stile per la sezione del logo */
-    .logo-container {
-      width: 100%;
-      max-width: 300px;
-      text-align: center;
-      margin-bottom: 15px;
-    }
+        .logo {
+            width: 150px;
+            height: auto;
+            margin-bottom: 20px;
+        }
 
-    .logo-container img {
-      width: 100%;
-      max-width: 150px; /* Dimensione massima del logo */
-      height: auto;
-    }
+        .liturgia-info {
+            margin-bottom: 20px;
+            font-size: 18px;
+        }
 
-    /* Stile del pulsante di download */
-    .download-button {
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      width: 100%; 
-      padding: 15px;
-      background-color: #007bff; 
-      color: white;
-      text-align: center;
-      font-size: 18px;
-      border: none;
-      cursor: pointer;
-      text-decoration: none;
-      text-transform: uppercase;
-    }
+        .buttons-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
 
-    .download-button:hover {
-      background-color: #0056b3;
-    }
-    
-    /* Contenitore per il visualizzatore PDF */
-    #pdf-viewer {
-      width: 100%;
-      max-width: 600px;
-      height: 80vh;
-      overflow-y: scroll;
-      border: 1px solid #ddd;
-      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-    }
+        .buttons-container button {
+            margin: 10px 0;
+            padding: 15px 20px;
+            font-size: 18px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            width: 80%;
+            max-width: 400px;
+        }
 
-    /* Pagina del PDF */
-    .pdf-page {
-      width: 100%;
-      display: flex;
-      justify-content: center;
-      margin-bottom: 10px;
-    }
-
-  </style>
+        .buttons-container button:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
+<header>
+    <img src="assets/logo.png" alt="Logo Parrocchia Santa Chiara" class="logo"/>
+    <div class="liturgia-info" id="liturgia-info">
+        <p id="current-date"><strong>Caricamento data...</strong></p> <!-- Giorno dinamico -->
+        <div id="liturgical-details">Caricamento informazioni liturgiche...</div>
+    </div>
+</header>
+<main>
+    <div class="buttons-container">
+        <button onclick="openPdfViewer('foglio_settimanale.pdf')">FOGLIETTO SETTIMANALE</button>
+        <button onclick="redirectToLiturgia()">LITURGIA DEL GIORNO</button>
+        <button onclick="openPdfViewer('canti_liturgici.pdf')">CANTI LITURGICI</button>
+        <button onclick="openPdfViewer('canti_adorazione.pdf')">CANTI ADORAZIONE</button>
+        <button onclick="openPdfViewer('completa.pdf')">COMPIETA</button>
+        <button onclick="openPdfViewer('celebrazione_giorno.pdf')">CELEBRAZIONE DEL GIORNO</button>
+    </div>
+</main>
+<script>
 
-  <!-- Sezione del logo -->
-  <div class="logo-container">
-    <img src="assets/logo.png" alt="Logo">
-  </div>
-
-  <!-- Contenitore per il visualizzatore PDF -->
-  <div id="pdf-viewer"></div>
-
-  <!-- Pulsante per scaricare il PDF -->
-  <a href="assets/santa_chiara_foglietto_settimanale.pdf" download="santa_chiara_foglietto_settimanale.pdf" class="download-button">Scarica il foglietto settimanale</a>
-
-  <!-- Inclusione di PDF.js tramite CDN -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
-  <script>
-
-    const url = 'assets/santa_chiara_foglietto_settimanale.pdf'; // Percorso del PDF
-
-    const pdfjsLib = window['pdfjs-dist/build/pdf'];
-    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.worker.min.js';
-
-    // Funzione per caricare il PDF e visualizzare le pagine
-    async function renderPDF(url) {
-      const pdfViewer = document.getElementById('pdf-viewer');
-      const pdfDoc = await pdfjsLib.getDocument(url).promise;
-
-      // Itera su ogni pagina del PDF e la renderizza
-      for (let pageNum = 1; pageNum <= pdfDoc.numPages; pageNum++) {
-        const page = await pdfDoc.getPage(pageNum);
-        const viewport = page.getViewport({ scale: 1.5 });
-        
-        // Creazione di un canvas per ciascuna pagina
-        const canvas = document.createElement('canvas');
-        canvas.classList.add('pdf-page');
-        canvas.width = viewport.width;
-        canvas.height = viewport.height;
-        
-        const context = canvas.getContext('2d');
-        await page.render({ canvasContext: context, viewport: viewport }).promise;
-
-        pdfViewer.appendChild(canvas); // Aggiungi la pagina al visualizzatore
-      }
+    // Funzione per decodificare le entità HTML (come &amp;, &lt;, etc.)
+    function decodeHTML(html) {
+        const txt = document.createElement("textarea");
+        txt.innerHTML = html;
+        return txt.value;
     }
 
-    // Chiama la funzione per caricare il PDF
-    renderPDF(url);
-  </script>
+    // Funzione per formattare la data odierna
+    function formatTodayDate() {
+        const daysOfWeek = [
+            'Domenica', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato'
+        ];
+        const months = [
+            'Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno',
+            'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre'
+        ];
+
+        const today = new Date();
+        const dayName = daysOfWeek[today.getDay()];
+        const day = today.getDate();
+        const monthName = months[today.getMonth()];
+        const year = today.getFullYear();
+
+        return `${dayName}, ${day} ${monthName} ${year}`;
+    }
+
+    // Recupera e mostra le informazioni liturgiche
+    async function fetchLiturgicalInfo() {
+        const today = new Date();
+        const formattedDate = `${today.getFullYear()}${(today.getMonth() + 1).toString().padStart(2, '0')}${today.getDate().toString().padStart(2, '0')}`;
+        const url = `assets/html/${formattedDate}.html`;
+
+        try {
+            const response = await fetch(url);
+            if (!response.ok) {
+                throw new Error("Impossibile recuperare i dati.");
+            }
+
+            const html = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(html, 'text/html');
+
+            // Recupera informazioni liturgiche
+            const weekTitle = doc.querySelector('#content .section-title')?.innerText || "Informazioni non disponibili";
+            const celebrationDetails = doc.querySelectorAll('#content .section-content font[size="-1"]')[0]?.innerText.trim() || "";
+            const readings = doc.querySelectorAll('.section-content-mini a');
+            const gospelText = doc.querySelector('#vangelo + .section-content .section-content-mini p')?.innerText || "";
+
+            // Crea il contenuto HTML da visualizzare, correttamente formattato
+            const liturgicalDetails = `
+            <p><strong>${correctedText(celebrationDetails)}</strong></p>
+            <p>${correctedText(weekTitle)}</p>
+                    <p>
+                ${Array.from(readings).map(reading => `<a href="${reading.href}" target="_blank">${correctedText(reading.innerText)}</a>`).join(' ')}
+                ${gospelText ? `: ${correctedText(gospelText)}` : ""}
+                    </p>
+                `;
+
+            document.getElementById('liturgical-details').innerHTML = liturgicalDetails;
+        } catch (error) {
+            document.getElementById('liturgical-details').innerText = "Errore nel caricamento delle informazioni liturgiche.";
+            console.error(error);
+        }
+    }
+
+    // Funzione per correggere gli errori di encoding
+    const correctedText = (text) => {
+        return text
+            .replace(/Ã¬/g, 'ì')      // Corregge "Ã¬" in "ì"
+            .replace(/Ã /g, 'à')       // Corregge "Ã " in "à"
+            .replace(/Ã/g, 'à')       // Corregge "Ã " in "à"
+            .replace(/Ã©/g, 'é')       // Corregge "Ã©" in "é"
+            .replace(/Ã²/g, 'ò')       // Corregge "Ã²" in "ò"
+            .replace(/Ã¹/g, 'ù')       // Corregge "Ã¹" in "ù"
+            .replace(/Ã§/g, 'ç')       // Corregge "Ã§" in "ç"
+            .replace(/&quot;/g, '"')   // Corregge le virgolette
+            .replace(/&amp;/g, '&')    // Corregge il simbolo di "e commerciale"
+            .replace(/&lt;/g, '<')     // Corregge il simbolo minore
+            .replace(/&gt;/g, '>')     // Corregge il simbolo maggiore
+            .replace(/&nbsp;/g, ' ')   // Corregge gli spazi non separabili
+            .replace(/&#39;/g, "'")    // Corregge l'apostrofo
+            .replace(/Ã \u0080/g, 'à') // Corregge "Ã " in "à"
+            .replace(/Ã \u0088/g, 'è') // Corregge "Ã " in "è"
+            .replace(/Ã /g, 'à')       // Ulteriore correzione per "à"
+            .replace(/Ã /g, 'à')       // Correzione aggiuntiva per "à"
+            .replace(/Ã /g, 'à')       // Ulteriore correzione per "à"
+            .replace(/Ã/g, '');        // Rimuove eventuali residui di "Ã"
+    };
+
+    // Redirezione dinamica alla Liturgia del giorno
+    function redirectToLiturgia() {
+        const today = new Date();
+        const formattedDate = `${today.getFullYear()}${(today.getMonth() + 1).toString().padStart(2, '0')}${today.getDate().toString().padStart(2, '0')}`;
+        window.location.href = `https://www.lachiesa.it/calendario/${formattedDate}.html`;
+    }
+
+    // Apertura del visualizzatore PDF con file dinamico
+    function openPdfViewer(pdfFile) {
+        window.location.href = `pdf_viewer.html?file=${encodeURIComponent(pdfFile)}`;
+    }
+
+    // Esegui le funzioni al caricamento della pagina
+    document.addEventListener('DOMContentLoaded', () => {
+        // Aggiorna la data odierna
+        document.getElementById('current-date').innerText = formatTodayDate();
+
+        // Recupera e mostra le informazioni liturgiche
+        fetchLiturgicalInfo();
+    });
+</script>
 </body>
 </html>
