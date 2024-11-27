@@ -145,25 +145,25 @@
     // Funzione per correggere gli errori di encoding
     const correctedText = (text) => {
         return text
-            .replace(/Ã¬/g, 'ì')      // Corregge "Ã¬" in "ì"
-            .replace(/Ã /g, 'à')       // Corregge "Ã " in "à"
-            .replace(/Ã/g, 'à')       // Corregge "Ã " in "à"
-            .replace(/Ã©/g, 'é')       // Corregge "Ã©" in "é"
-            .replace(/Ã²/g, 'ò')       // Corregge "Ã²" in "ò"
-            .replace(/Ã¹/g, 'ù')       // Corregge "Ã¹" in "ù"
-            .replace(/Ã§/g, 'ç')       // Corregge "Ã§" in "ç"
-            .replace(/&quot;/g, '"')   // Corregge le virgolette
-            .replace(/&amp;/g, '&')    // Corregge il simbolo di "e commerciale"
-            .replace(/&lt;/g, '<')     // Corregge il simbolo minore
-            .replace(/&gt;/g, '>')     // Corregge il simbolo maggiore
-            .replace(/&nbsp;/g, ' ')   // Corregge gli spazi non separabili
-            .replace(/&#39;/g, "'")    // Corregge l'apostrofo
-            .replace(/Ã \u0080/g, 'à') // Corregge "Ã " in "à"
-            .replace(/Ã \u0088/g, 'è') // Corregge "Ã " in "è"
-            .replace(/Ã /g, 'à')       // Ulteriore correzione per "à"
-            .replace(/Ã /g, 'à')       // Correzione aggiuntiva per "à"
-            .replace(/Ã /g, 'à')       // Ulteriore correzione per "à"
-            .replace(/Ã/g, '');        // Rimuove eventuali residui di "Ã"
+            .replaceAll('Ã¬', 'ì')      // Corregge "Ã¬" in "ì"
+            .replaceAll('Ã', 'à')       // Corregge "Ã " in "à"
+            //.replaceAll(/Ã/g, 'à')       // Corregge "Ã " in "à"
+            .replaceAll('Ã©', 'é')       // Corregge "Ã©" in "é"
+            .replaceAll('Ã²', 'ò')       // Corregge "Ã²" in "ò"
+            .replaceAll('Ã¹', 'ù')       // Corregge "Ã¹" in "ù"
+            .replaceAll('Ã§', 'ç')       // Corregge "Ã§" in "ç"
+            .replaceAll('&quot;', '"')   // Corregge le virgolette
+            .replaceAll('&amp;', '&')    // Corregge il simbolo di "e commerciale"
+            .replaceAll('&lt;', '<')     // Corregge il simbolo minore
+            .replaceAll('&gt;', '>')     // Corregge il simbolo maggiore
+            .replaceAll('&nbsp;', ' ')   // Corregge gli spazi non separabili
+            .replaceAll('&#39;', "'")    // Corregge l'apostrofo
+            //.replaceAll(/Ã \u0080/g, 'à') // Corregge "Ã " in "à"
+            //.replaceAll(/Ã \u0088/g, 'è') // Corregge "Ã " in "è"
+            //.replaceAll(/Ã /g, 'à')       // Ulteriore correzione per "à"
+            //.replaceAll(/Ã /g, 'à')       // Correzione aggiuntiva per "à"
+            //.replaceAll(/Ã /g, 'à')       // Ulteriore correzione per "à"
+            //.replaceAll(/Ã/g, '');        // Rimuove eventuali residui di "Ã"
     };
 
     // Redirezione dinamica alla Liturgia del giorno
