@@ -69,9 +69,10 @@
     <div class="buttons-container">
         <button onclick="openPdfViewer('foglio_settimanale.pdf')">FOGLIETTO SETTIMANALE</button>
         <button onclick="redirectToLiturgia()">LITURGIA DEL GIORNO</button>
+        <button onclick="redirectToVespri()">VESPRI</button>
+         <button onclick="openPdfViewer('compieta.pdf')">COMPIETA</button>
         <button onclick="openPdfViewer('canti_liturgici.pdf')">CANTI LITURGICI</button>
         <button onclick="openPdfViewer('canti_adorazione.pdf')">CANTI ADORAZIONE</button>
-        <button onclick="openPdfViewer('compieta.pdf')">COMPIETA</button>
         <button onclick="openPdfViewer('celebrazione_giorno.pdf')">CELEBRAZIONE DEL GIORNO</button>
     </div>
 </main>
@@ -146,7 +147,6 @@
     const correctedText = (text) => {
         return text
             .replaceAll('Ã¬', 'ì')      // Corregge "Ã¬" in "ì"
-            .replaceAll('Ã', 'à')       // Corregge "Ã " in "à"
             //.replaceAll(/Ã/g, 'à')       // Corregge "Ã " in "à"
             .replaceAll('Ã©', 'é')       // Corregge "Ã©" in "é"
             .replaceAll('Ã²', 'ò')       // Corregge "Ã²" in "ò"
@@ -158,6 +158,7 @@
             .replaceAll('&gt;', '>')     // Corregge il simbolo maggiore
             .replaceAll('&nbsp;', ' ')   // Corregge gli spazi non separabili
             .replaceAll('&#39;', "'")    // Corregge l'apostrofo
+            .replaceAll('Ã', 'à')       // Corregge "Ã " in "à"
             //.replaceAll(/Ã \u0080/g, 'à') // Corregge "Ã " in "à"
             //.replaceAll(/Ã \u0088/g, 'è') // Corregge "Ã " in "è"
             //.replaceAll(/Ã /g, 'à')       // Ulteriore correzione per "à"
@@ -171,6 +172,10 @@
         const today = new Date();
         const formattedDate = `${today.getFullYear()}${(today.getMonth() + 1).toString().padStart(2, '0')}${today.getDate().toString().padStart(2, '0')}`;
         window.location.href = `https://www.lachiesa.it/calendario/${formattedDate}.html`;
+    }
+    // Redirezione dinamica alla Liturgia del giorno
+    function redirectToVespri() {
+        window.location.href = `https://www.ibreviary.com/m2/breviario.php?s=vespri`;
     }
 
     // Apertura del visualizzatore PDF con file dinamico
