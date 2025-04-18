@@ -128,14 +128,22 @@
 
             // Recupera informazioni liturgiche
             const weekTitle = doc.querySelector('#content .section-title')?.innerText || "Informazioni non disponibili";
-            const celebrationRaw = doc.querySelectorAll('#content .section-content font[size="-1"]')[0]?.innerText.trim() || "";
-            const celebrationDetails = celebrationRaw.replace("EVENS ;", "").replace(/\s+/g, " ").trim();
+            // const celebrationRaw = doc.querySelectorAll('#content .section-content font[size="-1"]')[0]?.innerText.trim() || "";
+            // const celebrationDetails = celebrationRaw.replace("EVENS ;", "").replace(/\s+/g, " ").trim();
+            const celebrationSection = doc.querySelectorAll('#content .section-content font[size="-1"]')[0];
+            let celebrationHtml = celebrationSection?.innerHTML || "";
+
+            // Rimuovi tutto il pezzo EVENS ; invisibile
+            celebrationHtml = celebrationHtml.replace(/<font[^>]*color=["']#FFFFCC["'][^>]*>.*?<\/font>/gi, "");
+
             const readings = doc.querySelectorAll('.section-content-mini a');
             const gospelText = doc.querySelector('#vangelo + .section-content .section-content-mini p')?.innerText || "";
 
+
             // Crea il contenuto HTML da visualizzare, correttamente formattato
+            // <p><strong>${correctedText(celebrationDetails)}</strong></p>
             const liturgicalDetails = `
-            <p><strong>${correctedText(celebrationDetails)}</strong></p>
+            <p><strong>${correctedText(celebrationHtml)}</strong></p>
             <p>${correctedText(weekTitle)}</p>
                     <p>
                 ${Array.from(readings).map(reading => `<a href="${reading.href}" target="_blank">${correctedText(reading.innerText)}</a>`).join(' ')}
