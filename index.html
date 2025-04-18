@@ -128,7 +128,8 @@
 
             // Recupera informazioni liturgiche
             const weekTitle = doc.querySelector('#content .section-title')?.innerText || "Informazioni non disponibili";
-            const celebrationDetails = doc.querySelectorAll('#content .section-content font[size="-1"]')[0]?.innerText.trim() || "";
+            const celebrationRaw = doc.querySelectorAll('#content .section-content font[size="-1"]')[0]?.innerText.trim() || "";
+            const celebrationDetails = celebrationRaw.replace("EVENS ;", "").trim();
             const readings = doc.querySelectorAll('.section-content-mini a');
             const gospelText = doc.querySelector('#vangelo + .section-content .section-content-mini p')?.innerText || "";
 
