@@ -143,8 +143,9 @@
             // Crea il contenuto HTML da visualizzare, correttamente formattato
             // <p><strong>${correctedText(celebrationDetails)}</strong></p>
             const liturgicalDetails = `
-            <p><strong>${correctedText(celebrationHtml)}</strong></p>
             <p>${correctedText(weekTitle)}</p>
+            <p><strong>${correctedText(celebrationHtml)}</strong></p>
+
                     <p>
                 ${Array.from(readings).map(reading => `<a href="${reading.href}" target="_blank">${correctedText(reading.innerText)}</a>`).join(' ')}
                 ${gospelText ? `: ${correctedText(gospelText)}` : ""}
