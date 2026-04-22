@@ -7,7 +7,13 @@
       "Bash(gh repo *)",
       "Bash(git credential-osxkeychain *)",
       "Bash(git restore *)",
-      "Bash(.venv/bin/python3 *)"
+      "Bash(.venv/bin/python3 *)",
+      "Bash(python3 -m http.server 8765)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8765/foglietto.html)",
+      "Bash(curl -s http://localhost:8765/assets/foglietto/appuntamenti_fissi.json)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('OK:', len\\(d['giorni']\\), 'giorni'\\)\")",
+      "Bash(curl -s http://localhost:8765/assets/foglietto/foglietto.css)",
+      "Bash(pkill -f \"python3 -m http.server 8765\")"
     ]
   }
 }

@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foglietto Settimanale — Parrocchia Santa Chiara</title>
+    <link rel="icon" href="assets/logo/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/foglietto/foglietto.css">
+    <style>
+        /* ── UI Panel ── */
+        #ui-panel {
+            max-width: 640px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem 2rem;
+        }
+
+        .ui-section-title {
+            font-family: var(--font-display);
+            font-size: .65rem;
+            letter-spacing: .24em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin: 1.4rem 0 .7rem;
+        }
+
+        .ui-section-title:first-of-type { margin-top: 0; }
+
+        /* Date picker */
+        input[type="date"] {
+            width: 100%;
+            padding: .75rem .9rem;
+            border: 1px solid var(--cream-dark);
+            background: var(--cream);
+            font-family: var(--font-body);
+            font-size: 1rem;
+            color: var(--text);
+            outline: none;
+            -webkit-appearance: none;
+            border-radius: 0;
+            transition: border-color .18s;
+        }
+        input[type="date"]:focus { border-color: var(--burgundy); background: var(--white); }
+
+        /* Liturgy info chip */
+        #liturgy-info {
+            margin-top: .6rem;
+            font-family: var(--font-body);
+            font-style: italic;
+            font-size: .95rem;
+            color: var(--muted);
+            min-height: 1.4em;
+        }
+        #liturgy-info .li-title {
+            color: var(--text);
+            font-style: normal;
+            font-weight: 600;
+        }
+        #liturgy-info .li-color-dot {
+            display: inline-block;
+            width: 8px; height: 8px;
+            border-radius: 50%;
+            margin-right: .35rem;
+            vertical-align: middle;
+            flex-shrink: 0;
+        }
+
+        /* Textarea */
+        textarea {
+            width: 100%;
+            padding: .75rem .9rem;
+            border: 1px solid var(--cream-dark);
+            background: var(--cream);
+            font-family: var(--font-body);
+            font-size: 1rem;
+            color: var(--text);
+            outline: none;
+            resize: vertical;
+            min-height: 90px;
+            line-height: 1.5;
+            border-radius: 0;
+            transition: border-color .18s;
+        }
+        textarea:focus { border-color: var(--burgundy); background: var(--white); }
+
+        /* Reading rows */
+        .reading-row {
+            background: var(--white);
+            border: 1px solid var(--cream-dark);
+            margin-bottom: .5rem;
+            padding: .9rem 1rem;
+        }
+        .reading-row-head {
+            display: flex;
+            align-items: baseline;
+            gap: .6rem;
+            margin-bottom: .4rem;
+        }
+        .reading-tipo {
+            font-family: var(--font-display);
+            font-size: .6rem;
+            letter-spacing: .18em;
+            text-transform: uppercase;
+            color: var(--muted);
+            flex-shrink: 0;
+        }
+        .reading-sigla {
+            font-family: var(--font-display);
+            font-size: .78rem;
+            color: var(--burgundy);
+        }
+        .reading-row textarea {
+            min-height: 70px;
+            font-size: .9rem;
+        }
+        .reading-row .ref-input {
+            min-height: unset;
+            resize: none;
+            padding: .4rem .7rem;
+            font-size: .9rem;
+            margin-bottom: .4rem;
+        }
+
+        /* Calendar form */
+        .cal-day-block {
+            border: 1px solid var(--cream-dark);
+            margin-bottom: .6rem;
+            background: var(--white);
+        }
+        .cal-day-head {
+            background: var(--cream-mid);
+            padding: .5rem 1rem;
+            font-family: var(--font-display);
+            font-size: .7rem;
+            letter-spacing: .14em;
+            text-transform: uppercase;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .cal-appt-row {
+            display: grid;
+            grid-template-columns: auto 1fr auto;
+            align-items: center;
+            gap: .5rem;
+            padding: .4rem 1rem;
+            border-top: 1px solid var(--cream-mid);
+            font-family: var(--font-body);
+            font-size: .95rem;
+        }
+        .cal-appt-row.sospeso { opacity: .45; text-decoration: line-through; }
+        .cal-appt-main { min-width: 0; }
+        .cal-appt-orario { font-weight: 600; }
+        .cal-appt-desc { color: var(--text); }
+        .cal-appt-church { font-style: italic; color: var(--muted); font-size: .85rem; }
+        .cal-appt-intention input[type="text"] {
+            padding: .3rem .6rem;
+            font-size: .85rem;
+            border: 1px dashed var(--cream-dark);
+            background: var(--cream);
+        }
+        .cal-appt-intention input[type="text"]:focus {
+            border-color: var(--burgundy);
+            background: var(--white);
+            border-style: solid;
+        }
+
+        .cal-var-rows { padding: 0 1rem .5rem; }
+        .cal-var-row {
+            display: grid;
+            grid-template-columns: 3rem 1fr auto;
+            gap: .4rem;
+            margin-bottom: .4rem;
+            align-items: center;
+        }
+        .cal-var-row input[type="time"] {
+            padding: .3rem .4rem;
+            font-size: .85rem;
+            border: 1px solid var(--cream-dark);
+            background: var(--cream);
+            border-radius: 0;
+            outline: none;
+            width: 100%;
+        }
+        .cal-var-row input[type="text"] {
+            padding: .3rem .6rem;
+            font-size: .85rem;
+        }
+        .btn-add {
+            font-family: var(--font-display);
+            font-size: .6rem;
+            letter-spacing: .14em;
+            text-transform: uppercase;
+            background: none;
+            border: 1px dashed var(--cream-dark);
+            color: var(--muted);
+            padding: .4rem .8rem;
+            cursor: pointer;
+            width: calc(100% - 2rem);
+            margin: 0 1rem .5rem;
+            transition: all .18s;
+        }
+        .btn-add:hover { border-color: var(--burgundy); color: var(--burgundy); }
+        .btn-remove {
+            background: none;
+            border: none;
+            color: var(--muted);
+            font-size: 1.1rem;
+            cursor: pointer;
+            padding: 0 .2rem;
+            line-height: 1;
+        }
+        .btn-remove:hover { color: #a62020; }
+
+        /* Status */
+        .ui-status {
+            padding: .6rem .9rem;
+            font-family: var(--font-body);
+            font-size: .9rem;
+            margin-bottom: .8rem;
+            border-left: 3px solid;
+            display: none;
+        }
+        .ui-status.show { display: block; }
+        .ui-status.info { background: rgba(168,124,40,.08); border-color: var(--gold); color: #7A5A10; }
+        .ui-status.warn { background: rgba(166,32,32,.08); border-color: #A62020; color: #7A1010; }
+
+        /* Actions bar */
+        .actions-bar {
+            position: sticky;
+            bottom: 0;
+            background: var(--white);
+            border-top: 1px solid var(--cream-dark);
+            padding: .8rem 1.5rem;
+            margin: 0 -1.5rem;
+            display: flex;
+            gap: .5rem;
+        }
+        .actions-bar .btn {
+            flex: 1;
+        }
+
+        /* Separator */
+        .ui-sep {
+            border: none;
+            border-top: 1px solid var(--cream-dark);
+            margin: 1.4rem 0 0;
+        }
+
+        @media screen and (min-width: 900px) {
+            #ui-panel { max-width: 680px; }
+        }
+    </style>
+</head>
+<body>
+<div id="ui-panel">
+
+    <header class="anim-1">
+        <a href="index.html" class="back-link">
+            <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+            Torna alla home
+        </a>
+        <h1 style="font-family:var(--font-display);font-size:1.1rem;font-weight:500;letter-spacing:.06em;margin:1rem 0 .3rem;color:var(--text);">
+            Foglietto Settimanale
+        </h1>
+        <p style="font-family:var(--font-body);font-style:italic;color:var(--muted);font-size:.95rem;margin-bottom:.5rem;">
+            Genera il foglietto da stampare direttamente dal browser.
+        </p>
+    </header>
+
+    <!-- ── Sezione A: Domenica ── -->
+    <p class="ui-section-title">① Scegli la domenica</p>
+
+    <div class="form-group">
+        <label for="domenica-picker">Data della domenica</label>
+        <input type="date" id="domenica-picker">
+        <div id="liturgy-info"></div>
+    </div>
+
+    <div id="status-no-json" class="ui-status info">
+        I dati liturgici non sono disponibili per questa data. Inserisci le letture manualmente nell'anteprima.
+    </div>
+
+    <!-- ── Sezione B: Letture ── -->
+    <p class="ui-section-title">② Controlla le letture</p>
+
+    <div id="readings-form">
+        <p class="hint">I testi vengono caricati dal JSON liturgico. Puoi modificarli direttamente nell'<strong>anteprima</strong> qui sotto.</p>
+    </div>
+
+    <!-- Preghiera dei Fedeli -->
+    <p class="ui-section-title" style="margin-top:1rem;">Preghiera dei Fedeli</p>
+    <div class="form-group">
+        <label for="pf-input">Testo della Preghiera dei Fedeli</label>
+        <textarea id="pf-input"
+                  placeholder="Preghiamo il Signore perché…&#10;Preghiamo.&#10;&#10;Per i nostri defunti e in particolare per……, affinché il Signore apra le porte del Cielo. Preghiamo.&#10;&#10;O Padre, ascolta le nostre preghiere… Amen."
+                  rows="8"></textarea>
+        <p class="hint">Usa una riga vuota per separare le intenzioni. Digita «Preghiamo.» alla fine di ogni intenzione.</p>
+    </div>
+
+    <!-- ── Sezione B: Calendario ── -->
+    <hr class="ui-sep">
+    <p class="ui-section-title">③ Calendario settimanale</p>
+    <div id="calendar-form">
+        <p class="hint">Seleziona prima la domenica.</p>
+    </div>
+
+    <!-- Avvisi speciali -->
+    <p class="ui-section-title" style="margin-top:1rem;">Avvisi speciali (opzionale)</p>
+    <div class="form-group">
+        <textarea id="avvisi-input" rows="3"
+                  placeholder="Es.: La messa delle 12:15 è anticipata alle 11:30"></textarea>
+    </div>
+
+    <!-- ── Azioni ── -->
+    <div class="actions-bar">
+        <button class="btn btn-outlined" onclick="aggiornaAnteprima()">Aggiorna anteprima</button>
+        <button class="btn btn-filled" onclick="window.print()">Stampa / Salva PDF</button>
+    </div>
+
+</div><!-- /ui-panel -->
+
+<!-- ════════════════════════════════════════════════════════
+     ANTEPRIMA FOGLIETTO
+     ════════════════════════════════════════════════════════ -->
+<div id="foglietto-preview">
+    <p class="preview-label">Anteprima — clicca sui testi per modificarli</p>
+
+    <!-- PAGINA 1: LETTURE -->
+    <div class="foglietto-page page-letture" id="page-1">
+        <!-- generato da JS -->
+    </div>
+
+    <!-- PAGINA 2: CALENDARIO -->
+    <div class="foglietto-page page-calendario" id="page-2">
+        <!-- generato da JS -->
+    </div>
+</div>
+
+<script>
+/* ════════════════════════════════════════════════════════
+   STATO
+   ════════════════════════════════════════════════════════ */
+let appFissi   = null;  // { giorni: [...], note_permanenti: {...} }
+let liturgyData = null; // JSON da assets/liturgia/YYYYMMDD.json
+let currentSunday = null;
+
+// Per ogni giorno (indice 0..7): array di appuntamenti variabili aggiunti dall'utente
+const varAppts = {};
+// Per ogni "dIdx-apptIdx": sospeso override (true/false) e intenzione
+const apptOverrides = {};
+
+const LITURGY_COLORS = {
+    bianco: '#C8B97A', verde: '#3D7A50', rosso: '#A62020',
+    viola: '#6B3FA0',  rosa: '#C97090',  nero: '#3A3A3A', oro: '#A87C28',
+};
+const MESI = ['Gennaio','Febbraio','Marzo','Aprile','Maggio','Giugno',
+              'Luglio','Agosto','Settembre','Ottobre','Novembre','Dicembre'];
+const MESI_UP = MESI.map(m => m.toUpperCase());
+const GIORNI = ['Domenica','Lunedì','Martedì','Mercoledì','Giovedì','Venerdì','Sabato'];
+const GIORNI_CHIAVE = ['domenica','lunedi','martedi','mercoledi','giovedi','venerdi','sabato'];
+
+/* ════════════════════════════════════════════════════════
+   INIT
+   ════════════════════════════════════════════════════════ */
+document.addEventListener('DOMContentLoaded', async () => {
+    // Carica appuntamenti fissi
+    try {
+        const r = await fetch('assets/foglietto/appuntamenti_fissi.json');
+        appFissi = await r.json();
+    } catch(e) {
+        console.warn('appuntamenti_fissi.json non trovato:', e);
+    }
+
+    // Imposta domenica più vicina (oggi se domenica, altrimenti la prossima)
+    const today = new Date();
+    const diff  = today.getDay() === 0 ? 0 : 7 - today.getDay();
+    const sun   = new Date(today);
+    sun.setDate(today.getDate() + diff);
+
+    const picker = document.getElementById('domenica-picker');
+    picker.value = fmtISO(sun);
+    picker.addEventListener('change', handleSundayChange);
+
+    // Preghiera dei Fedeli → aggiorna anteprima in tempo reale
+    document.getElementById('pf-input').addEventListener('input', refreshPage1PF);
+    document.getElementById('avvisi-input').addEventListener('input', refreshPage2Footer);
+
+    await handleSundayChange();
+});
+
+/* ════════════════════════════════════════════════════════
+   HELPERS DATE
+   ════════════════════════════════════════════════════════ */
+function fmtISO(d) {
+    return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`;
+}
+function fmtNum(d) {
+    return `${d.getFullYear()}${pad(d.getMonth()+1)}${pad(d.getDate())}`;
+}
+function pad(n) { return String(n).padStart(2,'0'); }
+function addDays(d, n) {
+    const r = new Date(d); r.setDate(r.getDate() + n); return r;
+}
+function fmtLong(d) {
+    return `${GIORNI[d.getDay()].toUpperCase()} ${d.getDate()} ${MESI_UP[d.getMonth()]}`;
+}
+
+/* ════════════════════════════════════════════════════════
+   CAMBIO DOMENICA
+   ════════════════════════════════════════════════════════ */
+async function handleSundayChange() {
+    const picker = document.getElementById('domenica-picker');
+    if (!picker.value) return;
+
+    const d = new Date(picker.value + 'T00:00:00');
+    // Forza domenica
+    if (d.getDay() !== 0) {
+        const adj = new Date(d);
+        adj.setDate(d.getDate() + (7 - d.getDay()) % 7);
+        picker.value = fmtISO(adj);
+    }
+    currentSunday = new Date(picker.value + 'T00:00:00');
+
+    // Reset overrides variabili
+    Object.keys(varAppts).forEach(k => delete varAppts[k]);
+    Object.keys(apptOverrides).forEach(k => delete apptOverrides[k]);
+
+    // Fetch liturgy
+    const dateStr = fmtNum(currentSunday);
+    document.getElementById('liturgy-info').innerHTML = '<span style="color:var(--muted);font-style:italic">Caricamento…</span>';
+    document.getElementById('status-no-json').classList.remove('show');
+
+    try {
+        const r = await fetch(`assets/liturgia/${dateStr}.json`);
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        liturgyData = await r.json();
+
+        const color = LITURGY_COLORS[(liturgyData.colore||'').toLowerCase()] || LITURGY_COLORS.oro;
+        document.getElementById('liturgy-info').innerHTML = `
+            <span class="li-color-dot" style="background:${color}"></span>
+            <span class="li-title">${esc(liturgyData.settimana||'—')}</span>
+            ${liturgyData.celebrazione ? ` — <em>${esc(liturgyData.celebrazione)}</em>` : ''}
+            ${liturgyData.colore ? ` <em>(${esc(liturgyData.colore)})</em>` : ''}
+        `;
+    } catch(e) {
+        liturgyData = null;
+        document.getElementById('liturgy-info').innerHTML = '<em style="color:var(--muted)">Dati liturgici non disponibili</em>';
+        document.getElementById('status-no-json').classList.add('show');
+    }
+
+    buildReadingsForm();
+    buildCalendarForm();
+    renderPage1();
+    renderPage2();
+}
+
+/* ════════════════════════════════════════════════════════
+   FORM LETTURE (solo info, editing è nell'anteprima)
+   ════════════════════════════════════════════════════════ */
+function buildReadingsForm() {
+    const el = document.getElementById('readings-form');
+    if (!liturgyData || !liturgyData.letture || liturgyData.letture.length === 0) {
+        el.innerHTML = '<p class="hint">Nessun dato disponibile. Modifica le letture direttamente nell\'anteprima.</p>';
+        return;
+    }
+    const TFALL5 = ['prima_lettura','salmo','seconda_lettura','canto_vangelo','vangelo'];
+    const TFALL4 = ['prima_lettura','salmo','canto_vangelo','vangelo'];
+    const TFALL3 = ['prima_lettura','salmo','vangelo'];
+    const llen   = liturgyData.letture.length;
+    const getFallback = i => (llen >= 5 ? TFALL5 : llen === 4 ? TFALL4 : TFALL3)[i] || 'lettura';
+    const tipoLabel = {
+        prima_lettura: 'Prima Lettura',
+        salmo: 'Salmo Responsoriale',
+        seconda_lettura: 'Seconda Lettura',
+        canto_vangelo: 'Canto dal Vangelo',
+        vangelo: 'Vangelo',
+        lettura: 'Lettura',
+    };
+    const hasText = liturgyData.letture.some(l => l.testo);
+    if (!hasText) {
+        el.innerHTML = `
+            <p class="hint">Le letture sono presenti ma senza testo (JSON generato prima dell'aggiornamento dello scraper).
+            Modifica i testi direttamente nell'<strong>anteprima</strong> cliccando sui testi grigi.</p>
+            <div style="display:flex;flex-wrap:wrap;gap:.3rem;margin-top:.5rem;">
+                ${liturgyData.letture.map(l => `
+                    <span style="font-family:var(--font-display);font-size:.68rem;letter-spacing:.07em;
+                                 color:var(--burgundy);border:1px solid currentColor;padding:.25rem .55rem;">
+                        ${esc(l.sigla)}
+                    </span>`).join('')}
+            </div>`;
+        return;
+    }
+    el.innerHTML = `<p class="hint">Testi caricati. Modifica direttamente nell'anteprima.</p>
+        <div style="display:flex;flex-wrap:wrap;gap:.3rem;margin-top:.5rem;">
+            ${liturgyData.letture.map((l, i) => {
+                const t = l.tipo || getFallback(i);
+                return `<span style="font-family:var(--font-display);font-size:.68rem;letter-spacing:.07em;
+                             color:var(--burgundy);border:1px solid currentColor;padding:.25rem .55rem;">
+                    ${esc(tipoLabel[t]||t)}: ${esc(l.sigla)}
+                    ${l.testo ? '✓' : ''}
+                </span>`;
+            }).join('')}
+        </div>`;
+}
+
+/* ════════════════════════════════════════════════════════
+   FORM CALENDARIO
+   ════════════════════════════════════════════════════════ */
+function buildCalendarForm() {
+    const el = document.getElementById('calendar-form');
+    if (!currentSunday) { el.innerHTML = '<p class="hint">Seleziona prima la domenica.</p>'; return; }
+
+    let html = '';
+    for (let i = 0; i < 8; i++) {
+        const day    = addDays(currentSunday, i);
+        const chiave = GIORNI_CHIAVE[day.getDay()];
+        const label  = `${GIORNI[day.getDay()]} ${day.getDate()} ${MESI[day.getMonth()]}`;
+        const appsFissi = getAppuntamentiFissi(chiave);
+
+        html += `<div class="cal-day-block" data-didx="${i}">
+            <div class="cal-day-head">
+                <span>${esc(label)}</span>
+            </div>`;
+
+        // Appuntamenti fissi
+        appsFissi.forEach((a, ai) => {
+            const key = `${i}-${ai}`;
+            const ov  = apptOverrides[key] || {};
+            const sospeso = ov.sospeso !== undefined ? ov.sospeso : (a.sospeso || false);
+            html += `<div class="cal-appt-row${sospeso?' sospeso':''}" data-key="${key}">
+                <div class="cal-appt-main">
+                    ${a.orario ? `<span class="cal-appt-orario">${esc(a.orario)}</span> ` : ''}
+                    <span class="cal-appt-desc">${esc(a.descrizione)}</span>
+                    ${a.chiesa ? `<br><span class="cal-appt-church">(${esc(a.chiesa)})</span>` : ''}
+                    ${a.intenzione === null ? `<br><div class="cal-appt-intention" style="margin-top:.2rem;">
+                        <input type="text" placeholder="intenzione: per…"
+                               value="${esc(ov.intenzione||'')}"
+                               oninput="setIntenzione('${key}',this.value);updateApptRow('${i}','${ai}')">
+                    </div>` : ''}
+                </div>
+                <div>
+                    <label style="font-size:.7rem;color:var(--muted);cursor:pointer;white-space:nowrap;">
+                        <input type="checkbox" ${sospeso?'checked':''} onchange="toggleSospeso('${key}',this.checked,${i},${ai})">
+                        sospeso
+                    </label>
+                </div>
+            </div>`;
+        });
+
+        // Appuntamenti variabili
+        const vars = varAppts[i] || [];
+        if (vars.length > 0) {
+            html += `<div class="cal-var-rows" id="var-rows-${i}">`;
+            vars.forEach((v, vi) => {
+                html += `<div class="cal-var-row" id="var-row-${i}-${vi}">
+                    <input type="time" value="${esc(v.orario||'')}"
+                           oninput="varAppts[${i}][${vi}].orario=this.value;syncVarRow(${i},${vi})">
+                    <input type="text" placeholder="Descrizione appuntamento"
+                           value="${esc(v.descrizione||'')}"
+                           oninput="varAppts[${i}][${vi}].descrizione=this.value;syncVarRow(${i},${vi})">
+                    <button class="btn-remove" onclick="removeVarAppt(${i},${vi})" title="Rimuovi">×</button>
+                </div>`;
+            });
+            html += `</div>`;
+        }
+
+        html += `<button class="btn-add" onclick="addVarAppt(${i})">+ Aggiungi appuntamento</button>
+        </div>`;
+    }
+    el.innerHTML = html;
+}
+
+function getAppuntamentiFissi(chiave) {
+    if (!appFissi) return [];
+    const g = appFissi.giorni.find(g => g.giorno === chiave);
+    return g ? g.appuntamenti : [];
+}
+
+function toggleSospeso(key, checked, dIdx, aIdx) {
+    if (!apptOverrides[key]) apptOverrides[key] = {};
+    apptOverrides[key].sospeso = checked;
+    // Aggiorna visually il form row
+    const row = document.querySelector(`.cal-appt-row[data-key="${key}"]`);
+    if (row) row.classList.toggle('sospeso', checked);
+    syncCalendarDay(dIdx);
+}
+
+function setIntenzione(key, val) {
+    if (!apptOverrides[key]) apptOverrides[key] = {};
+    apptOverrides[key].intenzione = val;
+}
+
+function updateApptRow(dIdx, aIdx) {
+    syncCalendarDay(parseInt(dIdx));
+}
+
+function addVarAppt(dIdx) {
+    if (!varAppts[dIdx]) varAppts[dIdx] = [];
+    varAppts[dIdx].push({ orario: '', descrizione: '' });
+    buildCalendarForm(); // rebuild form section only
+    syncCalendarDay(dIdx);
+}
+
+function removeVarAppt(dIdx, vi) {
+    if (varAppts[dIdx]) varAppts[dIdx].splice(vi, 1);
+    buildCalendarForm();
+    syncCalendarDay(dIdx);
+}
+
+function syncVarRow(dIdx) {
+    syncCalendarDay(dIdx);
+}
+
+/* ════════════════════════════════════════════════════════
+   RENDER PAGINA 1 (Letture)
+   ════════════════════════════════════════════════════════ */
+function renderPage1() {
+    const page = document.getElementById('page-1');
+
+    const dateLabel = currentSunday
+        ? `${currentSunday.getDate()} ${MESI_UP[currentSunday.getMonth()]} ${currentSunday.getFullYear()}${liturgyData?.celebrazione ? ' — ' + liturgyData.celebrazione.toUpperCase() : ''}`
+        : 'DATA — DOMENICA';
+
+    // Fallback per JSON senza campo 'tipo' (generati prima dell'aggiornamento scraper)
+    const rd = {};
+    const letture = liturgyData?.letture || [];
+    const TIPO_FALLBACK_5 = ['prima_lettura','salmo','seconda_lettura','canto_vangelo','vangelo'];
+    const TIPO_FALLBACK_4 = ['prima_lettura','salmo','canto_vangelo','vangelo'];
+    const TIPO_FALLBACK_3 = ['prima_lettura','salmo','vangelo'];
+    letture.forEach((l, i) => {
+        const tipo = l.tipo || (
+            letture.length >= 5 ? TIPO_FALLBACK_5[i] :
+            letture.length === 4 ? TIPO_FALLBACK_4[i] :
+            TIPO_FALLBACK_3[i] || 'lettura'
+        );
+        rd[tipo] = { ...l, tipo };
+    });
+
+    function readingRef(tipo, defaultText) {
+        const l = rd[tipo];
+        if (!l) return defaultText;
+        return `(${esc(l.sigla)})`;
+    }
+
+    function readingIntro(tipo) {
+        const l = rd[tipo];
+        if (!l) return '';
+        const introMap = {
+            prima_lettura:   'Dalla lettura',
+            seconda_lettura: 'Dalla lettura',
+            salmo:           'Dal Salmo',
+            canto_vangelo:   '',
+            vangelo:         'Dal Vangelo secondo',
+        };
+        return introMap[tipo] || '';
+    }
+
+    function readingText(tipo) {
+        const l = rd[tipo];
+        if (!l || !l.testo) return '';
+        return l.testo.split('\n').filter(Boolean).map(p => `<p>${esc(p)}</p>`).join('');
+    }
+
+    function ritornello(tipo) {
+        const l = rd[tipo];
+        if (!l || !l.ritornello) return '';
+        return esc(l.ritornello);
+    }
+
+    const hasSeconda = !!(rd.seconda_lettura);
+    const pfTesto    = buildPFHtml(document.getElementById('pf-input')?.value || '');
+
+    page.innerHTML = `
+<header class="fl-header">
+  <div class="fl-header-left">
+    <p class="fl-parish-name">PARROCCHIA SANTA CHIARA</p>
+    <p class="fl-parish-sub">già Ss. Agnese e Paolo</p>
+    <p class="fl-parish-addr">Via Pedagogo S. Chiara, 73 · 76125 Trani (BT)</p>
+    <p class="fl-parish-addr">telfax: 0883582861</p>
+    <p class="fl-parish-addr">mail: santachiara@arcidiocesitrani.it</p>
+  </div>
+  <div class="fl-header-center">
+    <img src="assets/logo.png" alt="Logo" class="fl-logo">
+  </div>
+  <div class="fl-header-right">
+    <div class="fl-filiale">
+      <p class="fl-filiale-name">CHIESA DI SANT' AGOSTINO</p>
+      <p class="fl-filiale-addr">P. za Gradenigo</p>
+    </div>
+    <div class="fl-filiale">
+      <p class="fl-filiale-name">CHIESA DI SAN MICHELE</p>
+      <p class="fl-filiale-addr">P.za Garibaldi</p>
+    </div>
+  </div>
+</header>
+
+<div class="fl-content">
+  <div class="fl-date-label" contenteditable="true" data-ph="DATA — DOMENICA">${esc(dateLabel)}</div>
+
+  <div class="fl-columns">
+    <div class="fl-col-left">
+
+      <section class="fl-section">
+        <h2 class="fl-section-title">PRIMA LETTURA</h2>
+        <p class="fl-section-ref" contenteditable="true"
+           data-ph="Riferimento Prima Lettura…">${rd.prima_lettura ? esc(readingIntro('prima_lettura')) + ' ' + readingRef('prima_lettura','') : ''}</p>
+        <div class="fl-section-text" contenteditable="true"
+             data-ph="Testo della Prima Lettura…">${readingText('prima_lettura')}</div>
+        <p class="fl-parola">Parola di Dio.</p>
+      </section>
+
+      <section class="fl-section">
+        <h2 class="fl-section-title">SALMO RESPONSORIALE
+          <span class="fl-section-ref-inline" contenteditable="true"
+                data-ph="(Sal…)">${rd.salmo ? '(' + esc(rd.salmo.sigla) + ')' : ''}</span>
+        </h2>
+        <p class="fl-ritornello" contenteditable="true"
+           data-ph="R. Ritornello del salmo…">${ritornello('salmo')}</p>
+        <div class="fl-section-text" contenteditable="true"
+             data-ph="Versi del Salmo…">${readingText('salmo')}</div>
+      </section>
+
+      ${hasSeconda ? `
+      <section class="fl-section">
+        <h2 class="fl-section-title">SECONDA LETTURA</h2>
+        <p class="fl-section-ref" contenteditable="true"
+           data-ph="Riferimento Seconda Lettura…">${esc(readingIntro('seconda_lettura'))} ${readingRef('seconda_lettura','')}</p>
+        <div class="fl-section-text" contenteditable="true"
+             data-ph="Testo della Seconda Lettura…">${readingText('seconda_lettura')}</div>
+        <p class="fl-parola">Parola di Dio.</p>
+      </section>` : ''}
+
+      <section class="fl-section">
+        <h2 class="fl-section-title">CANTO DAL VANGELO
+          <span class="fl-section-ref-inline" contenteditable="true"
+                data-ph="(Gv…)">${rd.canto_vangelo ? '(' + esc(rd.canto_vangelo.sigla) + ')' : ''}</span>
+        </h2>
+        <p class="fl-alleluia">Alleluia, alleluia.</p>
+        <div class="fl-section-text" contenteditable="true"
+             data-ph="Verso dell'Alleluia…">${readingText('canto_vangelo')}</div>
+        <p class="fl-alleluia">Alleluia.</p>
+      </section>
+
+    </div><!-- /col-left -->
+
+    <div class="fl-col-right">
+
+      <section class="fl-section">
+        <h2 class="fl-section-title">VANGELO</h2>
+        <p class="fl-section-ref" contenteditable="true"
+           data-ph="Dal Vangelo secondo… (Gv…)">${rd.vangelo ? 'Dal Vangelo ' + readingRef('vangelo','') : ''}</p>
+        <div class="fl-section-text" contenteditable="true"
+             data-ph="Testo del Vangelo…">${readingText('vangelo')}</div>
+        <p class="fl-parola">Parola del Signore.</p>
+      </section>
+
+      <section class="fl-section">
+        <h2 class="fl-section-title">PREGHIERA DEI FEDELI.</h2>
+        <div class="fl-section-text" id="ce-preghiera" contenteditable="true"
+             data-ph="Inserire la Preghiera dei Fedeli…">${pfTesto}</div>
+      </section>
+
+    </div><!-- /col-right -->
+  </div><!-- /fl-columns -->
+</div><!-- /fl-content -->`;
+}
+
+function refreshPage1PF() {
+    const ce = document.getElementById('ce-preghiera');
+    if (!ce) return;
+    const html = buildPFHtml(document.getElementById('pf-input').value);
+    if (html) ce.innerHTML = html;
+}
+
+function buildPFHtml(text) {
+    if (!text.trim()) return '';
+    return text.split('\n').filter(Boolean).map(line => {
+        const escaped = esc(line);
+        if (line.trim().toLowerCase() === 'preghiamo.') {
+            return `<p><em><strong>Preghiamo.</strong></em></p>`;
+        }
+        return `<p>${escaped}</p>`;
+    }).join('');
+}
+
+/* ════════════════════════════════════════════════════════
+   RENDER PAGINA 2 (Calendario)
+   ════════════════════════════════════════════════════════ */
+function renderPage2() {
+    const page = document.getElementById('page-2');
+    if (!currentSunday) {
+        page.innerHTML = '<p style="text-align:center;padding:10mm;color:#999;font-style:italic;">Seleziona una domenica per generare il calendario.</p>';
+        return;
+    }
+
+    let rows = '';
+    for (let i = 0; i < 8; i++) {
+        const day    = addDays(currentSunday, i);
+        const chiave = GIORNI_CHIAVE[day.getDay()];
+        rows += buildCalendarRow(i, day, chiave);
+    }
+
+    const footerHtml = buildFooterHtml();
+
+    page.innerHTML = `
+<h1 class="fl-cal-title">Calendario Liturgico Parrocchiale</h1>
+<table class="fl-cal-table" id="fl-cal-table">
+  <tbody>${rows}</tbody>
+</table>
+${footerHtml}`;
+}
+
+function buildCalendarRow(dIdx, day, chiave) {
+    const appsFissi = getAppuntamentiFissi(chiave);
+    const vars      = varAppts[dIdx] || [];
+
+    // Nome giorno + data
+    let dayName = `<span class="fl-cal-day-name">${GIORNI[day.getDay()].toUpperCase()}</span>`;
+    dayName    += `<span class="fl-cal-day-date">${day.getDate()} ${MESI_UP[day.getMonth()]}</span>`;
+
+    // Celebrazione liturgica (solo domenica)
+    if (day.getDay() === 0 && liturgyData) {
+        const cel = dIdx === 0
+            ? (liturgyData.celebrazione || '')
+            : '';  // domenica successiva: non abbiamo il JSON
+        if (cel) dayName += `<span class="fl-cal-day-liturgy">${esc(cel)}</span>`;
+    }
+
+    // Appuntamenti
+    let appts = '';
+    appsFissi.forEach((a, ai) => {
+        const key  = `${dIdx}-${ai}`;
+        const ov   = apptOverrides[key] || {};
+        const sosp = ov.sospeso !== undefined ? ov.sospeso : (a.sospeso || false);
+        if (sosp) return;
+
+        const intenzione = ov.intenzione !== undefined ? ov.intenzione : (a.intenzione || '');
+        const intHtml    = intenzione ? ` <em>per ${esc(intenzione)}</em>` : '';
+
+        let parts = [];
+        if (a.chiesa) parts.push(`(${esc(a.chiesa)})`);
+        const churchPre = parts.join(' ');
+
+        appts += `<span class="fl-appt">`;
+        if (churchPre) appts += `<span class="fl-appt-church">${churchPre}</span> - `;
+        if (a.orario) appts += `<span class="fl-appt-time">${esc(a.orario)}</span> `;
+        appts += `${esc(a.descrizione)}${intHtml}`;
+        appts += `</span>`;
+    });
+
+    vars.forEach(v => {
+        if (!v.descrizione && !v.orario) return;
+        appts += `<span class="fl-appt">`;
+        if (v.orario) appts += `<span class="fl-appt-time">${esc(v.orario)}</span> `;
+        if (v.descrizione) appts += esc(v.descrizione);
+        appts += `</span>`;
+    });
+
+    if (!appts) appts = `<span style="color:#bbb;font-style:italic;">—</span>`;
+
+    return `<tr>
+  <td class="fl-cal-day-cell">${dayName}</td>
+  <td class="fl-cal-appts-cell" id="appts-day-${dIdx}">${appts}</td>
+</tr>`;
+}
+
+function syncCalendarDay(dIdx) {
+    const cell = document.getElementById(`appts-day-${dIdx}`);
+    if (!cell || !currentSunday) return;
+    const day    = addDays(currentSunday, dIdx);
+    const chiave = GIORNI_CHIAVE[day.getDay()];
+    const row    = buildCalendarRow(dIdx, day, chiave);
+    // Extract td content only
+    const tmp = document.createElement('table');
+    tmp.innerHTML = `<tbody>${row}</tbody>`;
+    const newCell = tmp.querySelector('.fl-cal-appts-cell');
+    if (newCell) cell.innerHTML = newCell.innerHTML;
+}
+
+function buildFooterHtml() {
+    const note = appFissi?.note_permanenti || {};
+    const avvisi = esc(document.getElementById('avvisi-input')?.value || '');
+
+    return `
+<div class="fl-cal-footer">
+  <div class="fl-confessioni">
+    <strong>TEMPO PER LE CONFESSIONI</strong>
+    ${note.confessioni ? `<span>${esc(note.confessioni)}</span>` : ''}
+  </div>
+  <div class="fl-avvisi" contenteditable="true"
+       data-ph="Avvisi speciali…">${avvisi}</div>
+  <div class="fl-whatsapp">
+    ${note.whatsapp_community ? `<span>${esc(note.whatsapp_community)}</span>` : ''}
+  </div>
+</div>`;
+}
+
+function refreshPage2Footer() {
+    const footer = document.querySelector('#page-2 .fl-cal-footer');
+    if (!footer) return;
+    const avvisiCe = footer.querySelector('.fl-avvisi');
+    if (avvisiCe) avvisiCe.textContent = document.getElementById('avvisi-input').value;
+}
+
+/* ════════════════════════════════════════════════════════
+   AGGIORNA ANTEPRIMA (pulsante)
+   ════════════════════════════════════════════════════════ */
+function aggiornaAnteprima() {
+    renderPage1();
+    renderPage2();
+}
+
+/* ════════════════════════════════════════════════════════
+   UTIL
+   ════════════════════════════════════════════════════════ */
+function esc(s) {
+    if (!s) return '';
+    return String(s)
+        .replace(/&/g,'&amp;')
+        .replace(/</g,'&lt;')
+        .replace(/>/g,'&gt;')
+        .replace(/"/g,'&quot;');
+}
+</script>
+</body>
+</html>
