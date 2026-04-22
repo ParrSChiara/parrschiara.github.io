@@ -8,49 +8,13 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/main.css">
     <style>
-        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-        :root {
-            --cream:      #FAF7F2;
-            --cream-mid:  #F0E9DF;
-            --cream-dark: #E3D8C8;
-            --gold:       #A87C28;
-            --burgundy:   #6B2035;
-            --burg-dark:  #4E1626;
-            --text:       #1C1007;
-            --muted:      #8A7660;
-            --white:      #FFFEFB;
-        }
-
         body {
-            font-family: 'Cormorant Garamond', Georgia, serif;
-            background-color: var(--cream);
-            min-height: 100dvh;
-            display: flex;
             align-items: flex-start;
             justify-content: center;
+            display: flex;
             padding: 2.5rem 1.25rem 4rem;
-        }
-
-        body::before {
-            content: '';
-            position: fixed;
-            inset: 0;
-            background:
-                radial-gradient(ellipse 70% 50% at 15% 80%, rgba(168,124,40,.06) 0%, transparent 70%),
-                radial-gradient(ellipse 60% 40% at 85% 15%, rgba(107,32,53,.05) 0%, transparent 70%);
-            pointer-events: none;
-            z-index: 0;
-        }
-
-        body::after {
-            content: '';
-            position: fixed;
-            inset: 0;
-            background-image: url("data:image/svg+xml,%3Csvg width='48' height='48' viewBox='0 0 48 48' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M24 8v32M8 24h32' stroke='%23A87C28' stroke-width='0.6' stroke-opacity='0.07'/%3E%3Ccircle cx='24' cy='24' r='3' fill='none' stroke='%23A87C28' stroke-width='0.5' stroke-opacity='0.06'/%3E%3C/svg%3E");
-            pointer-events: none;
-            z-index: 0;
         }
 
         .container {
@@ -58,142 +22,32 @@
             z-index: 1;
             width: 100%;
             max-width: 560px;
-            animation: riseIn .8s cubic-bezier(.22,.61,.36,1) both;
         }
 
-        /* ── HEADER ── */
+        /* ── Intestazione pagina ── */
         .page-header {
             text-align: center;
             margin-bottom: 2rem;
         }
-
-        .page-header a {
-            display: inline-flex;
-            align-items: center;
-            gap: .4rem;
-            text-decoration: none;
-            color: var(--burgundy);
-            font-family: 'Cinzel', serif;
-            font-size: .52rem;
-            letter-spacing: .2em;
-            text-transform: uppercase;
-            margin-bottom: 1.5rem;
-        }
-        .page-header a svg {
-            width: 11px; height: 11px;
-            stroke: currentColor; fill: none;
-            stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
-        }
-        .page-header a:hover { text-decoration: underline; }
-
-        h1 {
-            font-family: 'Cinzel', serif;
-            font-size: 1.1rem;
+        .page-header h1 {
+            font-family: var(--font-display);
+            font-size: 1.15rem;
             font-weight: 500;
             letter-spacing: .06em;
             color: var(--text);
-            margin-bottom: .4rem;
+            margin: .9rem 0 .35rem;
         }
-
-        .subtitle {
+        .page-header .subtitle {
             font-style: italic;
             color: var(--muted);
             font-size: 1rem;
-        }
-
-        .ornament {
-            display: flex;
-            align-items: center;
-            gap: .7rem;
-            justify-content: center;
-            margin: 1.1rem 0 1.8rem;
-        }
-        .ornament::before, .ornament::after {
-            content: '';
-            width: 56px; height: 1px;
-            background: linear-gradient(to var(--side, right), var(--cream-dark), transparent);
-        }
-        .ornament::before { --side: right; }
-        .ornament::after  { --side: left; }
-        .ornament span { font-size: .55rem; color: var(--gold); }
-
-        /* ── CARD SECTIONS ── */
-        .card {
-            background: var(--white);
-            border: 1px solid var(--cream-dark);
-            padding: 1.5rem;
             margin-bottom: 1rem;
-            position: relative;
-        }
-        .card::after {
-            content: '';
-            position: absolute;
-            top: 0; right: 0;
-            width: 20px; height: 20px;
-            border-top: 1px solid var(--cream-dark);
-            border-right: 1px solid var(--cream-dark);
         }
 
-        .card-title {
-            font-family: 'Cinzel', serif;
-            font-size: .56rem;
-            letter-spacing: .28em;
-            text-transform: uppercase;
-            color: var(--muted);
-            margin-bottom: 1.1rem;
-        }
+        /* ── Sezione card ── */
+        .card { margin-bottom: 1rem; }
 
-        /* ── FORM ── */
-        .form-group { margin-bottom: 1.1rem; }
-        .form-group:last-child { margin-bottom: 0; }
-
-        label {
-            display: block;
-            font-family: 'Cinzel', serif;
-            font-size: .55rem;
-            letter-spacing: .18em;
-            text-transform: uppercase;
-            color: var(--text);
-            margin-bottom: .4rem;
-        }
-
-        input[type="text"],
-        input[type="password"] {
-            width: 100%;
-            padding: .7rem .8rem;
-            border: 1px solid var(--cream-dark);
-            background: var(--cream);
-            font-family: 'Cormorant Garamond', Georgia, serif;
-            font-size: 1rem;
-            color: var(--text);
-            outline: none;
-            transition: border-color .18s ease;
-            border-radius: 0;
-            -webkit-appearance: none;
-        }
-        input[type="text"]:focus,
-        input[type="password"]:focus {
-            border-color: var(--burgundy);
-            background: var(--white);
-        }
-        input[readonly] {
-            color: var(--muted);
-            cursor: default;
-        }
-
-        .hint {
-            font-style: italic;
-            font-size: .85rem;
-            color: var(--muted);
-            margin-top: .3rem;
-        }
-        .hint a {
-            color: var(--burgundy);
-            text-decoration: none;
-        }
-        .hint a:hover { text-decoration: underline; }
-
-        /* ── UPLOAD AREA ── */
+        /* ── Area upload ── */
         .upload-area {
             border: 1px dashed var(--burgundy);
             padding: 2.5rem 1.5rem;
@@ -201,7 +55,6 @@
             cursor: pointer;
             transition: all .2s ease;
             margin-bottom: 1rem;
-            background: transparent;
         }
         .upload-area:hover, .upload-area.dragover {
             background: rgba(107,32,53,.04);
@@ -212,187 +65,87 @@
             cursor: not-allowed;
             border-color: var(--cream-dark);
         }
-
         .upload-icon {
-            font-size: 2rem;
-            margin-bottom: .75rem;
+            font-size: 2.2rem;
             color: var(--muted);
+            margin-bottom: .75rem;
             line-height: 1;
+            font-family: var(--font-display);
         }
         .upload-text {
-            font-family: 'Cinzel', serif;
-            font-size: .65rem;
-            letter-spacing: .15em;
+            font-family: var(--font-display);
+            font-size: .85rem;
+            letter-spacing: .13em;
             text-transform: uppercase;
             color: var(--burgundy);
-            margin-bottom: .3rem;
+            margin-bottom: .35rem;
         }
         .upload-hint {
+            font-family: var(--font-body);
             font-style: italic;
-            font-size: .88rem;
+            font-size: .95rem;
             color: var(--muted);
         }
-
         input[type="file"] { display: none; }
 
-        /* ── FILE SELECTED ── */
+        /* ── File selezionato ── */
         .file-selected {
             background: var(--cream-mid);
             border: 1px solid var(--cream-dark);
-            padding: .9rem 1rem;
+            padding: .9rem 1.1rem;
             margin-bottom: 1rem;
             display: none;
-            font-size: .95rem;
-            color: var(--text);
         }
         .file-selected.show { display: block; }
         .file-selected strong {
-            font-family: 'Cinzel', serif;
-            font-size: .55rem;
+            font-family: var(--font-display);
+            font-size: .6rem;
             letter-spacing: .15em;
             text-transform: uppercase;
             color: var(--muted);
             display: block;
-            margin-bottom: .2rem;
+            margin-bottom: .25rem;
         }
+        .file-selected span { font-size: 1rem; }
 
-        /* ── STATUS ── */
-        #statusMessage {
-            padding: .85rem 1rem;
-            margin-bottom: 1rem;
-            font-size: .95rem;
-            display: none;
-            border-left: 3px solid;
-        }
-        #statusMessage.success {
-            display: block;
-            background: rgba(61,122,80,.08);
-            border-color: #3D7A50;
-            color: #2A5538;
-        }
-        #statusMessage.error {
-            display: block;
-            background: rgba(166,32,32,.08);
-            border-color: #A62020;
-            color: #7A1010;
-        }
-        #statusMessage.info {
-            display: block;
-            background: rgba(168,124,40,.08);
-            border-color: var(--gold);
-            color: #7A5A10;
-        }
-
-        /* ── LOADING ── */
-        .loading {
-            display: none;
-            text-align: center;
-            padding: 1.2rem;
-        }
-        .loading.show { display: block; }
-        .spinner {
-            width: 28px; height: 28px;
-            border: 2px solid var(--cream-dark);
-            border-top-color: var(--burgundy);
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin: 0 auto .7rem;
-        }
-        .loading p {
-            font-family: 'Cinzel', serif;
-            font-size: .55rem;
-            letter-spacing: .2em;
-            text-transform: uppercase;
-            color: var(--muted);
-        }
-        @keyframes spin { to { transform: rotate(360deg); } }
-
-        /* ── BUTTONS ── */
-        .btn {
-            display: block;
-            width: 100%;
-            padding: .95rem 1.5rem;
-            font-family: 'Cinzel', serif;
-            font-size: .65rem;
-            font-weight: 600;
-            letter-spacing: .2em;
-            text-transform: uppercase;
-            border: none;
-            cursor: pointer;
-            text-align: center;
-            transition: all .2s ease;
-            margin-bottom: .6rem;
-        }
-        .btn:last-child { margin-bottom: 0; }
-
-        .btn-filled {
-            background: var(--burgundy);
-            color: var(--cream);
-        }
-        .btn-filled:hover:not(:disabled) {
-            background: var(--burg-dark);
-            box-shadow: 0 4px 16px rgba(107,32,53,.25);
-            transform: translateY(-1px);
-        }
+        /* ── Bottoni upload ── */
         .btn-filled:disabled {
             background: var(--cream-dark);
             color: var(--muted);
             cursor: not-allowed;
-        }
-
-        .btn-outlined {
-            background: transparent;
-            color: var(--burgundy);
-            border: 1px solid var(--burgundy);
-        }
-        .btn-outlined:hover:not(:disabled) {
-            background: var(--burgundy);
-            color: var(--cream);
-            transform: translateY(-1px);
-        }
-        .btn-outlined:disabled {
-            border-color: var(--cream-dark);
-            color: var(--muted);
-            cursor: not-allowed;
-        }
-
-        @keyframes riseIn {
-            from { opacity: 0; transform: translateY(18px); }
-            to   { opacity: 1; transform: translateY(0); }
+            transform: none;
+            box-shadow: none;
         }
     </style>
 </head>
 <body>
-<div class="container">
+<div class="container anim-1">
 
     <div class="page-header">
-        <a href="index.html">
+        <a href="index.html" class="back-link">
             <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
             Torna alla home
         </a>
         <h1>Foglio Settimanale</h1>
         <p class="subtitle">Carica e pubblica su GitHub</p>
-        <div class="ornament"><span>✦</span></div>
+        <div class="ornament"><span class="ornament-glyph">✦</span></div>
     </div>
 
-    <div id="statusMessage"></div>
+    <div id="statusMessage" class="status-msg"></div>
 
     <!-- Configurazione GitHub -->
-    <div class="card">
-        <p class="card-title">Configurazione GitHub</p>
+    <div class="card" style="--card-accent: var(--gold);">
+        <p class="card-eyebrow">Configurazione GitHub</p>
 
         <div class="form-group">
             <label for="repoOwner">Username / Organizzazione</label>
             <input type="text" id="repoOwner" placeholder="es: tuousername">
             <p class="hint">Il proprietario del repository</p>
         </div>
-
         <div class="form-group">
             <label for="repoName">Nome Repository</label>
             <input type="text" id="repoName" placeholder="es: parrschiara.github.io">
-            <p class="hint">Il nome del repository</p>
         </div>
-
         <div class="form-group">
             <label for="githubToken">Personal Access Token</label>
             <input type="password" id="githubToken" placeholder="ghp_…">
@@ -400,12 +153,10 @@
                 <a href="https://github.com/settings/tokens/new?scopes=repo" target="_blank">Crea un token con permessi "repo"</a>
             </p>
         </div>
-
         <div class="form-group">
             <label for="branch">Branch</label>
-            <input type="text" id="branch" placeholder="main" value="main">
+            <input type="text" id="branch" value="main">
         </div>
-
         <div class="form-group">
             <label for="filePath">Percorso file</label>
             <input type="text" id="filePath" value="assets/pdf/foglio_settimanale.pdf" readonly>
@@ -415,8 +166,8 @@
     </div>
 
     <!-- Messaggio commit -->
-    <div class="card" id="commitSection" style="display:none;">
-        <p class="card-title">Messaggio Commit</p>
+    <div class="card" id="commitSection" style="display:none; --card-accent: var(--gold);">
+        <p class="card-eyebrow">Messaggio Commit</p>
         <div class="form-group">
             <label for="commitMessage">Messaggio personalizzato</label>
             <input type="text" id="commitMessage" placeholder="es: Aggiornamento settimanale">
@@ -424,7 +175,7 @@
         </div>
     </div>
 
-    <!-- Upload area -->
+    <!-- Area upload -->
     <div class="upload-area" id="uploadArea">
         <div class="upload-icon">↑</div>
         <p class="upload-text">Clicca o trascina il PDF</p>
@@ -437,37 +188,34 @@
         <span id="selectedFileName"></span> — <span id="selectedFileSize"></span>
     </div>
 
-    <div class="loading" id="loading">
+    <div class="spinner-wrap" id="loading">
         <div class="spinner"></div>
-        <p>Caricamento su GitHub…</p>
+        <p class="spinner-label">Caricamento su GitHub…</p>
     </div>
 
     <button class="btn btn-filled" id="uploadBtn" disabled>Carica su GitHub</button>
-    <button class="btn btn-outlined" id="viewOnGithubBtn" style="display:none;">Visualizza su GitHub</button>
+    <button class="btn btn-outlined" id="viewOnGithubBtn" style="display:none; margin-top: .65rem;">Visualizza su GitHub</button>
 
 </div>
 <script>
-    const uploadArea     = document.getElementById('uploadArea');
-    const fileInput      = document.getElementById('fileInput');
-    const uploadBtn      = document.getElementById('uploadBtn');
-    const viewOnGithubBtn = document.getElementById('viewOnGithubBtn');
-    const saveConfigBtn  = document.getElementById('saveConfigBtn');
-    const statusMessage  = document.getElementById('statusMessage');
-    const loading        = document.getElementById('loading');
-    const fileSelected   = document.getElementById('fileSelected');
+    const uploadArea       = document.getElementById('uploadArea');
+    const fileInput        = document.getElementById('fileInput');
+    const uploadBtn        = document.getElementById('uploadBtn');
+    const viewOnGithubBtn  = document.getElementById('viewOnGithubBtn');
+    const saveConfigBtn    = document.getElementById('saveConfigBtn');
+    const statusMessage    = document.getElementById('statusMessage');
+    const loading          = document.getElementById('loading');
+    const fileSelected     = document.getElementById('fileSelected');
     const selectedFileName = document.getElementById('selectedFileName');
     const selectedFileSize = document.getElementById('selectedFileSize');
-
-    const repoOwnerInput    = document.getElementById('repoOwner');
-    const repoNameInput     = document.getElementById('repoName');
-    const githubTokenInput  = document.getElementById('githubToken');
-    const branchInput       = document.getElementById('branch');
-    const filePathInput     = document.getElementById('filePath');
+    const repoOwnerInput   = document.getElementById('repoOwner');
+    const repoNameInput    = document.getElementById('repoName');
+    const githubTokenInput = document.getElementById('githubToken');
+    const branchInput      = document.getElementById('branch');
     const commitMessageInput = document.getElementById('commitMessage');
-    const commitSection     = document.getElementById('commitSection');
+    const commitSection    = document.getElementById('commitSection');
 
     const FILE_PATH = 'assets/pdf/foglio_settimanale.pdf';
-
     let selectedFile = null;
     let config = {};
 
@@ -478,7 +226,7 @@
             owner:  repoOwnerInput.value.trim(),
             repo:   repoNameInput.value.trim(),
             token:  githubTokenInput.value.trim(),
-            branch: branchInput.value.trim() || 'main'
+            branch: branchInput.value.trim() || 'main',
         };
         if (!config.owner || !config.repo || !config.token) {
             showMessage('Compila tutti i campi obbligatori', 'error');
@@ -493,15 +241,14 @@
         if (!isConfigValid()) { showMessage('Prima configura i dati di GitHub', 'error'); return; }
         fileInput.click();
     });
+    fileInput.addEventListener('change', e => handleFileSelect(e.target.files[0]));
 
-    fileInput.addEventListener('change', (e) => handleFileSelect(e.target.files[0]));
-
-    uploadArea.addEventListener('dragover', (e) => {
+    uploadArea.addEventListener('dragover', e => {
         e.preventDefault();
         if (isConfigValid()) uploadArea.classList.add('dragover');
     });
     uploadArea.addEventListener('dragleave', () => uploadArea.classList.remove('dragover'));
-    uploadArea.addEventListener('drop', (e) => {
+    uploadArea.addEventListener('drop', e => {
         e.preventDefault();
         uploadArea.classList.remove('dragover');
         if (!isConfigValid()) { showMessage('Prima configura i dati di GitHub', 'error'); return; }
@@ -509,9 +256,9 @@
     });
 
     uploadBtn.addEventListener('click', uploadToGitHub);
-    viewOnGithubBtn.addEventListener('click', () => {
-        window.open(`https://github.com/${config.owner}/${config.repo}/blob/${config.branch}/${FILE_PATH}`, '_blank');
-    });
+    viewOnGithubBtn.addEventListener('click', () =>
+        window.open(`https://github.com/${config.owner}/${config.repo}/blob/${config.branch}/${FILE_PATH}`, '_blank')
+    );
 
     function loadConfig() {
         const saved = localStorage.getItem('github_config');
@@ -546,27 +293,27 @@
 
     async function uploadToGitHub() {
         if (!selectedFile || !isConfigValid()) return;
-
         loading.classList.add('show');
         uploadBtn.disabled = true;
-        statusMessage.style.display = 'none';
+        clearMessage();
 
         try {
             const base64Content = await fileToBase64(selectedFile);
-
             let sha = null;
             try {
                 const check = await fetch(
                     `https://api.github.com/repos/${config.owner}/${config.repo}/contents/${FILE_PATH}?ref=${config.branch}`,
-                    { headers: { 'Authorization': `token ${config.token}`, 'Accept': 'application/vnd.github.v3+json' } }
+                    { headers: { Authorization: `token ${config.token}`, Accept: 'application/vnd.github.v3+json' } }
                 );
                 if (check.ok) sha = (await check.json()).sha;
             } catch (_) {}
 
-            const commitMsg = commitMessageInput.value.trim() ||
-                `Aggiornamento foglio_settimanale.pdf - ${new Date().toLocaleString('it-IT')}`;
-
-            const payload = { message: commitMsg, content: base64Content, branch: config.branch };
+            const payload = {
+                message: commitMessageInput.value.trim() ||
+                    `Aggiornamento foglio_settimanale.pdf - ${new Date().toLocaleString('it-IT')}`,
+                content: base64Content,
+                branch: config.branch,
+            };
             if (sha) payload.sha = sha;
 
             const res = await fetch(
@@ -574,18 +321,14 @@
                 {
                     method: 'PUT',
                     headers: {
-                        'Authorization': `token ${config.token}`,
-                        'Accept': 'application/vnd.github.v3+json',
-                        'Content-Type': 'application/json'
+                        Authorization: `token ${config.token}`,
+                        Accept: 'application/vnd.github.v3+json',
+                        'Content-Type': 'application/json',
                     },
-                    body: JSON.stringify(payload)
+                    body: JSON.stringify(payload),
                 }
             );
-
-            if (!res.ok) {
-                const err = await res.json();
-                throw new Error(err.message || 'Errore durante il caricamento');
-            }
+            if (!res.ok) throw new Error((await res.json()).message || 'Errore durante il caricamento');
 
             showMessage('File caricato con successo su GitHub.', 'success');
             viewOnGithubBtn.style.display = 'block';
@@ -594,9 +337,8 @@
             fileSelected.classList.remove('show');
             commitMessageInput.value = '';
             commitSection.style.display = 'none';
-
-        } catch (error) {
-            showMessage(`Errore: ${error.message}`, 'error');
+        } catch (err) {
+            showMessage(`Errore: ${err.message}`, 'error');
         } finally {
             loading.classList.remove('show');
             checkUploadReady();
@@ -612,13 +354,14 @@
         });
     }
 
-    function showMessage(message, type) {
-        statusMessage.textContent = message;
-        statusMessage.className = `status-message ${type}`;
-        statusMessage.style.display = 'block';
-        if (type !== 'success') {
-            setTimeout(() => { statusMessage.style.display = 'none'; }, 5000);
-        }
+    function showMessage(msg, type) {
+        statusMessage.textContent = msg;
+        statusMessage.className = 'status-msg show-' + type;
+        if (type !== 'success') setTimeout(clearMessage, 5000);
+    }
+
+    function clearMessage() {
+        statusMessage.className = 'status-msg';
     }
 </script>
 </body>

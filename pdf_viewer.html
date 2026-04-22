@@ -1,243 +1,143 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Visualizzatore PDF — Parrocchia Santa Chiara</title>
-  <link rel="icon" href="assets/logo/favicon.ico" type="image/x-icon">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
-  <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizzatore PDF — Parrocchia Santa Chiara</title>
+    <link rel="icon" href="assets/logo/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 0 0 72px;
+        }
 
-    :root {
-      --cream:      #FAF7F2;
-      --cream-dark: #E3D8C8;
-      --gold:       #A87C28;
-      --burgundy:   #6B2035;
-      --burg-dark:  #4E1626;
-      --text:       #1C1007;
-      --muted:      #8A7660;
-      --white:      #FFFEFB;
-    }
+        /* ── Visualizzatore PDF ── */
+        #pdf-viewer {
+            position: relative;
+            z-index: 1;
+            margin-top: 56px; /* altezza topbar */
+            width: 100%;
+            max-width: 680px;
+            padding: 1.25rem 1rem 1rem;
+        }
 
-    body {
-      font-family: 'Cormorant Garamond', Georgia, serif;
-      background-color: var(--cream);
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      min-height: 100dvh;
-      padding: 0 0 72px;
-    }
+        .pdf-page {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            margin-bottom: .75rem;
+        }
+        .pdf-page canvas {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid var(--cream-dark);
+            box-shadow: 0 2px 12px rgba(28,16,7,.08);
+        }
 
-    body::before {
-      content: '';
-      position: fixed;
-      inset: 0;
-      background:
-        radial-gradient(ellipse 70% 50% at 15% 80%, rgba(168,124,40,.06) 0%, transparent 70%),
-        radial-gradient(ellipse 60% 40% at 85% 15%, rgba(107,32,53,.05) 0%, transparent 70%);
-      pointer-events: none;
-      z-index: 0;
-    }
+        .pdf-loading {
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+        .pdf-loading p {
+            font-family: var(--font-display);
+            font-size: .7rem;
+            letter-spacing: .22em;
+            text-transform: uppercase;
+            color: var(--muted);
+            animation: pulse 1.6s ease infinite;
+        }
 
-    body::after {
-      content: '';
-      position: fixed;
-      inset: 0;
-      background-image: url("data:image/svg+xml,%3Csvg width='48' height='48' viewBox='0 0 48 48' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M24 8v32M8 24h32' stroke='%23A87C28' stroke-width='0.6' stroke-opacity='0.07'/%3E%3Ccircle cx='24' cy='24' r='3' fill='none' stroke='%23A87C28' stroke-width='0.5' stroke-opacity='0.06'/%3E%3C/svg%3E");
-      pointer-events: none;
-      z-index: 0;
-    }
-
-    /* ── TOP BAR ── */
-    .topbar {
-      position: fixed;
-      top: 0; left: 0; right: 0;
-      z-index: 100;
-      height: 52px;
-      background: var(--white);
-      border-bottom: 1px solid var(--cream-dark);
-      display: flex;
-      align-items: center;
-      padding: 0 1rem;
-      gap: 1rem;
-      box-shadow: 0 1px 8px rgba(28,16,7,.06);
-    }
-
-    .back-btn {
-      display: flex;
-      align-items: center;
-      gap: .5rem;
-      text-decoration: none;
-      color: var(--burgundy);
-      font-family: 'Cinzel', serif;
-      font-size: .55rem;
-      letter-spacing: .2em;
-      text-transform: uppercase;
-      padding: .35rem .7rem;
-      border: 1px solid var(--burgundy);
-      transition: all .2s ease;
-      flex-shrink: 0;
-    }
-    .back-btn:hover {
-      background: var(--burgundy);
-      color: var(--white);
-    }
-    .back-btn svg {
-      width: 12px; height: 12px;
-      stroke: currentColor;
-      fill: none;
-      stroke-width: 2;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-      flex-shrink: 0;
-    }
-
-    .topbar-title {
-      font-family: 'Cinzel', serif;
-      font-size: .6rem;
-      letter-spacing: .18em;
-      text-transform: uppercase;
-      color: var(--muted);
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-    }
-
-    /* ── PDF VIEWER ── */
-    #pdf-viewer {
-      position: relative;
-      z-index: 1;
-      margin-top: 52px;
-      width: 100%;
-      max-width: 680px;
-      overflow-y: auto;
-      padding: 1.5rem 1rem 1rem;
-    }
-
-    .pdf-page {
-      width: 100%;
-      display: flex;
-      justify-content: center;
-      margin-bottom: .75rem;
-    }
-
-    .pdf-page canvas {
-      max-width: 100%;
-      height: auto;
-      border: 1px solid var(--cream-dark);
-      box-shadow: 0 2px 12px rgba(28,16,7,.08);
-    }
-
-    /* Loading state */
-    .pdf-loading {
-      padding: 4rem 2rem;
-      text-align: center;
-    }
-    .pdf-loading p {
-      font-family: 'Cinzel', serif;
-      font-size: .62rem;
-      letter-spacing: .22em;
-      text-transform: uppercase;
-      color: var(--muted);
-      animation: pulse 1.6s ease infinite;
-    }
-    @keyframes pulse {
-      0%, 100% { opacity: .4; }
-      50%       { opacity: 1; }
-    }
-
-    /* ── DOWNLOAD BAR ── */
-    .download-bar {
-      position: fixed;
-      bottom: 0; left: 0; right: 0;
-      z-index: 100;
-    }
-
-    #download-button {
-      display: block;
-      width: 100%;
-      padding: 1rem 1.5rem;
-      background: var(--burgundy);
-      color: var(--cream);
-      font-family: 'Cinzel', serif;
-      font-size: .7rem;
-      font-weight: 600;
-      letter-spacing: .22em;
-      text-transform: uppercase;
-      text-align: center;
-      text-decoration: none;
-      border: none;
-      cursor: pointer;
-      transition: background .2s ease;
-    }
-    #download-button:hover { background: var(--burg-dark); }
-  </style>
+        /* ── Barra download fissa ── */
+        .download-bar {
+            position: fixed;
+            bottom: 0; left: 0; right: 0;
+            z-index: 100;
+        }
+        #download-button {
+            display: block;
+            width: 100%;
+            padding: 1.15rem 1.5rem;
+            background: var(--burgundy);
+            color: var(--cream);
+            font-family: var(--font-display);
+            font-size: 1rem;
+            font-weight: 600;
+            letter-spacing: .14em;
+            text-transform: uppercase;
+            text-align: center;
+            text-decoration: none;
+            transition: background .2s ease;
+        }
+        #download-button:hover { background: var(--burg-dark); }
+    </style>
 </head>
 <body>
 
 <div class="topbar">
-  <a href="index.html" class="back-btn">
-    <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
-    Home
-  </a>
-  <span class="topbar-title" id="topbar-title">Documento</span>
+    <a href="index.html" class="back-link">
+        <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+        Home
+    </a>
+    <span class="topbar-title" id="topbar-title">Documento</span>
 </div>
 
 <div id="pdf-viewer">
-  <div class="pdf-loading"><p>Caricamento documento…</p></div>
+    <div class="pdf-loading"><p>Caricamento documento…</p></div>
 </div>
 
 <div class="download-bar">
-  <a id="download-button" href="#" download>Scarica PDF</a>
+    <a id="download-button" href="#" download>Scarica PDF</a>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
 <script>
-  const urlParams = new URLSearchParams(window.location.search);
-  const pdfFile = urlParams.get('file');
+    const urlParams = new URLSearchParams(window.location.search);
+    const pdfFile = urlParams.get('file');
 
-  if (pdfFile) {
-    const pdfUrl = `assets/pdf/${pdfFile}`;
-    const label = pdfFile.replace('.pdf', '').replace(/_/g, ' ');
+    if (pdfFile) {
+        const pdfUrl = `assets/pdf/${pdfFile}`;
+        const label = pdfFile.replace('.pdf', '').replace(/_/g, ' ');
 
-    document.title = label + ' — Parrocchia Santa Chiara';
-    document.getElementById('topbar-title').textContent = label;
+        document.title = label + ' — Parrocchia Santa Chiara';
+        document.getElementById('topbar-title').textContent = label;
 
-    const downloadBtn = document.getElementById('download-button');
-    downloadBtn.href = pdfUrl;
-    downloadBtn.download = pdfFile;
+        const downloadBtn = document.getElementById('download-button');
+        downloadBtn.href = pdfUrl;
+        downloadBtn.download = pdfFile;
 
-    const pdfjsLib = window['pdfjs-dist/build/pdf'];
-    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.worker.min.js';
+        const pdfjsLib = window['pdfjs-dist/build/pdf'];
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.worker.min.js';
 
-    const viewer = document.getElementById('pdf-viewer');
+        const viewer = document.getElementById('pdf-viewer');
 
-    async function renderPDF(url) {
-      const pdfDoc = await pdfjsLib.getDocument(url).promise;
-      viewer.innerHTML = '';
-      for (let pageNum = 1; pageNum <= pdfDoc.numPages; pageNum++) {
-        const page = await pdfDoc.getPage(pageNum);
-        const viewport = page.getViewport({ scale: 1.5 });
-        const wrap = document.createElement('div');
-        wrap.className = 'pdf-page';
-        const canvas = document.createElement('canvas');
-        canvas.width = viewport.width;
-        canvas.height = viewport.height;
-        wrap.appendChild(canvas);
-        viewer.appendChild(wrap);
-        await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
-      }
+        async function renderPDF(url) {
+            const pdfDoc = await pdfjsLib.getDocument(url).promise;
+            viewer.innerHTML = '';
+            for (let i = 1; i <= pdfDoc.numPages; i++) {
+                const page = await pdfDoc.getPage(i);
+                const viewport = page.getViewport({ scale: 1.5 });
+                const wrap = document.createElement('div');
+                wrap.className = 'pdf-page';
+                const canvas = document.createElement('canvas');
+                canvas.width = viewport.width;
+                canvas.height = viewport.height;
+                wrap.appendChild(canvas);
+                viewer.appendChild(wrap);
+                await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
+            }
+        }
+
+        renderPDF(pdfUrl);
+    } else {
+        document.getElementById('pdf-viewer').innerHTML =
+            '<div class="pdf-loading"><p>Nessun file specificato</p></div>';
     }
-
-    renderPDF(pdfUrl);
-  } else {
-    document.getElementById('pdf-viewer').innerHTML =
-      '<div class="pdf-loading"><p>Nessun file specificato</p></div>';
-  }
 </script>
 </body>
 </html>
