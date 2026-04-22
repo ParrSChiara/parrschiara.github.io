@@ -1,0 +1,5 @@
+# IntelliJ IDEA
+.idea/
+
+# Documenti Word (sorgenti, non pubblicati sul sito)
+*.docx

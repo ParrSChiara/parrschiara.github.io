@@ -4,7 +4,9 @@
       "Bash(git config *)",
       "WebSearch",
       "Bash(git remote *)",
-      "Bash(gh repo *)"
+      "Bash(gh repo *)",
+      "Bash(git credential-osxkeychain *)",
+      "Bash(git restore *)"
     ]
   }
 }
