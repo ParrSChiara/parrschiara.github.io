@@ -3,191 +3,240 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Visualizzatore PDF - Parrocchia Santa Chiara</title>
+  <title>Visualizzatore PDF — Parrocchia Santa Chiara</title>
+  <link rel="icon" href="assets/logo/favicon.ico" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --cream:      #FAF7F2;
+      --cream-dark: #E3D8C8;
+      --gold:       #A87C28;
+      --burgundy:   #6B2035;
+      --burg-dark:  #4E1626;
+      --text:       #1C1007;
+      --muted:      #8A7660;
+      --white:      #FFFEFB;
     }
 
     body {
-      font-family: Arial, sans-serif;
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      background-color: var(--cream);
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: flex-start;
-      background-color: #f4f4f9;
-      padding: 20px;
-      padding-bottom: 80px;
+      min-height: 100dvh;
+      padding: 0 0 72px;
     }
 
-    /* Stile per la sezione del logo */
-    .logo-container {
-      width: 100%;
-      max-width: 300px;
-      text-align: center;
-      margin-bottom: 15px;
-    }
-
-    .logo-container img {
-      width: 100%;
-      max-width: 150px; /* Dimensione massima del logo */
-      height: auto;
-    }
-
-    /* Stile per il pulsante Home con logo */
-    .home-button {
+    body::before {
+      content: '';
       position: fixed;
-      top: 20px;
-      left: 20px;
-      padding: 12px;
-      background-color: white;
-      border: 2px solid #28a745;
-      border-radius: 50px;
-      cursor: pointer;
-      text-decoration: none;
-      z-index: 1000;
-      box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);
-      transition: all 0.3s ease;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 70% 50% at 15% 80%, rgba(168,124,40,.06) 0%, transparent 70%),
+        radial-gradient(ellipse 60% 40% at 85% 15%, rgba(107,32,53,.05) 0%, transparent 70%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    body::after {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg width='48' height='48' viewBox='0 0 48 48' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M24 8v32M8 24h32' stroke='%23A87C28' stroke-width='0.6' stroke-opacity='0.07'/%3E%3Ccircle cx='24' cy='24' r='3' fill='none' stroke='%23A87C28' stroke-width='0.5' stroke-opacity='0.06'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ── TOP BAR ── */
+    .topbar {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      height: 52px;
+      background: var(--white);
+      border-bottom: 1px solid var(--cream-dark);
       display: flex;
       align-items: center;
-      justify-content: center;
+      padding: 0 1rem;
+      gap: 1rem;
+      box-shadow: 0 1px 8px rgba(28,16,7,.06);
     }
 
-    .home-button:hover {
-      background-color: #f8f9fa;
-      border-color: #218838;
-      transform: scale(1.05);
+    .back-btn {
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+      text-decoration: none;
+      color: var(--burgundy);
+      font-family: 'Cinzel', serif;
+      font-size: .55rem;
+      letter-spacing: .2em;
+      text-transform: uppercase;
+      padding: .35rem .7rem;
+      border: 1px solid var(--burgundy);
+      transition: all .2s ease;
+      flex-shrink: 0;
+    }
+    .back-btn:hover {
+      background: var(--burgundy);
+      color: var(--white);
+    }
+    .back-btn svg {
+      width: 12px; height: 12px;
+      stroke: currentColor;
+      fill: none;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      flex-shrink: 0;
     }
 
-    .home-button img {
-      width: 38px;
-      height: 38px;
-      object-fit: contain;
+    .topbar-title {
+      font-family: 'Cinzel', serif;
+      font-size: .6rem;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
 
-    /* Contenitore per il visualizzatore PDF */
+    /* ── PDF VIEWER ── */
     #pdf-viewer {
+      position: relative;
+      z-index: 1;
+      margin-top: 52px;
       width: 100%;
-      max-width: 600px;
-      height: 90vh;
-      overflow-y: scroll;
-      border: 1px solid #ddd;
-      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+      max-width: 680px;
+      overflow-y: auto;
+      padding: 1.5rem 1rem 1rem;
     }
 
-    /* Pagina del PDF */
     .pdf-page {
       width: 100%;
       display: flex;
       justify-content: center;
-      margin-bottom: 10px;
+      margin-bottom: .75rem;
     }
 
-    /* Stile del pulsante di download */
-    .download-button {
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      padding: 15px;
-      background-color: #007bff;
-      color: white;
+    .pdf-page canvas {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid var(--cream-dark);
+      box-shadow: 0 2px 12px rgba(28,16,7,.08);
+    }
+
+    /* Loading state */
+    .pdf-loading {
+      padding: 4rem 2rem;
       text-align: center;
-      font-size: 18px;
+    }
+    .pdf-loading p {
+      font-family: 'Cinzel', serif;
+      font-size: .62rem;
+      letter-spacing: .22em;
+      text-transform: uppercase;
+      color: var(--muted);
+      animation: pulse 1.6s ease infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: .4; }
+      50%       { opacity: 1; }
+    }
+
+    /* ── DOWNLOAD BAR ── */
+    .download-bar {
+      position: fixed;
+      bottom: 0; left: 0; right: 0;
+      z-index: 100;
+    }
+
+    #download-button {
+      display: block;
+      width: 100%;
+      padding: 1rem 1.5rem;
+      background: var(--burgundy);
+      color: var(--cream);
+      font-family: 'Cinzel', serif;
+      font-size: .7rem;
+      font-weight: 600;
+      letter-spacing: .22em;
+      text-transform: uppercase;
+      text-align: center;
+      text-decoration: none;
       border: none;
       cursor: pointer;
-      text-decoration: none;
-      text-transform: uppercase;
+      transition: background .2s ease;
     }
-
-    .download-button:hover {
-      background-color: #0056b3;
-    }
-
-    /* Responsive design per dispositivi mobili */
-    @media (max-width: 768px) {
-      .home-button {
-        top: 10px;
-        left: 10px;
-        padding: 10px;
-      }
-
-      .home-button img {
-        width: 32px;
-        height: 32px;
-        object-fit: contain;
-      }
-    }
+    #download-button:hover { background: var(--burg-dark); }
   </style>
 </head>
 <body>
 
-<!-- Pulsante per tornare alla home con logo -->
-<a href="index.html" class="home-button">
-  <img src="assets/logo_notesto.png" alt="Logo Parrocchia Santa Chiara">
-</a>
+<div class="topbar">
+  <a href="index.html" class="back-btn">
+    <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+    Home
+  </a>
+  <span class="topbar-title" id="topbar-title">Documento</span>
+</div>
 
-<!-- Sezione del logo -->
-<!--<div class="logo-container">
-  <img src="assets/logo.png" alt="Logo">
-</div>-->
+<div id="pdf-viewer">
+  <div class="pdf-loading"><p>Caricamento documento…</p></div>
+</div>
 
-<!-- Contenitore per il visualizzatore PDF -->
-<div id="pdf-viewer"></div>
+<div class="download-bar">
+  <a id="download-button" href="#" download>Scarica PDF</a>
+</div>
 
-<!-- Pulsante per scaricare il PDF (il file sarà lo stesso mostrato nel visualizzatore) -->
-<a id="download-button" class="download-button" href="#" download>Download</a>
-
-<!-- Inclusione di PDF.js tramite CDN -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
 <script>
-  // Recupera il parametro "file" dalla URL
   const urlParams = new URLSearchParams(window.location.search);
   const pdfFile = urlParams.get('file');
 
   if (pdfFile) {
     const pdfUrl = `assets/pdf/${pdfFile}`;
+    const label = pdfFile.replace('.pdf', '').replace(/_/g, ' ');
 
-    // Imposta il file PDF nel visualizzatore
-    const pdfViewer = document.getElementById('pdf-viewer');
-    const downloadButton = document.getElementById('download-button');
+    document.title = label + ' — Parrocchia Santa Chiara';
+    document.getElementById('topbar-title').textContent = label;
 
-    // Imposta il link di download per il PDF
-    downloadButton.href = pdfUrl;
-    downloadButton.download = pdfFile;
+    const downloadBtn = document.getElementById('download-button');
+    downloadBtn.href = pdfUrl;
+    downloadBtn.download = pdfFile;
 
-    // Carica e visualizza il PDF usando PDF.js
     const pdfjsLib = window['pdfjs-dist/build/pdf'];
     pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.worker.min.js';
 
+    const viewer = document.getElementById('pdf-viewer');
+
     async function renderPDF(url) {
       const pdfDoc = await pdfjsLib.getDocument(url).promise;
-      // Itera su ogni pagina del PDF e la renderizza
+      viewer.innerHTML = '';
       for (let pageNum = 1; pageNum <= pdfDoc.numPages; pageNum++) {
         const page = await pdfDoc.getPage(pageNum);
         const viewport = page.getViewport({ scale: 1.5 });
-
-        // Creazione di un canvas per ciascuna pagina
+        const wrap = document.createElement('div');
+        wrap.className = 'pdf-page';
         const canvas = document.createElement('canvas');
-        canvas.classList.add('pdf-page');
         canvas.width = viewport.width;
         canvas.height = viewport.height;
-
-        const context = canvas.getContext('2d');
-        await page.render({ canvasContext: context, viewport: viewport }).promise;
-
-        pdfViewer.appendChild(canvas); // Aggiungi la pagina al visualizzatore
+        wrap.appendChild(canvas);
+        viewer.appendChild(wrap);
+        await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
       }
     }
 
-    // Chiama la funzione per caricare il PDF
     renderPDF(pdfUrl);
-
   } else {
-    // Se non viene trovato il parametro "file", mostra un messaggio di errore
-    document.body.innerHTML = "<h1>Errore: file PDF non specificato.</h1>";
+    document.getElementById('pdf-viewer').innerHTML =
+      '<div class="pdf-loading"><p>Nessun file specificato</p></div>';
   }
 </script>
 </body>
