@@ -1,0 +1,418 @@
+/* ═══════════════════════════════════════════════════
+   PARROCCHIA SANTA CHIARA — Design System
+   Importato da tutte le pagine del sito.
+   ═══════════════════════════════════════════════════ */
+
+/* ── 1. DESIGN TOKENS ── */
+:root {
+    /* Palette */
+    --cream:      #FAF7F2;
+    --cream-mid:  #F0E9DF;
+    --cream-dark: #E3D8C8;
+    --gold:       #A87C28;
+    --gold-light: #D4A84B;
+    --burgundy:   #6B2035;
+    --burg-dark:  #4E1626;
+    --text:       #1C1007;
+    --muted:      #8A7660;
+    --white:      #FFFEFB;
+
+    /* Tipografia */
+    --font-display: 'Cinzel', Georgia, serif;
+    --font-body:    'Cormorant Garamond', Georgia, serif;
+
+    /* Target touch WCAG: min 44px — i bottoni usano padding, non altezza fissa */
+    --btn-pad-y:    1.1rem;
+    --btn-pad-x:    1.5rem;
+    --btn-pad-y-sm: .9rem;
+}
+
+/* ── 2. BASE RESET ── */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Font-size base a 18px per leggibilità su mobile con utenti anziani.
+ * Tutti i valori rem nel sito sono relativi a questa dimensione.
+ */
+html { font-size: 18px; }
+
+body {
+    font-family: var(--font-body);
+    background-color: var(--cream);
+    color: var(--text);
+    min-height: 100dvh;
+    overflow-x: hidden;
+    -webkit-text-size-adjust: 100%;
+}
+
+/* ── 3. SFONDO PERGAMENA (condiviso tra tutte le pagine) ── */
+body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background:
+        radial-gradient(ellipse 70% 50% at 15% 80%, rgba(168,124,40,.07) 0%, transparent 70%),
+        radial-gradient(ellipse 60% 40% at 85% 15%, rgba(107,32,53,.06) 0%, transparent 70%);
+    pointer-events: none;
+    z-index: 0;
+}
+
+body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg width='48' height='48' viewBox='0 0 48 48' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M24 8v32M8 24h32' stroke='%23A87C28' stroke-width='0.6' stroke-opacity='0.07'/%3E%3Ccircle cx='24' cy='24' r='3' fill='none' stroke='%23A87C28' stroke-width='0.5' stroke-opacity='0.06'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* ── 4. LAYOUT ── */
+.page-wrapper {
+    position: relative;
+    z-index: 1;
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 4rem;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ── 5. ORNAMENTO DECORATIVO ── */
+.ornament {
+    display: flex;
+    align-items: center;
+    gap: .7rem;
+    justify-content: center;
+}
+.ornament::before,
+.ornament::after {
+    content: '';
+    width: 56px;
+    height: 1px;
+}
+.ornament::before {
+    background: linear-gradient(to right, var(--cream-dark), transparent);
+}
+.ornament::after {
+    background: linear-gradient(to left, var(--cream-dark), transparent);
+}
+.ornament-glyph {
+    font-size: .75rem;
+    color: var(--gold);
+    letter-spacing: .2em;
+}
+
+/* ── 6. CARD ── */
+.card {
+    background: var(--white);
+    border: 1px solid var(--cream-dark);
+    padding: 1.5rem 1.5rem 1.5rem 1.8rem;
+    position: relative;
+    box-shadow: 0 2px 12px rgba(28,16,7,.07), 0 1px 3px rgba(28,16,7,.05);
+    overflow: hidden;
+}
+
+/* Striscia sinistra (colore liturgico su index, accento su upload) */
+.card::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 4px;
+    background: var(--card-accent, var(--gold));
+    transition: background .6s ease;
+}
+
+/* Angolo decorativo in alto a destra */
+.card::after {
+    content: '';
+    position: absolute;
+    top: 0; right: 0;
+    width: 24px; height: 24px;
+    border-top: 1px solid var(--cream-dark);
+    border-right: 1px solid var(--cream-dark);
+}
+
+.card-eyebrow {
+    font-family: var(--font-display);
+    font-size: .7rem;
+    letter-spacing: .26em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: .9rem;
+}
+
+/* ── 7. BOTTONI ── */
+.btn {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 1rem;             /* 18px — leggibile per anziani */
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+    transition: all .22s ease;
+    text-align: center;
+    line-height: 1.3;
+    display: block;
+    width: 100%;
+    padding: var(--btn-pad-y) var(--btn-pad-x);
+}
+
+.btn + .btn,
+.btn + .rule,
+.rule + .btn {
+    margin-top: .65rem;
+}
+
+/* Bordeaux pieno — azione principale */
+.btn-filled {
+    background: var(--burgundy);
+    color: var(--cream);
+    position: relative;
+    overflow: hidden;
+}
+.btn-filled::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(110deg, transparent 30%, rgba(255,255,255,.08) 50%, transparent 70%);
+    transform: translateX(-100%);
+    transition: transform .45s ease;
+}
+.btn-filled:hover, .btn-filled:focus-visible {
+    background: var(--burg-dark);
+    box-shadow: 0 4px 20px rgba(107,32,53,.28);
+    transform: translateY(-1px);
+    outline: none;
+}
+.btn-filled:hover::before { transform: translateX(100%); }
+.btn-filled:active { transform: translateY(0); }
+
+/* Bordeaux outline — azione secondaria primaria */
+.btn-outlined {
+    background: transparent;
+    color: var(--burgundy);
+    border: 1px solid var(--burgundy);
+    padding: var(--btn-pad-y-sm) var(--btn-pad-x);
+}
+.btn-outlined:hover, .btn-outlined:focus-visible {
+    background: var(--burgundy);
+    color: var(--cream);
+    box-shadow: 0 4px 16px rgba(107,32,53,.18);
+    transform: translateY(-1px);
+    outline: none;
+}
+
+/* Sottile — griglia azioni terziarie */
+.btn-ghost {
+    background: transparent;
+    color: var(--text);
+    border: 1px solid var(--cream-dark);
+    font-size: .85rem;          /* leggermente più piccolo ma ancora ≥15px */
+    padding: var(--btn-pad-y-sm) .75rem;
+}
+.btn-ghost:hover, .btn-ghost:focus-visible {
+    background: var(--cream-mid);
+    border-color: var(--muted);
+    color: var(--burgundy);
+    outline: none;
+}
+.btn-ghost:disabled {
+    background: var(--cream-dark);
+    color: var(--muted);
+    cursor: not-allowed;
+    border-color: var(--cream-dark);
+}
+
+/* ── 8. DIVISORE CON ETICHETTA ── */
+.rule {
+    display: flex;
+    align-items: center;
+    gap: .7rem;
+    margin: 1.1rem 0 .6rem;
+}
+.rule::before,
+.rule::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--cream-dark);
+}
+.rule-label {
+    font-family: var(--font-display);
+    font-size: .6rem;
+    letter-spacing: .26em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+/* ── 9. LINK TORNA INDIETRO ── */
+.back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: .45rem;
+    text-decoration: none;
+    color: var(--burgundy);
+    font-family: var(--font-display);
+    font-size: .65rem;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    transition: opacity .18s ease;
+}
+.back-link:hover { opacity: .75; }
+.back-link svg {
+    width: 14px; height: 14px;
+    stroke: currentColor; fill: none;
+    stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
+    flex-shrink: 0;
+}
+
+/* ── 10. TOP BAR (pdf_viewer) ── */
+.topbar {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 100;
+    height: 56px;
+    background: var(--white);
+    border-bottom: 1px solid var(--cream-dark);
+    display: flex;
+    align-items: center;
+    padding: 0 1.25rem;
+    gap: 1rem;
+    box-shadow: 0 1px 8px rgba(28,16,7,.06);
+}
+.topbar-title {
+    font-family: var(--font-display);
+    font-size: .65rem;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--muted);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* ── 11. FORM ── */
+.form-group { margin-bottom: 1.2rem; }
+.form-group:last-child { margin-bottom: 0; }
+
+label {
+    display: block;
+    font-family: var(--font-display);
+    font-size: .65rem;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--text);
+    margin-bottom: .4rem;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: .75rem .9rem;
+    border: 1px solid var(--cream-dark);
+    background: var(--cream);
+    font-family: var(--font-body);
+    font-size: 1rem;
+    color: var(--text);
+    outline: none;
+    transition: border-color .18s ease, background .18s ease;
+    -webkit-appearance: none;
+    border-radius: 0;
+}
+input[type="text"]:focus,
+input[type="password"]:focus {
+    border-color: var(--burgundy);
+    background: var(--white);
+}
+input[readonly] {
+    color: var(--muted);
+    cursor: default;
+}
+
+.hint {
+    font-family: var(--font-body);
+    font-style: italic;
+    font-size: .9rem;
+    color: var(--muted);
+    margin-top: .35rem;
+    line-height: 1.4;
+}
+.hint a {
+    color: var(--burgundy);
+    text-decoration: none;
+}
+.hint a:hover { text-decoration: underline; }
+
+/* ── 12. MESSAGGI DI STATO ── */
+.status-msg {
+    padding: .9rem 1.1rem;
+    margin-bottom: 1rem;
+    font-family: var(--font-body);
+    font-size: 1rem;
+    border-left: 3px solid;
+    display: none;
+    line-height: 1.4;
+}
+.status-msg.show-success {
+    display: block;
+    background: rgba(61,122,80,.08);
+    border-color: #3D7A50;
+    color: #2A5538;
+}
+.status-msg.show-error {
+    display: block;
+    background: rgba(166,32,32,.08);
+    border-color: #A62020;
+    color: #7A1010;
+}
+.status-msg.show-info {
+    display: block;
+    background: rgba(168,124,40,.08);
+    border-color: var(--gold);
+    color: #7A5A10;
+}
+
+/* ── 13. SPINNER DI CARICAMENTO ── */
+.spinner-wrap {
+    display: none;
+    text-align: center;
+    padding: 1.2rem;
+}
+.spinner-wrap.show { display: block; }
+.spinner {
+    width: 28px; height: 28px;
+    border: 2px solid var(--cream-dark);
+    border-top-color: var(--burgundy);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin: 0 auto .7rem;
+}
+.spinner-label {
+    font-family: var(--font-display);
+    font-size: .62rem;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+/* ── 14. ANIMAZIONI ── */
+@keyframes riseIn {
+    from { opacity: 0; transform: translateY(18px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+@keyframes pulse {
+    0%, 100% { opacity: .35; }
+    50%       { opacity: 1; }
+}
+
+.anim-1 { animation: riseIn .9s cubic-bezier(.22,.61,.36,1) both; }
+.anim-2 { animation: riseIn .9s .14s cubic-bezier(.22,.61,.36,1) both; }
+.anim-3 { animation: riseIn .9s .28s cubic-bezier(.22,.61,.36,1) both; }
