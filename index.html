@@ -61,7 +61,7 @@
 <header>
     <img src="assets/logo.png" alt="Logo Parrocchia Santa Chiara" class="logo"/>
     <div class="liturgia-info" id="liturgia-info">
-        <p id="current-date"><strong>Caricamento data...</strong></p> <!-- Giorno dinamico -->
+        <p id="current-date"><strong>Caricamento data...</strong></p>
         <div id="liturgical-details">Caricamento informazioni liturgiche...</div>
     </div>
 </header>
@@ -84,14 +84,6 @@
 </main>
 <script>
 
-    // Funzione per decodificare le entità HTML (come &amp;, &lt;, etc.)
-    function decodeHTML(html) {
-        const txt = document.createElement("textarea");
-        txt.innerHTML = html;
-        return txt.value;
-    }
-
-    // Funzione per formattare la data odierna
     function formatTodayDate() {
         const daysOfWeek = [
             'Domenica', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato'
@@ -100,114 +92,50 @@
             'Gennaio', 'Febbraio', 'Marzo', 'Aprile', 'Maggio', 'Giugno',
             'Luglio', 'Agosto', 'Settembre', 'Ottobre', 'Novembre', 'Dicembre'
         ];
-
         const today = new Date();
-        const dayName = daysOfWeek[today.getDay()];
-        const day = today.getDate();
-        const monthName = months[today.getMonth()];
-        const year = today.getFullYear();
-
-        return `${dayName}, ${day} ${monthName} ${year}`;
+        return `${daysOfWeek[today.getDay()]}, ${today.getDate()} ${months[today.getMonth()]} ${today.getFullYear()}`;
     }
 
-    // Recupera e mostra le informazioni liturgiche
     async function fetchLiturgicalInfo() {
         const today = new Date();
-        const formattedDate = `${today.getFullYear()}${(today.getMonth() + 1).toString().padStart(2, '0')}${today.getDate().toString().padStart(2, '0')}`;
-        const url = `assets/html/${formattedDate}.html`;
+        const dateStr = `${today.getFullYear()}${(today.getMonth() + 1).toString().padStart(2, '0')}${today.getDate().toString().padStart(2, '0')}`;
 
         try {
-            const response = await fetch(url);
-            if (!response.ok) {
-                throw new Error("Impossibile recuperare i dati.");
-            }
+            const response = await fetch(`assets/liturgia/${dateStr}.json`);
+            if (!response.ok) throw new Error('dati non disponibili');
+            const data = await response.json();
 
-            const html = await response.text();
-            const parser = new DOMParser();
-            const doc = parser.parseFromString(html, 'text/html');
+            const letture = data.letture
+                .map(l => `<a href="${l.url}" target="_blank">${l.sigla}</a>`)
+                .join(' &nbsp;&middot;&nbsp; ');
 
-            // Recupera informazioni liturgiche
-            const weekTitle = doc.querySelector('#content .section-title')?.innerText || "Informazioni non disponibili";
-            // const celebrationRaw = doc.querySelectorAll('#content .section-content font[size="-1"]')[0]?.innerText.trim() || "";
-            // const celebrationDetails = celebrationRaw.replace("EVENS ;", "").replace(/\s+/g, " ").trim();
-            const celebrationSection = doc.querySelectorAll('#content .section-content font[size="-1"]')[0];
-            let celebrationHtml = celebrationSection?.innerHTML || "";
-
-            // Rimuovi tutto il pezzo EVENS ; invisibile
-            celebrationHtml = celebrationHtml.replace(/<font[^>]*color=["']#FFFFCC["'][^>]*>.*?<\/font>/gi, "");
-
-            const readings = doc.querySelectorAll('.section-content-mini a');
-            const gospelText = doc.querySelector('#vangelo + .section-content .section-content-mini p')?.innerText || "";
-
-
-            // Crea il contenuto HTML da visualizzare, correttamente formattato
-            // <p><strong>${correctedText(celebrationDetails)}</strong></p>
-            const liturgicalDetails = `
-            <p>${correctedText(weekTitle)}</p>
-            <p><strong>${correctedText(celebrationHtml)}</strong></p>
-
-                    <p>
-                ${Array.from(readings).map(reading => `<a href="${reading.href}" target="_blank">${correctedText(reading.innerText)}</a>`).join(' ')}
-                ${gospelText ? `: ${correctedText(gospelText)}` : ""}
-                    </p>
-                `;
-
-            document.getElementById('liturgical-details').innerHTML = liturgicalDetails;
+            document.getElementById('liturgical-details').innerHTML = `
+                <p>${data.settimana}</p>
+                <p><strong>${data.celebrazione}${data.colore ? ' &mdash; ' + data.colore : ''}</strong></p>
+                <p>${letture}</p>
+            `;
         } catch (error) {
-            document.getElementById('liturgical-details').innerText = "Errore nel caricamento delle informazioni liturgiche.";
+            document.getElementById('liturgical-details').innerText = 'Informazioni liturgiche non disponibili per oggi.';
             console.error(error);
         }
     }
 
-    // Funzione per correggere gli errori di encoding
-    const correctedText = (text) => {
-        return text
-            .replaceAll('Ã¬', 'ì')      // Corregge "Ã¬" in "ì"
-            //.replaceAll(/Ã/g, 'à')       // Corregge "Ã " in "à"
-            .replaceAll('Ã©', 'é')       // Corregge "Ã©" in "é"
-            .replaceAll('Ã²', 'ò')       // Corregge "Ã²" in "ò"
-            .replaceAll('Ã¹', 'ù')       // Corregge "Ã¹" in "ù"
-            .replaceAll('Ã§', 'ç')       // Corregge "Ã§" in "ç"
-            .replaceAll('&quot;', '"')   // Corregge le virgolette
-            .replaceAll('&amp;', '&')    // Corregge il simbolo di "e commerciale"
-            .replaceAll('&lt;', '<')     // Corregge il simbolo minore
-            .replaceAll('&gt;', '>')     // Corregge il simbolo maggiore
-            .replaceAll('&nbsp;', ' ')   // Corregge gli spazi non separabili
-            .replaceAll('&#39;', "'")    // Corregge l'apostrofo
-            .replaceAll('Ã', 'à')       // Corregge "Ã " in "à"
-            .replaceAll('A1', 'ù')       // Corregge "Ã " in "à"
-            .replaceAll('A!', 'ì')       // Corregge "Ã " in "à"
-            .replaceAll('A(c)', 'é')       // Corregge "A(c) " in "é"
-            //.replaceAll(/Ã \u0080/g, 'à') // Corregge "Ã " in "à"
-            //.replaceAll(/Ã \u0088/g, 'è') // Corregge "Ã " in "è"
-            //.replaceAll(/Ã /g, 'à')       // Ulteriore correzione per "à"
-            //.replaceAll(/Ã /g, 'à')       // Correzione aggiuntiva per "à"
-            //.replaceAll(/Ã /g, 'à')       // Ulteriore correzione per "à"
-            //.replaceAll(/Ã/g, '');        // Rimuove eventuali residui di "Ã"
-    };
-
-    // Redirezione dinamica alla Liturgia del giorno
     function redirectToLiturgia() {
         const today = new Date();
-        const formattedDate = `${today.getFullYear()}${(today.getMonth() + 1).toString().padStart(2, '0')}${today.getDate().toString().padStart(2, '0')}`;
-        window.location.href = `https://www.lachiesa.it/calendario/${formattedDate}.html`;
+        const dateStr = `${today.getFullYear()}${(today.getMonth() + 1).toString().padStart(2, '0')}${today.getDate().toString().padStart(2, '0')}`;
+        window.location.href = `https://www.lachiesa.it/calendario/${dateStr}.html`;
     }
-    // Redirezione dinamica alla Liturgia del giorno
+
     function redirectToVespri() {
         window.location.href = `https://www.ibreviary.com/m2/breviario.php?s=vespri`;
     }
 
-    // Apertura del visualizzatore PDF con file dinamico
     function openPdfViewer(pdfFile) {
         window.location.href = `pdf_viewer.html?file=${encodeURIComponent(pdfFile)}`;
     }
 
-    // Esegui le funzioni al caricamento della pagina
     document.addEventListener('DOMContentLoaded', () => {
-        // Aggiorna la data odierna
         document.getElementById('current-date').innerText = formatTodayDate();
-
-        // Recupera e mostra le informazioni liturgiche
         fetchLiturgicalInfo();
     });
 </script>

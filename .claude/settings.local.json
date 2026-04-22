@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config *)",
+      "WebSearch",
+      "Bash(git remote *)",
+      "Bash(gh repo *)"
+    ]
+  }
+}
