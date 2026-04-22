@@ -1,0 +1,230 @@
+{
+  "_note": "Appuntamenti fissi settimanali della Parrocchia Santa Chiara. Modificare questo file per aggiornare il calendario ricorrente. Il campo 'intenzione' con valore null significa che va inserita a mano. Il campo 'chiesa' indica una sede diversa dalla chiesa principale.",
+  "giorni": [
+    {
+      "giorno": "domenica",
+      "appuntamenti": [
+        {
+          "orario": "8:00",
+          "descrizione": "Rosario meditato",
+          "chiesa": "Chiesa di Sant'Agostino",
+          "intenzione": null,
+          "fisso": true,
+          "sospeso": false,
+          "_nota_sospensione": "Sospeso durante la Novena alla Madonna Incoronata"
+        },
+        {
+          "orario": "8:30",
+          "descrizione": "Santa Messa",
+          "chiesa": "Chiesa di Sant'Agostino",
+          "intenzione": null,
+          "fisso": true,
+          "sospeso": false,
+          "_nota_sospensione": "Sospeso durante la Novena alla Madonna Incoronata"
+        },
+        {
+          "orario": "10:30",
+          "descrizione": "Santa Messa del fanciullo",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "12:15",
+          "descrizione": "Santa Messa",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "18:30",
+          "descrizione": "Rosario meditato",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "19:00",
+          "descrizione": "Santa Messa",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        }
+      ]
+    },
+    {
+      "giorno": "lunedi",
+      "appuntamenti": [
+        {
+          "orario": "18:00",
+          "descrizione": "Rosario meditato",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "18:30",
+          "descrizione": "Santa Messa",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "19:00",
+          "descrizione": "\"I 10 minuti con Maria\" - Associazione Regina Pacis",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        }
+      ]
+    },
+    {
+      "giorno": "martedi",
+      "appuntamenti": [
+        {
+          "orario": "18:00",
+          "descrizione": "Rosario meditato",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "18:30",
+          "descrizione": "Santa Messa",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "19:00",
+          "descrizione": "Lectio Divina",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "20:00",
+          "descrizione": "Incontro Giovanissimi",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        }
+      ]
+    },
+    {
+      "giorno": "mercoledi",
+      "appuntamenti": [
+        {
+          "orario": "18:00",
+          "descrizione": "Rosario meditato",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "18:30",
+          "descrizione": "Santa Messa Comunitaria",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": null,
+          "descrizione": "CORONCINA ALLA DIVINA MISERICORDIA",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        }
+      ]
+    },
+    {
+      "giorno": "giovedi",
+      "appuntamenti": [
+        {
+          "orario": "18:00",
+          "descrizione": "Rosario meditato",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "18:30",
+          "descrizione": "Santa Messa",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": null,
+          "descrizione": "Adorazione Eucaristica personale",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "20:00",
+          "descrizione": "Compieta e Benedizione Eucaristica",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        }
+      ]
+    },
+    {
+      "giorno": "venerdi",
+      "appuntamenti": [
+        {
+          "orario": "18:00",
+          "descrizione": "Santo Rosario",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "18:30",
+          "descrizione": "Santa Messa",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        }
+      ]
+    },
+    {
+      "giorno": "sabato",
+      "appuntamenti": [
+        {
+          "orario": "17:30",
+          "descrizione": "Santo Rosario",
+          "chiesa": "Chiesa San Michele",
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "18:00",
+          "descrizione": "Santa Messa",
+          "chiesa": "Chiesa San Michele",
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "18:30",
+          "descrizione": "Santo Rosario meditato",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        },
+        {
+          "orario": "19:00",
+          "descrizione": "Santa Messa",
+          "chiesa": null,
+          "intenzione": null,
+          "fisso": true
+        }
+      ]
+    }
+  ],
+  "note_permanenti": {
+    "confessioni": "Il sabato dalle ore 19:00 e la domenica dalle ore 10:30 e dalle ore 12:15",
+    "whatsapp_community": "Iscriviti alla Community WhatsApp per restare sempre aggiornato"
+  }
+}

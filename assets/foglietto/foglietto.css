@@ -1,0 +1,413 @@
+/* ═══════════════════════════════════════════════════════════════════
+   FOGLIETTO SETTIMANALE — Layout di stampa A4
+   Usato da foglietto.html. Non importare da altri file.
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* ── Contenitore preview (schermo) ── */
+#foglietto-preview {
+    background: #d8d0c0;
+    padding: 24px 16px 40px;
+    margin-top: 2rem;
+}
+
+#foglietto-preview .preview-label {
+    font-family: 'Cinzel', Georgia, serif;
+    font-size: .62rem;
+    letter-spacing: .22em;
+    text-transform: uppercase;
+    color: #7a6a55;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+/* ── Scroll orizzontale su mobile ── */
+#foglietto-preview {
+    overflow-x: auto;
+}
+
+/* ── Ogni pagina A4 ── */
+.foglietto-page {
+    width: 210mm;
+    min-height: 297mm;
+    background: #fff;
+    margin: 0 auto 20px;
+    padding: 10mm 12mm 10mm 12mm;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 8pt;
+    line-height: 1.32;
+    color: #000;
+    box-shadow: 0 3px 24px rgba(0,0,0,.25);
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ── Intestazione pagina 1 ── */
+.fl-header {
+    display: grid;
+    grid-template-columns: 1fr 22mm 1fr;
+    gap: 2mm;
+    padding-bottom: 2mm;
+    border-bottom: 1pt solid #000;
+    margin-bottom: 2mm;
+    align-items: start;
+}
+
+.fl-header-left {
+    text-align: left;
+}
+
+.fl-parish-name {
+    font-size: 8.5pt;
+    font-weight: bold;
+    margin-bottom: .3mm;
+}
+
+.fl-parish-sub {
+    font-size: 7.5pt;
+    font-style: italic;
+    margin-bottom: .5mm;
+}
+
+.fl-parish-addr {
+    font-size: 7pt;
+    line-height: 1.25;
+}
+
+.fl-header-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1mm;
+}
+
+.fl-logo {
+    width: 18mm;
+    height: auto;
+    display: block;
+}
+
+.fl-header-right {
+    text-align: left;
+    border-left: .5pt solid #000;
+    padding-left: 2mm;
+}
+
+.fl-filiale + .fl-filiale {
+    margin-top: 2mm;
+    padding-top: 2mm;
+    border-top: .5pt solid #000;
+}
+
+.fl-filiale-name {
+    font-size: 7.5pt;
+    font-weight: bold;
+    border-bottom: .5pt solid #000;
+    padding-bottom: .5mm;
+    margin-bottom: .5mm;
+}
+
+.fl-filiale-addr {
+    font-size: 7pt;
+}
+
+/* ── Area contenuto letture ── */
+.fl-content {
+    display: flex;
+    gap: 0;
+    flex: 1;
+    margin-top: 1mm;
+    min-height: 0;
+}
+
+/* Etichetta data verticale */
+.fl-date-label {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    font-size: 7pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    white-space: nowrap;
+    padding-right: 2mm;
+    border-right: .5pt solid #000;
+    margin-right: 3mm;
+    flex-shrink: 0;
+    align-self: stretch;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: text;
+}
+
+/* Due colonne letture */
+.fl-columns {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    min-width: 0;
+}
+
+.fl-col-left {
+    border-right: .5pt solid #000;
+    padding-right: 3mm;
+}
+
+.fl-col-right {
+    padding-left: 3mm;
+}
+
+/* ── Sezione singola lettura ── */
+.fl-section {
+    margin-bottom: 2.5mm;
+}
+
+.fl-section-title {
+    font-size: 8pt;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: .8mm;
+    line-height: 1.2;
+}
+
+.fl-section-ref-inline {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.fl-section-ref {
+    font-size: 8pt;
+    font-style: italic;
+    margin-bottom: .8mm;
+    line-height: 1.25;
+    cursor: text;
+}
+
+.fl-section-text {
+    font-size: 7.8pt;
+    text-align: justify;
+    line-height: 1.3;
+    cursor: text;
+}
+
+.fl-section-text p {
+    margin-bottom: .8mm;
+}
+
+.fl-parola {
+    font-style: italic;
+    font-size: 7.8pt;
+    margin-top: .8mm;
+}
+
+.fl-ritornello {
+    font-weight: bold;
+    font-size: 7.8pt;
+    margin-bottom: 1mm;
+    cursor: text;
+}
+
+.fl-alleluia {
+    font-style: italic;
+    font-size: 7.8pt;
+    cursor: text;
+}
+
+/* Preghiera dei Fedeli: "Preghiamo." in grassetto corsivo */
+.fl-section-text .preghiamo {
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* ── Placeholder ── */
+.fl-placeholder {
+    color: #bbb;
+    font-style: italic;
+}
+
+/* ── Elementi contenteditable: feedback visivo ── */
+[contenteditable]:focus {
+    outline: 1.5px dashed #A87C28;
+    outline-offset: 1px;
+    background: rgba(168, 124, 40, .04);
+}
+
+[contenteditable]:empty::before {
+    content: attr(data-ph);
+    color: #ccc;
+    font-style: italic;
+    pointer-events: none;
+}
+
+/* ═══════════════════════════════════════
+   PAGINA 2 — CALENDARIO
+   ═══════════════════════════════════════ */
+
+.page-calendario {
+    display: flex;
+    flex-direction: column;
+}
+
+.fl-cal-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10.5pt;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 3mm;
+}
+
+.fl-cal-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 8pt;
+    flex: 1;
+}
+
+.fl-cal-table td,
+.fl-cal-table th {
+    border: .5pt solid #000;
+    padding: 1.2mm 1.8mm;
+    vertical-align: top;
+}
+
+.fl-cal-day-cell {
+    width: 28mm;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 8pt;
+    vertical-align: middle;
+}
+
+.fl-cal-day-name {
+    font-size: 8pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: block;
+}
+
+.fl-cal-day-date {
+    font-size: 8pt;
+    font-weight: bold;
+    display: block;
+}
+
+.fl-cal-day-liturgy {
+    font-size: 7pt;
+    font-weight: normal;
+    font-style: italic;
+    display: block;
+    margin-top: .5mm;
+}
+
+.fl-cal-appts-cell {
+    font-size: 8pt;
+    line-height: 1.35;
+}
+
+.fl-appt {
+    display: block;
+    margin-bottom: .5mm;
+    line-height: 1.3;
+}
+
+.fl-appt-time {
+    font-weight: bold;
+}
+
+.fl-appt-church {
+    font-style: italic;
+}
+
+/* ── Footer pagina 2 ── */
+.fl-cal-footer {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 3mm;
+    align-items: end;
+    margin-top: 2mm;
+    border: .5pt solid #000;
+    padding: 2mm 2mm;
+    font-size: 7.8pt;
+    min-height: 18mm;
+}
+
+.fl-confessioni {
+    max-width: 36mm;
+    line-height: 1.3;
+}
+
+.fl-confessioni strong {
+    display: block;
+    font-size: 8.5pt;
+    text-transform: uppercase;
+    margin-bottom: .5mm;
+}
+
+.fl-avvisi {
+    font-size: 8pt;
+    line-height: 1.3;
+    text-align: center;
+    cursor: text;
+    align-self: center;
+}
+
+.fl-whatsapp {
+    font-size: 7pt;
+    text-align: right;
+    max-width: 32mm;
+    line-height: 1.3;
+}
+
+/* ═══════════════════════════════════════
+   MEDIA PRINT — A4 esatto
+   ═══════════════════════════════════════ */
+@media print {
+    @page {
+        size: A4;
+        margin: 0;
+    }
+
+    #ui-panel {
+        display: none !important;
+    }
+
+    body {
+        background: #fff;
+        margin: 0;
+        padding: 0;
+    }
+
+    #foglietto-preview {
+        background: transparent;
+        padding: 0;
+        margin: 0;
+    }
+
+    #foglietto-preview .preview-label {
+        display: none;
+    }
+
+    .foglietto-page {
+        width: 210mm;
+        height: 297mm;
+        min-height: unset;
+        padding: 10mm 12mm;
+        margin: 0;
+        box-shadow: none;
+        page-break-after: always;
+        overflow: hidden;
+    }
+
+    .foglietto-page:last-child {
+        page-break-after: avoid;
+    }
+
+    [contenteditable]:focus {
+        outline: none;
+        background: transparent;
+    }
+}
