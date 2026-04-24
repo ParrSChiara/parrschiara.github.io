@@ -7,26 +7,27 @@
     {
       "sigla": "2Tm 4,1-8",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Tm 4,1-8",
-      "tipo": "lettura",
-      "testo": "6 Io infatti sto già per essere versato in offerta ed è giunto il momento che io lasci questa vita. 7 Ho combattuto la buona battaglia, ho terminato la corsa, ho conservato la fede. 8 Ora mi resta soltanto la corona di giustizia che il Signore, il giudice giusto, mi consegnerà in quel giorno; non solo a me, ma anche a tutti coloro che hanno atteso con amore la sua manifestazione."
+      "tipo": "prima_lettura",
+      "testo": "Figlio mio, ti scongiuro davanti a Dio e a Cristo Gesù, che verrà a giudicare i vivi e i morti, per la sua manifestazione e il suo regno: annuncia la Parola, insisti al momento opportuno e non opportuno, ammonisci, rimprovera, esorta con ogni magnanimità e insegnamento.\nVerrà giorno, infatti, in cui non si sopporterà più la sana dottrina, ma, pur di udire qualcosa, gli uomini si circonderanno di maestri secondo i propri capricci, rifiutando di dare ascolto alla verità per perdersi dietro alle favole. Tu però vigila attentamente, sopporta le sofferenze, compi la tua opera di annunciatore del Vangelo, adempi il tuo ministero.\nIo infatti sto già per essere versato in offerta ed è giunto il momento che io lasci questa vita. Ho combattuto la buona battaglia, ho terminato la corsa, ho conservato la fede. Ora mi resta soltanto la corona di giustizia che il Signore, il giudice giusto, mi consegnerà in quel giorno; non solo a me, ma anche a tutti coloro che hanno atteso con amore la sua manifestazione."
     },
     {
       "sigla": "Sal 70",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 70",
-      "tipo": "lettura",
-      "testo": "1 Al maestro del coro. Di Davide. Per fare memoria. 2 O Dio, vieni a salvarmi, Signore, vieni presto in mio aiuto.\n3 Siano svergognati e confusi quanti attentano alla mia vita. Retrocedano, coperti d'infamia, quanti godono della mia rovina.\n4 Se ne tornino indietro pieni di vergogna quelli che mi dicono: «Ti sta bene!»."
+      "tipo": "salmo",
+      "testo": "R. La mia bocca, Signore, racconterà la tua giustizia.\n\nDella tua lode è piena la mia bocca:\ntutto il giorno canto il tuo splendore.\nNon gettarmi via nel tempo della vecchiaia,\nnon abbandonarmi quando declinano le mie forze.\n\nIo, invece, continuo a sperare;\nmoltiplicherò le tue lodi.\nLa mia bocca racconterà la tua giustizia,\nogni giorno la tua salvezza.\n\nVerrò a cantare le imprese del Signore Dio:\nfarò memoria della tua giustizia, di te solo.\nFin dalla giovinezza, o Dio, mi hai istruito\ne oggi ancora proclamo le tue meraviglie.\n\nAllora io ti renderò grazie al suono dell’arpa,\nper la tua fedeltà, o mio Dio,\na te canterò sulla cetra, o Santo d’Israele.",
+      "ritornello": "R. La mia bocca, Signore, racconterà la tua giustizia."
     },
     {
       "sigla": "Mt 5,3",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 5,3",
-      "tipo": "lettura",
-      "testo": "3 'Beati quelli che sono poveri di fronte a Dio: Dio dona loro il suo regno."
+      "tipo": "canto_vangelo",
+      "testo": "Beati i poveri in spirito, perché di essi è il regno dei cieli."
     },
     {
       "sigla": "Mc 12,38-44",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 12,38-44",
-      "tipo": "lettura",
-      "testo": "41 Seduto di fronte al tesoro, osservava come la folla vi gettava monete. Tanti ricchi ne gettavano molte. 42 Ma, venuta una vedova povera, vi gettò due monetine, che fanno un soldo. 43 Allora, chiamati a sé i suoi discepoli, disse loro: «In verità io vi dico: questa vedova, così povera, ha gettato nel tesoro più di tutti gli altri. 44 Tutti infatti hanno gettato parte del loro superfluo. Lei invece, nella sua miseria, vi ha gettato tutto quello che aveva, tutto quanto aveva per vivere»."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, Gesù [nel tempio] diceva alla folla nel suo insegnamento: «Guardatevi dagli scribi, che amano passeggiare in lunghe vesti, ricevere saluti nelle piazze, avere i primi seggi nelle sinagoghe e i primi posti nei banchetti. Divorano le case delle vedove e pregano a lungo per farsi vedere. Essi riceveranno una condanna più severa».\nSeduto di fronte al tesoro, osservava come la folla vi gettava monete. Tanti ricchi ne gettavano molte. Ma, venuta una vedova povera, vi gettò due monetine, che fanno un soldo.\nAllora, chiamati a sé i suoi discepoli, disse loro: «In verità io vi dico: questa vedova, così povera, ha gettato nel tesoro più di tutti gli altri. Tutti infatti hanno gettato parte del loro superfluo. Lei invece, nella sua miseria, vi ha gettato tutto quello che aveva, tutto quanto aveva per vivere»."
     }
   ]
 }

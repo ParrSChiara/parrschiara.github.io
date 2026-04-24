@@ -7,25 +7,27 @@
     {
       "sigla": "At 19,1-8",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 19,1-8",
-      "tipo": "lettura",
-      "testo": "1 Mentre Apollo era a Corinto, Paolo, attraversate le regioni dell'altopiano, giunse a Efeso. Qui trovò alcuni discepoli 2 e disse loro: «Avete ricevuto lo Spirito Santo quando siete venuti alla fede?». Gli risposero: «Non abbiamo nemmeno sentito dire che ci sia uno Spirito Santo». 3 Ed egli disse: «Quale battesimo avete ricevuto?». «Il battesimo di Giovanni», risposero. 4 Disse allora Paolo: «Giovanni ha amministrato un battesimo di penitenza, dicendo al popolo di credere in colui che sarebbe venuto dopo di lui, cioè in Gesù». 5 Dopo aver udito questo, si fecero battezzare nel nome del Signore Gesù 6 e, non appena Paolo ebbe imposto loro le mani, scese su di loro lo Spirito Santo e parlavano in lingue e profetavano. 7 Erano in tutto circa dodici uomini."
+      "tipo": "prima_lettura",
+      "testo": "Mentre Apollo era a Corìnto, Paolo, attraversate le regioni dell’altopiano, scese a Èfeso.\nQui trovò alcuni discepoli e disse loro: «Avete ricevuto lo Spirito Santo quando siete venuti alla fede?». Gli risposero: «Non abbiamo nemmeno sentito dire che esista uno Spirito Santo». Ed egli disse: «Quale battesimo avete ricevuto?». «Il battesimo di Giovanni», risposero. Disse allora Paolo: «Giovanni battezzò con un battesimo di conversione, dicendo al popolo di credere in colui che sarebbe venuto dopo di lui, cioè in Gesù».\nUdito questo, si fecero battezzare nel nome del Signore Gesù e, non appena Paolo ebbe imposto loro le mani, discese su di loro lo Spirito Santo e si misero a parlare in lingue e a profetare. Erano in tutto circa dodici uomini.\nEntrato poi nella sinagoga, vi poté parlare liberamente per tre mesi, discutendo e cercando di persuadere gli ascoltatori di ciò che riguarda il regno di Dio."
     },
     {
       "sigla": "Sal 67",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 67",
-      "tipo": "lettura",
-      "testo": "1 Al maestro del coro. Per strumenti a corda. Salmo. Canto. 2 Dio abbia pietà di noi e ci benedica, su di noi faccia splendere il suo volto;\n3 perché si conosca sulla terra la tua via, la tua salvezza fra tutte le genti.\n4 Ti lodino i popoli, o Dio, ti lodino i popoli tutti.\n5 Gioiscano le nazioni e si rallegrino, perché tu giudichi i popoli con rettitudine, governi le nazioni sulla terra.\n6 Ti lodino i popoli, o Dio, ti lodino i popoli tutti.\n7 La terra ha dato il suo frutto. Ci benedica Dio, il nostro Dio,"
+      "tipo": "salmo",
+      "testo": "R. Regni della terra, cantate a Dio.\n\nOppure:\nCantate a Dio, inneggiate al suo nome.\n\nSorga Dio e siano dispersi i suoi nemici\ne fuggano davanti a lui quelli che lo odiano.\nCome si dissolve il fumo, tu li dissolvi;\ncome si scioglie la cera di fronte al fuoco,\nperiscono i malvagi davanti a Dio.\n\nI giusti invece si rallegrano,\nesultano davanti a Dio\ne cantano di gioia.\nCantate a Dio, inneggiate al suo nome:\nSignore è il suo nome.\n\nPadre degli orfani e difensore delle vedove\nè Dio nella sua santa dimora.\nA chi è solo, Dio fa abitare una casa,\nfa uscire con gioia i prigionieri.",
+      "ritornello": "R. Regni della terra, cantate a Dio."
     },
     {
       "sigla": "Col 3,1",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Col 3,1",
-      "tipo": "lettura"
+      "tipo": "canto_vangelo",
+      "testo": "Se siete risorti con Cristo, cercate le cose di lassù, dove è Cristo, seduto alla destra di Dio."
     },
     {
       "sigla": "Gv 16,29-33",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 16,29-33",
-      "tipo": "lettura",
-      "testo": "29 Gli dicono i suoi discepoli: «Ecco, ora parli apertamente e non più in modo velato. 30 Ora sappiamo che tu sai tutto e non hai bisogno che alcuno t'interroghi. Per questo crediamo che sei uscito da Dio». 31 Rispose loro Gesù: «Adesso credete? 32 Ecco, viene l'ora, anzi è già venuta, in cui vi disperderete ciascuno per conto suo e mi lascerete solo; ma io non sono solo, perché il Padre è con me. 33 Vi ho detto questo perché abbiate pace in me. Nel mondo avete tribolazioni, ma abbiate coraggio: io ho vinto il mondo!»."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, dissero i discepoli a Gesù: «Ecco, ora parli apertamente e non più in modo velato. Ora sappiamo che tu sai tutto e non hai bisogno che alcuno t’interroghi. Per questo crediamo che sei uscito da Dio».\nRispose loro Gesù: «Adesso credete? Ecco, viene l’ora, anzi è già venuta, in cui vi disperderete ciascuno per conto suo e mi lascerete solo; ma io non sono solo, perché il Padre è con me.\nVi ho detto questo perché abbiate pace in me. Nel mondo avete tribolazioni, ma abbiate coraggio: io ho vinto il mondo!»."
     }
   ]
 }

@@ -663,7 +663,21 @@ function renderPage1() {
     function readingText(tipo) {
         const l = rd[tipo];
         if (!l || !l.testo) return '';
-        return l.testo.split('\n').filter(Boolean).map(p => `<p>${esc(p)}</p>`).join('');
+
+        if (tipo === 'salmo') {
+            // Strofe separate da \n\n → ogni strofa è un <p>.
+            // Versi dentro la strofa separati da \n → joinati con spazio (nessun <br>).
+            const lines = l.testo.split('\n');
+            const start = (lines[0] || '').startsWith('R.') ? 1 : 0;
+            const body  = lines.slice(start).join('\n').trim();
+            if (!body) return '';
+            return body.split('\n\n').filter(s => s.trim()).map(strofa =>
+                `<p>${esc(strofa.split('\n').filter(Boolean).join(' '))}</p>`
+            ).join('');
+        }
+
+        // Letture: tutto in un unico paragrafo fluente, \n → spazio.
+        return `<p>${esc(l.testo.split('\n').filter(Boolean).join(' '))}</p>`;
     }
 
     function ritornello(tipo) {
@@ -768,6 +782,8 @@ function renderPage1() {
     </div><!-- /col-right -->
   </div><!-- /fl-columns -->
 </div><!-- /fl-content -->`;
+
+    adjustPage1Layout();
 }
 
 function refreshPage1PF() {
@@ -775,6 +791,7 @@ function refreshPage1PF() {
     if (!ce) return;
     const html = buildPFHtml(document.getElementById('pf-input').value);
     if (html) ce.innerHTML = html;
+    adjustPage1Layout();
 }
 
 function buildPFHtml(text) {
@@ -913,6 +930,92 @@ function refreshPage2Footer() {
 function aggiornaAnteprima() {
     renderPage1();
     renderPage2();
+}
+
+/* ════════════════════════════════════════════════════════
+   OVERFLOW — Pagina 1
+   Algoritmo:
+   1. Riduzione font (12 → 6.6pt): trova il massimo che entra
+   2. Sposta sezioni da colonna sinistra a destra (max 2 passaggi)
+   3. Crea pagina aggiuntiva per overflow residuo (es. Vangelo della Palme)
+   ════════════════════════════════════════════════════════ */
+
+function _pageLimitY(page) {
+    const s = document.createElement('div');
+    s.style.cssText = 'position:absolute;top:297mm;left:0;height:0;pointer-events:none;';
+    page.appendChild(s);
+    const y = s.getBoundingClientRect().top;
+    page.removeChild(s);
+    return y;
+}
+
+function _colOverflows(col, lim) {
+    return col.getBoundingClientRect().bottom > lim + 3;
+}
+
+function _setFontSizes(page, pt) {
+    const sel = '.fl-section-text,.fl-section-ref,.fl-parola,.fl-ritornello,' +
+                '.fl-alleluia,.fl-section-title,.fl-section-ref-inline';
+    page.querySelectorAll(sel).forEach(el => {
+        el.style.fontSize = pt ? pt + 'pt' : '';
+    });
+}
+
+let _adjustGen = 0;
+
+async function adjustPage1Layout() {
+    const gen = ++_adjustGen;
+    document.querySelectorAll('.foglietto-page-overflow').forEach(p => p.remove());
+    await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+    if (gen !== _adjustGen) return;
+
+    const page = document.getElementById('page-1');
+    const colL = page.querySelector('.fl-col-left');
+    const colR = page.querySelector('.fl-col-right');
+    if (!colL || !colR) return;
+
+    // Da 12pt (massimo) scende fino a 6.6pt (minimo): restituisce il massimo che entra
+    const SIZES = [12, 11.5, 11, 10.5, 10, 9.5, 9, 8.5, 8, 7.8, 7.5, 7.2, 6.9, 6.6];
+
+    async function fits() {
+        await new Promise(r => requestAnimationFrame(r));
+        if (gen !== _adjustGen) return true;
+        const lim = _pageLimitY(page);
+        return !_colOverflows(colL, lim) && !_colOverflows(colR, lim);
+    }
+
+    // 1. Trova la dimensione massima che entra
+    for (const sz of SIZES) {
+        _setFontSizes(page, sz);
+        if (await fits()) return;
+    }
+
+    // 2. Sposta sezioni dalla colonna sinistra alla destra (max 2 passaggi)
+    for (let pass = 0; pass < 2; pass++) {
+        if (gen !== _adjustGen) return;
+        const leftSecs = [...colL.querySelectorAll('.fl-section')];
+        if (leftSecs.length <= 1) break;
+        colR.insertBefore(leftSecs[leftSecs.length - 1], colR.firstChild);
+        for (const sz of SIZES) {
+            _setFontSizes(page, sz);
+            if (await fits()) return;
+        }
+    }
+
+    // 3. Pagina aggiuntiva per overflow residuo
+    if (gen !== _adjustGen) return;
+    await new Promise(r => requestAnimationFrame(r));
+    const finalLim = _pageLimitY(page);
+    if (_colOverflows(colR, finalLim)) {
+        const rightSecs = [...colR.querySelectorAll('.fl-section')];
+        const toMove = rightSecs.filter(s => s.getBoundingClientRect().bottom > finalLim + 3);
+        if (toMove.length) {
+            const ovPage = document.createElement('div');
+            ovPage.className = 'foglietto-page foglietto-page-overflow';
+            toMove.forEach(s => ovPage.appendChild(s));
+            page.insertAdjacentElement('afterend', ovPage);
+        }
+    }
 }
 
 /* ════════════════════════════════════════════════════════

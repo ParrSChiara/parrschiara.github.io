@@ -7,26 +7,27 @@
     {
       "sigla": "Is 61,10-11",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 61,10-11",
-      "tipo": "lettura",
-      "testo": "10 Io gioisco pienamente nel Signore, la mia anima esulta nel mio Dio, perché mi ha rivestito delle vesti della salvezza, mi ha avvolto con il mantello della giustizia, come uno sposo si mette il diadema e come una sposa si adorna di gioielli. 11 Poiché, come la terra produce i suoi germogli e come un giardino fa germogliare i suoi semi, così il Signore Dio farà germogliare la giustizia e la lode davanti a tutte le genti."
+      "tipo": "prima_lettura",
+      "testo": "Sarà famosa tra le genti la loro stirpe,\nla loro discendenza in mezzo ai popoli.\nColoro che li vedranno riconosceranno\nche essi sono la stirpe benedetta dal Signore.\nIo gioisco pienamente nel Signore,\nla mia anima esulta nel mio Dio,\nperché mi ha rivestito delle vesti della salvezza,\nmi ha avvolto con il mantello della giustizia,\ncome uno sposo si mette il diadema\ne come una sposa si adorna di gioielli.\nPoiché, come la terra produce i suoi germogli\ne come un giardino fa germogliare i suoi semi,\ncosì il Signore Dio farà germogliare la giustizia\ne la lode davanti a tutte le genti."
     },
     {
       "sigla": "1Sam 2,1.4-8",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Sam 2,1.4-8",
-      "tipo": "lettura",
-      "testo": "«Il mio cuore esulta nel Signore, la mia forza s'innalza grazie al mio Dio. Si apre la mia bocca contro i miei nemici, perché io gioisco per la tua salvezza. 4 L'arco dei forti s'è spezzato, ma i deboli si sono rivestiti di vigore. 5 I sazi si sono venduti per un pane, hanno smesso di farlo gli affamati. La sterile ha partorito sette volte e la ricca di figli è sfiorita. 6 Il Signore fa morire e fa vivere, scendere agli inferi e risalire. 7 Il Signore rende povero e arricchisce, abbassa ed esalta. 8 Solleva dalla polvere il debole, dall'immondizia rialza il povero, per farli sedere con i nobili e assegnare loro un trono di gloria. Perché al Signore appartengono i cardini della terra e su di essi egli poggia il mondo."
+      "tipo": "salmo",
+      "testo": "R. Il mio cuore esulta nel Signore, mio salvatore.\n\nIl mio cuore esulta nel Signore,\nla mia forza s’innalza grazie al mio Dio.\nSi apre la mia bocca contro i miei nemici,\nperché io gioisco per la tua salvezza.\n\nL’arco dei forti s’è spezzato,\nma i deboli si sono rivestiti di vigore.\nI sazi si sono venduti per un pane,\nhanno smesso di farlo gli affamati.\nLa sterile ha partorito sette volte\ne la ricca di figli è sfiorita.\n\nIl Signore fa morire e fa vivere,\nscendere agli inferi e risalire.\nIl Signore rende povero e arricchisce,\nabbassa ed esalta.\n\nSolleva dalla polvere il debole,\ndall’immondizia rialza il povero,\nper farli sedere con i nobili\ne assegnare loro un trono di gloria.",
+      "ritornello": "R. Il mio cuore esulta nel Signore, mio salvatore."
     },
     {
       "sigla": "Lc 2,19",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 2,19",
-      "tipo": "lettura",
-      "testo": "19 Maria, da parte sua, custodiva il ricordo di tutti questi fatti e li meditava dentro di sé."
+      "tipo": "canto_vangelo",
+      "testo": "Beata la Vergine Maria: custodiva la parola di Dio, meditandola nel suo cuore."
     },
     {
       "sigla": "Lc 2,41-51",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 2,41-51",
-      "tipo": "lettura",
-      "testo": "51 Partì dunque con loro e tornò a Nazaret e stava loro sottomesso. Sua madre serbava tutte queste cose nel suo cuore."
+      "tipo": "vangelo",
+      "testo": "I genitori di Gesù si recavano ogni anno a Gerusalemme per la festa di Pasqua. Quando egli ebbe dodici anni, vi salirono secondo la consuetudine della festa. Ma, trascorsi i giorni, mentre riprendevano la via del ritorno, il fanciullo Gesù rimase a Gerusalemme, senza che i genitori se ne accorgessero. Credendo che egli fosse nella comitiva, fecero una giornata di viaggio, e poi si misero a cercarlo tra i parenti e i conoscenti; non avendolo trovato, tornarono in cerca di lui a Gerusalemme.\nDopo tre giorni lo trovarono nel tempio, seduto in mezzo ai maestri, mentre li ascoltava e li interrogava. E tutti quelli che l’udivano erano pieni di stupore per la sua intelligenza e le sue risposte.\nAl vederlo restarono stupiti, e sua madre gli disse: «Figlio, perché ci hai fatto questo? Ecco, tuo padre e io, angosciati, ti cercavamo». Ed egli rispose loro: «Perché mi cercavate? Non sapevate che io devo occuparmi delle cose del Padre mio?». Ma essi non compresero ciò che aveva detto loro.\nScese dunque con loro e venne a Nàzaret e stava loro sottomesso. Sua madre custodiva tutte queste cose nel suo cuore."
     }
   ]
 }

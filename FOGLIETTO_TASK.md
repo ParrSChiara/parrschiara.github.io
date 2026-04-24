@@ -42,54 +42,46 @@ Aggiungere al sito `parrschiara.github.io` una pagina web (`foglietto.html`) che
 ## Cose da fare
 
 ### 1. Modifica `scraper.py`
-- [ ] Aggiungere il fetch del testo integrale di ogni lettura dall'URL `bibbia.php` già presente nel JSON
-- [ ] Salvare il testo nel campo `testo` di ogni lettura in `assets/liturgia/YYYYMMDD.json`
-- [ ] Gestire la struttura: Prima Lettura, Salmo (con ritornello), Seconda Lettura, Canto dal Vangelo, Vangelo
-- [ ] I file JSON già esistenti non vanno rigenerati (lo scraper già li salta se presenti) — aggiungere un flag `--force` opzionale per rigenerare
+- [x] Aggiungere il fetch del testo integrale di ogni lettura dall'URL `bibbia.php` già presente nel JSON
+- [x] Salvare il testo nel campo `testo` di ogni lettura in `assets/liturgia/YYYYMMDD.json`
+- [x] Gestire la struttura: Prima Lettura, Salmo (con ritornello), Seconda Lettura, Canto dal Vangelo, Vangelo
+- [x] Flag `--force` per rigenerare file già esistenti
+- [x] Flag `--no-text` e `--fix-version`
+- [x] **Estrazione inline** per tutte le letture (non solo salmo): `_extract_reading_inline(section_div)` legge `div.section-content-testo` dalla pagina del calendario, più affidabile di bibbia.php (evita troncature da `<p>` annidati HTML malformato). Fallback su bibbia.php se il div è assente.
+- [x] **Bug fix**: seconda lettura 2026-04-26 troncata — causa: bibbia.php ha `<p>` annidati che il filtro `if el.find(["p","table","div"]): continue` eliminava il contenitore con i vv. 20-21. Risolto con estrazione inline.
+- [x] **Bug fix**: canto dal vangelo mancante — la sezione usa `div.section-content` (non `section-content-testo`): il verso è in un `<p>` insieme a "Alleluia, alleluia." e "Alleluia.". `_extract_reading_inline` ora gestisce questo caso estraendo il testo e filtrando le acclamazioni.
 
 ### 2. Aggiornare il GitHub Action
-- [ ] Verificare che il workflow `update_liturgia.yml` continui a funzionare con il nuovo scraper
-- [ ] Aggiornare `requirements.txt` se servono nuove dipendenze
+- [x] Workflow `update_liturgia.yml` compatibile con lo scraper aggiornato (nessuna nuova dipendenza aggiunta)
 
 ### 3. Creare `assets/foglietto/appuntamenti_fissi.json`
-- [ ] Copiare e adattare il file da `/Users/AndreaValenziano/Documents/parr/foglietto_settimanale/appuntamenti_fissi.json`
-- [ ] Struttura per giorno: `orario`, `descrizione`, `chiesa`, `intenzione` (null = da inserire), `fisso`, `sospeso`
-- [ ] Campo `sospeso: true` per sospendere temporaneamente appuntamenti fissi (es. durante la Novena)
+- [x] File creato con struttura: `{ giorni: [{ giorno, appuntamenti: [{ orario, descrizione, chiesa, intenzione, fisso, sospeso }] }], note_permanenti: { confessioni, whatsapp_community } }`
+- [x] Campo `sospeso: true` per sospendere appuntamenti fissi
+- [x] Campo `intenzione: null` per messe con intenzione da inserire manualmente
 
 ### 4. Creare `assets/foglietto/foglietto.css`
-- [ ] Layout pagina 1: intestazione full-width + due colonne per le letture + testo data verticale sul lato sinistro
-- [ ] Layout pagina 2: tabella calendario a due colonne (giorno+data | appuntamenti)
-- [ ] Font: serif per le letture, sans-serif per il calendario
-- [ ] Stile citazioni bibliche: corsivo, riferimento tra parentesi
-- [ ] Orari in grassetto nel calendario
-- [ ] Media print: nascondere UI, mostrare solo le due pagine A4
+- [x] Layout pagina 1: intestazione 3 colonne (parrocchia | logo | chiese filiali), etichetta data verticale, due colonne letture
+- [x] Layout pagina 2: tabella calendario (giorno+data | appuntamenti), footer confessioni/avvisi/whatsapp
+- [x] Font: Times New Roman per letture, stesso per calendario (A4 compatto)
+- [x] `@media print`: nasconde UI, pagine A4 esatte, `page-break-after: always`
+- [x] Indicatore visivo fine pagina (`::after` dashed) visibile solo a schermo
 
 ### 5. Creare `foglietto.html`
-Pagina web con tre sezioni:
+- [x] **Sezione A**: date picker domenica → fetch `assets/liturgia/YYYYMMDD.json`, chip colore liturgico
+- [x] **Sezione B**: form letture (solo info, editing in anteprima), textarea Preghiera dei Fedeli, form calendario con appuntamenti fissi/variabili, checkbox sospeso, campo intenzione inline
+- [x] **Sezione C**: anteprima pagina 1 (letture) + pagina 2 (calendario), `contenteditable`, pulsante stampa
+- [x] Algoritmo overflow pagina 1: riduzione font 7.8→6.6pt, spostamento sezioni sx→dx, pagina extra `.foglietto-page-overflow`
+- [x] **Fix rendering salmo**: `readingText()` per salmo usa `\n\n` per strofe (ogni strofa = `<p>`), `\n` → `<br>` dentro la strofa
+- [x] **Fix spacing letture**: paragrafi con `margin-bottom:0` per ridurre spazio verticale
 
-**Sezione A — Selezione domenica**
-- Date picker (solo domeniche selezionabili)
-- Al cambio data: fetch automatico di `assets/liturgia/YYYYMMDD.json`
-- Mostra titolo domenica e colore liturgico
+### 6. Accesso al foglietto
+- [x] Nessun link pubblico in `index.html` — accesso solo conoscendo l'URL diretto `foglietto.html` (sicurezza per oscurità, sufficiente per uso interno parrocchiale)
+- [x] Rimosso il pulsante "Genera Foglietto" da `index.html`
 
-**Sezione B — Compilazione**
-- Letture pre-compilate (testo già estratto dallo scraper) — modificabili
-- Textarea per la Preghiera dei Fedeli
-- Tabella calendario con:
-  - Righe pre-compilate dagli appuntamenti fissi (da `appuntamenti_fissi.json`)
-  - Per ogni riga con `intenzione: null`: campo testo inline per inserire "per Mario", "per i defunti..."
-  - Per ogni giorno: pulsante "+ Aggiungi appuntamento" per eventi variabili
-  - Checkbox per sospendere un appuntamento fisso (override temporaneo del campo `sospeso`)
-- Campo avvisi speciali (textarea, opzionale)
-
-**Sezione C — Anteprima e stampa**
-- Preview del foglietto formattato (fedele al layout PDF originale)
-- Testo nell'anteprima modificabile inline (`contenteditable`)
-- Pulsante "Stampa / Salva come PDF" → `window.print()`
-
-### 6. Aggiungere link nella navigazione del sito
-- [ ] Aggiungere voce "Foglietto" (o icona) in `index.html` che punta a `foglietto.html`
-- [ ] Accesso protetto opzionale (es. password semplice in localStorage) se si vuole evitare accessi non autorizzati
+### 7. Scaling font automatico pagina 1
+- [x] `adjustPage1Layout()` parte da 12pt e scende fino a 6.6pt: trova il massimo che entra invece di partire sempre da 7.8pt
+- [x] `SIZES = [12, 11.5, 11, 10.5, 10, 9.5, 9, 8.5, 8, 7.8, 7.5, 7.2, 6.9, 6.6]`
+- [x] `#ce-preghiera { min-height: 35mm }` in foglietto.css — riserva spazio per la Preghiera dei Fedeli anche quando vuota, evitando che il font cresca eccessivamente e poi collassi quando si aggiunge il testo
 
 ---
 

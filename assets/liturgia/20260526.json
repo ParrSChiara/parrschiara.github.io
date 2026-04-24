@@ -7,26 +7,27 @@
     {
       "sigla": "1Pt 1,10-16",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Pt 1,10-16",
-      "tipo": "lettura",
-      "testo": "13 Perciò, cingendo i fianchi della vostra mente e restando sobri, ponete tutta la vostra speranza in quella grazia che vi sarà data quando Gesù Cristo si manifesterà. 14 Come figli obbedienti, non conformatevi ai desideri di un tempo, quando eravate nell'ignoranza, 15 ma, come il Santo che vi ha chiamati, diventate santi anche voi in tutta la vostra condotta. 16 Poiché sta scritto: Sarete santi, perché io sono santo ."
+      "tipo": "prima_lettura",
+      "testo": "Carissimi, sulla salvezza indagarono e scrutarono i profeti, che preannunciavano la grazia a voi destinata; essi cercavano di sapere quale momento o quali circostanze indicasse lo Spirito di Cristo che era in loro, quando prediceva le sofferenze destinate a Cristo e le glorie che le avrebbero seguite. A loro fu rivelato che, non per se stessi, ma per voi erano servitori di quelle cose che ora vi sono annunciate per mezzo di coloro che vi hanno portato il Vangelo mediante lo Spirito Santo, mandato dal cielo: cose nelle quali gli angeli desiderano fissare lo sguardo.\nPerciò, cingendo i fianchi della vostra mente e restando sobri, ponete tutta la vostra speranza in quella grazia che vi sarà data quando Gesù Cristo si manifesterà. Come figli obbedienti, non conformatevi ai desideri di un tempo, quando eravate nell’ignoranza, ma, come il Santo che vi ha chiamati, diventate santi anche voi in tutta la vostra condotta. Poiché sta scritto: «Sarete santi, perché io sono santo»."
     },
     {
       "sigla": "Sal 97",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 97",
-      "tipo": "lettura",
-      "testo": "1 Il Signore regna: esulti la terra, gioiscano le isole tutte.\n2 Nubi e tenebre lo avvolgono, giustizia e diritto sostengono il suo trono.\n3 Un fuoco cammina davanti a lui e brucia tutt'intorno i suoi nemici.\n4 Le sue folgori rischiarano il mondo: vede e trema la terra.\n5 I monti fondono come cera davanti al Signore, davanti al Signore di tutta la terra.\n6 Annunciano i cieli la sua giustizia, e tutti i popoli vedono la sua gloria.\n7 Si vergognino tutti gli adoratori di statue e chi si vanta del nulla degli idoli. A lui si prostrino tutti gli dèi!\n8 Ascolti Sion e ne gioisca, esultino i villaggi di Giuda a causa dei tuoi giudizi, Signore.\n9 Perché tu, Signore, sei l'Altissimo su tutta la terra, eccelso su tutti gli dèi.\n10 Odiate il male, voi che amate il Signore: egli custodisce la vita dei suoi fedeli, li libererà dalle mani dei malvagi.\n11 Una luce è spuntata per il giusto, una gioia per i retti di cuore."
+      "tipo": "salmo",
+      "testo": "R. Il Signore ha rivelato la sua giustizia.\n\nCantate al Signore un canto nuovo,\nperché ha compiuto meraviglie.\nGli ha dato vittoria la sua destra\ne il suo braccio santo.\n\nIl Signore ha fatto conoscere la sua salvezza,\nagli occhi delle genti ha rivelato la sua giustizia.\nEgli si è ricordato del suo amore,\ndella sua fedeltà alla casa d’Israele.\n\nTutti i confini della terra hanno veduto\nla vittoria del nostro Dio.\nAcclami il Signore tutta la terra,\ngridate, esultate, cantate inni!",
+      "ritornello": "R. Il Signore ha rivelato la sua giustizia."
     },
     {
       "sigla": "Mt 11,25",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,25",
-      "tipo": "lettura",
-      "testo": "25 In quel tempo Gesù disse: «Ti rendo lode, Padre, Signore del cielo e della terra, perché hai nascosto queste cose ai sapienti e ai dotti e le hai rivelate ai piccoli."
+      "tipo": "canto_vangelo",
+      "testo": "Ti rendo lode, Padre, Signore del cielo e della terra, perché ai piccoli hai rivelato i misteri del Regno."
     },
     {
       "sigla": "Mc 10,28-31",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 10,28-31",
-      "tipo": "lettura",
-      "testo": "28 Pietro allora gli disse: «Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito». 29 Gesù gli rispose: «In verità vi dico: non c'è nessuno che abbia lasciato casa o fratelli o sorelle o madre o padre o figli o campi a causa mia e a causa del vangelo, 30 che non riceva gia al presente cento volte tanto in case e fratelli e sorelle e madri e figli e campi, insieme a persecuzioni, e nel futuro la vita eterna. 31 E molti dei primi saranno ultimi e gli ultimi i primi»."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, Pietro prese a dire a Gesù: «Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito».\nGesù gli rispose: «In verità io vi dico: non c’è nessuno che abbia lasciato casa o fratelli o sorelle o madre o padre o figli o campi per causa mia e per causa del Vangelo, che non riceva già ora, in questo tempo, cento volte tanto in case e fratelli e sorelle e madri e figli e campi, insieme a persecuzioni, e la vita eterna nel tempo che verrà. Molti dei primi saranno ultimi e gli ultimi saranno primi»."
     }
   ]
 }

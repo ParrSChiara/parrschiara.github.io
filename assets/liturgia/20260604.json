@@ -7,25 +7,27 @@
     {
       "sigla": "2Tm 2,8-15",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Tm 2,8-15",
-      "tipo": "lettura",
-      "testo": "Se moriamo con lui, con lui anche vivremo; 12 se perseveriamo, con lui anche regneremo; se lo rinneghiamo, lui pure ci rinnegherà; 13 se siamo infedeli, lui rimane fedele, perché non può rinnegare se stesso.\n14 Richiama alla memoria queste cose, scongiurando davanti a Dio che si evitino le vane discussioni, le quali non giovano a nulla se non alla rovina di chi le ascolta. 15 Sfòrzati di presentarti a Dio come una persona degna, un lavoratore che non deve vergognarsi e che dispensa rettamente la parola della verità."
+      "tipo": "prima_lettura",
+      "testo": "Figlio mio,\nricòrdati di Gesù Cristo,\nrisorto dai morti,\ndiscendente di Davide,\ncome io annuncio nel mio Vangelo,\nper il quale soffro\nfino a portare le catene come un malfattore.\nMa la parola di Dio non è incatenata! Perciò io sopporto ogni cosa per quelli che Dio ha scelto, perché anch’essi raggiungano la salvezza che è in Cristo Gesù, insieme alla gloria eterna. Questa parola è degna di fede:\nSe moriamo con lui, con lui anche vivremo;\nse perseveriamo, con lui anche regneremo;\nse lo rinneghiamo, lui pure ci rinnegherà;\nse siamo infedeli, lui rimane fedele,\nperché non può rinnegare se stesso.\nRichiama alla memoria queste cose, scongiurando davanti a Dio che si evitino le vane discussioni, le quali non giovano a nulla se non alla rovina di chi le ascolta. Sfòrzati di presentarti a Dio come una persona degna, un lavoratore che non deve vergognarsi e che dispensa rettamente la parola della verità."
     },
     {
       "sigla": "Sal 24",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 24",
-      "tipo": "lettura",
-      "testo": "Del Signore è la terra e quanto contiene: il mondo, con i suoi abitanti.\n2 È lui che l'ha fondato sui mari e sui fiumi l'ha stabilito.\n3 Chi potrà salire il monte del Signore? Chi potrà stare nel suo luogo santo?\n4 Chi ha mani innocenti e cuore puro, chi non si rivolge agli idoli, chi non giura con inganno.\n5 Egli otterrà benedizione dal Signore, giustizia da Dio sua salvezza.\n7 Alzate, o porte, la vostra fronte, alzatevi, soglie antiche, ed entri il re della gloria.\n8 Chi è questo re della gloria? Il Signore forte e valoroso, il Signore valoroso in battaglia.\n9 Alzate, o porte, la vostra fronte, alzatevi, soglie antiche, ed entri il re della gloria."
+      "tipo": "salmo",
+      "testo": "R. Fammi conoscere, Signore, le tue vie.\n\nFammi conoscere, Signore, le tue vie,\ninsegnami i tuoi sentieri.\nGuidami nella tua fedeltà e istruiscimi,\nperché sei tu il Dio della mia salvezza.\n\nBuono e retto è il Signore,\nindica ai peccatori la via giusta;\nguida i poveri secondo giustizia,\ninsegna ai poveri la sua via.\n\nTutti i sentieri del Signore sono amore e fedeltà\nper chi custodisce la sua alleanza e i suoi precetti.\nIl Signore si confida con chi lo teme:\ngli fa conoscere la sua alleanza.",
+      "ritornello": "R. Fammi conoscere, Signore, le tue vie."
     },
     {
       "sigla": "2Tm 1,10",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Tm 1,10",
-      "tipo": "lettura"
+      "tipo": "canto_vangelo",
+      "testo": "Il salvatore nostro Cristo Gesù ha vinto la morte e ha fatto risplendere la vita per mezzo del Vangelo."
     },
     {
       "sigla": "Mc 12,28-34",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 12,28-34",
-      "tipo": "lettura",
-      "testo": "28 Allora si avvicinò a lui uno degli scribi che li aveva uditi discutere e, visto come aveva ben risposto a loro, gli domandò: «Qual è il primo di tutti i comandamenti?». 29 Gesù rispose: «Il primo è: Ascolta, Israele! Il Signore nostro Dio è l'unico Signore ; 30 amerai il Signore tuo Dio con tutto il tuo cuore e con tutta la tua anima, con tutta la tua mente e con tutta la tua forza . 31 Il secondo è questo: Amerai il tuo prossimo come te stesso . Non c'è altro comandamento più grande di questi». 32 Lo scriba gli disse: «Hai detto bene, Maestro, e secondo verità, che Egli è unico e non vi è altri all'infuori di lui ; 33 amarlo con tutto il cuore, con tutta l'intelligenza e con tutta la forza e amare il prossimo come se stesso vale più di tutti gli olocausti e i sacrifici». 34 Vedendo che egli aveva risposto saggiamente, Gesù gli disse: «Non sei lontano dal regno di Dio». E nessuno aveva più il coraggio di interrogarlo."
+      "tipo": "vangelo",
+      "testo": "Gesù rispose: «Il primo è: “Ascolta, Israele! Il Signore nostro Dio è l’unico Signore; amerai il Signore tuo Dio con tutto il tuo cuore e con tutta la tua anima, con tutta la tua mente e con tutta la tua forza”. Il secondo è questo: “Amerai il tuo prossimo come te stesso”. Non c’è altro comandamento più grande di questi».\nLo scriba gli disse: «Hai detto bene, Maestro, e secondo verità, che Egli è unico e non vi è altri all’infuori di lui; amarlo con tutto il cuore, con tutta l’intelligenza e con tutta la forza e amare il prossimo come se stesso vale più di tutti gli olocausti e i sacrifici».\nVedendo che egli aveva risposto saggiamente, Gesù gli disse: «Non sei lontano dal regno di Dio».\nE nessuno aveva più il coraggio di interrogarlo."
     }
   ]
 }

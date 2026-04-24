@@ -7,31 +7,33 @@
     {
       "sigla": "Dt 8,2-3.14-16",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Dt 8,2-3.14-16",
-      "tipo": "lettura",
-      "testo": "2 'Ricordati di tutto il cammino che il Signore, tuo Dio, ti ha fatto percorrere in questi quarant'anni nel deserto. Egli ti ha posto in una situazione difficile e ti ha messo alla prova, per conoscere se avevi o no l'intenzione di osservare i suoi comandi. 3 'In quella situazione difficile ti ha fatto provare la fame; poi ti ha nutrito con la manna: tu non sapevi cos'era, e neppure i tuoi padri l'avevano mai conosciuta. Il Signore voleva farti capire che l'uomo non vive soltanto di pane, ma che egli vive della parola del Signore. 14 non succeda che il tuo cuore si esalti e tu dimentichi il Signore, tuo Dio: egli ti ha fatto uscire dall'Egitto dove eri schiavo; 15 egli ti ha condotto per questo deserto grande e spaventoso, luogo di serpenti velenosi e di scorpioni, terra arida e senz'acqua; egli ha fatto scaturire per te l'acqua dalla roccia durissima; 16 egli ti ha dato da mangiare nel deserto la manna, che i tuoi padri non conoscevano. 'Il Signore ti ha posto in questa situazione difficile e ti ha messo alla prova, ma alla fine ti darà un avvenire felice."
+      "tipo": "prima_lettura",
+      "testo": "Mosè parlò al popolo dicendo:\n«Ricòrdati di tutto il cammino che il Signore, tuo Dio, ti ha fatto percorrere in questi quarant’anni nel deserto, per umiliarti e metterti alla prova, per sapere quello che avevi nel cuore, se tu avresti osservato o no i suoi comandi.\nEgli dunque ti ha umiliato, ti ha fatto provare la fame, poi ti ha nutrito di manna, che tu non conoscevi e che i tuoi padri non avevano mai conosciuto, per farti capire che l’uomo non vive soltanto di pane, ma che l’uomo vive di quanto esce dalla bocca del Signore.\nNon dimenticare il Signore, tuo Dio, che ti ha fatto uscire dalla terra d’Egitto, dalla condizione servile; che ti ha condotto per questo deserto grande e spaventoso, luogo di serpenti velenosi e di scorpioni, terra assetata, senz’acqua; che ha fatto sgorgare per te l’acqua dalla roccia durissima; che nel deserto ti ha nutrito di manna sconosciuta ai tuoi padri»."
     },
     {
       "sigla": "Sal 147",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 147",
-      "tipo": "lettura",
-      "testo": "È bello cantare inni al nostro Dio, è dolce innalzare la lode.\n2 Il Signore ricostruisce Gerusalemme, raduna i dispersi d'Israele;\n3 risana i cuori affranti e fascia le loro ferite.\n4 Egli conta il numero delle stelle e chiama ciascuna per nome.\n5 Grande è il Signore nostro, grande nella sua potenza; la sua sapienza non si può calcolare.\n6 Il Signore sostiene i poveri, ma abbassa fino a terra i malvagi.\n7 Intonate al Signore un canto di grazie, sulla cetra cantate inni al nostro Dio.\n8 Egli copre il cielo di nubi, prepara la pioggia per la terra, fa germogliare l'erba sui monti,\n9 provvede il cibo al bestiame, ai piccoli del corvo che gridano.\n10 Non apprezza il vigore del cavallo, non gradisce la corsa dell'uomo.\n11 Al Signore è gradito chi lo teme, chi spera nel suo amore.\n12 (147,1) Celebra il Signore, Gerusalemme, loda il tuo Dio, Sion,\n13 (147,2) perché ha rinforzato le sbarre delle tue porte, in mezzo a te ha benedetto i tuoi figli.\n14 (147,3) Egli mette pace nei tuoi confini e ti sazia con fiore di frumento.\n15 (147,4) Manda sulla terra il suo messaggio: la sua parola corre veloce.\n16 (147,5) Fa scendere la neve come lana, come polvere sparge la brina,\n17 (147,6) getta come briciole la grandine: di fronte al suo gelo chi resiste?\n18 (147,7) Manda la sua parola ed ecco le scioglie, fa soffiare il suo vento e scorrono le acque.\n19 (147,8) Annuncia a Giacobbe la sua parola, i suoi decreti e i suoi giudizi a Israele.\n20 (147,9) Così non ha fatto con nessun'altra nazione, non ha fatto conoscere loro i suoi giudizi. Alleluia."
+      "tipo": "salmo",
+      "testo": "R. Loda il Signore, Gerusalemme.\n\nCelebra il Signore, Gerusalemme,\nloda il tuo Dio, Sion,\nperché ha rinforzato le sbarre delle tue porte,\nin mezzo a te ha benedetto i tuoi figli.\n\nEgli mette pace nei tuoi confini\ne ti sazia con fiore di frumento.\nManda sulla terra il suo messaggio:\nla sua parola corre veloce.\n\nAnnuncia a Giacobbe la sua parola,\ni suoi decreti e i suoi giudizi a Israele.\nCosì non ha fatto con nessun’altra nazione,\nnon ha fatto conoscere loro i suoi giudizi.",
+      "ritornello": "R. Loda il Signore, Gerusalemme."
     },
     {
       "sigla": "1Cor 10,16-17",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 10,16-17",
-      "tipo": "lettura"
+      "tipo": "seconda_lettura",
+      "testo": "Fratelli, il calice della benedizione che noi benediciamo, non è forse comunione con il sangue di Cristo? E il pane che noi spezziamo, non è forse comunione con il corpo di Cristo?\nPoiché vi è un solo pane, noi siamo, benché molti, un solo corpo: tutti infatti partecipiamo all’unico pane."
     },
     {
       "sigla": "Gv 6,51",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 6,51",
-      "tipo": "lettura",
-      "testo": "51 Io sono il pane, quello vivo, venuto dal cielo. Se uno mangia di questo pane vivrà per sempre. Il pane che io gli darò è il mio corpo, dato perché il mondo abbia la vita."
+      "tipo": "canto_vangelo",
+      "testo": "Io sono il pane vivo, disceso dal cielo, dice il Signore, se uno mangia di questo pane vivrà in eterno."
     },
     {
       "sigla": "Gv 6,51-58",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 6,51-58",
-      "tipo": "lettura",
-      "testo": "52 Allora i Giudei si misero a discutere tra di loro: «Come può costui darci la sua carne da mangiare?». 53 Gesù disse: «In verità, in verità vi dico: se non mangiate la carne del Figlio dell'uomo e non bevete il suo sangue, non avrete in voi la vita. 54 Chi mangia la mia carne e beve il mio sangue ha la vita eterna e io lo risusciterò nell'ultimo giorno. 55 Perché la mia carne è vero cibo e il mio sangue vera bevanda. 56 Chi mangia la mia carne e beve il mio sangue dimora in me e io in lui. 57 Come il Padre, che ha la vita, ha mandato me e io vivo per il Padre, così anche colui che mangia di me vivrà per me. 58 Questo è il pane disceso dal cielo, non come quello che mangiarono i padri vostri e morirono. Chi mangia questo pane vivrà in eterno»."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, Gesù disse alla folla:\n«Io sono il pane vivo, disceso dal cielo. Se uno mangia di questo pane vivrà in eterno e il pane che io darò è la mia carne per la vita del mondo».\nAllora i Giudei si misero a discutere aspramente fra loro: «Come può costui darci la sua carne da mangiare?».\nGesù disse loro: «In verità, in verità io vi dico: se non mangiate la carne del Figlio dell’uomo e non bevete il suo sangue, non avete in voi la vita. Chi mangia la mia carne e beve il mio sangue ha la vita eterna e io lo risusciterò nell’ultimo giorno. Perché la mia carne è vero cibo e il mio sangue vera bevanda.\nChi mangia la mia carne e beve il mio sangue rimane in me e io in lui. Come il Padre, che ha la vita, ha mandato me e io vivo per il Padre, così anche colui che mangia me vivrà per me. Questo è il pane disceso dal cielo; non è come quello che mangiarono i padri e morirono. Chi mangia questo pane vivrà in eterno»."
     }
   ]
 }

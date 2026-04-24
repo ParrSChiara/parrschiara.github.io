@@ -7,26 +7,27 @@
     {
       "sigla": "1Re 17,1-6",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Re 17,1-6",
-      "tipo": "lettura",
-      "testo": "1 Elia, il Tisbita, uno di quelli che si erano stabiliti in Gàlaad, disse ad Acab: «Per la vita del Signore, Dio d'Israele, alla cui presenza io sto, in questi anni non ci sarà né rugiada né pioggia, se non quando lo comanderò io». 2 A lui fu rivolta questa parola del Signore: 3 «Vattene di qui, dirigiti verso oriente; nasconditi presso il torrente Cherìt, che è a oriente del Giordano. 4 Berrai dal torrente e i corvi per mio comando ti porteranno da mangiare». 5 Egli partì e fece secondo la parola del Signore; andò a stabilirsi accanto al torrente Cherìt, che è a oriente del Giordano. 6 I corvi gli portavano pane e carne al mattino, e pane e carne alla sera; egli beveva dal torrente."
+      "tipo": "prima_lettura",
+      "testo": "In quei giorni, Elìa, il Tisbita, uno di quelli che si erano stabiliti in Gàlaad, disse ad Acab: «Per la vita del Signore, Dio d’Israele, alla cui presenza io sto, in questi anni non ci sarà né rugiada né pioggia, se non quando lo comanderò io».\nA lui fu rivolta questa parola del Signore: «Vattene di qui, dirigiti verso oriente; nasconditi presso il torrente Cherìt, che è a oriente del Giordano. Berrai dal torrente e i corvi per mio comando ti porteranno da mangiare».\nEgli partì e fece secondo la parola del Signore; andò a stabilirsi accanto al torrente Cherìt, che è a oriente del Giordano. I corvi gli portavano pane e carne al mattino, e pane e carne alla sera; egli beveva dal torrente."
     },
     {
       "sigla": "Sal 120",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 120",
-      "tipo": "lettura",
-      "testo": "Nella mia angoscia ho gridato al Signore ed egli mi ha risposto.\n2 Signore, libera la mia vita dalle labbra bugiarde, dalla lingua ingannatrice.\n3 Che cosa ti darà, come ti ripagherà, o lingua ingannatrice?\n4 Frecce acute di un prode con braci ardenti di ginestra!\n5 Ahimè, io abito straniero in Mesec, dimoro fra le tende di Kedar!\n6 Troppo tempo ho abitato con chi detesta la pace."
+      "tipo": "salmo",
+      "testo": "R. Il mio aiuto viene dal Signore: egli ha fatto cielo e terra.\n\nAlzo gli occhi verso i monti:\nda dove mi verrà l’aiuto?\nIl mio aiuto viene dal Signore:\negli ha fatto cielo e terra.\n\nNon lascerà vacillare il tuo piede,\nnon si addormenterà il tuo custode.\nNon si addormenterà, non prenderà sonno\nil custode d’Israele.\n\nIl Signore è il tuo custode,\nil Signore è la tua ombra\ne sta alla tua destra.\nDi giorno non ti colpirà il sole,\nné la luna di notte.\n\nIl Signore ti custodirà da ogni male:\negli custodirà la tua vita.\nIl Signore ti custodirà quando esci e quando entri,\nda ora e per sempre.",
+      "ritornello": "R. Il mio aiuto viene dal Signore: egli ha fatto cielo e terra."
     },
     {
       "sigla": "Mt 5,12",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 5,12",
-      "tipo": "lettura",
-      "testo": "12 Siate lieti e contenti, perché Dio vi ha preparato in cielo una grande ricompensa: infatti, prima di voi, anche i profeti furono perseguitati."
+      "tipo": "canto_vangelo",
+      "testo": "Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli."
     },
     {
       "sigla": "Mt 5,1-12",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 5,1-12",
-      "tipo": "lettura",
-      "testo": "1 Vedendo le folle, Gesù salì sul monte: si pose a sedere e si avvicinarono a lui i suoi discepoli. 2 Si mise a parlare e insegnava loro dicendo:\n3 «Beati i poveri in spirito, perché di essi è il regno dei cieli. 4 Beati quelli che sono nel pianto, perché saranno consolati. 5 Beati i miti, perché avranno in eredità la terra. 6 Beati quelli che hanno fame e sete della giustizia, perché saranno saziati. 7 Beati i misericordiosi, perché troveranno misericordia. 8 Beati i puri di cuore, perché vedranno Dio. 9 Beati gli operatori di pace, perché saranno chiamati figli di Dio. 10 Beati i perseguitati per la giustizia, perché di essi è il regno dei cieli. 11 Beati voi quando vi insulteranno, vi perseguiteranno e, mentendo, diranno ogni sorta di male contro di voi per causa mia. 12 Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli. Così infatti perseguitarono i profeti che furono prima di voi."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, vedendo le folle, Gesù salì sul monte: si pose a sedere e si avvicinarono a lui i suoi discepoli. Si mise a parlare e insegnava loro dicendo:\n«Beati i poveri in spirito,\nperché di essi è il regno dei cieli.\nBeati quelli che sono nel pianto,\nperché saranno consolati.\nBeati i miti,\nperché avranno in eredità la terra.\nBeati quelli che hanno fame e sete della giustizia,\nperché saranno saziati.\nBeati i misericordiosi,\nperché troveranno misericordia.\nBeati i puri di cuore,\nperché vedranno Dio.\nBeati gli operatori di pace,\nperché saranno chiamati figli di Dio.\nBeati i perseguitati per la giustizia,\nperché di essi è il regno dei cieli.\nBeati voi quando vi insulteranno, vi perseguiteranno e, mentendo, diranno ogni sorta di male contro di voi per causa mia. Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli. Così infatti perseguitarono i profeti che furono prima di voi»."
     }
   ]
 }

@@ -7,25 +7,27 @@
     {
       "sigla": "At 11,19-26",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 11,19-26",
-      "tipo": "lettura",
-      "testo": "19 Intanto quelli che erano stati dispersi dopo la persecuzione scoppiata al tempo di Stefano, erano arrivati fin nella Fenicia, a Cipro e ad Antiochia e non predicavano la parola a nessuno fuorchè ai Giudei. 20 Ma alcuni fra loro, cittadini di Cipro e di Cirène, giunti ad Antiochia, cominciarono a parlare anche ai Greci, predicando la buona novella del Signore Gesù. 21 E la mano del Signore era con loro e così un gran numero credette e si convertì al Signore. 22 La notizia giunse agli orecchi della Chiesa di Gerusalemme, la quale mandò Barnaba ad Antiochia."
+      "tipo": "prima_lettura",
+      "testo": "In quei giorni, quelli che si erano dispersi a causa della persecuzione scoppiata a motivo di Stefano erano arrivati fino alla Fenicia, a Cipro e ad Antiòchia e non proclamavano la Parola a nessuno fuorché ai Giudei. Ma alcuni di loro, gente di Cipro e di Cirène, giunti ad Antiòchia, cominciarono a parlare anche ai Greci, annunciando che Gesù è il Signore. E la mano del Signore era con loro e così un grande numero credette e si convertì al Signore.\nQuesta notizia giunse agli orecchi della Chiesa di Gerusalemme, e mandarono Bàrnaba ad Antiòchia. Quando questi giunse e vide la grazia di Dio, si rallegrò ed esortava tutti a restare, con cuore risoluto, fedeli al Signore, da uomo virtuoso qual era e pieno di Spirito Santo e di fede. E una folla considerevole fu aggiunta al Signore.\nBàrnaba poi partì alla volta di Tarso per cercare Sàulo: lo trovò e lo condusse ad Antiòchia. Rimasero insieme un anno intero in quella Chiesa e istruirono molta gente. Ad Antiòchia per la prima volta i discepoli furono chiamati cristiani."
     },
     {
       "sigla": "Sal 86",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 86",
-      "tipo": "lettura",
-      "testo": "1 Supplica. Di Davide. Signore, tendi l'orecchio, rispondimi, perché io sono povero e misero.\n2 Custodiscimi perché sono fedele; tu, Dio mio, salva il tuo servo, che in te confida.\n3 Pietà di me, Signore, a te grido tutto il giorno.\n4 Rallegra la vita del tuo servo, perché a te, Signore, rivolgo l'anima mia.\n5 Tu sei buono, Signore, e perdoni, sei pieno di misericordia con chi t'invoca.\n6 Porgi l'orecchio, Signore, alla mia preghiera e sii attento alla voce delle mie suppliche.\n7 Nel giorno dell'angoscia alzo a te il mio grido perché tu mi rispondi.\n8 Fra gli dèi nessuno è come te, Signore, e non c'è nulla come le tue opere.\n9 Tutte le genti che hai creato verranno e si prostreranno davanti a te, Signore, per dare gloria al tuo nome.\n10 Grande tu sei e compi meraviglie: tu solo sei Dio.\n11 Mostrami, Signore, la tua via, perché nella tua verità io cammini; tieni unito il mio cuore, perché tema il tuo nome.\n12 Ti loderò, Signore, mio Dio, con tutto il cuore e darò gloria al tuo nome per sempre,\n13 perché grande con me è la tua misericordia: hai liberato la mia vita dal profondo degli inferi.\n14 O Dio, gli arroganti contro di me sono insorti e una banda di prepotenti insidia la mia vita, non pongono te davanti ai loro occhi.\n15 Ma tu, Signore, Dio misericordioso e pietoso, lento all'ira e ricco di amore e di fedeltà,\n16 volgiti a me e abbi pietà: dona al tuo servo la tua forza, salva il figlio della tua serva."
+      "tipo": "salmo",
+      "testo": "R. Genti tutte, lodate il Signore.\n\nSui monti santi egli l’ha fondata;\nil Signore ama le porte di Sion\npiù di tutte le dimore di Giacobbe.\nDi te si dicono cose gloriose,\ncittà di Dio!\n\nIscriverò Raab e Babilonia\nfra quelli che mi riconoscono;\necco Filistea, Tiro ed Etiopia:\nlà costui è nato.\nSi dirà di Sion:\n«L’uno e l’altro in essa sono nati\ne lui, l’Altissimo, la mantiene salda».\n\nIl Signore registrerà nel libro dei popoli:\n«Là costui è nato».\nE danzando canteranno:\n«Sono in te tutte le mie sorgenti».",
+      "ritornello": "R. Genti tutte, lodate il Signore."
     },
     {
       "sigla": "Gv 10,27",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,27",
-      "tipo": "lettura"
+      "tipo": "canto_vangelo",
+      "testo": "Le mie pecore ascoltano la mia voce, dice il Signore, e io le conosco ed esse mi seguono."
     },
     {
       "sigla": "Gv 10,22-30",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,22-30",
-      "tipo": "lettura",
-      "testo": "22 Ricorreva allora a Gerusalemme la festa della Dedicazione. Era inverno. 23 Gesù camminava nel tempio, nel portico di Salomone. 24 Allora i Giudei gli si fecero attorno e gli dicevano: «Fino a quando ci terrai nell'incertezza? Se tu sei il Cristo, dillo a noi apertamente». 25 Gesù rispose loro: «Ve l'ho detto, e non credete; le opere che io compio nel nome del Padre mio, queste danno testimonianza di me. 26 Ma voi non credete perché non fate parte delle mie pecore. 27 Le mie pecore ascoltano la mia voce e io le conosco ed esse mi seguono. 28 Io do loro la vita eterna e non andranno perdute in eterno e nessuno le strapperà dalla mia mano. 29 Il Padre mio, che me le ha date, è più grande di tutti e nessuno può strapparle dalla mano del Padre. 30 Io e il Padre siamo una cosa sola»."
+      "tipo": "vangelo",
+      "testo": "Ricorreva, in quei giorni, a Gerusalemme la festa della Dedicazione. Era inverno. Gesù camminava nel tempio, nel portico di Salomone. Allora i Giudei gli si fecero attorno e gli dicevano: «Fino a quando ci terrai nell’incertezza? Se tu sei il Cristo, dillo a noi apertamente».\nGesù rispose loro: «Ve l’ho detto, e non credete; le opere che io compio nel nome del Padre mio, queste danno testimonianza di me. Ma voi non credete perché non fate parte delle mie pecore. Le mie pecore ascoltano la mia voce e io le conosco ed esse mi seguono. Io do loro la vita eterna e non andranno perdute in eterno e nessuno le strapperà dalla mia mano. Il Padre mio, che me le ha date, è più grande di tutti e nessuno può strapparle dalla mano del Padre. Io e il Padre siamo una cosa sola»."
     }
   ]
 }

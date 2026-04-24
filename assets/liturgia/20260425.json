@@ -7,25 +7,27 @@
     {
       "sigla": "1Pt 5,5-14",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Pt 5,5-14",
-      "tipo": "lettura",
-      "testo": "12 Vi ho scritto brevemente per mezzo di Silvano, che io ritengo fratello fedele, per esortarvi e attestarvi che questa è la vera grazia di Dio. In essa state saldi! 13 Vi saluta la comunità che vive in Babilonia e anche Marco, figlio mio. 14 Salutatevi l'un l'altro con un bacio d'amore fraterno. Pace a voi tutti che siete in Cristo!"
+      "tipo": "prima_lettura",
+      "testo": "Carissimi, rivestitevi tutti di umiltà gli uni verso gli altri, perché Dio resiste ai superbi, ma dà grazia agli umili.\nUmiliatevi dunque sotto la potente mano di Dio, affinché vi esalti al tempo opportuno, riversando su di lui ogni vostra preoccupazione, perché egli ha cura di voi. Siate sobri, vegliate. Il vostro nemico, il diavolo, come leone ruggente va in giro cercando chi divorare. Resistetegli saldi nella fede, sapendo che le medesime sofferenze sono imposte ai vostri fratelli sparsi per il mondo.\nE il Dio di ogni grazia, il quale vi ha chiamati alla sua gloria eterna in Cristo Gesù, egli stesso, dopo che avrete un poco sofferto, vi ristabilirà, vi confermerà, vi rafforzerà, vi darà solide fondamenta. A lui la potenza nei secoli. Amen!\nVi ho scritto brevemente per mezzo di Silvano, che io ritengo fratello fedele, per esortarvi e attestarvi che questa è la vera grazia di Dio. In essa state saldi! Vi saluta la comunità che vive in Babilonia, e anche Marco, figlio mio. Salutatevi l’un l’altro con un bacio d’amore fraterno. Pace a voi tutti che siete in Cristo!"
     },
     {
       "sigla": "Sal 88",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 88",
-      "tipo": "lettura",
-      "testo": "1 Canto. Salmo. Dei figli di Core. Al maestro del coro. Sull'aria di «Macalàt leannòt». Maskil. Di Eman, l'Ezraita. 2 Signore, Dio della mia salvezza, davanti a te grido giorno e notte.\n3 Giunga fino a te la mia preghiera, tendi l'orecchio alla mia supplica.\n4 Io sono sazio di sventure, la mia vita è sull'orlo degli inferi.\n5 Sono annoverato fra quelli che scendono nella fossa, sono come un uomo ormai senza forze.\n6 Sono libero, ma tra i morti, come gli uccisi stesi nel sepolcro, dei quali non conservi più il ricordo, recisi dalla tua mano.\n7 Mi hai gettato nella fossa più profonda, negli abissi tenebrosi.\n8 Pesa su di me il tuo furore e mi opprimi con tutti i tuoi flutti.\n9 Hai allontanato da me i miei compagni, mi hai reso per loro un orrore. Sono prigioniero senza scampo,\n10 si consumano i miei occhi nel patire. Tutto il giorno ti chiamo, Signore, verso di te protendo le mie mani.\n11 Compi forse prodigi per i morti? O si alzano le ombre a darti lode?\n12 Si narra forse la tua bontà nel sepolcro, la tua fedeltà nel regno della morte?\n13 Si conoscono forse nelle tenebre i tuoi prodigi, la tua giustizia nella terra dell'oblio?\n14 Ma io, Signore, a te grido aiuto e al mattino viene incontro a te la mia preghiera.\n15 Perché, Signore, mi respingi? Perché mi nascondi il tuo volto?\n16 Sin dall'infanzia sono povero e vicino alla morte, sfinito sotto il peso dei tuoi terrori.\n17 Sopra di me è passata la tua collera, i tuoi spaventi mi hanno annientato,\n18 mi circondano come acqua tutto il giorno, tutti insieme mi avvolgono."
+      "tipo": "salmo",
+      "testo": "R. Canterò in eterno l’amore del Signore.\n\nCanterò in eterno l’amore del Signore,\ndi generazione in generazione\nfarò conoscere con la mia bocca la tua fedeltà,\nperché ho detto: «È un amore edificato per sempre;\nnel cielo rendi stabile la tua fedeltà».\n\nI cieli cantano le tue meraviglie, Signore,\nla tua fedeltà nell’assemblea dei santi.\nChi sulle nubi è uguale al Signore,\nchi è simile al Signore tra i figli degli dèi?\n\nBeato il popolo che ti sa acclamare:\ncamminerà, Signore, alla luce del tuo volto;\nesulta tutto il giorno nel tuo nome,\nsi esalta nella tua giustizia.",
+      "ritornello": "R. Canterò in eterno l’amore del Signore."
     },
     {
       "sigla": "1Cor 1,23-24",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 1,23-24",
-      "tipo": "lettura"
+      "tipo": "canto_vangelo",
+      "testo": "1Cor 1,23-24"
     },
     {
       "sigla": "Mc 16,15-20",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 16,15-20",
-      "tipo": "lettura",
-      "testo": "19 Il Signore Gesù, dopo aver parlato con loro, fu elevato in cielo e sedette alla destra di Dio. 20 Allora essi partirono e predicarono dappertutto, mentre il Signore agiva insieme con loro e confermava la Parola con i segni che la accompagnavano."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, [Gesù apparve agli Undici] e disse loro: «Andate in tutto il mondo e proclamate il Vangelo a ogni creatura. Chi crederà e sarà battezzato sarà salvato, ma chi non crederà sarà condannato. Questi saranno i segni che accompagneranno quelli che credono: nel mio nome scacceranno demòni, parleranno lingue nuove, prenderanno in mano serpenti e, se berranno qualche veleno, non recherà loro danno; imporranno le mani ai malati e questi guariranno».\nIl Signore Gesù, dopo aver parlato con loro, fu elevato in cielo e sedette alla destra di Dio.\nAllora essi partirono e predicarono dappertutto, mentre il Signore agiva insieme con loro e confermava la Parola con i segni che la accompagnavano."
     }
   ]
 }

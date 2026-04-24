@@ -7,25 +7,27 @@
     {
       "sigla": "At 15,7-21",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 15,7-21",
-      "tipo": "lettura",
-      "testo": "16 Dopo queste cose ritornerò e riedificherò la tenda di Davide, che era caduta; ne riedificherò le rovine e la rialzerò, 17 perché cerchino il Signore anche gli altri uomini e tutte le genti sulle quali è stato invocato il mio nome, dice il Signore, che fa queste cose, 18 note da sempre .\n19 Per questo io ritengo che non si debbano importunare quelli che dalle nazioni si convertono a Dio, 20 ma solo che si ordini loro di astenersi dalla contaminazione con gli idoli, dalle unioni illegittime, dagli animali soffocati e dal sangue. 21 Fin dai tempi antichi, infatti, Mosè ha chi lo predica in ogni città, poiché viene letto ogni sabato nelle sinagoghe»."
+      "tipo": "prima_lettura",
+      "testo": "In quei giorni, poiché era sorta una grande discussione, Pietro si alzò e disse loro: «Fratelli, voi sapete che, già da molto tempo, Dio in mezzo a voi ha scelto che per bocca mia le nazioni ascoltino la parola del Vangelo e vengano alla fede. E Dio, che conosce i cuori, ha dato testimonianza in loro favore, concedendo anche a loro lo Spirito Santo, come a noi; e non ha fatto alcuna discriminazione tra noi e loro, purificando i loro cuori con la fede. Ora dunque, perché tentate Dio, imponendo sul collo dei discepoli un giogo che né i nostri padri né noi siamo stati in grado di portare? Noi invece crediamo che per la grazia del Signore Gesù siamo salvati, così come loro».\nTutta l’assemblea tacque e stettero ad ascoltare Bàrnaba e Paolo che riferivano quali grandi segni e prodigi Dio aveva compiuto tra le nazioni per mezzo loro.\nQuando essi ebbero finito di parlare, Giacomo prese la parola e disse: «Fratelli, ascoltatemi. Simone ha riferito come fin da principio Dio ha voluto scegliere dalle genti un popolo per il suo nome. Con questo si accordano le parole dei profeti, come sta scritto: “Dopo queste cose ritornerò e riedificherò la tenda di Davide, che era caduta; ne riedificherò le rovine e la rialzerò, perché cerchino il Signore anche gli altri uomini e tutte le genti sulle quali è stato invocato il mio nome, dice il Signore, che fa queste cose, note da sempre”. Per questo io ritengo che non si debbano importunare quelli che dalle nazioni si convertono a Dio, ma solo che si ordini loro di astenersi dalla contaminazione con gli idoli, dalle unioni illegittime, dagli animali soffocati e dal sangue. Fin dai tempi antichi, infatti, Mosè ha chi lo predica in ogni città, poiché viene letto ogni sabato nelle sinagoghe»."
     },
     {
       "sigla": "Sal 95",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 95",
-      "tipo": "lettura",
-      "testo": "1 Venite, cantiamo al Signore, acclamiamo la roccia della nostra salvezza.\n2 Accostiamoci a lui per rendergli grazie, a lui acclamiamo con canti di gioia.\n3 Perché grande Dio è il Signore, grande re sopra tutti gli dèi.\n4 Nella sua mano sono gli abissi della terra, sono sue le vette dei monti.\n5 Suo è il mare, è lui che l'ha fatto; le sue mani hanno plasmato la terra.\n6 Entrate: prostràti, adoriamo, in ginocchio davanti al Signore che ci ha fatti.\nSe ascoltaste oggi la sua voce! 8 »Non indurite il cuore come a Merìba, come nel giorno di Massa nel deserto,\n9 dove mi tentarono i vostri padri: mi misero alla prova pur avendo visto le mie opere.\n10 Per quarant'anni mi disgustò quella generazione e dissi: «Sono un popolo dal cuore traviato, non conoscono le mie vie»."
+      "tipo": "salmo",
+      "testo": "R. Annunciate a tutti i popoli le meraviglie del Signore.\n\nCantate al Signore un canto nuovo,\ncantate al Signore, uomini di tutta la terra.\nCantate al Signore, benedite il suo nome.\n\nAnnunciate di giorno in giorno la sua salvezza.\nIn mezzo alle genti narrate la sua gloria,\na tutti i popoli dite le sue meraviglie.\n\nDite tra le genti: «Il Signore regna!».\nÈ stabile il mondo, non potrà vacillare!\nEgli giudica i popoli con rettitudine.",
+      "ritornello": "R. Annunciate a tutti i popoli le meraviglie del Signore."
     },
     {
       "sigla": "Gv 10,27",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,27",
-      "tipo": "lettura"
+      "tipo": "canto_vangelo",
+      "testo": "Le mie pecore ascoltano la mia voce, dice il Signore, e io le conosco ed esse mi seguono."
     },
     {
       "sigla": "Gv 15,9-11",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,9-11",
-      "tipo": "lettura",
-      "testo": "9 'Come il Padre ha amato me, così io ho amato voi: rimanete nel mio amore! 10 Se metterete in pratica i miei comandamenti, sarete radicati nel mio amore; allo stesso modo io ho messo in pratica i comandamenti del Padre mio e sono radicato nel suo amore. 11 'Vi ho detto questo, perché la mia gioia sia anche vostra, e la vostra gioia sia perfetta."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, disse Gesù ai suoi discepoli:\n«Come il Padre ha amato me, anche io ho amato voi. Rimanete nel mio amore.\nSe osserverete i miei comandamenti, rimarrete nel mio amore, come io ho osservato i comandamenti del Padre mio e rimango nel suo amore.\nVi ho detto queste cose perché la mia gioia sia in voi e la vostra gioia sia piena»."
     }
   ]
 }

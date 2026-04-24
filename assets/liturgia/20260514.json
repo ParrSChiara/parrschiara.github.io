@@ -7,25 +7,27 @@
     {
       "sigla": "At 1,15-17.20-26",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 1,15-17.20-26",
-      "tipo": "lettura",
-      "testo": "La sua dimora diventi deserta e nessuno vi abiti, e il suo incarico lo prenda un altro .\n21 Bisogna dunque che, tra coloro che sono stati con noi per tutto il tempo nel quale il Signore Gesù ha vissuto fra noi, 22 cominciando dal battesimo di Giovanni fino al giorno in cui è stato di mezzo a noi assunto in cielo, uno divenga testimone, insieme a noi, della sua risurrezione». 23 Ne proposero due: Giuseppe, detto Barsabba, soprannominato Giusto, e Mattia. 24 Poi pregarono dicendo: «Tu, Signore, che conosci il cuore di tutti, mostra quale di questi due tu hai scelto 25 per prendere il posto in questo ministero e apostolato, che Giuda ha abbandonato per andarsene al posto che gli spettava». 26 Tirarono a sorte fra loro e la sorte cadde su Mattia, che fu associato agli undici apostoli."
+      "tipo": "prima_lettura",
+      "testo": "In quei giorni Pietro si alzò in mezzo ai fratelli – il numero delle persone radunate era di circa centoventi – e disse: «Fratelli, era necessario che si compisse ciò che nella Scrittura fu predetto dallo Spirito Santo per bocca di Davide riguardo a Giuda, diventato la guida di quelli che arrestarono Gesù. Egli infatti era stato del nostro numero e aveva avuto in sorte lo stesso nostro ministero. Sta scritto infatti nel libro dei Salmi:\n“La sua dimora diventi deserta\ne nessuno vi abiti”,\ne: “Il suo incarico lo prenda un altro”.\nBisogna dunque che, tra coloro che sono stati con noi per tutto il tempo nel quale il Signore Gesù ha vissuto fra noi, cominciando dal battesimo di Giovanni fino al giorno in cui è stato di mezzo a noi assunto in cielo, uno divenga testimone, insieme a noi, della sua risurrezione».\nNe proposero due: Giuseppe, detto Barsabba, soprannominato Giusto, e Mattia. Poi pregarono dicendo: «Tu, Signore, che conosci il cuore di tutti, mostra quale di questi due tu hai scelto per prendere il posto in questo ministero e apostolato, che Giuda ha abbandonato per andarsene al posto che gli spettava». Tirarono a sorte fra loro e la sorte cadde su Mattia, che fu associato agli undici apostoli."
     },
     {
       "sigla": "Sal 112",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 112",
-      "tipo": "lettura",
-      "testo": "2 Potente sulla terra sarà la sua stirpe, la discendenza degli uomini retti sarà benedetta.\n5 Felice l'uomo pietoso che dà in prestito, amministra i suoi beni con giustizia.\n9 Egli dona largamente ai poveri, la sua giustizia rimane per sempre, la sua fronte s'innalza nella gloria."
+      "tipo": "salmo",
+      "testo": "R. Il Signore lo ha fatto sedere tra i prìncipi del suo popolo.\n\nLodate, servi del Signore,\nlodate il nome del Signore.\nSia benedetto il nome del Signore,\nda ora e per sempre.\n\nDal sorgere del sole al suo tramonto\nsia lodato il nome del Signore.\nSu tutte le genti eccelso è il Signore,\npiù alta dei cieli è la sua gloria.\n\nChi è come il Signore, nostro Dio,\nche siede nell’alto\ne si china a guardare\nsui cieli e sulla terra?\n\nSolleva dalla polvere il debole,\ndall’immondizia rialza il povero,\nper farlo sedere tra i prìncipi,\ntra i prìncipi del suo popolo.",
+      "ritornello": "R. Il Signore lo ha fatto sedere tra i prìncipi del suo popolo."
     },
     {
       "sigla": "Gv 15,16",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,16",
-      "tipo": "lettura"
+      "tipo": "canto_vangelo",
+      "testo": "Io ho scelto voi, dice il Signore, perché andiate e portiate frutto e il vostro frutto rimanga."
     },
     {
       "sigla": "Gv 15,9-17",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,9-17",
-      "tipo": "lettura",
-      "testo": "12 Questo è il mio comandamento: che vi amiate gli uni gli altri come io ho amato voi. 13 Nessuno ha un amore più grande di questo: dare la sua vita per i propri amici. 14 Voi siete miei amici, se fate ciò che io vi comando. 15 Non vi chiamo più servi, perché il servo non sa quello che fa il suo padrone; ma vi ho chiamato amici, perché tutto ciò che ho udito dal Padre mio l'ho fatto conoscere a voi. 16 Non voi avete scelto me, ma io ho scelto voi e vi ho costituiti perché andiate e portiate frutto e il vostro frutto rimanga; perché tutto quello che chiederete al Padre nel mio nome, ve lo conceda. 17 Questo vi comando: che vi amiate gli uni gli altri."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, Gesù disse ai suoi discepoli:\n«Come il Padre ha amato me, anche io ho amato voi. Rimanete nel mio amore. Se osserverete i miei comandamenti, rimarrete nel mio amore, come io ho osservato i comandamenti del Padre mio e rimango nel suo amore. Vi ho detto queste cose perché la mia gioia sia in voi e la vostra gioia sia piena.\nQuesto è il mio comandamento: che vi amiate gli uni gli altri come io ho amato voi. Nessuno ha un amore più grande di questo: dare la sua vita per i propri amici. Voi siete miei amici, se fate ciò che io vi comando. Non vi chiamo più servi, perché il servo non sa quello che fa il suo padrone; ma vi ho chiamato amici, perché tutto ciò che ho udito dal Padre mio l’ho fatto conoscere a voi.\nNon voi avete scelto me, ma io ho scelto voi e vi ho costituiti perché andiate e portiate frutto e il vostro frutto rimanga; perché tutto quello che chiederete al Padre nel mio nome, ve lo conceda. Questo vi comando: che vi amiate gli uni gli altri»."
     }
   ]
 }

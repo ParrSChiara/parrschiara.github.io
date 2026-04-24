@@ -7,31 +7,33 @@
     {
       "sigla": "Es 34,4-6.8-9",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Es 34,4-6.8-9",
-      "tipo": "lettura",
-      "testo": "5 Allora il Signore scese nella nube, si fermò là presso di lui e proclamò il nome del Signore. 6 Il Signore passò davanti a lui proclamando: “Il Signore, il Signore, Dio misericordioso e pietoso, lento all'ira e ricco di grazia e di fedeltà, 8 Mosè si curvò in fretta fino a terra e si prostrò. 9 Disse: “Se ho trovato grazia ai tuoi occhi, mio Signore, che il Signore cammini in mezzo a noi. Sì, è un popolo di dura cervice, ma tu perdona la nostra colpa e il nostro peccato: fà di noi la tua eredità”."
+      "tipo": "prima_lettura",
+      "testo": "In quei giorni, Mosè si alzò di buon mattino e salì sul monte Sinai, come il Signore gli aveva comandato, con le due tavole di pietra in mano.\nAllora il Signore scese nella nube, si fermò là presso di lui e proclamò il nome del Signore. Il Signore passò davanti a lui, proclamando: «Il Signore, il Signore, Dio misericordioso e pietoso, lento all’ira e ricco di amore e di fedeltà».\nMosè si curvò in fretta fino a terra e si prostrò. Disse: «Se ho trovato grazia ai tuoi occhi, Signore, che il Signore cammini in mezzo a noi. Sì, è un popolo di dura cervìce, ma tu perdona la nostra colpa e il nostro peccato: fa’ di noi la tua eredità»."
     },
     {
       "sigla": "Dn 3,52-56",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Dn 3,52-56",
-      "tipo": "lettura"
+      "tipo": "salmo",
+      "testo": "R. A te la lode e la gloria nei secoli.\n\nBenedetto sei tu, Signore, Dio dei padri nostri.\n\nBenedetto il tuo nome glorioso e santo.\n\nBenedetto sei tu nel tuo tempio santo, glorioso.\n\nBenedetto sei tu sul trono del tuo regno.\n\nBenedetto sei tu che penetri con lo sguardo gli abissi\ne siedi sui cherubini.\n\nBenedetto sei tu nel firmamento del cielo.",
+      "ritornello": "R. A te la lode e la gloria nei secoli."
     },
     {
       "sigla": "2Cor 13,11-13",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Cor 13,11-13",
-      "tipo": "lettura",
-      "testo": "11 Per il resto, fratelli, siate gioiosi, tendete alla perfezione, fatevi coraggio a vicenda, abbiate gli stessi sentimenti, vivete in pace e il Dio dell'amore e della pace sarà con voi. 12 Salutatevi a vicenda con il bacio santo. Tutti i santi vi salutano. 13 La grazia del Signore Gesù Cristo, l'amore di Dio e la comunione dello Spirito Santo siano con tutti voi."
+      "tipo": "seconda_lettura",
+      "testo": "Fratelli, siate gioiosi, tendete alla perfezione, fatevi coraggio a vicenda, abbiate gli stessi sentimenti, vivete in pace e il Dio dell’amore e della pace sarà con voi.\nSalutatevi a vicenda con il bacio santo. Tutti i santi vi salutano.\nLa grazia del Signore Gesù Cristo, l’amore di Dio e la comunione dello Spirito Santo siano con tutti voi."
     },
     {
       "sigla": "Ap 1,8",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 1,8",
-      "tipo": "lettura",
-      "testo": "8 Io sono il Primo e l'Ultimo, dice Dio, il Signore, che è, che era e che viene, il Dominatore dell'universo."
+      "tipo": "canto_vangelo",
+      "testo": "Gloria al Padre e al Figlio e allo Spirito Santo, a Dio, che è, che era e che viene."
     },
     {
       "sigla": "Gv 3,16-18",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 3,16-18",
-      "tipo": "lettura",
-      "testo": "16 Dio infatti ha tanto amato il mondo da dare il Figlio unigenito, perché chiunque crede in lui non vada perduto, ma abbia la vita eterna. 17 Dio, infatti, non ha mandato il Figlio nel mondo per condannare il mondo, ma perché il mondo sia salvato per mezzo di lui. 18 Chi crede in lui non è condannato; ma chi non crede è già stato condannato, perché non ha creduto nel nome dell'unigenito Figlio di Dio."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, disse Gesù a Nicodèmo:\n«Dio ha tanto amato il mondo da dare il Figlio, unigenito, perché chiunque crede in lui non vada perduto, ma abbia la vita eterna.\nDio, infatti, non ha mandato il Figlio nel mondo per condannare il mondo, ma perché il mondo sia salvato per mezzo di lui.\nChi crede in lui non è condannato; ma chi non crede è già stato condannato, perché non ha creduto nel nome dell’unigenito Figlio di Dio»."
     }
   ]
 }

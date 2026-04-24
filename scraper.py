@@ -14,11 +14,12 @@ Opzioni:
   --fix-version  Post-processa i JSON esistenti estraendo solo CEI2008 (nessun fetch HTTP)
 """
 
+import copy
 import json
 import requests
 import sys
 import time
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString, Tag
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -69,6 +70,150 @@ def _extract_version(testo: str, version: str) -> str:
         if 0 <= pos < end:
             end = pos
     return testo[start:end].strip()
+
+
+def _extract_reading_inline(section_div) -> dict:
+    """
+    Estrae il testo di una lettura non-salmo direttamente dalla pagina del calendario
+    (div.section), senza seguire il link bibbia.php.
+
+    La pagina lachiesa.it usa questo markup per le letture:
+      <div class="section-content-testo">
+        <p>Fonte testuale (es. "Dalla prima lettera di san Pietro apostolo")<br>
+        <br/>
+        Testo della lettura riga 1<br/>
+        riga 2<br/>
+        ...
+        </p>
+        <p>Parola di Dio</p>
+      </div>
+
+    Il primo <br> non ha tag di chiusura: BeautifulSoup (html.parser) lo interpreta come
+    contenitore di tutto il testo che segue fino alla chiusura del <p> padre. Di conseguenza,
+    br.get_text() restituisce l'intero testo della lettura senza numeri di versetto.
+
+    Restituisce dict con 'testo', oppure {} se la struttura non è trovata o il div è vuoto.
+    """
+    testo_el = section_div.find("div", class_="section-content-testo")
+
+    # Fallback per sezioni senza section-content-testo (es. canto_vangelo):
+    # il testo del versetto è in un <p> dentro section-content, insieme a "Alleluia, alleluia."
+    if not testo_el:
+        content_el = section_div.find("div", class_="section-content")
+        if not content_el:
+            return {}
+        _alleluia = {"alleluia, alleluia.", "alleluia.", "alleluia, alleluia", "alleluia"}
+        for p in content_el.find_all("p"):
+            linee = [l.strip() for l in p.get_text(separator="\n").replace("\r", "\n").split("\n")]
+            linee = [l for l in linee if l and l.lower() not in _alleluia]
+            testo = " ".join(linee)
+            if len(testo) > 10:
+                return {"testo": testo}
+        return {}
+
+    p0 = testo_el.find("p")
+    if not p0:
+        return {}
+
+    # Il primo <br> contiene come figli (secondo il parser) tutto il testo della lettura.
+    # Per sezioni brevi (es. canto_vangelo) può non esserci il <br>: si usa p0 direttamente.
+    br = p0.find("br")
+    raw = br.get_text(separator="\n") if br else p0.get_text(separator="\n")
+    # Normalizza a capo, rimuove righe vuote iniziali, esegue strip per riga
+    linee = []
+    for riga in raw.replace("\r\n", "\n").replace("\r", "\n").split("\n"):
+        pulita = riga.strip()
+        if pulita:
+            linee.append(pulita)
+
+    testo = "\n".join(linee)
+    if not testo:
+        return {}
+    return {"testo": testo}
+
+
+def _extract_psalm_inline(section_div) -> dict:
+    """
+    Estrae il testo liturgico del Salmo Responsoriale direttamente dalla pagina del
+    calendario (div.section), senza seguire il link bibbia.php.
+
+    Il markup della pagina ha questa struttura:
+      <div class="section">
+        <div class="section-title">Salmo responsoriale</div>
+        <div class="section-content">
+          <div class="section-content-mini"><a href="bibbia.php?...">Sal XX</a></div>
+          <div class="section-content-testo">
+            <p><b>testo del ritornello</b>
+            <p>verso1<br/>verso2<br/>...<br/>
+            <br/>        ← separatore di strofa (riga vuota)
+            verso3<br/>...
+          </div>
+        </div>
+      </div>
+
+    Ritorna dict con 'ritornello' e 'testo'. Se la struttura non viene trovata
+    restituisce {}.
+    """
+    testo_el = section_div.find("div", class_="section-content-testo")
+    if not testo_el:
+        return {}
+
+    # Ritornello: testo del primo tag <b> dentro section-content-testo
+    b_tag = testo_el.find("b")
+    ritornello_testo = b_tag.get_text(strip=True) if b_tag else ""
+
+    # Versi: il parser HTML (HTML malformato con <p> annidato) produce due paragrafi:
+    #   paragraphs[0] = ritornello + versi (tutto)
+    #   paragraphs[1] = solo i versi (quello che vogliamo)
+    paragraphs = testo_el.find_all("p")
+    if len(paragraphs) >= 2:
+        body_p = paragraphs[1]
+    elif paragraphs:
+        body_p = copy.copy(paragraphs[0])
+        b = body_p.find("b")
+        if b:
+            b.decompose()
+    else:
+        return {"ritornello": f"R. {ritornello_testo}"} if ritornello_testo else {}
+
+    # Costruisce le strofe iterando i nodi figli del paragrafo.
+    # Struttura: TEXT<br/>TEXT<br/>...<br/>\n<br/>TEXT<br/>...
+    # Un nodo TEXT whitespace-only tra due <br/> segnala il confine di strofa.
+    strofe: list[str] = []
+    strofa_corrente: list[str] = []
+    children = list(body_p.children)
+    i = 0
+    while i < len(children):
+        child = children[i]
+        if isinstance(child, NavigableString):
+            line = str(child).replace("\r\n", "\n").replace("\r", "\n").strip()
+            if line:
+                strofa_corrente.append(line)
+        elif isinstance(child, Tag) and child.name == "br":
+            # Se il nodo successivo è whitespace-only → separatore di strofa
+            next_idx = i + 1
+            if next_idx < len(children):
+                nxt = children[next_idx]
+                if isinstance(nxt, NavigableString) and not str(nxt).strip():
+                    if strofa_corrente:
+                        strofe.append("\n".join(strofa_corrente))
+                        strofa_corrente = []
+                    i += 1  # consuma il nodo whitespace
+        i += 1
+
+    if strofa_corrente:
+        strofe.append("\n".join(strofa_corrente))
+
+    testo_versi = "\n\n".join(strofe)
+    testo_completo = (f"R. {ritornello_testo}\n\n{testo_versi}"
+                      if ritornello_testo else testo_versi)
+
+    result: dict = {}
+    if testo_completo:
+        result["testo"] = testo_completo
+    if ritornello_testo:
+        result["ritornello"] = f"R. {ritornello_testo}"
+    return result
 
 
 def fetch_reading_text(url: str) -> dict:
@@ -204,35 +349,59 @@ def scrape_day(date_str: str, fetch_texts: bool = True) -> dict:
         if len(bold) >= 2:
             colore = bold[1].get_text(strip=True).lower()
 
-    # Letture: scansione lineare per rilevare tipo dai tag <b>/<strong>
+    # Letture: scansione per div.section per rilevare tipo e sigla insieme.
+    # Ogni div.section ha un div.section-title (es. "Prima lettura", "Salmo responsoriale")
+    # e un div.section-content-mini che contiene il link bibbia.php con la sigla.
+    # Questo approccio è più robusto della scansione lineare per tag <b>/<strong> perché
+    # il titolo della sezione NON è racchiuso in <b>/<strong> nella pagina corrente.
     letture = []
     seen_siglas: set[str] = set()
-    current_tipo = None
 
-    for el in soup.find_all(["b", "strong", "a"]):
-        if el.name in ("b", "strong"):
-            tipo = _detect_tipo(el.get_text(strip=True))
-            if tipo:
-                current_tipo = tipo
-        elif el.name == "a":
-            href = el.get("href", "")
-            if "bibbia.php" in href and "Citazione=" in href:
-                sigla = el.get_text(strip=True)
-                if sigla and sigla not in seen_siglas:
-                    seen_siglas.add(sigla)
-                    entry: dict = {
-                        "sigla": sigla,
-                        "url": href,
-                        "tipo": current_tipo or "lettura",
-                    }
-                    if fetch_texts:
-                        label = (current_tipo or "?").ljust(18)
+    for section_div in soup.find_all("div", class_="section"):
+        title_el = section_div.find("div", class_="section-title")
+        if not title_el:
+            continue
+        tipo = _detect_tipo(title_el.get_text(strip=True))
+        if not tipo:
+            continue
+
+        # Cerca il link bibbia.php nel div.section-content-mini (o in tutta la sezione)
+        mini_el = section_div.find("div", class_="section-content-mini")
+        search_root = mini_el if mini_el else section_div
+        for a in search_root.find_all("a"):
+            href = a.get("href", "")
+            if "bibbia.php" not in href or "Citazione=" not in href:
+                continue
+            sigla = a.get_text(strip=True)
+            if not sigla or sigla in seen_siglas:
+                continue
+            seen_siglas.add(sigla)
+            entry: dict = {
+                "sigla": sigla,
+                "url": href,
+                "tipo": tipo,
+            }
+            if fetch_texts:
+                label = tipo.ljust(18)
+                if tipo == "salmo":
+                    # Il salmo usa il testo liturgico inline della pagina
+                    # calendario, non il testo integrale di bibbia.php.
+                    print(f"    [{label}] {sigla} ... (inline)", flush=True)
+                    entry.update(_extract_psalm_inline(section_div))
+                else:
+                    # Prima tenta l'estrazione inline dalla pagina del calendario:
+                    # è più affidabile di bibbia.php (niente troncature da HTML malformato).
+                    text_data = _extract_reading_inline(section_div)
+                    if text_data.get("testo"):
+                        print(f"    [{label}] {sigla} ... (inline) ✓", flush=True)
+                    else:
+                        # Fallback: scarica da bibbia.php
                         print(f"    [{label}] {sigla} ...", end=" ", flush=True)
                         text_data = fetch_reading_text(href)
-                        entry.update(text_data)
                         print("✓" if text_data.get("testo") else "–", flush=True)
                         time.sleep(PAUSE_READING)
-                    letture.append(entry)
+                    entry.update(text_data)
+            letture.append(entry)
 
     return {
         "data": f"{date_str[:4]}-{date_str[4:6]}-{date_str[6:]}",

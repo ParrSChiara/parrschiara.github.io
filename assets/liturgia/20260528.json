@@ -7,26 +7,27 @@
     {
       "sigla": "1Pt 2,2-5.9-12",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Pt 2,2-5.9-12",
-      "tipo": "lettura",
-      "testo": "11 Carissimi, io vi esorto come stranieri e pellegrini ad astenervi dai cattivi desideri della carne, che fanno guerra all'anima. 12 Tenete una condotta esemplare fra i pagani perché, mentre vi calunniano come malfattori, al vedere le vostre buone opere diano gloria a Dio nel giorno della sua visita."
+      "tipo": "prima_lettura",
+      "testo": "Carissimi, come bambini appena nati desiderate avidamente il genuino latte spirituale, grazie al quale voi possiate crescere verso la salvezza, se davvero avete gustato che buono è il Signore. Avvicinandovi a lui, pietra viva, rifiutata dagli uomini ma scelta e preziosa davanti a Dio, quali pietre vive siete costruiti anche voi come edificio spirituale, per un sacerdozio santo e per offrire sacrifici spirituali graditi a Dio, mediante Gesù Cristo.\nVoi siete stirpe eletta, sacerdozio regale, nazione santa, popolo che Dio si è acquistato perché proclami le opere ammirevoli di lui, che vi ha chiamato dalle tenebre alla sua luce meravigliosa. Un tempo voi eravate non-popolo, ora invece siete popolo di Dio; un tempo eravate esclusi dalla misericordia, ora invece avete ottenuto misericordia.\nCarissimi, io vi esorto come stranieri e pellegrini ad astenervi dai cattivi desideri della carne, che fanno guerra all’anima. Tenete una condotta esemplare fra i pagani perché, mentre vi calunniano come malfattori, al vedere le vostre buone opere diano gloria a Dio nel giorno della sua visita."
     },
     {
       "sigla": "Sal 99",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 99",
-      "tipo": "lettura",
-      "testo": "1 Il Signore regna: tremino i popoli. Siede in trono sui cherubini: si scuota la terra.\n2 Grande è il Signore in Sion, eccelso sopra tutti i popoli.\n3 Lodino il tuo nome grande e terribile. Egli è santo!\n4 Forza del re è amare il diritto. Tu hai stabilito ciò che è retto; diritto e giustizia hai operato in Giacobbe.\n5 Esaltate il Signore, nostro Dio, prostratevi allo sgabello dei suoi piedi. Egli è santo!\n6 Mosè e Aronne tra i suoi sacerdoti, Samuele tra quanti invocavano il suo nome: invocavano il Signore ed egli rispondeva.\n7 Parlava loro da una colonna di nubi: custodivano i suoi insegnamenti e il precetto che aveva loro dato.\n8 Signore, nostro Dio, tu li esaudivi, eri per loro un Dio che perdona, pur castigando i loro peccati."
+      "tipo": "salmo",
+      "testo": "R. Presentatevi al Signore con esultanza.\n\nOppure:\nAndiamo al Signore con canti di gioia.\n\nAcclamate il Signore, voi tutti della terra,\nservite il Signore nella gioia,\npresentatevi a lui con esultanza.\n\nRiconoscete che solo il Signore è Dio:\negli ci ha fatti e noi siamo suoi,\nsuo popolo e gregge del suo pascolo.\n\nVarcate le sue porte con inni di grazie,\ni suoi atri con canti di lode,\nlodatelo, benedite il suo nome.\n\nBuono è il Signore,\nil suo amore è per sempre,\nla sua fedeltà di generazione in generazione.",
+      "ritornello": "R. Presentatevi al Signore con esultanza."
     },
     {
       "sigla": "Gv 8,12",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 8,12",
-      "tipo": "lettura",
-      "testo": "12 Di nuovo Gesù parlò loro e disse: «Io sono la luce del mondo; chi segue me, non camminerà nelle tenebre, ma avrà la luce della vita»."
+      "tipo": "canto_vangelo",
+      "testo": "Io sono la luce del mondo, dice il Signore: chi segue me avrà la luce della vita."
     },
     {
       "sigla": "Mc 10,46-52",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 10,46-52",
-      "tipo": "lettura",
-      "testo": "46 E giunsero a Gerico. Mentre partiva da Gerico insieme ai suoi discepoli e a molta folla, il figlio di Timeo, Bartimeo, che era cieco, sedeva lungo la strada a mendicare. 47 Sentendo che era Gesù Nazareno, cominciò a gridare e a dire: «Figlio di Davide, Gesù, abbi pietà di me!». 48 Molti lo rimproveravano perché tacesse, ma egli gridava ancora più forte: «Figlio di Davide, abbi pietà di me!». 49 Gesù si fermò e disse: «Chiamatelo!». Chiamarono il cieco, dicendogli: «Coraggio! Àlzati, ti chiama!». 50 Egli, gettato via il suo mantello, balzò in piedi e venne da Gesù. 51 Allora Gesù gli disse: «Che cosa vuoi che io faccia per te?». E il cieco gli rispose: «Rabbunì, che io veda di nuovo!». 52 E Gesù gli disse: «Va', la tua fede ti ha salvato». E subito vide di nuovo e lo seguiva lungo la strada."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, mentre Gesù partiva da Gèrico insieme ai suoi discepoli e a molta folla, il figlio di Timèo, Bartimèo, che era cieco, sedeva lungo la strada a mendicare. Sentendo che era Gesù Nazareno, cominciò a gridare e a dire: «Figlio di Davide, Gesù, abbi pietà di me!».\nMolti lo rimproveravano perché tacesse, ma egli gridava ancora più forte: «Figlio di Davide, abbi pietà di me!».\nGesù si fermò e disse: «Chiamatelo!». Chiamarono il cieco, dicendogli: «Coraggio! Àlzati, ti chiama!». Egli, gettato via il suo mantello, balzò in piedi e venne da Gesù.\nAllora Gesù gli disse: «Che cosa vuoi che io faccia per te?». E il cieco gli rispose: «Rabbunì, che io veda di nuovo!». E Gesù gli disse: «Va’, la tua fede ti ha salvato». E subito vide di nuovo e lo seguiva lungo la strada."
     }
   ]
 }

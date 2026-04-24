@@ -33,7 +33,38 @@ pip install -r requirements.txt
 python scraper.py 2026-01-01 2026-12-31
 ```
 
-I file già presenti vengono saltati automaticamente. Per forzare il riscaricare, eliminare prima il file JSON corrispondente.
+I file già presenti vengono saltati automaticamente. Usare `--force` per rigenerare un file già esistente (es. `python scraper.py --force 2026-04-26`).
+
+Opzioni disponibili: `--force`, `--no-text`, `--fix-version`.
+
+### Estrazione testi letture (scraper.py)
+
+Il salmo viene estratto **inline** dalla pagina del calendario (`Detailed/YYYYMMDD.shtml`) tramite `_extract_psalm_inline(section_div)`: legge `div.section-content-testo`, distingue ritornello (`<b>`) e versi, e separa le strofe dai nodi `NavigableString` whitespace-only tra due `<br>`.
+
+Anche le altre letture (prima lettura, seconda lettura, vangelo, canto_vangelo) vengono estratte **inline** tramite `_extract_reading_inline(section_div)`. Per le letture standard (`section-content-testo`): la pagina lachiesa.it usa HTML malformato — il primo `<br>` non chiuso funge da contenitore del testo e `br.get_text()` restituisce il testo senza numeri di versetto. Per il **canto dal vangelo** non esiste `section-content-testo`: il testo si trova in `div.section-content`, dentro un `<p>` che contiene "Alleluia, alleluia." + `<br/>` + verso + `<br/>` + "Alleluia." — la funzione estrae questo `<p>`, filtra le righe "Alleluia, alleluia." e "Alleluia.", e unisce i versi con spazio. Se l'estrazione inline fallisce, si usa `fetch_reading_text(href)` (bibbia.php) come fallback.
+
+## Foglietto Settimanale
+
+Pagina web (`foglietto.html`) per generare e stampare il foglietto parrocchiale settimanale. Target: catechista non tecnico, accesso solo da browser.
+
+### File principali
+- **`foglietto.html`** — Tutto-in-uno: UI (selezione domenica, form letture/calendario), anteprima A4 `contenteditable`, stampa via `window.print()`. Vanilla JS, zero dipendenze. Accessibile solo via URL diretto (nessun link pubblico in index.html).
+- **`assets/foglietto/foglietto.css`** — Layout foglietto: intestazione 3 colonne, etichetta data verticale, due colonne letture, tabella calendario, footer, `@media print` A4.
+- **`assets/foglietto/appuntamenti_fissi.json`** — Appuntamenti ricorrenti per giorno. Struttura: `{ giorni: [{ giorno: "domenica"|"lunedi"|..., appuntamenti: [{ orario, descrizione, chiesa, intenzione, fisso, sospeso }] }], note_permanenti: { confessioni, whatsapp_community } }`.
+
+### Struttura foglietto.html (JS)
+- **`liturgyData`** — JSON da `assets/liturgia/YYYYMMDD.json`, caricato al cambio domenica.
+- **`appFissi`** — `appuntamenti_fissi.json` caricato una sola volta all'avvio.
+- **`varAppts[dIdx]`** — Array appuntamenti variabili per giorno (indice 0–7 dalla domenica).
+- **`apptOverrides[key]`** — Override `sospeso`/`intenzione` per appuntamenti fissi; `key` = `"dIdx-aIdx"`.
+- **`renderPage1()`** — Genera pagina letture. Il salmo usa `\n\n` per strofe e `\n` per versi (`<br>`). Le altre letture: paragrafi senza margine verticale extra.
+- **`renderPage2()`** — Genera tabella calendario + footer confessioni/avvisi.
+- **`adjustPage1Layout()`** — Algoritmo auto-scaling font: prova da 12pt scendendo a 6.6pt, si ferma al massimo che entra. Se nemmeno 6.6pt basta: sposta sezioni da colonna sinistra a destra (max 2 passaggi), poi crea pagina extra `.foglietto-page-overflow`. `SIZES = [12, 11.5, ..., 6.6]`.
+
+### Formato testo letture nel JSON
+- Prima lettura, seconda lettura, vangelo: testo continuo, `\n` tra blocchi logici (paragrafi), niente numeri di versetto (rimossi inline da scraper).
+- Salmo: `ritornello` separato + `testo` con `\n\n` tra strofe e `\n` tra versi nella stessa strofa.
+- Canto dal Vangelo: `sigla`, `url`, e `testo` (il verso dell'Alleluia senza le acclamazioni "Alleluia, alleluia." / "Alleluia." che il foglietto aggiunge autonomamente).
 
 ## Language
 

@@ -7,32 +7,33 @@
     {
       "sigla": "Es 19,2-6",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Es 19,2-6",
-      "tipo": "lettura",
-      "testo": "3 Mosè salì verso Dio e il Signore lo chiamò dal monte, dicendo: “Questo dirai alla casa di Giacobbe e annuncerai agli Israeliti: 4 Voi stessi avete visto ciò che io ho fatto all'Egitto e come ho sollevato voi su ali di aquile e vi ho fatti venire fino a me. 5 Ora, se vorrete ascoltare la mia voce e custodirete la mia alleanza, voi sarete per me la proprietà tra tutti i popoli, perché mia è tutta la terra! 6 Voi sarete per me un regno di sacerdoti e una nazione santa. Queste parole dirai agli Israeliti”."
+      "tipo": "prima_lettura",
+      "testo": "In quei giorni, gli Israeliti, levate le tende da Refidìm, giunsero al deserto del Sinai, dove si accamparono; Israele si accampò davanti al monte.\nMosè salì verso Dio, e il Signore lo chiamò dal monte, dicendo: «Questo dirai alla casa di Giacobbe e annuncerai agli Israeliti: “Voi stessi avete visto ciò che io ho fatto all’Egitto e come ho sollevato voi su ali di aquile e vi ho fatti venire fino a me. Ora, se darete ascolto alla mia voce e custodirete la mia alleanza, voi sarete per me una proprietà particolare tra tutti i popoli; mia infatti è tutta la terra! Voi sarete per me un regno di sacerdoti e una nazione santa”»."
     },
     {
       "sigla": "Sal 99",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 99",
-      "tipo": "lettura",
-      "testo": "1 Il Signore regna: tremino i popoli. Siede in trono sui cherubini: si scuota la terra.\n2 Grande è il Signore in Sion, eccelso sopra tutti i popoli.\n3 Lodino il tuo nome grande e terribile. Egli è santo!\n4 Forza del re è amare il diritto. Tu hai stabilito ciò che è retto; diritto e giustizia hai operato in Giacobbe.\n5 Esaltate il Signore, nostro Dio, prostratevi allo sgabello dei suoi piedi. Egli è santo!\n6 Mosè e Aronne tra i suoi sacerdoti, Samuele tra quanti invocavano il suo nome: invocavano il Signore ed egli rispondeva.\n7 Parlava loro da una colonna di nubi: custodivano i suoi insegnamenti e il precetto che aveva loro dato.\n8 Signore, nostro Dio, tu li esaudivi, eri per loro un Dio che perdona, pur castigando i loro peccati."
+      "tipo": "salmo",
+      "testo": "R. Noi siamo suo popolo, gregge che egli guida.\n\nAcclamate il Signore, voi tutti della terra,\nservite il Signore nella gioia,\npresentatevi a lui con esultanza.\n\nRiconoscete che solo il Signore è Dio:\negli ci ha fatti e noi siamo suoi,\nsuo popolo e gregge del suo pascolo.\n\nBuono è il Signore,\nil suo amore è per sempre,\nla sua fedeltà di generazione in generazione.",
+      "ritornello": "R. Noi siamo suo popolo, gregge che egli guida."
     },
     {
       "sigla": "Rm 5,6-11",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 5,6-11",
-      "tipo": "lettura",
-      "testo": "6 Noi eravamo ancora incapaci di avvicinarci a Dio, quando Cristo, nel tempo stabilito, morì per i peccatori. 7 È difficile che qualcuno sia disposto a morire per un uomo onesto; al massimo si potrebbe forse trovare qualcuno disposto a dare la propria vita per un uomo buono. 8 Cristo invece è morto per noi, quando eravamo ancora peccatori: questa è la prova che Dio ci ama. 9 Ma non basta: ora Dio per mezzo della morte di Cristo ci ha messi nella giusta relazione con sé; a maggior ragione ci salverà dal castigo, per mezzo di lui. 10 Noi eravamo suoi nemici, eppure Dio ci ha riconciliati a sé mediante la morte del Figlio suo; a maggior ragione ci salverà mediante la vita di Cristo, dopo averci riconciliati. 11 E non basta! Addirittura possiamo vantarci di fronte a Dio per mezzo del Signore nostro Gesù Cristo, perché ora, grazie a lui, Dio ci ha riconciliati con sé."
+      "tipo": "seconda_lettura",
+      "testo": "Fratelli, quando eravamo ancora deboli, nel tempo stabilito Cristo morì per gli empi.\nOra, a stento qualcuno è disposto a morire per un giusto; forse qualcuno oserebbe morire per una persona buona. Ma Dio dimostra il suo amore verso di noi nel fatto che, mentre eravamo ancora peccatori, Cristo è morto per noi.\nA maggior ragione ora, giustificati nel suo sangue, saremo salvati dall’ira per mezzo di lui. Se infatti, quand’eravamo nemici, siamo stati riconciliati con Dio per mezzo della morte del Figlio suo, molto più, ora che siamo riconciliati, saremo salvati mediante la sua vita. Non solo, ma ci gloriamo pure in Dio, per mezzo del Signore nostro Gesù Cristo, grazie al quale ora abbiamo ricevuto la riconciliazione."
     },
     {
       "sigla": "Mc 1,15",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 1,15",
-      "tipo": "lettura",
-      "testo": "15 Egli diceva: 'Il tempo della salvezza è venuto: il regno di Dio è vicino. Cambiate vita e credete in questo lieto messaggio!'."
+      "tipo": "canto_vangelo",
+      "testo": "Il regno di Dio è vicino: convertitevi e credete nel Vangelo."
     },
     {
       "sigla": "Mt 9,36-10,8",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 9,36-10,8",
-      "tipo": "lettura",
-      "testo": "36 Vedendo le folle, ne sentì compassione, perché erano stanche e sfinite come pecore che non hanno pastore . 37 Allora disse ai suoi discepoli: «La messe è abbondante, ma sono pochi gli operai! 38 Pregate dunque il signore della messe, perché mandi operai nella sua messe!».\n1 Chiamati a sé i suoi dodici discepoli, diede loro potere sugli spiriti impuri per scacciarli e guarire ogni malattia e ogni infermità. 2 I nomi dei dodici apostoli sono: primo, Simone, chiamato Pietro, e Andrea suo fratello; Giacomo, figlio di Zebedeo, e Giovanni suo fratello; 3 Filippo e Bartolomeo; Tommaso e Matteo il pubblicano; Giacomo, figlio di Alfeo, e Taddeo; 4 Simone il Cananeo e Giuda l'Iscariota, colui che poi lo tradì. 5 Questi sono i Dodici che Gesù inviò, ordinando loro: «Non andate fra i pagani e non entrate nelle città dei Samaritani; 6 rivolgetevi piuttosto alle pecore perdute della casa d'Israele. 7 Strada facendo, predicate, dicendo che il regno dei cieli è vicino. 8 Guarite gli infermi, risuscitate i morti, purificate i lebbrosi, scacciate i demòni. Gratuitamente avete ricevuto, gratuitamente date."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, Gesù, vedendo le folle, ne sentì compassione, perché erano stanche e sfinite come pecore che non hanno pastore. Allora disse ai suoi discepoli: «La messe è abbondante, ma sono pochi gli operai! Pregate dunque il signore della messe perché mandi operai nella sua messe!».\nChiamati a sé i suoi dodici discepoli, diede loro potere sugli spiriti impuri per scacciarli e guarire ogni malattia e ogni infermità.\nI nomi dei dodici apostoli sono: primo, Simone, chiamato Pietro, e Andrea suo fratello; Giacomo, figlio di Zebedèo, e Giovanni suo fratello; Filippo e Bartolomeo; Tommaso e Matteo il pubblicano; Giacomo, figlio di Alfeo, e Taddeo; Simone il Cananeo e Giuda l’Iscariota, colui che poi lo tradì.\nQuesti sono i Dodici che Gesù inviò, ordinando loro: «Non andate fra i pagani e non entrate nelle città dei Samaritani; rivolgetevi piuttosto alle pecore perdute della casa d’Israele. Strada facendo, predicate, dicendo che il regno dei cieli è vicino. Guarite gli infermi, risuscitate i morti, purificate i lebbrosi, scacciate i demòni. Gratuitamente avete ricevuto, gratuitamente date»."
     }
   ]
 }

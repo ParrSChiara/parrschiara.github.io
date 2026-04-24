@@ -7,24 +7,27 @@
     {
       "sigla": "At 11,1-18",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 11,1-18",
-      "tipo": "lettura",
-      "testo": "1 Gli apostoli e i fratelli che stavano nella Giudea vennero a sapere che anche i pagani avevano accolto la parola di Dio. 2 E quando Pietro salì a Gerusalemme, i circoncisi lo rimproveravano dicendo: 3 «Sei entrato in casa di uomini non circoncisi e hai mangiato insieme con loro!».\n18 All'udir questo si calmarono e cominciarono a glorificare Dio dicendo: «Dunque anche ai pagani Dio ha concesso che si convertano perché abbiano la vita!»."
+      "tipo": "prima_lettura",
+      "testo": "In quei giorni, gli apostoli e i fratelli che stavano in Giudea vennero a sapere che anche i pagani avevano accolto la parola di Dio. E, quando Pietro salì a Gerusalemme, i fedeli circoncisi lo rimproveravano dicendo: «Sei entrato in casa di uomini non circoncisi e hai mangiato insieme con loro!».\nAllora Pietro cominciò a raccontare loro, con ordine, dicendo: «Mi trovavo in preghiera nella città di Giaffa e in estasi ebbi una visione: un oggetto che scendeva dal cielo, simile a una grande tovaglia, calata per i quattro capi, e che giunse fino a me. Fissandola con attenzione, osservai e vidi in essa quadrupedi della terra, fiere, rettili e uccelli del cielo. Sentii anche una voce che mi diceva: “Coraggio, Pietro, uccidi e mangia!”. Io dissi: “Non sia mai, Signore, perché nulla di profano o di impuro è mai entrato nella mia bocca”. Nuovamente la voce dal cielo riprese: “Ciò che Dio ha purificato, tu non chiamarlo profano”. Questo accadde per tre volte e poi tutto fu tirato su di nuovo nel cielo. Ed ecco, in quell’istante, tre uomini si presentarono alla casa dove eravamo, mandati da Cesarèa a cercarmi. Lo Spirito mi disse di andare con loro senza esitare. Vennero con me anche questi sei fratelli ed entrammo in casa di quell’uomo. Egli ci raccontò come avesse visto l’angelo presentarsi in casa sua e dirgli: “Manda qualcuno a Giaffa e fa’ venire Simone, detto Pietro; egli ti dirà cose per le quali sarai salvato tu con tutta la tua famiglia”. Avevo appena cominciato a parlare quando lo Spirito Santo discese su di loro, come in principio era disceso su di noi. Mi ricordai allora di quella parola del Signore che diceva: “Giovanni battezzò con acqua, voi invece sarete battezzati in Spirito Santo”. Se dunque Dio ha dato a loro lo stesso dono che ha dato a noi, per aver creduto nel Signore Gesù Cristo, chi ero io per porre impedimento a Dio?».\nAll’udire questo si calmarono e cominciarono a glorificare Dio dicendo: «Dunque anche ai pagani Dio ha concesso che si convertano perché abbiano la vita!»."
     },
     {
       "sigla": "Sal 41 e 42",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 41 e 42",
-      "tipo": "lettura"
+      "tipo": "salmo",
+      "testo": "R. L’anima mia ha sete di Dio, del Dio vivente.\n\nCome la cerva anela ai corsi d’acqua,\ncosì l’anima mia anela a te, o Dio.\nL’anima mia ha sete di Dio, del Dio vivente:\nquando verrò e vedrò il volto di Dio?\n\nManda la tua luce e la tua verità:\nsiano esse a guidarmi,\nmi conducano alla tua santa montagna,\nalla tua dimora.\n\nVerrò all’altare di Dio,\na Dio, mia gioiosa esultanza.\nA te canterò sulla cetra,\nDio, Dio mio.",
+      "ritornello": "R. L’anima mia ha sete di Dio, del Dio vivente."
     },
     {
       "sigla": "Gv 10,14",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,14",
-      "tipo": "lettura"
+      "tipo": "canto_vangelo",
+      "testo": "Io sono il buon pastore, dice il Signore; conosco le mie pecore e le mie pecore conoscono me."
     },
     {
       "sigla": "Gv 10,11-18",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,11-18",
-      "tipo": "lettura",
-      "testo": "11 Io sono il buon pastore. Il buon pastore dà la propria vita per le pecore. 12 Il mercenario - che non è pastore e al quale le pecore non appartengono - vede venire il lupo, abbandona le pecore e fugge, e il lupo le rapisce e le disperde; 13 perché è un mercenario e non gli importa delle pecore. 14 Io sono il buon pastore, conosco le mie pecore e le mie pecore conoscono me, 15 così come il Padre conosce me e io conosco il Padre, e do la mia vita per le pecore. 16 E ho altre pecore che non provengono da questo recinto: anche quelle io devo guidare. Ascolteranno la mia voce e diventeranno un solo gregge, un solo pastore. 17 Per questo il Padre mi ama: perché io do la mia vita, per poi riprenderla di nuovo. 18 Nessuno me la toglie: io la do da me stesso. Ho il potere di darla e il potere di riprenderla di nuovo. Questo è il comando che ho ricevuto dal Padre mio»."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, Gesù disse:\n«Io sono il buon pastore. Il buon pastore dà la propria vita per le pecore. Il mercenario – che non è pastore e al quale le pecore non appartengono – vede venire il lupo, abbandona le pecore e fugge, e il lupo le rapisce e le disperde; perché è un mercenario e non gli importa delle pecore.\nIo sono il buon pastore, conosco le mie pecore e le mie pecore conoscono me, così come il Padre conosce me e io conosco il Padre, e do la mia vita per le pecore. E ho altre pecore che non provengono da questo recinto: anche quelle io devo guidare. Ascolteranno la mia voce e diventeranno un solo gregge, un solo pastore.\nPer questo il Padre mi ama: perché io do la mia vita, per poi riprenderla di nuovo. Nessuno me la toglie: io la do da me stesso. Ho il potere di darla e il potere di riprenderla di nuovo. Questo è il comando che ho ricevuto dal Padre mio»."
     }
   ]
 }

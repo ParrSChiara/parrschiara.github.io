@@ -7,25 +7,27 @@
     {
       "sigla": "2Tm 3,10-16",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Tm 3,10-16",
-      "tipo": "lettura",
-      "testo": "14 Tu però rimani saldo in quello che hai imparato e che credi fermamente. Conosci coloro da cui lo hai appreso 15 e conosci le sacre Scritture fin dall'infanzia: queste possono istruirti per la salvezza, che si ottiene mediante la fede in Cristo Gesù. 16 Tutta la Scrittura, ispirata da Dio, è anche utile per insegnare, convincere, correggere ed educare nella giustizia,"
+      "tipo": "prima_lettura",
+      "testo": "Figlio mio, tu mi hai seguito da vicino nell’insegnamento, nel modo di vivere, nei progetti, nella fede, nella magnanimità, nella carità, nella pazienza, nelle persecuzioni, nelle sofferenze. Quali cose mi accaddero ad Antiòchia, a Icònio e a Listra! Quali persecuzioni ho sofferto! Ma da tutte mi ha liberato il Signore! E tutti quelli che vogliono rettamente vivere in Cristo Gesù saranno perseguitati. Ma i malvagi e gli impostori andranno sempre di male in peggio, ingannando gli altri e ingannati essi stessi.\nTu però rimani saldo in quello che hai imparato e che credi fermamente. Conosci coloro da cui lo hai appreso e conosci le sacre Scritture fin dall’infanzia: queste possono istruirti per la salvezza, che si ottiene mediante la fede in Cristo Gesù. Tutta la Scrittura, ispirata da Dio, è anche utile per insegnare, convincere, correggere ed educare nella giustizia, perché l’uomo di Dio sia completo e ben preparato per ogni opera buona."
     },
     {
       "sigla": "Sal 118",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 118",
-      "tipo": "lettura",
-      "testo": "1 Rendete grazie al Signore perché è buono, perché il suo amore è per sempre.\n2 Dica Israele: »Il suo amore è per sempre».\n3 Dica la casa di Aronne: »Il suo amore è per sempre».\n4 Dicano quelli che temono il Signore: »Il suo amore è per sempre».\n5 Nel pericolo ho gridato al Signore: mi ha risposto, il Signore, e mi ha tratto in salvo.\n6 Il Signore è per me, non avrò timore: che cosa potrà farmi un uomo?\n7 Il Signore è per me, è il mio aiuto, e io guarderò dall'alto i miei nemici.\n8 È meglio rifugiarsi nel Signore che confidare nell'uomo.\n9 È meglio rifugiarsi nel Signore che confidare nei potenti.\n10 Tutte le nazioni mi hanno circondato, ma nel nome del Signore le ho distrutte.\n11 Mi hanno circondato, mi hanno accerchiato, ma nel nome del Signore le ho distrutte.\n12 Mi hanno circondato come api, come fuoco che divampa tra i rovi, ma nel nome del Signore le ho distrutte.\n13 Mi avevano spinto con forza per farmi cadere, ma il Signore è stato il mio aiuto.\n14 Mia forza e mio canto è il Signore, egli è stato la mia salvezza.\n15 Grida di giubilo e di vittoria nelle tende dei giusti: la destra del Signore ha fatto prodezze,\n16 la destra del Signore si è innalzata, la destra del Signore ha fatto prodezze.\n17 Non morirò, ma resterò in vita e annuncerò le opere del Signore.\n18 Il Signore mi ha castigato duramente, ma non mi ha consegnato alla morte.\n19 Apritemi le porte della giustizia: vi entrerò per ringraziare il Signore.\n20 È questa la porta del Signore: per essa entrano i giusti.\n21 Ti rendo grazie, perché mi hai risposto, perché sei stato la mia salvezza.\n22 La pietra scartata dai costruttori è divenuta la pietra d'angolo.\n23 Questo è stato fatto dal Signore: una meraviglia ai nostri occhi.\n24 Questo è il giorno che ha fatto il Signore: rallegriamoci in esso ed esultiamo!\n25 Ti preghiamo, Signore: dona la salvezza! Ti preghiamo, Signore: dona la vittoria!\n26 Benedetto colui che viene nel nome del Signore. Vi benediciamo dalla casa del Signore.\n27 Il Signore è Dio, egli ci illumina. Formate il corteo con rami frondosi fino agli angoli dell'altare.\n28 Sei tu il mio Dio e ti rendo grazie, sei il mio Dio e ti esalto."
+      "tipo": "salmo",
+      "testo": "R. Grande pace, Signore, per chi ama la tua legge.\n\nMolti mi perseguitano e mi affliggono,\nma io non abbandono i tuoi insegnamenti.\nLa verità è fondamento della tua parola,\nogni tuo giusto giudizio dura in eterno.\n\nI potenti mi perseguitano senza motivo,\nma il mio cuore teme solo le tue parole.\nGrande pace per chi ama la tua legge:\nnel suo cammino non trova inciampo.\n\nAspetto da te la salvezza, Signore,\ne metto in pratica i tuoi comandi.\nOsservo i tuoi precetti e i tuoi insegnamenti:\ndavanti a te sono tutte le mie vie.",
+      "ritornello": "R. Grande pace, Signore, per chi ama la tua legge."
     },
     {
       "sigla": "Gv 14,23",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 14,23",
-      "tipo": "lettura"
+      "tipo": "canto_vangelo",
+      "testo": "Se uno mi ama, osserverà la mia parola, dice il Signore, e il Padre mio lo amerà e noi verremo a lui."
     },
     {
       "sigla": "Mc 12,35-37",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 12,35-37",
-      "tipo": "lettura",
-      "testo": "Disse il Signore al mio Signore : Siedi alla mia destra, finché io ponga i tuoi nemici sotto i tuoi piedi . 37 Davide stesso lo chiama Signore: da dove risulta che è suo figlio?». E la folla numerosa lo ascoltava volentieri."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, insegnando nel tempio, Gesù diceva: «Come mai gli scribi dicono che il Cristo è figlio di Davide? Disse infatti Davide stesso, mosso dallo Spirito Santo:\n“Disse il Signore al mio Signore:\nSiedi alla mia destra,\nfinché io ponga i tuoi nemici\nsotto i tuoi piedi”.\nDavide stesso lo chiama Signore: da dove risulta che è suo figlio?».\nE la folla numerosa lo ascoltava volentieri."
     }
   ]
 }

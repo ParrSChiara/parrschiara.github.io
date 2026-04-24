@@ -7,26 +7,27 @@
     {
       "sigla": "At 13,44-52",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 13,44-52",
-      "tipo": "lettura",
-      "testo": "Io ti ho posto per essere luce delle genti, perché tu porti la salvezza sino all'estremità della terra ». 48 Nell'udire ciò, i pagani si rallegravano e glorificavano la parola del Signore, e tutti quelli che erano destinati alla vita eterna credettero. 49 La parola del Signore si diffondeva per tutta la regione. 50 Ma i Giudei sobillarono le pie donne della nobiltà e i notabili della città e suscitarono una persecuzione contro Paolo e Bàrnaba e li cacciarono dal loro territorio. 51 Allora essi, scossa contro di loro la polvere dei piedi, andarono a Icònio. 52 I discepoli erano pieni di gioia e di Spirito Santo."
+      "tipo": "prima_lettura",
+      "testo": "Il sabato seguente quasi tutta la città [di Antiòchia] si radunò per ascoltare la parola del Signore. Quando videro quella moltitudine, i Giudei furono ricolmi di gelosia e con parole ingiuriose contrastavano le affermazioni di Paolo.\nAllora Paolo e Bàrnaba con franchezza dichiararono: «Era necessario che fosse proclamata prima di tutto a voi la parola di Dio, ma poiché la respingete e non vi giudicate degni della vita eterna, ecco: noi ci rivolgiamo ai pagani. Così infatti ci ha ordinato il Signore: “Io ti ho posto per essere luce delle genti, perché tu porti la salvezza sino all’estremità della terra”».\nNell’udire ciò, i pagani si rallegravano e glorificavano la parola del Signore, e tutti quelli che erano destinati alla vita eterna credettero.\nLa parola del Signore si diffondeva per tutta la regione. Ma i Giudei sobillarono le pie donne della nobiltà e i notabili della città e suscitarono una persecuzione contro Paolo e Bàrnaba e li cacciarono dal loro territorio. Allora essi, scossa contro di loro la polvere dei piedi, andarono a Icònio.\nI discepoli erano pieni di gioia e di Spirito Santo."
     },
     {
       "sigla": "Sal 97",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 97",
-      "tipo": "lettura",
-      "testo": "1 Il Signore regna: esulti la terra, gioiscano le isole tutte.\n2 Nubi e tenebre lo avvolgono, giustizia e diritto sostengono il suo trono.\n3 Un fuoco cammina davanti a lui e brucia tutt'intorno i suoi nemici.\n4 Le sue folgori rischiarano il mondo: vede e trema la terra.\n5 I monti fondono come cera davanti al Signore, davanti al Signore di tutta la terra.\n6 Annunciano i cieli la sua giustizia, e tutti i popoli vedono la sua gloria.\n7 Si vergognino tutti gli adoratori di statue e chi si vanta del nulla degli idoli. A lui si prostrino tutti gli dèi!\n8 Ascolti Sion e ne gioisca, esultino i villaggi di Giuda a causa dei tuoi giudizi, Signore.\n9 Perché tu, Signore, sei l'Altissimo su tutta la terra, eccelso su tutti gli dèi.\n10 Odiate il male, voi che amate il Signore: egli custodisce la vita dei suoi fedeli, li libererà dalle mani dei malvagi.\n11 Una luce è spuntata per il giusto, una gioia per i retti di cuore."
+      "tipo": "salmo",
+      "testo": "R. Tutti i confini della terra hanno veduto la vittoria del nostro Dio.\n\nCantate al Signore un canto nuovo,\nperché ha compiuto meraviglie.\nGli ha dato vittoria la sua destra\ne il suo braccio santo.\n\nIl Signore ha fatto conoscere la sua salvezza,\nagli occhi delle genti ha rivelato la sua giustizia.\nEgli si è ricordato del suo amore,\ndella sua fedeltà alla casa d’Israele.\n\nTutti i confini della terra hanno veduto\nla vittoria del nostro Dio.\nAcclami il Signore tutta la terra,\ngridate, esultate, cantate inni!",
+      "ritornello": "R. Tutti i confini della terra hanno veduto la vittoria del nostro Dio."
     },
     {
       "sigla": "Gv 8,31-32",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 8,31-32",
-      "tipo": "lettura",
-      "testo": "31 Gesù allora disse a quei Giudei che avevano creduto in lui: «Se rimanete fedeli alla mia parola, sarete davvero miei discepoli; 32 conoscerete la verità e la verità vi farà liberi»."
+      "tipo": "canto_vangelo",
+      "testo": "Se rimanete nella mia parola, siete davvero miei discepoli, dice il Signore, e conoscerete la verità."
     },
     {
       "sigla": "Gv 14,7-14",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 14,7-14",
-      "tipo": "lettura",
-      "testo": "12 In verità, in verità vi dico: anche chi crede in me, compirà le opere che io compio e ne farà di più grandi, perché io vado al Padre. 13 Qualunque cosa chiederete nel nome mio, la farò, perché il Padre sia glorificato nel Figlio. 14 Se mi chiederete qualche cosa nel mio nome, io la farò."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, disse Gesù ai suoi discepoli: «Se avete conosciuto me, conoscerete anche il Padre mio: fin da ora lo conoscete e lo avete veduto».\nGli disse Filippo: «Signore, mostraci il Padre e ci basta».\nGli rispose Gesù: «Da tanto tempo sono con voi e tu non mi hai conosciuto, Filippo? Chi ha visto me, ha visto il Padre. Come puoi tu dire: “Mostraci il Padre”? Non credi che io sono nel Padre e il Padre è in me? Le parole che io vi dico, non le dico da me stesso; ma il Padre, che rimane in me, compie le sue opere. Credete a me: io sono nel Padre e il Padre è in me. Se non altro, credetelo per le opere stesse.\nIn verità, in verità io vi dico: chi crede in me, anch’egli compirà le opere che io compio e ne compirà di più grandi di queste, perché io vado al Padre. E qualunque cosa chiederete nel mio nome, la farò, perché il Padre sia glorificato nel Figlio. Se mi chiederete qualche cosa nel mio nome, io la farò."
     }
   ]
 }

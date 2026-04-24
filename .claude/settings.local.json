@@ -16,7 +16,15 @@
       "Bash(pkill -f \"python3 -m http.server 8765\")",
       "Bash(python3 -m json.tool)",
       "Bash(python *)",
-      "Bash(python3 *)"
+      "Bash(python3 *)",
+      "WebFetch(domain:www.lachiesa.it)",
+      "Bash(/tmp/venv_scraper/bin/pip install *)",
+      "Bash(/tmp/venv_scraper/bin/python3 *)",
+      "Bash(pip3 --version)",
+      "Bash(pip3 install *)",
+      "Bash(.venv/bin/pip install *)",
+      "Bash(curl -s \"https://www.lachiesa.it/calendario/Detailed/20260426.shtml\")",
+      "Bash(/Users/AndreaValenziano/IdeaProjects/parrschiara.github.io/.venv/bin/python3 -c ' *)"
     ]
   }
 }

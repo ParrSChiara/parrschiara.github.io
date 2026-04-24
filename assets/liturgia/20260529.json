@@ -7,25 +7,27 @@
     {
       "sigla": "1Pt 4,7-13",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Pt 4,7-13",
-      "tipo": "lettura",
-      "testo": "12 Carissimi, non meravigliatevi della persecuzione che, come un incendio, è scoppiata in mezzo a voi per mettervi alla prova, come se vi accadesse qualcosa di strano. 13 Ma, nella misura in cui partecipate alle sofferenze di Cristo, rallegratevi perché anche nella rivelazione della sua gloria possiate rallegrarvi ed esultare."
+      "tipo": "prima_lettura",
+      "testo": "Carissimi, la fine di tutte le cose è vicina. Siate dunque moderati e sobri, per dedicarvi alla preghiera. Soprattutto conservate tra voi una carità fervente, perché la carità copre una moltitudine di peccati. Praticate l’ospitalità gli uni verso gli altri, senza mormorare.\nCiascuno, secondo il dono ricevuto, lo metta a servizio degli altri, come buoni amministratori della multiforme grazia di Dio. Chi parla, lo faccia con parole di Dio; chi esercita un ufficio, lo compia con l’energia ricevuta da Dio, perché in tutto sia glorificato Dio per mezzo di Gesù Cristo, al quale appartengono la gloria e la potenza nei secoli dei secoli. Amen!\nCarissimi, non meravigliatevi della persecuzione che, come un incendio, è scoppiata in mezzo a voi per mettervi alla prova, come se vi accadesse qualcosa di strano. Ma, nella misura in cui partecipate alle sofferenze di Cristo, rallegratevi perché anche nella rivelazione della sua gloria possiate rallegrarvi ed esultare."
     },
     {
       "sigla": "Sal 95",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 95",
-      "tipo": "lettura",
-      "testo": "1 Venite, cantiamo al Signore, acclamiamo la roccia della nostra salvezza.\n2 Accostiamoci a lui per rendergli grazie, a lui acclamiamo con canti di gioia.\n3 Perché grande Dio è il Signore, grande re sopra tutti gli dèi.\n4 Nella sua mano sono gli abissi della terra, sono sue le vette dei monti.\n5 Suo è il mare, è lui che l'ha fatto; le sue mani hanno plasmato la terra.\n6 Entrate: prostràti, adoriamo, in ginocchio davanti al Signore che ci ha fatti.\nSe ascoltaste oggi la sua voce! 8 »Non indurite il cuore come a Merìba, come nel giorno di Massa nel deserto,\n9 dove mi tentarono i vostri padri: mi misero alla prova pur avendo visto le mie opere.\n10 Per quarant'anni mi disgustò quella generazione e dissi: «Sono un popolo dal cuore traviato, non conoscono le mie vie»."
+      "tipo": "salmo",
+      "testo": "R. Tua è la gloria, Signore, nei secoli.\n\nDite tra le genti: «Il Signore regna!».\nÈ stabile il mondo, non potrà vacillare!\nEgli giudica i popoli con rettitudine.\n\nGioiscano i cieli, esulti la terra,\nrisuoni il mare e quanto racchiude;\nsia in festa la campagna e quanto contiene,\nacclamino tutti gli alberi della foresta.\n\nDavanti al Signore che viene:\nsì, egli viene a giudicare la terra;\ngiudicherà il mondo con giustizia\ne nella sua fedeltà i popoli.",
+      "ritornello": "R. Tua è la gloria, Signore, nei secoli."
     },
     {
       "sigla": "Gv 15,16",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,16",
-      "tipo": "lettura"
+      "tipo": "canto_vangelo",
+      "testo": "Io ho scelto voi, dice il Signore, perché andiate e portiate frutto e il vostro frutto rimanga."
     },
     {
       "sigla": "Mc 11,11-25",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 11,11-25",
-      "tipo": "lettura",
-      "testo": "20 La mattina seguente, passando, videro l'albero di fichi seccato fin dalle radici. 21 Pietro si ricordò e gli disse: «Maestro, guarda: l'albero di fichi che hai maledetto è seccato». 22 Rispose loro Gesù: «Abbiate fede in Dio! 23 In verità io vi dico: se uno dicesse a questo monte: «Lèvati e gèttati nel mare», senza dubitare in cuor suo, ma credendo che quanto dice avviene, ciò gli avverrà. 24 Per questo vi dico: tutto quello che chiederete nella preghiera, abbiate fede di averlo ottenuto e vi accadrà. 25 Quando vi mettete a pregare, se avete qualcosa contro qualcuno, perdonate, perché anche il Padre vostro che è nei cieli perdoni a voi le vostre colpe». ["
+      "tipo": "vangelo",
+      "testo": "[Dopo essere stato acclamato dalla folla, Gesù] entrò a Gerusalemme, nel tempio. E dopo aver guardato ogni cosa attorno, essendo ormai l’ora tarda, uscì con i Dodici verso Betània.\nLa mattina seguente, mentre uscivano da Betània, ebbe fame. Avendo visto da lontano un albero di fichi che aveva delle foglie, si avvicinò per vedere se per caso vi trovasse qualcosa ma, quando vi giunse vicino, non trovò altro che foglie. Non era infatti la stagione dei fichi. Rivolto all’albero, disse: «Nessuno mai più in eterno mangi i tuoi frutti!». E i suoi discepoli l’udirono.\nGiunsero a Gerusalemme. Entrato nel tempio, si mise a scacciare quelli che vendevano e quelli che compravano nel tempio; rovesciò i tavoli dei cambiamonete e le sedie dei venditori di colombe e non permetteva che si trasportassero cose attraverso il tempio. E insegnava loro dicendo: «Non sta forse scritto:\n“La mia casa sarà chiamata\ncasa di preghiera per tutte le nazioni”?\nVoi invece ne avete fatto un covo di ladri».\nLo udirono i capi dei sacerdoti e gli scribi e cercavano il modo di farlo morire. Avevano infatti paura di lui, perché tutta la folla era stupita del suo insegnamento. Quando venne la sera, uscirono fuori dalla città.\nLa mattina seguente, passando, videro l’albero di fichi seccato fin dalle radici. Pietro si ricordò e gli disse: «Maestro, guarda: l’albero di fichi che hai maledetto è seccato». Rispose loro Gesù: «Abbiate fede in Dio! In verità io vi dico: se uno dicesse a questo monte: “Lèvati e gèttati nel mare”, senza dubitare in cuor suo, ma credendo che quanto dice avviene, ciò gli avverrà. Per questo vi dico: tutto quello che chiederete nella preghiera, abbiate fede di averlo ottenuto e vi accadrà. Quando vi mettete a pregare, se avete qualcosa contro qualcuno, perdonate, perché anche il Padre vostro che è nei cieli perdoni a voi le vostre colpe»."
     }
   ]
 }

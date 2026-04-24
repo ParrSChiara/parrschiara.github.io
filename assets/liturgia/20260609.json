@@ -7,26 +7,27 @@
     {
       "sigla": "1Re 17,7-16",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Re 17,7-16",
-      "tipo": "lettura",
-      "testo": "7 Dopo alcuni giorni il torrente si seccò, perché non pioveva sulla regione. 8 Il Signore parlò a lui e disse:\n9 «Alzati, và in Zarepta di Sidòne e ivi stabilisciti. Ecco io ho dato ordine a una vedova di là per il tuo cibo». 10 Egli si alzò e andò a Zarepta. Entrato nella porta della città, ecco una vedova raccoglieva la legna. La chiamò e le disse: «Prendimi un pò d'acqua in un vaso perché io possa bere». 11 Mentre quella andava a prenderla, le gridò: «Prendimi anche un pezzo di pane». 12 Quella rispose: «Per la vita del Signore tuo Dio, non ho nulla di cotto, ma solo un pugno di farina nella giara e un pò di olio nell'orcio; ora raccolgo due pezzi di legna, dopo andrò a cuocerla per me e per mio figlio: la mangeremo e poi moriremo». 13 Elia le disse: «Non temere; su, fà come hai detto, ma prepara prima una piccola focaccia per me e portamela; quindi ne preparerai per te e per tuo figlio, 14 poiché dice il Signore: La farina della giara non si esaurirà e l'orcio dell'olio non si svuoterà finché il Signore non farà piovere sulla terra». 15 Quella andò e fece come aveva detto Elia. Mangiarono essa, lui e il figlio di lei per diversi giorni. 16 La farina della giara non venne meno e l'orcio dell'olio non diminuì, secondo la parola che il Signore aveva pronunziata per mezzo di Elia."
+      "tipo": "prima_lettura",
+      "testo": "In quei giorni, il torrente [nei cui pressi Elìa si era nascosto] si seccò, perché non era piovuto sulla terra. Fu rivolta a lui la parola del Signore: «Àlzati, va’ a Sarèpta di Sidone; ecco, io là ho dato ordine a una vedova di sostenerti». Egli si alzò e andò a Sarèpta.\nArrivato alla porta della città, ecco una vedova che raccoglieva legna. La chiamò e le disse: «Prendimi un po’ d’acqua in un vaso, perché io possa bere». Mentre quella andava a prenderla, le gridò: «Per favore, prendimi anche un pezzo di pane». Quella rispose: «Per la vita del Signore, tuo Dio, non ho nulla di cotto, ma solo un pugno di farina nella giara e un po’ d’olio nell’orcio; ora raccolgo due pezzi di legna, dopo andrò a prepararla per me e per mio figlio: la mangeremo e poi moriremo». Elìa le disse: «Non temere; va’ a fare come hai detto. Prima però prepara una piccola focaccia per me e portamela; quindi ne preparerai per te e per tuo figlio, poiché così dice il Signore, Dio d’Israele: “La farina della giara non si esaurirà e l’orcio dell’olio non diminuirà fino al giorno in cui il Signore manderà la pioggia sulla faccia della terra”».\nQuella andò e fece come aveva detto Elìa; poi mangiarono lei, lui e la casa di lei per diversi giorni. La farina della giara non venne meno e l’orcio dell’olio non diminuì, secondo la parola che il Signore aveva pronunciato per mezzo di Elìa."
     },
     {
       "sigla": "Sal 4",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 4",
-      "tipo": "lettura",
-      "testo": "1 Al maestro del coro. Per strumenti a corda. Salmo. Di Davide. 2 Quando t'invoco, rispondimi, Dio della mia giustizia! Nell'angoscia mi hai dato sollievo; pietà di me, ascolta la mia preghiera.\n3 Fino a quando, voi uomini, calpesterete il mio onore, amerete cose vane e cercherete la menzogna?\n4 Sappiatelo: il Signore fa prodigi per il suo fedele; il Signore mi ascolta quando lo invoco.\n5 Tremate e più non peccate, nel silenzio, sul vostro letto, esaminate il vostro cuore.\n6 Offrite sacrifici legittimi e confidate nel Signore.\n7 Molti dicono: «Chi ci farà vedere il bene, se da noi, Signore, è fuggita la luce del tuo volto?».\n8 Hai messo più gioia nel mio cuore di quanta ne diano a loro grano e vino in abbondanza."
+      "tipo": "salmo",
+      "testo": "R. Risplenda su di noi, Signore, la luce del tuo volto.\n\nOppure:\nIl Signore fa prodigi per il suo fedele.\n\nQuando t’invoco, rispondimi, Dio della mia giustizia!\nNell’angoscia mi hai dato sollievo;\npietà di me, ascolta la mia preghiera.\nFino a quando, voi uomini, calpesterete il mio onore,\namerete cose vane e cercherete la menzogna?\n\nSappiatelo: il Signore fa prodigi per il suo fedele;\nil Signore mi ascolta quando lo invoco.\nTremate e più non peccate,\nnel silenzio, sul vostro letto, esaminate il vostro cuore.\n\nMolti dicono: «Chi ci farà vedere il bene,\nse da noi, Signore, è fuggita la luce del tuo volto?».\nHai messo più gioia nel mio cuore\ndi quanta ne diano a loro grano e vino in abbondanza.",
+      "ritornello": "R. Risplenda su di noi, Signore, la luce del tuo volto."
     },
     {
       "sigla": "Mt 5,16",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 5,16",
-      "tipo": "lettura",
-      "testo": "16 Così deve risplendere la vostra luce davanti agli uomini, perché vedano il bene che voi fate e ringrazino il Padre vostro che è in cielo."
+      "tipo": "canto_vangelo",
+      "testo": "Risplenda la vostra luce davanti agli uomini, perché vedano le vostre opere buone e rendano gloria al Padre vostro."
     },
     {
       "sigla": "Mt 5,13-16",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 5,13-16",
-      "tipo": "lettura",
-      "testo": "13 Voi siete il sale della terra; ma se il sale perde il sapore, con che cosa lo si renderà salato? A null'altro serve che ad essere gettato via e calpestato dalla gente. 14 Voi siete la luce del mondo; non può restare nascosta una città che sta sopra un monte, 15 né si accende una lampada per metterla sotto il moggio, ma sul candelabro, e così fa luce a tutti quelli che sono nella casa. 16 Così risplenda la vostra luce davanti agli uomini, perché vedano le vostre opere buone e rendano gloria al Padre vostro che è nei cieli."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, Gesù disse ai suoi discepoli:\n«Voi siete il sale della terra; ma se il sale perde il sapore, con che cosa lo si renderà salato? A null’altro serve che ad essere gettato via e calpestato dalla gente.\nVoi siete la luce del mondo; non può restare nascosta una città che sta sopra un monte, né si accende una lampada per metterla sotto il moggio, ma sul candelabro, e così fa luce a tutti quelli che sono nella casa. Così risplenda la vostra luce davanti agli uomini, perché vedano le vostre opere buone e rendano gloria al Padre vostro che è nei cieli»."
     }
   ]
 }

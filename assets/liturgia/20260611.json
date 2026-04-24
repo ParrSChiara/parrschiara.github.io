@@ -7,26 +7,27 @@
     {
       "sigla": "At 11,21-26;13,1-3",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 11,21-26;13,1-3",
-      "tipo": "lettura",
-      "testo": "1 C'erano nella Chiesa di Antiòchia profeti e maestri: Bàrnaba, Simeone detto Niger, Lucio di Cirene, Manaèn, compagno d'infanzia di Erode il tetrarca, e Saulo. 2 Mentre essi stavano celebrando il culto del Signore e digiunando, lo Spirito Santo disse: «Riservate per me Bàrnaba e Saulo per l'opera alla quale li ho chiamati». 3 Allora, dopo aver digiunato e pregato, imposero loro le mani e li congedarono."
+      "tipo": "prima_lettura",
+      "testo": "In quei giorni, [in Antiòchia], un grande numero credette e si convertì al Signore. Questa notizia giunse agli orecchi della Chiesa di Gerusalemme, e mandarono Bàrnaba ad Antiòchia.\nQuando questi giunse e vide la grazia di Dio, si rallegrò ed esortava tutti a restare, con cuore risoluto, fedeli al Signore, da uomo virtuoso qual era e pieno di Spirito Santo e di fede. E una folla considerevole fu aggiunta al Signore.\nBàrnaba poi partì alla volta di Tarso per cercare Saulo: lo trovò e lo condusse ad Antiòchia. Rimasero insieme un anno intero in quella Chiesa e istruirono molta gente. Ad Antiòchia per la prima volta i discepoli furono chiamati cristiani.\nC’erano nella Chiesa di Antiòchia profeti e maestri: Bàrnaba, Simeone detto Niger, Lucio di Cirene, Manaèn, compagno d’infanzia di Erode il tetrarca, e Saulo. Mentre essi stavano celebrando il culto del Signore e digiunando, lo Spirito Santo disse: «Riservate per me Bàrnaba e Saulo per l’opera alla quale li ho chiamati». Allora, dopo aver digiunato e pregato, imposero loro le mani e li congedarono."
     },
     {
       "sigla": "Sal 97",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 97",
-      "tipo": "lettura",
-      "testo": "1 Il Signore regna: esulti la terra, gioiscano le isole tutte.\n2 Nubi e tenebre lo avvolgono, giustizia e diritto sostengono il suo trono.\n3 Un fuoco cammina davanti a lui e brucia tutt'intorno i suoi nemici.\n4 Le sue folgori rischiarano il mondo: vede e trema la terra.\n5 I monti fondono come cera davanti al Signore, davanti al Signore di tutta la terra.\n6 Annunciano i cieli la sua giustizia, e tutti i popoli vedono la sua gloria.\n7 Si vergognino tutti gli adoratori di statue e chi si vanta del nulla degli idoli. A lui si prostrino tutti gli dèi!\n8 Ascolti Sion e ne gioisca, esultino i villaggi di Giuda a causa dei tuoi giudizi, Signore.\n9 Perché tu, Signore, sei l'Altissimo su tutta la terra, eccelso su tutti gli dèi.\n10 Odiate il male, voi che amate il Signore: egli custodisce la vita dei suoi fedeli, li libererà dalle mani dei malvagi.\n11 Una luce è spuntata per il giusto, una gioia per i retti di cuore."
+      "tipo": "salmo",
+      "testo": "R. Annunzierò ai fratelli la salvezza del Signore.\n\nCantate al Signore un canto nuovo,\nperché ha compiuto meraviglie.\nGli ha dato vittoria la sua destra\ne il suo braccio santo.\n\nIl Signore ha fatto conoscere la sua salvezza,\nagli occhi delle genti ha rivelato la sua giustizia.\nEgli si è ricordato del suo amore,\ndella sua fedeltà alla casa d’Israele.\n\nTutti i confini della terra hanno veduto\nla vittoria del nostro Dio.\nAcclami il Signore tutta la terra,\ngridate, esultate, cantate inni!\n\nCantate inni al Signore con la cetra,\ncon la cetra e al suono di strumenti a corde;\ncon le trombe e al suono del corno\nacclamate davanti al re, il Signore.",
+      "ritornello": "R. Annunzierò ai fratelli la salvezza del Signore."
     },
     {
       "sigla": "Mt 28,19.20",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 28,19.20",
-      "tipo": "lettura",
-      "testo": "19 Perciò andate, fate che tutti diventino miei discepoli; battezzateli nel nome del Padre e del Figlio e dello Spirito Santo; 20 insegnate loro a ubbidire a tutto ciò che io vi ho comandato. E sappiate che io sarò sempre con voi, tutti i giorni, sino alla fine del mondo'."
+      "tipo": "canto_vangelo",
+      "testo": "Mt 28,19.20"
     },
     {
       "sigla": "Mt 10,7-13",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 10,7-13",
-      "tipo": "lettura",
-      "testo": "11 In qualunque città o villaggio entriate, fatevi indicare se vi sia qualche persona degna, e lì rimanete fino alla vostra partenza. 12 Entrando nella casa, rivolgetele il saluto. 13 Se quella casa ne sarà degna, la vostra pace scenda sopra di essa; ma se non ne sarà degna, la vostra pace ritorni a voi."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, disse Gesù ai suoi apostoli:\n«Strada facendo, predicate, dicendo che il regno dei cieli è vicino. Guarite gli infermi, risuscitate i morti, purificate i lebbrosi, scacciate i demòni.\nGratuitamente avete ricevuto, gratuitamente date. Non procuratevi oro né argento né denaro nelle vostre cinture, né sacca da viaggio, né due tuniche, né sandali, né bastone, perché chi lavora ha diritto al suo nutrimento.\nIn qualunque città o villaggio entriate, domandate chi là sia degno e rimanetevi finché non sarete partiti.\nEntrando nella casa, rivolgetele il saluto. Se quella casa ne è degna, la vostra pace scenda su di essa; ma se non ne è degna, la vostra pace ritorni a voi»."
     }
   ]
 }

@@ -7,26 +7,27 @@
     {
       "sigla": "At 22,30;23,6-11",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 22,30;23,6-11",
-      "tipo": "lettura",
-      "testo": "30 Il giorno seguente, volendo conoscere la realtà dei fatti, cioè il motivo per cui veniva accusato dai Giudei, gli fece togliere le catene e ordinò che si riunissero i capi dei sacerdoti e tutto il sinedrio; fece condurre giù Paolo e lo fece comparire davanti a loro."
+      "tipo": "prima_lettura",
+      "testo": "In quei giorni, [il comandante della coorte,] volendo conoscere la realtà dei fatti, cioè il motivo per cui Paolo veniva accusato dai Giudei, gli fece togliere le catene e ordinò che si riunissero i capi dei sacerdoti e tutto il sinedrio; fece condurre giù Paolo e lo fece comparire davanti a loro.\nPaolo, sapendo che una parte era di sadducèi e una parte di farisei, disse a gran voce nel sinedrio: «Fratelli, io sono fariseo, figlio di farisei; sono chiamato in giudizio a motivo della speranza nella risurrezione dei morti».\nAppena ebbe detto questo, scoppiò una disputa tra farisei e sadducèi e l’assemblea si divise. I sadducèi infatti affermano che non c’è risurrezione né angeli né spiriti; i farisei invece professano tutte queste cose. Ci fu allora un grande chiasso e alcuni scribi del partito dei farisei si alzarono in piedi e protestavano dicendo: «Non troviamo nulla di male in quest’uomo. Forse uno spirito o un angelo gli ha parlato».\nLa disputa si accese a tal punto che il comandante, temendo che Paolo venisse linciato da quelli, ordinò alla truppa di scendere, portarlo via e ricondurlo nella fortezza.\nLa notte seguente gli venne accanto il Signore e gli disse: «Coraggio! Come hai testimoniato a Gerusalemme le cose che mi riguardano, così è necessario che tu dia testimonianza anche a Roma»."
     },
     {
       "sigla": "Sal 15",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 15",
-      "tipo": "lettura",
-      "testo": "Signore, chi abiterà nella tua tenda? Chi dimorerà sulla tua santa montagna?\n2 Colui che cammina senza colpa, pratica la giustizia e dice la verità che ha nel cuore,\n3 non sparge calunnie con la sua lingua, non fa danno al suo prossimo e non lancia insulti al suo vicino.\n4 Ai suoi occhi è spregevole il malvagio, ma onora chi teme il Signore. Anche se ha giurato a proprio danno, mantiene la parola;"
+      "tipo": "salmo",
+      "testo": "R. Proteggimi, o Dio: in te mi rifugio.\n\nProteggimi, o Dio: in te mi rifugio.\nHo detto al Signore: «Il mio Signore sei tu».\nIl Signore è mia parte di eredità e mio calice:\nnelle tue mani è la mia vita.\n\nBenedico il Signore che mi ha dato consiglio;\nanche di notte il mio animo mi istruisce.\nIo pongo sempre davanti a me il Signore,\nsta alla mia destra, non potrò vacillare.\n\nPer questo gioisce il mio cuore\ned esulta la mia anima;\nanche il mio corpo riposa al sicuro,\nperché non abbandonerai la mia vita negli inferi,\nné lascerai che il tuo fedele veda la fossa.\n\nMi indicherai il sentiero della vita,\ngioia piena alla tua presenza,\ndolcezza senza fine alla tua destra.",
+      "ritornello": "R. Proteggimi, o Dio: in te mi rifugio."
     },
     {
       "sigla": "Gv 17,21",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 17,21",
-      "tipo": "lettura",
-      "testo": "21 Fa' che siano tutti una cosa sola: come tu, Padre, sei in me e io sono in te, anch'essi siano in noi. Così il mondo crederà che tu mi hai mandato."
+      "tipo": "canto_vangelo",
+      "testo": "Siano tutti una cosa sola, come tu, Padre, sei in me e io in te, perché il mondo creda che tu mi hai mandato."
     },
     {
       "sigla": "Gv 17,20-26",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 17,20-26",
-      "tipo": "lettura",
-      "testo": "20 Non prego solo per questi, ma anche per quelli che crederanno in me mediante la loro parola: 21 perché tutti siano una sola cosa; come tu, Padre, sei in me e io in te, siano anch'essi in noi, perché il mondo creda che tu mi hai mandato. 22 E la gloria che tu hai dato a me, io l'ho data a loro, perché siano una sola cosa come noi siamo una sola cosa. 23 Io in loro e tu in me, perché siano perfetti nell'unità e il mondo conosca che tu mi hai mandato e che li hai amati come hai amato me. 24 Padre, voglio che quelli che mi hai dato siano anch'essi con me dove sono io, perché contemplino la mia gloria, quella che tu mi hai dato; poiché mi hai amato prima della creazione del mondo. 25 Padre giusto, il mondo non ti ha conosciuto, ma io ti ho conosciuto, e questi hanno conosciuto che tu mi hai mandato. 26 E io ho fatto conoscere loro il tuo nome e lo farò conoscere, perché l'amore con il quale mi hai amato sia in essi e io in loro»."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, [Gesù, alzàti gli occhi al cielo, pregò dicendo:]\n«Non prego solo per questi, ma anche per quelli che crederanno in me mediante la loro parola: perché tutti siano una sola cosa; come tu, Padre, sei in me e io in te, siano anch’essi in noi, perché il mondo creda che tu mi hai mandato.\nE la gloria che tu hai dato a me, io l’ho data a loro, perché siano una sola cosa come noi siamo una sola cosa. Io in loro e tu in me, perché siano perfetti nell’unità e il mondo conosca che tu mi hai mandato e che li hai amati come hai amato me.\nPadre, voglio che quelli che mi hai dato siano anch’essi con me dove sono io, perché contemplino la mia gloria, quella che tu mi hai dato; poiché mi hai amato prima della creazione del mondo.\nPadre giusto, il mondo non ti ha conosciuto, ma io ti ho conosciuto, e questi hanno conosciuto che tu mi hai mandato. E io ho fatto conoscere loro il tuo nome e lo farò conoscere, perché l’amore con il quale mi hai amato sia in essi e io in loro»."
     }
   ]
 }

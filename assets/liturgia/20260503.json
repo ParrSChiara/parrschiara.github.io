@@ -7,31 +7,33 @@
     {
       "sigla": "At 6,1-7",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 6,1-7",
-      "tipo": "lettura",
-      "testo": "7 Intanto la parola di Dio si diffondeva e si moltiplicava grandemente il numero dei discepoli a Gerusalemme; anche un gran numero di sacerdoti aderiva alla fede."
+      "tipo": "prima_lettura",
+      "testo": "In quei giorni, aumentando il numero dei discepoli, quelli di lingua greca mormorarono contro quelli di lingua ebraica perché, nell’assistenza quotidiana, venivano trascurate le loro vedove.\nAllora i Dodici convocarono il gruppo dei discepoli e dissero: «Non è giusto che noi lasciamo da parte la parola di Dio per servire alle mense. Dunque, fratelli, cercate fra voi sette uomini di buona reputazione, pieni di Spirito e di sapienza, ai quali affideremo questo incarico. Noi, invece, ci dedicheremo alla preghiera e al servizio della Parola».\nPiacque questa proposta a tutto il gruppo e scelsero Stefano, uomo pieno di fede e di Spirito Santo, Filippo, Pròcoro, Nicànore, Timone, Parmenàs e Nicola, un prosèlito di Antiòchia. Li presentarono agli apostoli e, dopo aver pregato, imposero loro le mani.\nE la parola di Dio si diffondeva e il numero dei discepoli a Gerusalemme si moltiplicava grandemente; anche una grande moltitudine di sacerdoti aderiva alla fede."
     },
     {
       "sigla": "Sal 32",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 32",
-      "tipo": "lettura",
-      "testo": "1 Di Davide. Maskil. Beato l'uomo a cui è tolta la colpa e coperto il peccato.\n2 Beato l'uomo a cui Dio non imputa il delitto e nel cui spirito non è inganno.\n3 Tacevo e si logoravano le mie ossa, mentre ruggivo tutto il giorno.\n4 Giorno e notte pesava su di me la tua mano, come nell'arsura estiva si inaridiva il mio vigore.\n5 Ti ho fatto conoscere il mio peccato, non ho coperto la mia colpa. Ho detto: «Confesserò al Signore le mie iniquità» e tu hai tolto la mia colpa e il mio peccato.\n6 Per questo ti prega ogni fedele nel tempo dell'angoscia; quando irromperanno grandi acque non potranno raggiungerlo.\n7 Tu sei il mio rifugio, mi liberi dall'angoscia, mi circondi di canti di liberazione:\n8 »Ti istruirò e ti insegnerò la via da seguire; con gli occhi su di te, ti darò consiglio.\n9 Non siate privi d'intelligenza come il cavallo e come il mulo: la loro foga si piega con il morso e le briglie, se no, a te non si avvicinano».\n10 Molti saranno i dolori del malvagio, ma l'amore circonda chi confida nel Signore."
+      "tipo": "salmo",
+      "testo": "R. Il tuo amore, Signore, sia su di noi: in te speriamo.\n\nEsultate, o giusti, nel Signore;\nper gli uomini retti è bella la lode.\nLodate il Signore con la cetra,\ncon l’arpa a dieci corde a lui cantate.\n\nPerché retta è la parola del Signore\ne fedele ogni sua opera.\nEgli ama la giustizia e il diritto;\ndell’amore del Signore è piena la terra.\n\nEcco, l’occhio del Signore è su chi lo teme,\nsu chi spera nel suo amore,\nper liberarlo dalla morte\ne nutrirlo in tempo di fame.",
+      "ritornello": "R. Il tuo amore, Signore, sia su di noi: in te speriamo."
     },
     {
       "sigla": "1Pt 2,4-9",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Pt 2,4-9",
-      "tipo": "lettura",
-      "testo": "la pietra che i costruttori hanno scartato è diventata pietra d'angolo 8 e sasso d'inciampo, pietra di scandalo. Essi v'inciampano perché non obbediscono alla Parola. A questo erano destinati. 9 Voi invece siete stirpe eletta, sacerdozio regale, nazione santa, popolo che Dio si è acquistato perché proclami le opere ammirevoli di lui, che vi ha chiamato dalle tenebre alla sua luce meravigliosa."
+      "tipo": "seconda_lettura",
+      "testo": "Carissimi, avvicinandovi al Signore, pietra viva, rifiutata dagli uomini ma scelta e preziosa davanti a Dio, quali pietre vive siete costruiti anche voi come edificio spirituale, per un sacerdozio santo e per offrire sacrifici spirituali graditi a Dio, mediante Gesù Cristo. Si legge infatti nella Scrittura: «Ecco, io pongo in Sion una pietra d’angolo, scelta, preziosa, e chi crede in essa non resterà deluso».\nOnore dunque a voi che credete; ma per quelli che non credono la pietra che i costruttori hanno scartato è diventata pietra d’angolo e sasso d’inciampo, pietra di scandalo.\nEssi v’inciampano perché non obbediscono alla Parola. A questo erano destinati. Voi invece siete stirpe eletta, sacerdozio regale, nazione santa, popolo che Dio si è acquistato perché proclami le opere ammirevoli di lui, che vi ha chiamato dalle tenebre alla sua luce meravigliosa."
     },
     {
       "sigla": "Gv 14,6",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 14,6",
-      "tipo": "lettura"
+      "tipo": "canto_vangelo",
+      "testo": "Io sono la via, la verità e la vita, dice il Signore; nessuno viene al Padre se non per mezzo di me."
     },
     {
       "sigla": "Gv 14,1-12",
       "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 14,1-12",
-      "tipo": "lettura",
-      "testo": "1 Non sia turbato il vostro cuore. Abbiate fede in Dio e abbiate fede anche in me. 2 Nella casa del Padre mio vi sono molte dimore. Se no, vi avrei mai detto: «Vado a prepararvi un posto»? 3 Quando sarò andato e vi avrò preparato un posto, verrò di nuovo e vi prenderò con me, perché dove sono io siate anche voi. 4 E del luogo dove io vado, conoscete la via». 5 Gli disse Tommaso: «Signore, non sappiamo dove vai; come possiamo conoscere la via?». 6 Gli disse Gesù: «Io sono la via, la verità e la vita. Nessuno viene al Padre se non per mezzo di me. 7 Se avete conosciuto me, conoscerete anche il Padre mio: fin da ora lo conoscete e lo avete veduto». 8 Gli disse Filippo: «Signore, mostraci il Padre e ci basta». 9 Gli rispose Gesù: «Da tanto tempo sono con voi e tu non mi hai conosciuto, Filippo? Chi ha visto me, ha visto il Padre. Come puoi tu dire: «Mostraci il Padre»? 10 Non credi che io sono nel Padre e il Padre è in me? Le parole che io vi dico, non le dico da me stesso; ma il Padre, che rimane in me, compie le sue opere. 11 Credete a me: io sono nel Padre e il Padre è in me. Se non altro, credetelo per le opere stesse. 12 In verità, in verità io vi dico: chi crede in me, anch'egli compirà le opere che io compio e ne compirà di più grandi di queste, perché io vado al Padre."
+      "tipo": "vangelo",
+      "testo": "In quel tempo, Gesù disse ai suoi discepoli: «Non sia turbato il vostro cuore. Abbiate fede in Dio e abbiate fede anche in me. Nella casa del Padre mio vi sono molte dimore. Se no, vi avrei mai detto: “Vado a prepararvi un posto”? Quando sarò andato e vi avrò preparato un posto, verrò di nuovo e vi prenderò con me, perché dove sono io siate anche voi. E del luogo dove io vado, conoscete la via».\nGli disse Tommaso: «Signore, non sappiamo dove vai; come possiamo conoscere la via?». Gli disse Gesù: «Io sono la via, la verità e la vita. Nessuno viene al Padre se non per mezzo di me. Se avete conosciuto me, conoscerete anche il Padre mio: fin da ora lo conoscete e lo avete veduto».\nGli disse Filippo: «Signore, mostraci il Padre e ci basta». Gli rispose Gesù: «Da tanto tempo sono con voi e tu non mi hai conosciuto, Filippo? Chi ha visto me, ha visto il Padre. Come puoi tu dire: “Mostraci il Padre”? Non credi che io sono nel Padre e il Padre è in me? Le parole che io vi dico, non le dico da me stesso; ma il Padre, che rimane in me, compie le sue opere.\nCredete a me: io sono nel Padre e il Padre è in me. Se non altro, credetelo per le opere stesse.\nIn verità, in verità io vi dico: chi crede in me, anch’egli compirà le opere che io compio e ne compirà di più grandi di queste, perché io vado al Padre»."
     }
   ]
 }
