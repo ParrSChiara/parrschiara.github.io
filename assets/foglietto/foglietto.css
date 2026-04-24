@@ -406,6 +406,17 @@
         page-break-after: avoid;
     }
 
+    /* Rimuove gli pseudo-elementi decorativi di main.css che interferiscono in stampa */
+    body::before,
+    body::after {
+        display: none !important;
+    }
+
+    /* Evita che overflow-x: auto del contenitore preview tagli il contenuto */
+    #foglietto-preview {
+        overflow: visible !important;
+    }
+
     [contenteditable]:focus {
         outline: none;
         background: transparent;

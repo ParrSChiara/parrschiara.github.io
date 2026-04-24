@@ -9,8 +9,9 @@ Utilizzo:
   python scraper.py 2026-01-01 2026-12-31    # intervallo specifico
 
 Opzioni:
-  --force     Rigenera i file anche se già esistenti
-  --no-text   Non scaricare il testo delle letture (solo sigla + url + tipo)
+  --force        Rigenera i file anche se già esistenti
+  --no-text      Non scaricare il testo delle letture (solo sigla + url + tipo)
+  --fix-version  Post-processa i JSON esistenti estraendo solo CEI2008 (nessun fetch HTTP)
 """
 
 import json
@@ -37,6 +38,14 @@ TIPO_KEYWORDS = [
     ("VANGELO",             "vangelo"),
 ]
 
+VERSION_PRIORITY = ("CEI2008", "CEI74", "TILC")
+
+_VERSION_MARKERS = {
+    "(testo cei74)":  "CEI74",
+    "(testo tilc)":   "TILC",
+    "(testo cei2008)": "CEI2008",
+}
+
 
 def _detect_tipo(text: str):
     t = text.upper()
@@ -46,18 +55,32 @@ def _detect_tipo(text: str):
     return None
 
 
+def _extract_version(testo: str, version: str) -> str:
+    """Estrae il testo di una specifica versione da un campo testo multi-versione."""
+    marker = f"(Testo {version})"
+    if marker not in testo:
+        return ""
+    start = testo.index(marker) + len(marker)
+    end = len(testo)
+    for other in ("CEI74", "TILC", "CEI2008"):
+        if other == version:
+            continue
+        pos = testo.find(f"(Testo {other})", start)
+        if 0 <= pos < end:
+            end = pos
+    return testo[start:end].strip()
+
+
 def fetch_reading_text(url: str) -> dict:
-    """Scarica il testo di una lettura da bibbia.php; restituisce dict con 'testo' e opzionale 'ritornello'."""
+    """Scarica il testo di una lettura da bibbia.php; restituisce solo la versione CEI2008 (con fallback)."""
     try:
         resp = requests.get(url, timeout=20, headers={"Accept-Charset": "utf-8"})
         resp.encoding = "utf-8"
         soup = BeautifulSoup(resp.text, "html.parser")
 
-        # Rimuovi elementi di navigazione
         for tag in soup.find_all(["script", "style", "nav", "header", "footer"]):
             tag.decompose()
 
-        # Cerca il contenitore principale del testo biblico
         container = (
             soup.find(id="risultati")
             or soup.find(id="bibbia")
@@ -69,25 +92,36 @@ def fetch_reading_text(url: str) -> dict:
         if not container:
             return {}
 
-        paragraphs = []
-        ritornello = None
+        by_version: dict[str, list[str]] = {v: [] for v in ("CEI74", "TILC", "CEI2008", "none")}
         seen: set[str] = set()
+        current_version = "none"
 
         for el in container.find_all("p"):
             if el.find(["p", "table", "div"]):
                 continue
             text = " ".join(el.get_text(separator=" ").split())
-            if not text or len(text) < 8 or text in seen:
+            if not text:
+                continue
+            # Rileva marker di versione
+            marker_version = _VERSION_MARKERS.get(text.lower())
+            if marker_version:
+                current_version = marker_version
+                continue
+            if len(text) < 8 or text in seen:
                 continue
             lower = text.lower()
             if any(s in lower for s in ["versione", "cerca", "login", "copyright",
                                          "lachiesa", "bibbia.php", "scegli", "seleziona"]):
                 continue
             seen.add(text)
-            if text.startswith("R.") or text.startswith("Rit."):
-                if ritornello is None:
-                    ritornello = text
-            paragraphs.append(text)
+            by_version[current_version].append(text)
+
+        # Preferisce CEI2008, fallback su CEI74, TILC, non-versionato
+        paragraphs: list[str] = []
+        for v in (*VERSION_PRIORITY, "none"):
+            if by_version[v]:
+                paragraphs = by_version[v]
+                break
 
         # Fallback: span/td con classe verso
         if not paragraphs:
@@ -101,13 +135,45 @@ def fetch_reading_text(url: str) -> dict:
         result: dict = {}
         if paragraphs:
             result["testo"] = "\n".join(paragraphs)
-        if ritornello:
-            result["ritornello"] = ritornello
+        # Ritornello dal testo della versione selezionata
+        for p in paragraphs:
+            if p.startswith("R.") or p.startswith("Rit."):
+                result["ritornello"] = p
+                break
         return result
 
     except Exception as exc:
         print(f"    [warn] testo non scaricabile: {exc}", flush=True)
         return {}
+
+
+def fix_json_versions(path: Path) -> bool:
+    """Post-processa un JSON già salvato: estrae solo la versione CEI2008 (con fallback su CEI74/TILC)."""
+    data = json.loads(path.read_text(encoding="utf-8"))
+    changed = False
+    for lettura in data.get("letture", []):
+        testo = lettura.get("testo", "")
+        if "(Testo " not in testo:
+            continue  # Già singola versione, salta
+        for version in VERSION_PRIORITY:
+            extracted = _extract_version(testo, version)
+            if extracted:
+                lettura["testo"] = extracted
+                # Aggiorna ritornello dalla versione selezionata
+                ritornello = None
+                for line in extracted.split("\n"):
+                    if line.startswith("R.") or line.startswith("Rit."):
+                        ritornello = line
+                        break
+                if ritornello:
+                    lettura["ritornello"] = ritornello
+                elif "ritornello" in lettura:
+                    del lettura["ritornello"]
+                changed = True
+                break
+    if changed:
+        path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    return changed
 
 
 def scrape_day(date_str: str, fetch_texts: bool = True) -> dict:
@@ -179,22 +245,35 @@ def scrape_day(date_str: str, fetch_texts: bool = True) -> dict:
 
 def parse_args():
     positional = [a for a in sys.argv[1:] if not a.startswith("--")]
-    force   = "--force"   in sys.argv
-    no_text = "--no-text" in sys.argv
+    force        = "--force"        in sys.argv
+    no_text      = "--no-text"      in sys.argv
+    fix_version  = "--fix-version"  in sys.argv
 
     today = date.today()
     if len(positional) == 0:
-        return today, today, force, not no_text
+        return today, today, force, not no_text, fix_version
     if len(positional) == 1:
         target = date.fromisoformat(positional[0])
         start, end = (today, target) if target >= today else (target, today)
-        return start, end, force, not no_text
-    return date.fromisoformat(positional[0]), date.fromisoformat(positional[1]), force, not no_text
+        return start, end, force, not no_text, fix_version
+    return date.fromisoformat(positional[0]), date.fromisoformat(positional[1]), force, not no_text, fix_version
 
 
 def main():
-    start, end, force, fetch_texts = parse_args()
+    start, end, force, fetch_texts, fix_version = parse_args()
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    if fix_version:
+        files = sorted(OUTPUT_DIR.glob("*.json"))
+        fixed = 0
+        for path in files:
+            if fix_json_versions(path):
+                print(f"[fix]   {path.name}")
+                fixed += 1
+            else:
+                print(f"[skip]  {path.name}")
+        print(f"\nAggiornati {fixed}/{len(files)} file in {OUTPUT_DIR}/")
+        return
 
     current = start
     total   = (end - start).days + 1

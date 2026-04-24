@@ -171,7 +171,7 @@
         .cal-var-rows { padding: 0 1rem .5rem; }
         .cal-var-row {
             display: grid;
-            grid-template-columns: 3rem 1fr auto;
+            grid-template-columns: 5.5rem 1fr auto;
             gap: .4rem;
             margin-bottom: .4rem;
             align-items: center;
@@ -632,7 +632,8 @@ function renderPage1() {
     const TIPO_FALLBACK_4 = ['prima_lettura','salmo','canto_vangelo','vangelo'];
     const TIPO_FALLBACK_3 = ['prima_lettura','salmo','vangelo'];
     letture.forEach((l, i) => {
-        const tipo = l.tipo || (
+        const tipoScraper = l.tipo && l.tipo !== 'lettura' ? l.tipo : null;
+        const tipo = tipoScraper || (
             letture.length >= 5 ? TIPO_FALLBACK_5[i] :
             letture.length === 4 ? TIPO_FALLBACK_4[i] :
             TIPO_FALLBACK_3[i] || 'lettura'

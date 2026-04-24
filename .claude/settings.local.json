@@ -13,7 +13,10 @@
       "Bash(curl -s http://localhost:8765/assets/foglietto/appuntamenti_fissi.json)",
       "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('OK:', len\\(d['giorni']\\), 'giorni'\\)\")",
       "Bash(curl -s http://localhost:8765/assets/foglietto/foglietto.css)",
-      "Bash(pkill -f \"python3 -m http.server 8765\")"
+      "Bash(pkill -f \"python3 -m http.server 8765\")",
+      "Bash(python3 -m json.tool)",
+      "Bash(python *)",
+      "Bash(python3 *)"
     ]
   }
 }
