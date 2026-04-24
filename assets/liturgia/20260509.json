@@ -1,0 +1,31 @@
+{
+  "data": "2026-05-09",
+  "settimana": "Sabato della V settimana di Pasqua",
+  "celebrazione": "Feria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "At 16,1-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 16,1-10",
+      "tipo": "lettura",
+      "testo": "1 Paolo si recò a Derbe e a Listra. C'era qui un discepolo chiamato Timòteo, figlio di una donna giudea credente e di padre greco; 2 egli era assai stimato dai fratelli di Listra e di Icònio. 3 Paolo volle che partisse con lui, lo prese e lo fece circoncidere per riguardo ai Giudei che si trovavano in quelle regioni; tutti infatti sapevano che suo padre era greco. 4 Percorrendo le città, trasmettevano loro le decisioni prese dagli apostoli e dagli anziani di Gerusalemme, perché le osservassero. 5 Le comunità intanto si andavano fortificando nella fede e crescevano di numero ogni giorno."
+    },
+    {
+      "sigla": "Sal 99",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 99",
+      "tipo": "lettura",
+      "testo": "1 Il Signore regna: tremino i popoli. Siede in trono sui cherubini: si scuota la terra.\n2 Grande è il Signore in Sion, eccelso sopra tutti i popoli.\n3 Lodino il tuo nome grande e terribile. Egli è santo!\n4 Forza del re è amare il diritto. Tu hai stabilito ciò che è retto; diritto e giustizia hai operato in Giacobbe.\n5 Esaltate il Signore, nostro Dio, prostratevi allo sgabello dei suoi piedi. Egli è santo!\n6 Mosè e Aronne tra i suoi sacerdoti, Samuele tra quanti invocavano il suo nome: invocavano il Signore ed egli rispondeva.\n7 Parlava loro da una colonna di nubi: custodivano i suoi insegnamenti e il precetto che aveva loro dato.\n8 Signore, nostro Dio, tu li esaudivi, eri per loro un Dio che perdona, pur castigando i loro peccati."
+    },
+    {
+      "sigla": "Col 3,1",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Col 3,1",
+      "tipo": "lettura"
+    },
+    {
+      "sigla": "Gv 15,18-21",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,18-21",
+      "tipo": "lettura",
+      "testo": "18 Se il mondo vi odia, sappiate che prima di voi ha odiato me. 19 Se foste del mondo, il mondo amerebbe ciò che è suo; poiché invece non siete del mondo, ma vi ho scelti io dal mondo, per questo il mondo vi odia. 20 Ricordatevi della parola che io vi ho detto: «Un servo non è più grande del suo padrone». Se hanno perseguitato me, perseguiteranno anche voi; se hanno osservato la mia parola, osserveranno anche la vostra. 21 Ma faranno a voi tutto questo a causa del mio nome, perché non conoscono colui che mi ha mandato."
+    }
+  ]
+}

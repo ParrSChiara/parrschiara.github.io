@@ -1,0 +1,31 @@
+{
+  "data": "2026-05-07",
+  "settimana": "Giovedì della V settimana di Pasqua",
+  "celebrazione": "Feria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "At 15,7-21",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 15,7-21",
+      "tipo": "lettura",
+      "testo": "16 Dopo queste cose ritornerò e riedificherò la tenda di Davide, che era caduta; ne riedificherò le rovine e la rialzerò, 17 perché cerchino il Signore anche gli altri uomini e tutte le genti sulle quali è stato invocato il mio nome, dice il Signore, che fa queste cose, 18 note da sempre .\n19 Per questo io ritengo che non si debbano importunare quelli che dalle nazioni si convertono a Dio, 20 ma solo che si ordini loro di astenersi dalla contaminazione con gli idoli, dalle unioni illegittime, dagli animali soffocati e dal sangue. 21 Fin dai tempi antichi, infatti, Mosè ha chi lo predica in ogni città, poiché viene letto ogni sabato nelle sinagoghe»."
+    },
+    {
+      "sigla": "Sal 95",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 95",
+      "tipo": "lettura",
+      "testo": "1 Venite, cantiamo al Signore, acclamiamo la roccia della nostra salvezza.\n2 Accostiamoci a lui per rendergli grazie, a lui acclamiamo con canti di gioia.\n3 Perché grande Dio è il Signore, grande re sopra tutti gli dèi.\n4 Nella sua mano sono gli abissi della terra, sono sue le vette dei monti.\n5 Suo è il mare, è lui che l'ha fatto; le sue mani hanno plasmato la terra.\n6 Entrate: prostràti, adoriamo, in ginocchio davanti al Signore che ci ha fatti.\nSe ascoltaste oggi la sua voce! 8 »Non indurite il cuore come a Merìba, come nel giorno di Massa nel deserto,\n9 dove mi tentarono i vostri padri: mi misero alla prova pur avendo visto le mie opere.\n10 Per quarant'anni mi disgustò quella generazione e dissi: «Sono un popolo dal cuore traviato, non conoscono le mie vie»."
+    },
+    {
+      "sigla": "Gv 10,27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,27",
+      "tipo": "lettura"
+    },
+    {
+      "sigla": "Gv 15,9-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,9-11",
+      "tipo": "lettura",
+      "testo": "9 'Come il Padre ha amato me, così io ho amato voi: rimanete nel mio amore! 10 Se metterete in pratica i miei comandamenti, sarete radicati nel mio amore; allo stesso modo io ho messo in pratica i comandamenti del Padre mio e sono radicato nel suo amore. 11 'Vi ho detto questo, perché la mia gioia sia anche vostra, e la vostra gioia sia perfetta."
+    }
+  ]
+}

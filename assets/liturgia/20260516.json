@@ -1,0 +1,31 @@
+{
+  "data": "2026-05-16",
+  "settimana": "Sabato della VI settimana di Pasqua (Messa del mattino)",
+  "celebrazione": "Feria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "At 18,23-28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 18,23-28",
+      "tipo": "lettura",
+      "testo": "23 Trascorso là un po' di tempo, partì: percorreva di seguito la regione della Galazia e la Frìgia, confermando tutti i discepoli. 24 Arrivò a Èfeso un Giudeo, di nome Apollo, nativo di Alessandria, uomo colto, esperto nelle Scritture. 25 Questi era stato istruito nella via del Signore e, con animo ispirato, parlava e insegnava con accuratezza ciò che si riferiva a Gesù, sebbene conoscesse soltanto il battesimo di Giovanni. 26 Egli cominciò a parlare con franchezza nella sinagoga. Priscilla e Aquila lo ascoltarono, poi lo presero con sé e gli esposero con maggiore accuratezza la via di Dio. 27 Poiché egli desiderava passare in Acaia, i fratelli lo incoraggiarono e scrissero ai discepoli di fargli buona accoglienza. Giunto là, fu molto utile a quelli che, per opera della grazia, erano divenuti credenti. 28 Confutava infatti vigorosamente i Giudei, dimostrando pubblicamente attraverso le Scritture che Gesù è il Cristo."
+    },
+    {
+      "sigla": "Sal 46",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 46",
+      "tipo": "lettura",
+      "testo": "1 Al maestro del coro. Dei figli di Core. Per voci di soprano. Canto. 2 Dio è per noi rifugio e fortezza, aiuto infallibile si è mostrato nelle angosce.\n3 Perciò non temiamo se trema la terra, se vacillano i monti nel fondo del mare.\n4 Fremano, si gonfino le sue acque, si scuotano i monti per i suoi flutti.\n5 Un fiume e i suoi canali rallegrano la città di Dio, la più santa delle dimore dell'Altissimo.\n6 Dio è in mezzo ad essa: non potrà vacillare. Dio la soccorre allo spuntare dell'alba.\n7 Fremettero le genti, vacillarono i regni; egli tuonò: si sgretolò la terra.\n8 Il Signore degli eserciti è con noi, nostro baluardo è il Dio di Giacobbe.\n9 Venite, vedete le opere del Signore, egli ha fatto cose tremende sulla terra.\n10 Farà cessare le guerre sino ai confini della terra, romperà gli archi e spezzerà le lance, brucerà nel fuoco gli scudi.\n11 Fermatevi! Sappiate che io sono Dio, eccelso tra le genti, eccelso sulla terra."
+    },
+    {
+      "sigla": "Gv 16,28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 16,28",
+      "tipo": "lettura"
+    },
+    {
+      "sigla": "Gv 16,23-28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 16,23-28",
+      "tipo": "lettura",
+      "testo": "25 Queste cose ve le ho dette in modo velato, ma viene l'ora in cui non vi parlerò più in modo velato e apertamente vi parlerò del Padre. 26 In quel giorno chiederete nel mio nome e non vi dico che pregherò il Padre per voi: 27 il Padre stesso infatti vi ama, perché voi avete amato me e avete creduto che io sono uscito da Dio. 28 Sono uscito dal Padre e sono venuto nel mondo; ora lascio di nuovo il mondo e vado al Padre»."
+    }
+  ]
+}

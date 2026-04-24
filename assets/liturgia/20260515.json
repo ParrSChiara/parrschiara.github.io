@@ -1,0 +1,31 @@
+{
+  "data": "2026-05-15",
+  "settimana": "Venerdì della VI settimana di Pasqua",
+  "celebrazione": "Feria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "At 18,9-18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 18,9-18",
+      "tipo": "lettura",
+      "testo": "18 Paolo si trattenne ancora diversi giorni, poi prese congedo dai fratelli e s'imbarcò diretto in Siria, in compagnia di Priscilla e Aquila. A Cencre si era rasato il capo a causa di un voto che aveva fatto."
+    },
+    {
+      "sigla": "Sal 46",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 46",
+      "tipo": "lettura",
+      "testo": "1 Al maestro del coro. Dei figli di Core. Per voci di soprano. Canto. 2 Dio è per noi rifugio e fortezza, aiuto infallibile si è mostrato nelle angosce.\n3 Perciò non temiamo se trema la terra, se vacillano i monti nel fondo del mare.\n4 Fremano, si gonfino le sue acque, si scuotano i monti per i suoi flutti.\n5 Un fiume e i suoi canali rallegrano la città di Dio, la più santa delle dimore dell'Altissimo.\n6 Dio è in mezzo ad essa: non potrà vacillare. Dio la soccorre allo spuntare dell'alba.\n7 Fremettero le genti, vacillarono i regni; egli tuonò: si sgretolò la terra.\n8 Il Signore degli eserciti è con noi, nostro baluardo è il Dio di Giacobbe.\n9 Venite, vedete le opere del Signore, egli ha fatto cose tremende sulla terra.\n10 Farà cessare le guerre sino ai confini della terra, romperà gli archi e spezzerà le lance, brucerà nel fuoco gli scudi.\n11 Fermatevi! Sappiate che io sono Dio, eccelso tra le genti, eccelso sulla terra."
+    },
+    {
+      "sigla": "Lc 24,46.26",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 24,46.26",
+      "tipo": "lettura"
+    },
+    {
+      "sigla": "Gv 16,20-23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 16,20-23",
+      "tipo": "lettura",
+      "testo": "In verità, in verità vi dico: Se chiederete qualche cosa al Padre nel mio nome, egli ve la darà."
+    }
+  ]
+}

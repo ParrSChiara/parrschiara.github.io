@@ -1,0 +1,32 @@
+{
+  "data": "2026-06-01",
+  "settimana": "San Giustino",
+  "celebrazione": "Memoria",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "2Pt 1,2-7",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Pt 1,2-7",
+      "tipo": "lettura",
+      "testo": "3 La sua potenza divina ci ha donato tutto quello che è necessario per una vita vissuta santamente, grazie alla conoscenza di colui che ci ha chiamati con la sua potenza e gloria. 4 Con questo egli ci ha donato i beni grandissimi e preziosi a noi promessi, affinché per loro mezzo diventiate partecipi della natura divina, sfuggendo alla corruzione, che è nel mondo a causa della concupiscenza. 5 Per questo mettete ogni impegno per aggiungere alla vostra fede la virtù, alla virtù la conoscenza, 6 alla conoscenza la temperanza, alla temperanza la pazienza, alla pazienza la pietà, 7 alla pietà l'amore fraterno, all'amore fraterno la carità."
+    },
+    {
+      "sigla": "Sal 90",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 90",
+      "tipo": "lettura",
+      "testo": "1 Preghiera. Di Mosè, uomo di Dio. Signore, tu sei stato per noi un rifugio di generazione in generazione.\n2 Prima che nascessero i monti e la terra e il mondo fossero generati, da sempre e per sempre tu sei, o Dio.\n3 Tu fai ritornare l'uomo in polvere, quando dici: «Ritornate, figli dell'uomo».\n4 Mille anni, ai tuoi occhi, sono come il giorno di ieri che è passato, come un turno di veglia nella notte.\n5 Tu li sommergi: sono come un sogno al mattino, come l'erba che germoglia;\n6 al mattino fiorisce e germoglia, alla sera è falciata e secca.\n7 Sì, siamo distrutti dalla tua ira, atterriti dal tuo furore!\n8 Davanti a te poni le nostre colpe, i nostri segreti alla luce del tuo volto.\n9 Tutti i nostri giorni svaniscono per la tua collera, consumiamo i nostri anni come un soffio.\n10 Gli anni della nostra vita sono settanta, ottanta per i più robusti, e il loro agitarsi è fatica e delusione; passano presto e noi voliamo via.\n11 Chi conosce l'impeto della tua ira e, nel timore di te, la tua collera?\n12 Insegnaci a contare i nostri giorni e acquisteremo un cuore saggio.\n13 Ritorna, Signore: fino a quando? Abbi pietà dei tuoi servi!\n14 Saziaci al mattino con il tuo amore: esulteremo e gioiremo per tutti i nostri giorni.\n15 Rendici la gioia per i giorni in cui ci hai afflitti, per gli anni in cui abbiamo visto il male.\n16 Si manifesti ai tuoi servi la tua opera e il tuo splendore ai loro figli."
+    },
+    {
+      "sigla": "Ap 1,5",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 1,5",
+      "tipo": "lettura",
+      "testo": "A Colui che ci ama e ci ha liberati dai nostri peccati con il suo sangue,"
+    },
+    {
+      "sigla": "Mc 12,1-12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 12,1-12",
+      "tipo": "lettura",
+      "testo": "La pietra che i costruttori hanno scartata è diventata testata d'angolo; 11 dal Signore è stato fatto questo ed è mirabile agli occhi nostri»?"
+    }
+  ]
+}

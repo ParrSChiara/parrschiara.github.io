@@ -1,0 +1,31 @@
+{
+  "data": "2026-04-24",
+  "settimana": "Venerdì della III settimana di Pasqua",
+  "celebrazione": "Feria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "At 9,1-20",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 9,1-20",
+      "tipo": "lettura",
+      "testo": "19b Rimase alcuni giorni insieme ai discepoli che erano a Damasco, 20 e subito nelle sinagoghe annunciava che Gesù è il Figlio di Dio."
+    },
+    {
+      "sigla": "Sal 116",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 116",
+      "tipo": "lettura",
+      "testo": "1 Amo il Signore, perché ascolta il grido della mia preghiera.\n2 Verso di me ha teso l'orecchio nel giorno in cui lo invocavo.\n3 Mi stringevano funi di morte, ero preso nei lacci degli inferi, ero preso da tristezza e angoscia.\n4 Allora ho invocato il nome del Signore: »Ti prego, liberami, Signore».\n5 Pietoso e giusto è il Signore, il nostro Dio è misericordioso.\n6 Il Signore protegge i piccoli: ero misero ed egli mi ha salvato.\n7 Ritorna, anima mia, al tuo riposo, perché il Signore ti ha beneficato.\n8 Sì, hai liberato la mia vita dalla morte, i miei occhi dalle lacrime, i miei piedi dalla caduta.\n9 Io camminerò alla presenza del Signore nella terra dei viventi.\n10 (115,1) Ho creduto anche quando dicevo: »Sono troppo infelice».\n11 (115,2) Ho detto con sgomento: »Ogni uomo è bugiardo».\n12 (115,3) Che cosa renderò al Signore per tutti i benefici che mi ha fatto?\n13 (115,4) Alzerò il calice della salvezza e invocherò il nome del Signore.\n14 (115,5) Adempirò i miei voti al Signore, davanti a tutto il suo popolo.\n15 (115,6) Agli occhi del Signore è preziosa la morte dei suoi fedeli.\n16 (115,7) Ti prego, Signore, perché sono tuo servo; io sono tuo servo, figlio della tua schiava: tu hai spezzato le mie catene.\n17 (115,8) A te offrirò un sacrificio di ringraziamento e invocherò il nome del Signore.\n18 (115,9) Adempirò i miei voti al Signore davanti a tutto il suo popolo,"
+    },
+    {
+      "sigla": "Gv 6,56",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 6,56",
+      "tipo": "vangelo"
+    },
+    {
+      "sigla": "Gv 6,52-59",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 6,52-59",
+      "tipo": "vangelo",
+      "testo": "59 Gesù disse queste cose, insegnando nella sinagoga a Cafàrnao."
+    }
+  ]
+}
