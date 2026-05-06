@@ -83,6 +83,14 @@ Aggiungere al sito `parrschiara.github.io` una pagina web (`foglietto.html`) che
 - [x] `SIZES = [12, 11.5, 11, 10.5, 10, 9.5, 9, 8.5, 8, 7.8, 7.5, 7.2, 6.9, 6.6]`
 - [x] `#ce-preghiera { min-height: 35mm }` in foglietto.css — riserva spazio per la Preghiera dei Fedeli anche quando vuota, evitando che il font cresca eccessivamente e poi collassi quando si aggiunge il testo
 
+### 8. Notifiche Telegram utilizzo foglietto
+- [x] Bot Telegram `@notifiche_foglietto_bot` creato, token e chat ID hardcoded in `foglietto.html`
+- [x] `notifyTelegram(azione)`: invia POST a Telegram Bot API se cooldown (30 min, `localStorage`) scaduto
+- [x] `notifyTelegramInput()`: debounce 60s per modifiche nei campi form e nel preview `contenteditable`
+- [x] `stampaPDF()`: wrapper di `window.print()` che chiama `notifyTelegram` prima di stampare
+- [x] Listener aggiunti in `DOMContentLoaded` su `pf-input`, `avvisi-input`, `domenica-picker` e `#foglietto-preview`
+- [x] Messaggio notifica include: data/ora (fuso Europe/Rome) e azione che ha scatenato l'invio
+
 ---
 
 ## Regole da rispettare durante lo sviluppo

@@ -318,7 +318,7 @@
     <!-- ── Azioni ── -->
     <div class="actions-bar">
         <button class="btn btn-outlined" onclick="aggiornaAnteprima()">Aggiorna anteprima</button>
-        <button class="btn btn-filled" onclick="window.print()">Stampa / Salva PDF</button>
+        <button class="btn btn-filled" onclick="stampaPDF()">Stampa / Salva PDF</button>
     </div>
 
 </div><!-- /ui-panel -->
@@ -388,6 +388,12 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Preghiera dei Fedeli → aggiorna anteprima in tempo reale
     document.getElementById('pf-input').addEventListener('input', refreshPage1PF);
     document.getElementById('avvisi-input').addEventListener('input', refreshPage2Footer);
+
+    // Notifiche Telegram su input
+    document.getElementById('pf-input').addEventListener('input', notifyTelegramInput);
+    document.getElementById('avvisi-input').addEventListener('input', notifyTelegramInput);
+    picker.addEventListener('change', notifyTelegramInput);
+    document.getElementById('foglietto-preview').addEventListener('input', notifyTelegramInput);
 
     await handleSundayChange();
 });
@@ -928,8 +934,14 @@ function refreshPage2Footer() {
    AGGIORNA ANTEPRIMA (pulsante)
    ════════════════════════════════════════════════════════ */
 function aggiornaAnteprima() {
+    notifyTelegram('Aggiorna anteprima');
     renderPage1();
     renderPage2();
+}
+
+function stampaPDF() {
+    notifyTelegram('Stampa / Salva PDF');
+    window.print();
 }
 
 /* ════════════════════════════════════════════════════════
@@ -1021,6 +1033,34 @@ async function adjustPage1Layout() {
 /* ════════════════════════════════════════════════════════
    UTIL
    ════════════════════════════════════════════════════════ */
+/* ════════════════════════════════════════════════════════
+   NOTIFICHE TELEGRAM
+   ════════════════════════════════════════════════════════ */
+const _TG_TOKEN       = '8432816470:AAFAlaSfo8uDlpaW0ydvn6XHr-3m5ptaBCg';
+const _TG_CHAT        = '35882029';
+const _TG_COOLDOWN_MS = 30 * 60 * 1000;
+const _TG_KEY         = 'foglietto_last_notify';
+let   _tgInputTimer   = null;
+
+function notifyTelegram(azione) {
+    const now  = Date.now();
+    const last = parseInt(localStorage.getItem(_TG_KEY) || '0', 10);
+    if (now - last < _TG_COOLDOWN_MS) return;
+    localStorage.setItem(_TG_KEY, String(now));
+    const ora   = new Date().toLocaleString('it-IT', { timeZone: 'Europe/Rome' });
+    const testo = `📄 Foglietto usato\n🕐 ${ora}\n▶️ ${azione}`;
+    fetch(`https://api.telegram.org/bot${_TG_TOKEN}/sendMessage`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ chat_id: _TG_CHAT, text: testo })
+    }).catch(() => {});
+}
+
+function notifyTelegramInput() {
+    clearTimeout(_tgInputTimer);
+    _tgInputTimer = setTimeout(() => notifyTelegram('Modifica dati nel form'), 60_000);
+}
+
 function esc(s) {
     if (!s) return '';
     return String(s)

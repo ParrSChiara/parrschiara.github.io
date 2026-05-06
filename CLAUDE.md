@@ -48,7 +48,7 @@ Anche le altre letture (prima lettura, seconda lettura, vangelo, canto_vangelo) 
 Pagina web (`foglietto.html`) per generare e stampare il foglietto parrocchiale settimanale. Target: catechista non tecnico, accesso solo da browser.
 
 ### File principali
-- **`foglietto.html`** — Tutto-in-uno: UI (selezione domenica, form letture/calendario), anteprima A4 `contenteditable`, stampa via `window.print()`. Vanilla JS, zero dipendenze. Accessibile solo via URL diretto (nessun link pubblico in index.html).
+- **`foglietto.html`** — Tutto-in-uno: UI (selezione domenica, form letture/calendario), anteprima A4 `contenteditable`, stampa via `stampaPDF()`. Vanilla JS, zero dipendenze. Accessibile solo via URL diretto (nessun link pubblico in index.html). Include notifiche Telegram all'utilizzo (vedi sezione dedicata).
 - **`assets/foglietto/foglietto.css`** — Layout foglietto: intestazione 3 colonne, etichetta data verticale, due colonne letture, tabella calendario, footer, `@media print` A4.
 - **`assets/foglietto/appuntamenti_fissi.json`** — Appuntamenti ricorrenti per giorno. Struttura: `{ giorni: [{ giorno: "domenica"|"lunedi"|..., appuntamenti: [{ orario, descrizione, chiesa, intenzione, fisso, sospeso }] }], note_permanenti: { confessioni, whatsapp_community } }`.
 
@@ -60,6 +60,15 @@ Pagina web (`foglietto.html`) per generare e stampare il foglietto parrocchiale 
 - **`renderPage1()`** — Genera pagina letture. Il salmo usa `\n\n` per strofe e `\n` per versi (`<br>`). Le altre letture: paragrafi senza margine verticale extra.
 - **`renderPage2()`** — Genera tabella calendario + footer confessioni/avvisi.
 - **`adjustPage1Layout()`** — Algoritmo auto-scaling font: prova da 12pt scendendo a 6.6pt, si ferma al massimo che entra. Se nemmeno 6.6pt basta: sposta sezioni da colonna sinistra a destra (max 2 passaggi), poi crea pagina extra `.foglietto-page-overflow`. `SIZES = [12, 11.5, ..., 6.6]`.
+
+### Notifiche Telegram (foglietto.html)
+
+Il foglietto invia una notifica Telegram al parroco ad ogni sessione di utilizzo effettivo.
+
+- **Bot**: `@notifiche_foglietto_bot` — token e chat ID hardcoded in `foglietto.html` (uso interno, rischio basso).
+- **Trigger**: click su "Aggiorna anteprima" → notifica immediata; click su "Stampa / Salva PDF" → notifica immediata; modifica nei campi form o nel preview `contenteditable` → notifica dopo 60 secondi di inattività.
+- **Cooldown**: 30 minuti via `localStorage` (`foglietto_last_notify`). Più trigger ravvicinati generano al massimo una notifica per finestra.
+- **Funzioni**: `notifyTelegram(azione)` (invia se cooldown scaduto), `notifyTelegramInput()` (debounce 60s prima di chiamare `notifyTelegram`), `stampaPDF()` (wrapper di `window.print()` che notifica prima di stampare).
 
 ### Formato testo letture nel JSON
 - Prima lettura, seconda lettura, vangelo: testo continuo, `\n` tra blocchi logici (paragrafi), niente numeri di versetto (rimossi inline da scraper).
