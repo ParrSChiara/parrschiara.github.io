@@ -1,0 +1,39 @@
+{
+  "data": "2026-07-12",
+  "settimana": "XV DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Is 55,10-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 55,10-11",
+      "tipo": "prima_lettura",
+      "testo": "10 Come infatti la pioggia e la neve scendono dal cielo e non vi ritornano senza avere irrigato la terra, senza averla fecondata e fatta germogliare, perché dia il seme a chi semina e il pane a chi mangia, 11 così sarà della mia parola uscita dalla mia bocca: non ritornerà a me senza effetto, senza aver operato ciò che desidero e senza aver compiuto ciò per cui l'ho mandata."
+    },
+    {
+      "sigla": "Sal 64",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 64",
+      "tipo": "salmo",
+      "testo": "R. Tu visiti la terra, Signore, e benedici i suoi germogli.\n\nTu visiti la terra e la disseti,\nla ricolmi di ricchezze.\nIl fiume di Dio è gonfio di acque;\ntu prepari il frumento per gli uomini.\n\nCosì prepari la terra:\nne irrìghi i solchi, ne spiani le zolle,\nla bagni con le piogge e benedici i suoi germogli.\n\nCoroni l’anno con i tuoi benefici,\ni tuoi solchi stillano abbondanza.\nStillano i pascoli del deserto\ne le colline si cingono di esultanza.\n\nI prati si coprono di greggi,\nle valli si ammantano di messi:\ngridano e cantano di gioia!",
+      "ritornello": "R. Tu visiti la terra, Signore, e benedici i suoi germogli."
+    },
+    {
+      "sigla": "Rm 8,18-23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 8,18-23",
+      "tipo": "seconda_lettura",
+      "testo": "18 Ritengo infatti che le sofferenze del tempo presente non siano paragonabili alla gloria futura che sarà rivelata in noi. 19 L'ardente aspettativa della creazione, infatti, è protesa verso la rivelazione dei figli di Dio. 20 La creazione infatti è stata sottoposta alla caducità - non per sua volontà, ma per volontà di colui che l'ha sottoposta - nella speranza 21 che anche la stessa creazione sarà liberata dalla schiavitù della corruzione per entrare nella libertà della gloria dei figli di Dio. 22 Sappiamo infatti che tutta insieme la creazione geme e soffre le doglie del parto fino ad oggi. 23 Non solo, ma anche noi, che possediamo le primizie dello Spirito, gemiamo interiormente aspettando l'adozione a figli, la redenzione del nostro corpo."
+    },
+    {
+      "sigla": "Mt 13,19.23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 13,19.23",
+      "tipo": "canto_vangelo",
+      "testo": "Mt 13,19.23"
+    },
+    {
+      "sigla": "Mt 13,1-23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 13,1-23",
+      "tipo": "vangelo",
+      "testo": "Udrete, sì, ma non comprenderete, guarderete, sì, ma non vedrete. 15 Perché il cuore di questo popolo è diventato insensibile, sono diventati duri di orecchi e hanno chiuso gli occhi, perché non vedano con gli occhi, non ascoltino con gli orecchi e non comprendano con il cuore e non si convertano e io li guarisca!\n18 Voi dunque ascoltate la parabola del seminatore. 19 Ogni volta che uno ascolta la parola del Regno e non la comprende, viene il Maligno e ruba ciò che è stato seminato nel suo cuore: questo è il seme seminato lungo la strada. 20 Quello che è stato seminato sul terreno sassoso è colui che ascolta la Parola e l'accoglie subito con gioia, 21 ma non ha in sé radici ed è incostante, sicché, appena giunge una tribolazione o una persecuzione a causa della Parola, egli subito viene meno. 22 Quello seminato tra i rovi è colui che ascolta la Parola, ma la preoccupazione del mondo e la seduzione della ricchezza soffocano la Parola ed essa non dà frutto. 23 Quello seminato sul terreno buono è colui che ascolta la Parola e la comprende; questi dà frutto e produce il cento, il sessanta, il trenta per uno»."
+    }
+  ]
+}

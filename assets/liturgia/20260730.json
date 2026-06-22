@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-30",
+  "settimana": "Giovedì della XVII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ger 18,1-6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ger 18,1-6",
+      "tipo": "prima_lettura",
+      "testo": "1 Questa parola fu rivolta dal Signore a Geremia: 2 «Àlzati e scendi nella bottega del vasaio; là ti farò udire la mia parola». 3 Scesi nella bottega del vasaio, ed ecco, egli stava lavorando al tornio. 4 Ora, se si guastava il vaso che stava modellando, come capita con la creta in mano al vasaio, egli riprovava di nuovo e ne faceva un altro, come ai suoi occhi pareva giusto. 5 Allora mi fu rivolta la parola del Signore in questi termini: 6 «Forse non potrei agire con voi, casa d'Israele, come questo vasaio? Oracolo del Signore. Ecco, come l'argilla è nelle mani del vasaio, così voi siete nelle mie mani, casa d'Israele."
+    },
+    {
+      "sigla": "Sal 145",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 145",
+      "tipo": "salmo",
+      "testo": "R. Beato chi ha per aiuto il Dio di Giacobbe.\n\nLoda il Signore, anima mia:\nloderò il Signore finché ho vita,\ncanterò inni al mio Dio finché esisto.\n\nNon confidate nei potenti,\nin un uomo che non può salvare.\nEsala lo spirito e ritorna alla terra:\nin quel giorno svaniscono tutti i suoi disegni.\n\nBeato chi ha per aiuto il Dio di Giacobbe:\nla sua speranza è nel Signore suo Dio,\nche ha fatto il cielo e la terra,\nil mare e quanto contiene,\nche rimane fedele per sempre.",
+      "ritornello": "R. Beato chi ha per aiuto il Dio di Giacobbe."
+    },
+    {
+      "sigla": "At 16,14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 16,14",
+      "tipo": "canto_vangelo",
+      "testo": "Apri, Signore, il nostro cuore e comprenderemo le parole del Figlio tuo."
+    },
+    {
+      "sigla": "Mt 13,47-53",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 13,47-53",
+      "tipo": "vangelo",
+      "testo": "53 Terminate queste parabole, Gesù partì di là."
+    }
+  ]
+}

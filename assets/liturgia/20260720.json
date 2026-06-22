@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-20",
+  "settimana": "Lunedì della XVI settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Mi 6,1-4.6-8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mi 6,1-4.6-8",
+      "tipo": "prima_lettura",
+      "testo": "1 Ascoltate dunque ciò che dice il Signore: «Su, illustra la tua causa ai monti e i colli ascoltino la tua voce!». 2 Ascoltate, o monti, il processo del Signore, o perenni fondamenta della terra, perché il Signore è in causa con il suo popolo, accusa Israele. 3 «Popolo mio, che cosa ti ho fatto? In che cosa ti ho stancato? Rispondimi. 4 Forse perché ti ho fatto uscire dalla terra d'Egitto, ti ho riscattato dalla condizione servile e ho mandato davanti a te Mosè, Aronne e Maria? 6 «Con che cosa mi presenterò al Signore, mi prostrerò al Dio altissimo? Mi presenterò a lui con olocausti, con vitelli di un anno? 7 Gradirà il Signore migliaia di montoni e torrenti di olio a miriadi? Gli offrirò forse il mio primogenito per la mia colpa, il frutto delle mie viscere per il mio peccato?». 8 Uomo, ti è stato insegnato ciò che è buono e ciò che richiede il Signore da te: praticare la giustizia, amare la bontà, camminare umilmente con il tuo Dio."
+    },
+    {
+      "sigla": "Sal 49",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 49",
+      "tipo": "salmo",
+      "testo": "R. A chi cammina per la retta via, mostrerò la salvezza di Dio.\n\n«Davanti a me riunite i miei fedeli,\nche hanno stabilito con me l’alleanza\noffrendo un sacrificio».\nI cieli annunciano la sua giustizia:\nè Dio che giudica.\n\n«Non ti rimprovero per i tuoi sacrifici,\ni tuoi olocàusti mi stanno sempre davanti.\nNon prenderò vitelli dalla tua casa\nné capri dai tuoi ovili».\n\n«Perché vai ripetendo i miei decreti\ne hai sempre in bocca la mia alleanza,\ntu che hai in odio la disciplina\ne le mie parole ti getti alle spalle?\n\nHai fatto questo e io dovrei tacere?\nForse credevi che io fossi come te!\nTi rimprovero: pongo davanti a te la mia accusa.\nChi offre la lode in sacrificio, questi mi onora».",
+      "ritornello": "R. A chi cammina per la retta via, mostrerò la salvezza di Dio."
+    },
+    {
+      "sigla": "Sal 94,8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 94,8",
+      "tipo": "canto_vangelo",
+      "testo": "Oggi non indurite il vostro cuore, ma ascoltate la voce del Signore."
+    },
+    {
+      "sigla": "Mt 12,38-42",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 12,38-42",
+      "tipo": "vangelo",
+      "testo": "38 Allora alcuni scribi e farisei lo interrogarono: «Maestro, vorremmo che tu ci facessi vedere un segno». Ed egli rispose: 39 «Una generazione perversa e adultera pretende un segno! Ma nessun segno le sarà dato, se non il segno di Giona profeta. 40 Come infatti Giona rimase tre giorni e tre notti nel ventre del pesce, così il Figlio dell'uomo resterà tre giorni e tre notti nel cuore della terra. 41 Quelli di Nìnive si alzeranno a giudicare questa generazione e la condanneranno, perché essi si convertirono alla predicazione di Giona. Ecco, ora qui c'è più di Giona! 42 La regina del sud si leverà a giudicare questa generazione e la condannerà, perché essa venne dall'estremità della terra per ascoltare la sapienza di Salomone; ecco, ora qui c'è più di Salomone!"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-21",
+  "settimana": "Martedì della XVI settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Mi 7,14-15.18-20",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mi 7,14-15.18-20",
+      "tipo": "prima_lettura",
+      "testo": "18 Quale dio è come te, che toglie l'iniquità e perdona il peccato al resto della sua eredità? Egli non serba per sempre la sua ira, ma si compiace di manifestare il suo amore. 19 Egli tornerà ad avere pietà di noi, calpesterà le nostre colpe. Tu getterai in fondo al mare tutti i nostri peccati. 20 Conserverai a Giacobbe la tua fedeltà, ad Abramo il tuo amore, come hai giurato ai nostri padri fin dai tempi antichi."
+    },
+    {
+      "sigla": "Sal 84",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 84",
+      "tipo": "salmo",
+      "testo": "R. Mostraci, Signore, la tua misericordia.\n\nSei stato buono, Signore, con la tua terra,\nhai ristabilito la sorte di Giacobbe.\nHai perdonato la colpa del tuo popolo,\nhai coperto ogni loro peccato.\n\nRitorna a noi, Dio nostra salvezza,\ne placa il tuo sdegno verso di noi.\nForse per sempre sarai adirato con noi,\ndi generazione in generazione riverserai la tua ira?\n\nNon tornerai tu a ridarci la vita,\nperché in te gioisca il tuo popolo?\nMostraci, Signore, la tua misericordia\ne donaci la tua salvezza.",
+      "ritornello": "R. Mostraci, Signore, la tua misericordia."
+    },
+    {
+      "sigla": "Gv 14,23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 14,23",
+      "tipo": "canto_vangelo",
+      "testo": "Se uno mi ama, osserverà la mia parola, dice il Signore, e il Padre mio lo amerà e noi verremo a lui."
+    },
+    {
+      "sigla": "Mt 12,46-50",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 12,46-50",
+      "tipo": "vangelo",
+      "testo": "46 Gesù stava parlando alla folla. Sua madre e i suoi fratelli volevano parlare con lui, ma erano rimasti fuori. 47 Un tale disse a Gesù: - Qui fuori ci sono tua madre e i tuoi fratelli che vogliono parlare con te. 48 Gesù a chi gi parlava rispose: - Chi è mia madre? e chi sono i miei fratelli? 49 Poi, con la mano indicò i suoi discepoli e disse: - Guarda: sono questi mia madre e i miei fratelli: 50 perché se uno fa la volontà del Padre mio che è in cielo, egli è mio fratello, mia sorella e mia madre."
+    }
+  ]
+}

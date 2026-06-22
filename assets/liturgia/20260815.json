@@ -1,0 +1,33 @@
+{
+  "data": "2026-08-15",
+  "settimana": "ASSUNZIONE DELLA BEATA VERGINE MARIA (Messa del Giorno)",
+  "celebrazione": "SOLENNITA'",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Ap 11,19; 12,1-6.10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 11,19; 12,1-6.10",
+      "tipo": "prima_lettura",
+      "testo": "19 Allora si aprì il tempio di Dio che è nel cielo e apparve nel tempio l'arca della sua alleanza. Ne seguirono folgori, voci, scoppi di tuono, terremoto e una tempesta di grandine.\n12 Mi voltai per vedere la voce che parlava con me, e appena voltato vidi sette candelabri d'oro"
+    },
+    {
+      "sigla": "Sal 44",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 44",
+      "tipo": "salmo",
+      "testo": "R. Risplende la regina, Signore, alla tua destra.\n\nFiglie di re fra le tue predilette;\nalla tua destra sta la regina, in ori di Ofir.\n\nAscolta, figlia, guarda, porgi l’orecchio:\ndimentica il tuo popolo e la casa di tuo padre.\n\nIl re è invaghito della tua bellezza.\nÈ lui il tuo signore: rendigli omaggio.\n\nDietro a lei le vergini, sue compagne,\ncondotte in gioia ed esultanza,\nsono presentate nel palazzo del re.",
+      "ritornello": "R. Risplende la regina, Signore, alla tua destra."
+    },
+    {
+      "sigla": "1Cor 15,20-26",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 15,20-26",
+      "tipo": "seconda_lettura",
+      "testo": "20 Ora, invece, Cristo è risorto dai morti, primizia di coloro che sono morti. 21 Perché, se per mezzo di un uomo venne la morte, per mezzo di un uomo verrà anche la risurrezione dei morti. 22 Come infatti in Adamo tutti muoiono, così in Cristo tutti riceveranno la vita. 23 Ognuno però al suo posto: prima Cristo, che è la primizia; poi, alla sua venuta, quelli che sono di Cristo. 24 Poi sarà la fine, quando egli consegnerà il regno a Dio Padre, dopo avere ridotto al nulla ogni Principato e ogni Potenza e Forza. 25 È necessario infatti che egli regni finché non abbia posto tutti i nemici sotto i suoi piedi . 26 L'ultimo nemico a essere annientato sarà la morte,"
+    },
+    {
+      "sigla": "Lc 1,39-56",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 1,39-56",
+      "tipo": "vangelo",
+      "testo": "«L'anima mia magnifica il Signore 47 e il mio spirito esulta in Dio, mio salvatore, 48 perché ha guardato l'umiltà della sua serva. D'ora in poi tutte le generazioni mi chiameranno beata. 49 Grandi cose ha fatto per me l'Onnipotente e Santo è il suo nome; 50 di generazione in generazione la sua misericordia per quelli che lo temono. 51 Ha spiegato la potenza del suo braccio, ha disperso i superbi nei pensieri del loro cuore; 52 ha rovesciato i potenti dai troni, ha innalzato gli umili; 53 ha ricolmato di beni gli affamati, ha rimandato i ricchi a mani vuote. 54 Ha soccorso Israele, suo servo, ricordandosi della sua misericordia, 55 come aveva detto ai nostri padri, per Abramo e la sua discendenza, per sempre»."
+    }
+  ]
+}

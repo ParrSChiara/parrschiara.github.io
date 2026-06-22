@@ -1,0 +1,33 @@
+{
+  "data": "2026-08-08",
+  "settimana": "San Domenico",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Ab 1,12-2,4",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ab 1,12-2,4",
+      "tipo": "prima_lettura",
+      "testo": "12 Non sei tu fin da principio, Signore, il mio Dio, il mio Santo? Noi non moriremo! Signore, tu lo hai scelto per far giustizia, l'hai reso forte, o Roccia, per punire. 13 Tu dagli occhi così puri che non puoi vedere il male e non puoi guardare l'oppressione, perché, vedendo i perfidi, taci, mentre il malvagio ingoia chi è più giusto di lui? 14 Tu tratti gli uomini come pesci del mare, come animali che strisciano e non hanno padrone. 15 Egli li prende tutti all'amo, li pesca a strascico, li raccoglie nella rete, e contento ne gode. 16 Perciò offre sacrifici alle sue sciàbiche e brucia incenso alle sue reti, perché, grazie a loro, la sua parte è abbondante e il suo cibo succulento. 17 Continuerà dunque a sguainare la spada e a massacrare le nazioni senza pietà?\n1 Mi metterò di sentinella, in piedi sulla fortezza, a spiare, per vedere che cosa mi dirà, che cosa risponderà ai miei lamenti. 2 Il Signore rispose e mi disse: «Scrivi la visione e incidila bene sulle tavolette, perché la si legga speditamente. 3 È una visione che attesta un termine, parla di una scadenza e non mentisce; se indugia, attendila, perché certo verrà e non tarderà. 4 Ecco, soccombe colui che non ha l'animo retto, mentre il giusto vivrà per la sua fede»."
+    },
+    {
+      "sigla": "Sal 9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 9",
+      "tipo": "salmo",
+      "testo": "R. Tu non abbandoni chi ti cerca, Signore.\n\nIl Signore siede in eterno,\nstabilisce il suo trono per il giudizio:\ngovernerà il mondo con giustizia,\ngiudicherà i popoli con rettitudine.\n\nIl Signore sarà un rifugio per l’oppresso,\nun rifugio nei momenti di angoscia.\nConfidino in te quanti conoscono il tuo nome,\nperché tu non abbandoni chi ti cerca, Signore.\n\nCantate inni al Signore, che abita in Sion,\nnarrate le sue imprese tra i popoli,\nperché egli chiede conto del sangue versato,\nse ne ricorda, non dimentica il grido dei poveri.",
+      "ritornello": "R. Tu non abbandoni chi ti cerca, Signore."
+    },
+    {
+      "sigla": "2Tm 1,10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Tm 1,10",
+      "tipo": "canto_vangelo",
+      "testo": "Il salvatore nostro Cristo Gesù ha vinto la morte e ha fatto risplendere la vita per mezzo del Vangelo."
+    },
+    {
+      "sigla": "Mt 17,14-20",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 17,14-20",
+      "tipo": "vangelo",
+      "testo": "14 Appena ritornati presso la folla, si avvicinò a Gesù un uomo che gli si gettò in ginocchio 15 e disse: «Signore, abbi pietà di mio figlio! È epilettico e soffre molto; cade spesso nel fuoco e sovente nell'acqua. 16 L'ho portato dai tuoi discepoli, ma non sono riusciti a guarirlo». 17 E Gesù rispose: «O generazione incredula e perversa! Fino a quando sarò con voi? Fino a quando dovrò sopportarvi? Portatelo qui da me». 18 Gesù lo minacciò e il demonio uscì da lui, e da quel momento il ragazzo fu guarito. 19 Allora i discepoli si avvicinarono a Gesù, in disparte, e gli chiesero: «Perché noi non siamo riusciti a scacciarlo?». 20 Ed egli rispose loro: «Per la vostra poca fede. In verità io vi dico: se avrete fede pari a un granello di senape, direte a questo monte: «Spòstati da qui a là», ed esso si sposterà, e nulla vi sarà impossibile». ["
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-08-11",
+  "settimana": "Santa Chiara",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Ez 2,8-3,4",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ez 2,8-3,4",
+      "tipo": "prima_lettura",
+      "testo": "8 'Ezechiele, ascolta quel che ti dico e non ribellarti anche tu. Apri la bocca e mangia quel che ti do'. 9 Allora vidi una mano tesa verso di me che teneva una pergamena arrotolata. 10 L'aprì davanti a me e vidi che su tutti e due i lati erano scritti lamenti gemiti e pianti."
+    },
+    {
+      "sigla": "Sal 118",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 118",
+      "tipo": "salmo",
+      "testo": "R. Quanto sono dolci al mio palato le tue promesse, Signore.\n\nNella via dei tuoi insegnamenti è la mia gioia,\npiù che in tutte le ricchezze.\nI tuoi insegnamenti sono la mia delizia:\nsono essi i miei consiglieri.\n\nBene per me è la legge della tua bocca,\npiù di mille pezzi d’oro e d’argento.\nQuanto sono dolci al mio palato le tue promesse,\npiù del miele per la mia bocca.\n\nMia eredità per sempre sono i tuoi insegnamenti,\nperché sono essi la gioia del mio cuore.\nApro anelante la mia bocca,\nperché ho sete dei tuoi comandi.",
+      "ritornello": "R. Quanto sono dolci al mio palato le tue promesse, Signore."
+    },
+    {
+      "sigla": "Mt 11,29",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,29",
+      "tipo": "canto_vangelo",
+      "testo": "Prendete il mio giogo sopra di voi, dice il Signore, e imparate da me, che sono mite e umile di cuore."
+    },
+    {
+      "sigla": "Mt 18,1-5.10.12-14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 18,1-5.10.12-14",
+      "tipo": "vangelo",
+      "testo": "1 In quel momento i discepoli si avvicinarono a Gesù dicendo: «Chi dunque è il più grande nel regno dei cieli?». 2 Allora Gesù chiamò a sé un bambino, lo pose in mezzo a loro e disse: 3 «In verità vi dico: se non vi convertirete e non diventerete come i bambini, non entrerete nel regno dei cieli. 4 Perciò chiunque diventerà piccolo come questo bambino, sarà il più grande nel regno dei cieli.\n5 E chi accoglie anche uno solo di questi bambini in nome mio, accoglie me."
+    }
+  ]
+}

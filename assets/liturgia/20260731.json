@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-31",
+  "settimana": "Sant’Ignazio di Loyola",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Ger 26,1-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ger 26,1-9",
+      "tipo": "prima_lettura",
+      "testo": "1 All'inizio del regno di Ioiakìm, figlio di Giosia, re di Giuda, fu rivolta a Geremia questa parola da parte del Signore: 2 «Così dice il Signore: Va' nell'atrio del tempio del Signore e riferisci a tutte le città di Giuda che vengono per adorare nel tempio del Signore tutte le parole che ti ho comandato di annunciare loro; non tralasciare neppure una parola. 3 Forse ti ascolteranno e ciascuno abbandonerà la propria condotta perversa; in tal caso mi pentirò di tutto il male che pensavo di fare loro per la malvagità delle loro azioni. 4 Tu dunque dirai loro: Dice il Signore: Se non mi ascolterete, se non camminerete secondo la legge che ho posto davanti a voi 5 e se non ascolterete le parole dei profeti, miei servi, che ho inviato a voi con assidua premura, ma che voi non avete ascoltato, 6 io ridurrò questo tempio come quello di Silo e farò di questa città una maledizione per tutti i popoli della terra». 7 I sacerdoti, i profeti e tutto il popolo udirono Geremia che diceva queste parole nel tempio del Signore. 8 Ora, quando Geremia finì di riferire quanto il Signore gli aveva comandato di dire a tutto il popolo, i sacerdoti, i profeti e tutto il popolo lo arrestarono dicendo: «Devi morire! 9 Perché hai predetto nel nome del Signore: «Questo tempio diventerà come Silo e questa città sarà devastata, disabitata»?». Tutto il popolo si radunò contro Geremia nel tempio del Signore."
+    },
+    {
+      "sigla": "Sal 68",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 68",
+      "tipo": "salmo",
+      "testo": "R. Nella tua grande bontà, rispondimi, o Dio.\n\nSono più numerosi dei capelli del mio capo\nquelli che mi odiano senza ragione.\nSono potenti quelli che mi vogliono distruggere,\ni miei nemici bugiardi:\nquanto non ho rubato, dovrei forse restituirlo?\n\nPer te io sopporto l’insulto\ne la vergogna mi copre la faccia;\nsono diventato un estraneo ai miei fratelli,\nuno straniero per i figli di mia madre.\nPerché mi divora lo zelo per la tua casa,\ngli insulti di chi ti insulta ricadono su di me.\n\nMa io rivolgo a te la mia preghiera,\nSignore, nel tempo della benevolenza.\nO Dio, nella tua grande bontà, rispondimi,\nnella fedeltà della tua salvezza.",
+      "ritornello": "R. Nella tua grande bontà, rispondimi, o Dio."
+    },
+    {
+      "sigla": "1 Pt 1,25",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1 Pt 1,25",
+      "tipo": "canto_vangelo",
+      "testo": "La parola del Signore rimane in eterno: e questa è la parola del Vangelo che vi è stato annunciato."
+    },
+    {
+      "sigla": "Mt 13,54-58",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 13,54-58",
+      "tipo": "vangelo",
+      "testo": "54 Venuto nella sua patria, insegnava nella loro sinagoga e la gente rimaneva stupita e diceva: «Da dove gli vengono questa sapienza e i prodigi? 55 Non è costui il figlio del falegname? E sua madre, non si chiama Maria? E i suoi fratelli, Giacomo, Giuseppe, Simone e Giuda? 56 E le sue sorelle, non stanno tutte da noi? Da dove gli vengono allora tutte queste cose?». 57 Ed era per loro motivo di scandalo. Ma Gesù disse loro: «Un profeta non è disprezzato se non nella sua patria e in casa sua». 58 E lì, a causa della loro incredulità, non fece molti prodigi."
+    }
+  ]
+}

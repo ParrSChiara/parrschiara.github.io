@@ -1,0 +1,32 @@
+{
+  "data": "2026-07-22",
+  "settimana": "Santa Maria Maddalena",
+  "celebrazione": "FESTA",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Cant 3,1-4",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Cant 3,1-4",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 62",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 62",
+      "tipo": "salmo",
+      "testo": "R. Ha sete di te, Signore, l’anima mia.\n\nO Dio, tu sei il mio Dio,\ndall’aurora io ti cerco,\nha sete di te l’anima mia,\ndesidera te la mia carne\nin terra arida, assetata, senz’acqua.\n\nCosì nel santuario ti ho contemplato,\nguardando la tua potenza e la tua gloria.\nPoiché il tuo amore vale più della vita,\nle mie labbra canteranno la tua lode.\n\nCosì ti benedirò per tutta la vita:\nnel tuo nome alzerò le mie mani.\nCome saziato dai cibi migliori,\ncon labbra gioiose ti loderà la mia bocca.\n\nQuando penso a te che sei stato il mio aiuto,\nesulto di gioia all’ombra delle tue ali.\nA te si stringe l’anima mia:\nla tua destra mi sostiene.",
+      "ritornello": "R. Ha sete di te, Signore, l’anima mia."
+    },
+    {
+      "sigla": "Dalla Sequenza pasquale",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Dalla Sequenza pasquale",
+      "tipo": "canto_vangelo",
+      "testo": "Dalla Sequenza pasquale"
+    },
+    {
+      "sigla": "Gv 20,1-2.11-18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 20,1-2.11-18",
+      "tipo": "vangelo",
+      "testo": "11 Maria invece stava all'esterno, vicino al sepolcro, e piangeva. Mentre piangeva, si chinò verso il sepolcro 12 e vide due angeli in bianche vesti, seduti l'uno dalla parte del capo e l'altro dei piedi, dove era stato posto il corpo di Gesù. 13 Ed essi le dissero: «Donna, perché piangi?». Rispose loro: «Hanno portato via il mio Signore e non so dove l'hanno posto». 14 Detto questo, si voltò indietro e vide Gesù, in piedi; ma non sapeva che fosse Gesù. 15 Le disse Gesù: «Donna, perché piangi? Chi cerchi?». Ella, pensando che fosse il custode del giardino, gli disse: «Signore, se l'hai portato via tu, dimmi dove l'hai posto e io andrò a prenderlo». 16 Gesù le disse: «Maria!». Ella si voltò e gli disse in ebraico: «Rabbunì!» - che significa: «Maestro!». 17 Gesù le disse: «Non mi trattenere, perché non sono ancora salito al Padre; ma va' dai miei fratelli e di' loro: «Salgo al Padre mio e Padre vostro, Dio mio e Dio vostro»». 18 Maria di Màgdala andò ad annunciare ai discepoli: «Ho visto il Signore!» e ciò che le aveva detto."
+    }
+  ]
+}

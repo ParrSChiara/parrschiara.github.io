@@ -1,0 +1,33 @@
+{
+  "data": "2026-08-04",
+  "settimana": "San Giovanni Maria Vianney",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Ger 30,1-2.12-15.18-22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ger 30,1-2.12-15.18-22",
+      "tipo": "prima_lettura",
+      "testo": "1-2 Il Signore, Dio d'Israele, diede quest'ordine a Geremia: 'Prendi nota, scrivi tutti i messaggi che ti ho comunicato. 12 Il Signore dice al suo popolo: 'Non c'è rimedio alle tue ferite, le tue piaghe non possono guarire. 13 Nessuno può prendersi cura di te: per una semplice ferita, c'è rimedio, ma per te non c'è speranza di guarigione. 14 I tuoi alleati ti hanno dimenticata, non si interessano più di te. Ti ho colpita come avrebbe fatto un nemico, ti ho punita con molta severità perché la tua colpa era enorme e i tuoi peccati troppo gravi. 15 Perché ti lamenti delle tue ferite? Le tue piaghe non si possono curare. Sono stato io a procurartele per punirti della tua colpa enorme e dei tuoi peccati troppo gravi. 18 Così dice il Signore: 'Farò ritornare alle loro abitazioni i discendenti di Giacobbe e sarò generoso con le loro famiglie. Gerusalemme sarà ricostruita sulle sue rovine e i palazzi sorgeranno dov'erano prima. 19 Da essi usciranno canti di ringraziamento e grida di gente felice. Farò crescere di numero il mio popolo e non diminuiranno più, li farò onorare da tutti e non saranno più disprezzati. 20 Farò dei loro figli una nazione potente come una volta, e la renderò stabile. Io punirò tutti i loro nemici. 21 Avranno come capo uno di loro, un principe uscito dalla loro razza. Lo farò venire accanto a me ed egli starà al mio fianco: nessun altro potrebbe farlo senza rischiare la vita'. Così dice il Signore: 22 'Allora voi sarete il mio popolo, e io sarò il vostro Dio'."
+    },
+    {
+      "sigla": "Sal 101",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 101",
+      "tipo": "salmo",
+      "testo": "R. Il Signore ha ricostruito Sion ed è apparso in tutto il suo splendore.\n\nLe genti temeranno il nome del Signore\ne tutti i re della terra la tua gloria,\nquando il Signore avrà ricostruito Sion\ne sarà apparso in tutto il suo splendore.\nEgli si volge alla preghiera dei derelitti,\nnon disprezza la loro preghiera.\n\nQuesto si scriva per la generazione futura\ne un popolo, da lui creato, darà lode al Signore:\n«Il Signore si è affacciato dall’alto del suo santuario,\ndal cielo ha guardato la terra,\nper ascoltare il sospiro del prigioniero,\nper liberare i condannati a morte.\n\nI figli dei tuoi servi avranno una dimora,\nla loro stirpe vivrà sicura alla tua presenza.\nPerché si proclami in Sion il nome del Signore\ne la sua lode in Gerusalemme,\nquando si raduneranno insieme i popoli\ne i regni per servire il Signore.",
+      "ritornello": "R. Il Signore ha ricostruito Sion ed è apparso in tutto il suo splendore."
+    },
+    {
+      "sigla": "At 16,14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 16,14",
+      "tipo": "canto_vangelo",
+      "testo": "Apri, Signore, il nostro cuore e comprenderemo le parole del Figlio tuo."
+    },
+    {
+      "sigla": "Mt 15,1-2.10-14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 15,1-2.10-14",
+      "tipo": "vangelo",
+      "testo": "1 In quel tempo alcuni farisei e alcuni scribi, venuti da Gerusalemme, si avvicinarono a Gesù e gli dissero: 2 «Perché i tuoi discepoli trasgrediscono la tradizione degli antichi? Infatti quando prendono cibo non si lavano le mani!». 10 Poi, riunita la folla, disse loro: «Ascoltate e comprendete bene! 11 Non ciò che entra nella bocca rende impuro l'uomo; ciò che esce dalla bocca, questo rende impuro l'uomo!». 12 Allora i discepoli si avvicinarono per dirgli: «Sai che i farisei, a sentire questa parola, si sono scandalizzati?». 13 Ed egli rispose: «Ogni pianta, che non è stata piantata dal Padre mio celeste, verrà sradicata. 14 Lasciateli stare! Sono ciechi e guide di ciechi. E quando un cieco guida un altro cieco, tutti e due cadranno in un fosso!»."
+    }
+  ]
+}

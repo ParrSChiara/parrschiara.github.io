@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-29",
+  "settimana": "Santi Marta, Maria e Lazzaro",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "1Gv 4,7-16",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Gv 4,7-16",
+      "tipo": "prima_lettura",
+      "testo": "7 Carissimi, amiamoci gli uni gli altri, perché l'amore è da Dio: chiunque ama è stato generato da Dio e conosce Dio. 8 Chi non ama non ha conosciuto Dio, perché Dio è amore. 9 In questo si è manifestato l'amore di Dio in noi: Dio ha mandato nel mondo il suo Figlio unigenito, perché noi avessimo la vita per mezzo di lui. 10 In questo sta l'amore: non siamo stati noi ad amare Dio, ma è lui che ha amato noi e ha mandato il suo Figlio come vittima di espiazione per i nostri peccati. 11 Carissimi, se Dio ci ha amati così, anche noi dobbiamo amarci gli uni gli altri. 12 Nessuno mai ha visto Dio; se ci amiamo gli uni gli altri, Dio rimane in noi e l'amore di lui è perfetto in noi. 13 In questo si conosce che noi rimaniamo in lui ed egli in noi: egli ci ha donato il suo Spirito. 14 E noi stessi abbiamo veduto e attestiamo che il Padre ha mandato il suo Figlio come salvatore del mondo. 15 Chiunque confessa che Gesù è il Figlio di Dio, Dio rimane in lui ed egli in Dio. 16 E noi abbiamo conosciuto e creduto l'amore che Dio ha in noi. Dio è amore; chi rimane nell'amore rimane in Dio e Dio rimane in lui."
+    },
+    {
+      "sigla": "Sal 33",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 33",
+      "tipo": "salmo",
+      "testo": "R. Gustate e vedete com’è buono il Signore.\n\nBenedirò il Signore in ogni tempo,\nsulla mia bocca sempre la sua lode.\nIo mi glorio nel Signore:\ni poveri ascoltino e si rallegrino.\n\nMagnificate con me il Signore,\nesaltiamo insieme il suo nome.\nHo cercato il Signore: mi ha risposto\ne da ogni mia paura mi ha liberato.\n\nGuardate a lui e sarete raggianti,\ni vostri volti non dovranno arrossire.\nQuesto povero grida e il Signore lo ascolta,\nlo salva da tutte le sue angosce.\n\nL’angelo del Signore si accampa\nattorno a quelli che lo temono, e li libera.\nGustate e vedete com’è buono il Signore;\nbeato l’uomo che in lui si rifugia.\n\nTemete il Signore, suoi santi:\nnulla manca a coloro che lo temono.\nI leoni sono miseri e affamati,\nma a chi cerca il Signore non manca alcun bene.",
+      "ritornello": "R. Gustate e vedete com’è buono il Signore."
+    },
+    {
+      "sigla": "Gv 8,12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 8,12",
+      "tipo": "canto_vangelo",
+      "testo": "Alleluia, alleluia, alleluia. Io sono la luce del mondo, dice il Signore; chi segue me, avrà la luce della vita."
+    },
+    {
+      "sigla": "Gv 11,19-27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 11,19-27",
+      "tipo": "vangelo",
+      "testo": "19 Molta gente era andata a trovare Maria e Marta per confortarle dopo la morte del fratello. 20 Quando Marta sentì che veniva Gesù, gli andò incontro; Maria invece rimase in casa. 21 Marta disse a Gesù: - Signore, se tu eri qui, mio fratello non moriva! 22 E anche ora so che Dio ascolterà tutto quello che tu gli domandi. 23 Gesù le disse: - Tuo fratello risorgerà. 24 Marta rispose: - Sì, lo so; nell'ultimo giorno risorgerà anche lui. 25 Gesù le disse: Io sono la risurrezione e la vita. Chi crede in me, anche se muore, vivrà; 26 anzi chi vive e crede in me non morirà mai. Credi tu questo? 27 Marta gli disse: - Signore, sì! Io credo che tu sei il Messia, il Figlio di Dio che deve venire nel mondo."
+    }
+  ]
+}

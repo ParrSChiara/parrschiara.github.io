@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-09",
+  "settimana": "Giovedì della XIV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Os 11,1-4.8-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Os 11,1-4.8-9",
+      "tipo": "prima_lettura",
+      "testo": "1 Quando Israele era fanciullo, io l'ho amato e dall'Egitto ho chiamato mio figlio. 2 Ma più li chiamavo, più si allontanavano da me; immolavano vittime ai Baal, agli idoli bruciavano incensi. 3 A Èfraim io insegnavo a camminare tenendolo per mano, ma essi non compresero che avevo cura di loro. 4 Io li traevo con legami di bontà, con vincoli d'amore, ero per loro come chi solleva un bimbo alla sua guancia, mi chinavo su di lui per dargli da mangiare. 8 Come potrei abbandonarti, Èfraim, come consegnarti ad altri, Israele? Come potrei trattarti al pari di Adma, ridurti allo stato di Seboìm? Il mio cuore si commuove dentro di me, il mio intimo freme di compassione. 9 Non darò sfogo all'ardore della mia ira, non tornerò a distruggere Èfraim, perché sono Dio e non uomo; sono il Santo in mezzo a te e non verrò da te nella mia ira."
+    },
+    {
+      "sigla": "Sal 79",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 79",
+      "tipo": "salmo",
+      "testo": "R. Fa’ splendere il tuo volto, Signore, e noi saremo salvi.\n\nTu, pastore d’Israele, ascolta,\nseduto sui cherubini, risplendi.\nRisveglia la tua potenza\ne vieni a salvarci.\n\nDio degli eserciti, ritorna!\nGuarda dal cielo e vedi\ne visita questa vigna,\nproteggi quello che la tua destra ha piantato,\nil figlio dell’uomo che per te hai reso forte.",
+      "ritornello": "R. Fa’ splendere il tuo volto, Signore, e noi saremo salvi."
+    },
+    {
+      "sigla": "Mc 1,15",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 1,15",
+      "tipo": "canto_vangelo",
+      "testo": "Il regno di Dio è vicino; convertitevi e credete nel Vangelo."
+    },
+    {
+      "sigla": "Mt 10,7-15",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 10,7-15",
+      "tipo": "vangelo",
+      "testo": "11 In qualunque città o villaggio entriate, fatevi indicare se vi sia qualche persona degna, e lì rimanete fino alla vostra partenza. 12 Entrando nella casa, rivolgetele il saluto. 13 Se quella casa ne sarà degna, la vostra pace scenda sopra di essa; ma se non ne sarà degna, la vostra pace ritorni a voi. 14 Se qualcuno poi non vi accoglierà e non darà ascolto alle vostre parole, uscite da quella casa o da quella città e scuotete la polvere dai vostri piedi. 15 In verità vi dico, nel giorno del giudizio il paese di Sòdoma e Gomorra avrà una sorte più sopportabile di quella città."
+    }
+  ]
+}

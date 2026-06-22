@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-01",
+  "settimana": "Mercoledì della XIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Am 5,14-15.21-24",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Am 5,14-15.21-24",
+      "tipo": "prima_lettura",
+      "testo": "21 «Io detesto, respingo le vostre feste solenni e non gradisco le vostre riunioni sacre; 22 anche se voi mi offrite olocausti, io non gradisco le vostre offerte, e le vittime grasse come pacificazione io non le guardo. 23 Lontano da me il frastuono dei vostri canti: il suono delle vostre arpe non posso sentirlo! 24 Piuttosto come le acque scorra il diritto e la giustizia come un torrente perenne."
+    },
+    {
+      "sigla": "Sal 49",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 49",
+      "tipo": "salmo",
+      "testo": "R. A chi cammina per la retta via mostrerò la salvezza di Dio.\n\nAscolta, popolo mio, voglio parlare,\ntestimonierò contro di te, Israele!\nIo sono Dio, il tuo Dio!\n\nNon ti rimprovero per i tuoi sacrifici,\ni tuoi olocàusti mi stanno sempre davanti.\nNon prenderò vitelli dalla tua casa\nné capri dai tuoi ovili.\n\nSono mie tutte le bestie della foresta,\nanimali a migliaia sui monti.\nConosco tutti gli uccelli del cielo,\nè mio ciò che si muove nella campagna.\n\nSe avessi fame, non te lo direi:\nmio è il mondo e quanto contiene.\nMangerò forse la carne dei tori?\nBerrò forse il sangue dei capri?\n\nPerché vai ripetendo i miei decreti\ne hai sempre in bocca la mia alleanza,\ntu che hai in odio la disciplina\ne le mie parole ti getti alle spalle?",
+      "ritornello": "R. A chi cammina per la retta via mostrerò la salvezza di Dio."
+    },
+    {
+      "sigla": "Gc 1,18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gc 1,18",
+      "tipo": "canto_vangelo",
+      "testo": "Per sua volontà il Padre ci ha generati per mezzo della parola di verità, per essere una primizia delle sue creature."
+    },
+    {
+      "sigla": "Mt 8,28-34",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 8,28-34",
+      "tipo": "vangelo",
+      "testo": "28 Giunto all'altra riva, nel paese dei Gadarèni, due indemoniati, uscendo dai sepolcri, gli andarono incontro; erano tanto furiosi che nessuno poteva passare per quella strada. 29 Ed ecco, si misero a gridare: «Che vuoi da noi, Figlio di Dio? Sei venuto qui a tormentarci prima del tempo?». 30 A qualche distanza da loro c'era una numerosa mandria di porci al pascolo; 31 e i demòni lo scongiuravano dicendo: «Se ci scacci, mandaci nella mandria dei porci». 32 Egli disse loro: «Andate!». Ed essi uscirono, ed entrarono nei porci: ed ecco, tutta la mandria si precipitò giù dalla rupe nel mare e morirono nelle acque. 33 I mandriani allora fuggirono e, entrati in città, raccontarono ogni cosa e anche il fatto degli indemoniati. 34 Tutta la città allora uscì incontro a Gesù: quando lo videro, lo pregarono di allontanarsi dal loro territorio."
+    }
+  ]
+}

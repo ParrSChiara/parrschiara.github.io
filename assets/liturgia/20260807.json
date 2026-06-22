@@ -1,0 +1,33 @@
+{
+  "data": "2026-08-07",
+  "settimana": "Venerdì della XVIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Na 2,1.3; 3,1-3.6-7",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Na 2,1.3; 3,1-3.6-7",
+      "tipo": "prima_lettura",
+      "testo": "3 Contro di te avanza un distruttore: montare la guardia alla fortezza, sorvegliare le vie, cingerti i fianchi, raccogliere tutte le forze."
+    },
+    {
+      "sigla": "Dt 32,35-41",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Dt 32,35-41",
+      "tipo": "salmo",
+      "testo": "R. Il Signore farà giustizia al suo popolo.\n\nSì, vicino è il giorno della loro rovina\ne il loro destino si affretta a venire.\nPerché il Signore farà giustizia al suo popolo\ne dei suoi servi avrà compassione.\n\nOra vedete che io, io lo sono\ne nessun altro è dio accanto a me.\nSono io che do la morte e faccio vivere;\nio percuoto e io guarisco.\n\nQuando avrò affilato la folgore della mia spada\ne la mia mano inizierà il giudizio,\nfarò vendetta dei miei avversari,\nripagherò i miei nemici.",
+      "ritornello": "R. Il Signore farà giustizia al suo popolo."
+    },
+    {
+      "sigla": "Mt 5,10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 5,10",
+      "tipo": "canto_vangelo",
+      "testo": "Beati i perseguitati per la giustizia, perché di essi è il regno dei cieli."
+    },
+    {
+      "sigla": "Mt 16,24-28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 16,24-28",
+      "tipo": "vangelo",
+      "testo": "24 Allora Gesù disse ai suoi discepoli: «Se qualcuno vuole venire dietro a me, rinneghi se stesso, prenda la sua croce e mi segua. 25 Perché chi vuole salvare la propria vita, la perderà; ma chi perderà la propria vita per causa mia, la troverà. 26 Infatti quale vantaggio avrà un uomo se guadagnerà il mondo intero, ma perderà la propria vita? O che cosa un uomo potrà dare in cambio della propria vita? 27 Perché il Figlio dell'uomo sta per venire nella gloria del Padre suo, con i suoi angeli, e allora renderà a ciascuno secondo le sue azioni . 28 In verità io vi dico: vi sono alcuni tra i presenti che non moriranno, prima di aver visto venire il Figlio dell'uomo con il suo regno»."
+    }
+  ]
+}

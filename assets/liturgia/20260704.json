@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-04",
+  "settimana": "Sabato della XIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Am 9,11-15",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Am 9,11-15",
+      "tipo": "prima_lettura",
+      "testo": "11 In quel giorno rialzerò la capanna di Davide, che è cadente; ne riparerò le brecce, ne rialzerò le rovine, la ricostruirò come ai tempi antichi, 12 perché conquistino il resto di Edom e tutte le nazioni sulle quali è stato invocato il mio nome. Oracolo del Signore, che farà tutto questo. 13 Ecco, verranno giorni - oracolo del Signore - in cui chi ara s'incontrerà con chi miete e chi pigia l'uva con chi getta il seme; i monti stilleranno il vino nuovo e le colline si scioglieranno. 14 Muterò le sorti del mio popolo Israele, ricostruiranno le città devastate e vi abiteranno, pianteranno vigne e ne berranno il vino, coltiveranno giardini e ne mangeranno il frutto. 15 Li pianterò nella loro terra e non saranno mai divelti da quel suolo che io ho dato loro», dice il Signore, tuo Dio."
+    },
+    {
+      "sigla": "Sal 84",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 84",
+      "tipo": "salmo",
+      "testo": "R. Il Signore annuncia la pace per il suo popolo.\n\nAscolterò che cosa dice Dio, il Signore:\negli annuncia la pace\nper il suo popolo, per i suoi fedeli,\nper chi ritorna a lui con fiducia.\n\nAmore e verità s’incontreranno,\ngiustizia e pace si baceranno.\nVerità germoglierà dalla terra\ne giustizia si affaccerà dal cielo.\n\nCerto, il Signore donerà il suo bene\ne la nostra terra darà il suo frutto;\ngiustizia camminerà davanti a lui:\ni suoi passi tracceranno il cammino.",
+      "ritornello": "R. Il Signore annuncia la pace per il suo popolo."
+    },
+    {
+      "sigla": "Gv 10,27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,27",
+      "tipo": "canto_vangelo",
+      "testo": "Le mie pecore ascoltano la mia voce, dice il Signore, e io le conosco ed esse mi seguono."
+    },
+    {
+      "sigla": "Mt 9,14-17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 9,14-17",
+      "tipo": "vangelo",
+      "testo": "14 Allora gli si avvicinarono i discepoli di Giovanni e gli dissero: «Perché noi e i farisei digiuniamo molte volte, mentre i tuoi discepoli non digiunano?». 15 E Gesù disse loro: «Possono forse gli invitati a nozze essere in lutto finché lo sposo è con loro? Ma verranno giorni quando lo sposo sarà loro tolto, e allora digiuneranno. 16 Nessuno mette un pezzo di stoffa grezza su un vestito vecchio, perché il rattoppo porta via qualcosa dal vestito e lo strappo diventa peggiore. 17 Né si versa vino nuovo in otri vecchi, altrimenti si spaccano gli otri e il vino si spande e gli otri vanno perduti. Ma si versa vino nuovo in otri nuovi, e così l'uno e gli altri si conservano»."
+    }
+  ]
+}

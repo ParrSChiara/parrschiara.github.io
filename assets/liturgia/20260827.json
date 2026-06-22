@@ -1,0 +1,33 @@
+{
+  "data": "2026-08-27",
+  "settimana": "Santa Monica",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "1Cor 1,1-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 1,1-9",
+      "tipo": "prima_lettura",
+      "testo": "1 Paolo, chiamato a essere apostolo di Cristo Gesù per volontà di Dio, e il fratello Sòstene, 2 alla Chiesa di Dio che è a Corinto, a coloro che sono stati santificati in Cristo Gesù, santi per chiamata, insieme a tutti quelli che in ogni luogo invocano il nome del Signore nostro Gesù Cristo, Signore nostro e loro: 3 grazia a voi e pace da Dio Padre nostro e dal Signore Gesù Cristo! 4 Rendo grazie continuamente al mio Dio per voi, a motivo della grazia di Dio che vi è stata data in Cristo Gesù, 5 perché in lui siete stati arricchiti di tutti i doni, quelli della parola e quelli della conoscenza. 6 La testimonianza di Cristo si è stabilita tra voi così saldamente 7 che non manca più alcun carisma a voi, che aspettate la manifestazione del Signore nostro Gesù Cristo. 8 Egli vi renderà saldi sino alla fine, irreprensibili nel giorno del Signore nostro Gesù Cristo. 9 Degno di fede è Dio, dal quale siete stati chiamati alla comunione con il Figlio suo Gesù Cristo, Signore nostro!"
+    },
+    {
+      "sigla": "Sal 144",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 144",
+      "tipo": "salmo",
+      "testo": "R. Benedirò il tuo nome per sempre, Signore.\n\nTi voglio benedire ogni giorno,\nlodare il tuo nome in eterno e per sempre.\nGrande è il Signore e degno di ogni lode;\nsenza fine è la sua grandezza.\n\nUna generazione narra all’altra le tue opere,\nannuncia le tue imprese.\nIl glorioso splendore della tua maestà\ne le tue meraviglie voglio meditare.\n\nParlino della tua terribile potenza:\nanch’io voglio raccontare la tua grandezza.\nDiffondano il ricordo della tua bontà immensa,\nacclamino la tua giustizia.",
+      "ritornello": "R. Benedirò il tuo nome per sempre, Signore."
+    },
+    {
+      "sigla": "Mt 24,44",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 24,44",
+      "tipo": "canto_vangelo",
+      "testo": "Vegliate e tenetevi pronti, perché, nell’ora che non immaginate, viene il Figlio dell’uomo."
+    },
+    {
+      "sigla": "Mt 24,42-51",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 24,42-51",
+      "tipo": "vangelo",
+      "testo": "45 Qual è dunque il servo fidato e prudente che il padrone ha preposto ai suoi domestici con l'incarico di dar loro il cibo al tempo dovuto? 46 Beato quel servo che il padrone al suo ritorno troverà ad agire così! 47 In verità vi dico: gli affiderà l'amministrazione di tutti i suoi beni. 48 Ma se questo servo malvagio dicesse in cuor suo: Il mio padrone tarda a venire, 49 e cominciasse a percuotere i suoi compagni e a bere e a mangiare con gli ubriaconi, 50 arriverà il padrone quando il servo non se l'aspetta e nell'ora che non sa, 51 lo punirà con rigore e gli infliggerà la sorte che gli ipocriti si meritano: e là sarà pianto e stridore di denti."
+    }
+  ]
+}

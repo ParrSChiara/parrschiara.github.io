@@ -1,0 +1,33 @@
+{
+  "data": "2026-08-24",
+  "settimana": "SAN BARTOLOMEO",
+  "celebrazione": "FESTA",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "Ap 21,9-14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 21,9-14",
+      "tipo": "prima_lettura",
+      "testo": "9 Poi venne uno dei sette angeli, che hanno le sette coppe piene degli ultimi sette flagelli, e mi parlò: «Vieni, ti mostrerò la promessa sposa, la sposa dell'Agnello». 10 L'angelo mi trasportò in spirito su di un monte grande e alto, e mi mostrò la città santa, Gerusalemme, che scende dal cielo, da Dio, risplendente della gloria di Dio. 11 Il suo splendore è simile a quello di una gemma preziosissima, come pietra di diaspro cristallino. 12 È cinta da grandi e alte mura con dodici porte: sopra queste porte stanno dodici angeli e nomi scritti, i nomi delle dodici tribù dei figli d'Israele. 13 A oriente tre porte, a settentrione tre porte, a mezzogiorno tre porte e a occidente tre porte. 14 Le mura della città poggiano su dodici basamenti, sopra i quali sono i dodici nomi dei dodici apostoli dell'Agnello."
+    },
+    {
+      "sigla": "Sal 144",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 144",
+      "tipo": "salmo",
+      "testo": "R. I tuoi santi, Signore, dicono la gloria del tuo regno.\n\nTi lodino, Signore, tutte le tue opere\ne ti benedicano i tuoi fedeli.\nDicano la gloria del tuo regno\ne parlino della tua potenza.\n\nPer far conoscere agli uomini le tue imprese\ne la splendida gloria del tuo regno.\nIl tuo regno è un regno eterno,\nil tuo dominio si estende per tutte le generazioni.\n\nGiusto è il Signore in tutte le sue vie\ne buono in tutte le sue opere.\nIl Signore è vicino a chiunque lo invoca,\na quanti lo invocano con sincerità.",
+      "ritornello": "R. I tuoi santi, Signore, dicono la gloria del tuo regno."
+    },
+    {
+      "sigla": "Gv 1,49",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 1,49",
+      "tipo": "canto_vangelo",
+      "testo": "Rabbì, tu sei il Figlio di Dio, tu sei il re d’Israele!"
+    },
+    {
+      "sigla": "Gv 1,45-51",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 1,45-51",
+      "tipo": "vangelo",
+      "testo": "45 Filippo trovò Natanaele e gli disse: «Abbiamo trovato colui del quale hanno scritto Mosè, nella Legge, e i Profeti: Gesù, il figlio di Giuseppe, di Nàzaret». 46 Natanaele gli disse: «Da Nàzaret può venire qualcosa di buono?». Filippo gli rispose: «Vieni e vedi». 47 Gesù intanto, visto Natanaele che gli veniva incontro, disse di lui: «Ecco davvero un Israelita in cui non c'è falsità». 48 Natanaele gli domandò: «Come mi conosci?». Gli rispose Gesù: «Prima che Filippo ti chiamasse, io ti ho visto quando eri sotto l'albero di fichi». 49 Gli replicò Natanaele: «Rabbì, tu sei il Figlio di Dio, tu sei il re d'Israele!». 50 Gli rispose Gesù: «Perché ti ho detto che ti avevo visto sotto l'albero di fichi, tu credi? Vedrai cose più grandi di queste!». 51 Poi gli disse: «In verità, in verità io vi dico: vedrete il cielo aperto e gli angeli di Dio salire e scendere sopra il Figlio dell'uomo»."
+    }
+  ]
+}

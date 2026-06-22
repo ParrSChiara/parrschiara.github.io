@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-07",
+  "settimana": "Martedì della XIV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Os 8,4-7.11-13",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Os 8,4-7.11-13",
+      "tipo": "prima_lettura",
+      "testo": "4 Hanno creato dei re che io non ho designati; hanno scelto capi a mia insaputa. Con il loro argento e il loro oro si sono fatti idoli ma per loro rovina. 5 Ripudio il tuo vitello, o Samaria! La mia ira divampa contro di loro; fino a quando non si potranno purificare 6 i figli di Israele? Esso è opera di un artigiano, esso non è un dio: sarà ridotto in frantumi il vitello di Samaria. 7 E poiché hanno seminato vento raccoglieranno tempesta. Il loro grano sarà senza spiga, se germoglia non darà farina, e se ne produce, la divoreranno gli stranieri.\n11 Efraim ha moltiplicato gli altari, ma gli altari sono diventati per lui un'occasione di peccato. 12 Ho scritto numerose leggi per lui, ma esse son considerate come una cosa straniera. 13 Essi offrono sacrifici e ne mangiano le carni, ma il Signore non li gradisce; si ricorderà della loro iniquità e punirà i loro peccati: dovranno tornare in Egitto."
+    },
+    {
+      "sigla": "Sal 113B",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 113B",
+      "tipo": "salmo",
+      "testo": "R. Casa d’Israele, confida nel Signore.\n\nIl nostro Dio è nei cieli:\ntutto ciò che vuole, egli lo compie.\nGli idoli delle genti sono argento e oro,\nopera delle mani dell’uomo.\n\nHanno bocca e non parlano,\nhanno occhi e non vedono,\nhanno orecchi e non odono,\nhanno narici e non odorano.\n\nLe loro mani non palpano,\ni loro piedi non camminano.\nDiventi come loro chi li fabbrica\ne chiunque in essi confida!\n\nIsraele, confida nel Signore:\negli è loro aiuto e loro scudo.\nCasa di Aronne, confida nel Signore:\negli è loro aiuto e loro scudo.",
+      "ritornello": "R. Casa d’Israele, confida nel Signore."
+    },
+    {
+      "sigla": "Gv 10,14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,14",
+      "tipo": "canto_vangelo",
+      "testo": "Io sono il buon pastore, dice il Signore, conosco le mie pecore e le mie pecore conoscono me."
+    },
+    {
+      "sigla": "Mt 9,32-38",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 9,32-38",
+      "tipo": "vangelo",
+      "testo": "35 Gesù percorreva tutte le città e i villaggi, insegnando nelle loro sinagoghe, annunciando il vangelo del Regno e guarendo ogni malattia e ogni infermità. 36 Vedendo le folle, ne sentì compassione, perché erano stanche e sfinite come pecore che non hanno pastore . 37 Allora disse ai suoi discepoli: «La messe è abbondante, ma sono pochi gli operai! 38 Pregate dunque il signore della messe, perché mandi operai nella sua messe!»."
+    }
+  ]
+}

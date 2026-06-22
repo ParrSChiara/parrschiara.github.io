@@ -1,0 +1,32 @@
+{
+  "data": "2026-08-19",
+  "settimana": "Mercoledì della XX settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ez 34,1-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ez 34,1-11",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 22",
+      "tipo": "salmo",
+      "testo": "R. Il Signore è il mio pastore: non manco di nulla.\n\nIl Signore è il mio pastore:\nnon manco di nulla.\nSu pascoli erbosi mi fa riposare,\nad acque tranquille mi conduce.\nRinfranca l’anima mia.\n\nMi guida per il giusto cammino\na motivo del suo nome.\nAnche se vado per una valle oscura,\nnon temo alcun male, perché tu sei con me.\nIl tuo bastone e il tuo vincastro\nmi danno sicurezza.\n\nDavanti a me tu prepari una mensa\nsotto gli occhi dei miei nemici.\nUngi di olio il mio capo;\nil mio calice trabocca.\n\nSì, bontà e fedeltà mi saranno compagne\ntutti i giorni della mia vita,\nabiterò ancora nella casa del Signore\nper lunghi giorni.",
+      "ritornello": "R. Il Signore è il mio pastore: non manco di nulla."
+    },
+    {
+      "sigla": "Eb 4,12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Eb 4,12",
+      "tipo": "canto_vangelo",
+      "testo": "La parola di Dio è viva, efficace; discerne i sentimenti e i pensieri del cuore."
+    },
+    {
+      "sigla": "Mt 20,1-16",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 20,1-16",
+      "tipo": "vangelo",
+      "testo": "1 Il regno dei cieli è simile a un padrone di casa che uscì all'alba per prendere a giornata lavoratori per la sua vigna. 2 Si accordò con loro per un denaro al giorno e li mandò nella sua vigna. 3 Uscito poi verso le nove del mattino, ne vide altri che stavano in piazza, disoccupati, 4 e disse loro: «Andate anche voi nella vigna; quello che è giusto ve lo darò». 5 Ed essi andarono. Uscì di nuovo verso mezzogiorno, e verso le tre, e fece altrettanto. 6 Uscito ancora verso le cinque, ne vide altri che se ne stavano lì e disse loro: «Perché ve ne state qui tutto il giorno senza far niente?». 7 Gli risposero: «Perché nessuno ci ha presi a giornata». Ed egli disse loro: «Andate anche voi nella vigna». 8 Quando fu sera, il padrone della vigna disse al suo fattore: «Chiama i lavoratori e da' loro la paga, incominciando dagli ultimi fino ai primi». 9 Venuti quelli delle cinque del pomeriggio, ricevettero ciascuno un denaro. 10 Quando arrivarono i primi, pensarono che avrebbero ricevuto di più. Ma anch'essi ricevettero ciascuno un denaro. 11 Nel ritirarlo, però, mormoravano contro il padrone 12 dicendo: «Questi ultimi hanno lavorato un'ora soltanto e li hai trattati come noi, che abbiamo sopportato il peso della giornata e il caldo». 13 Ma il padrone, rispondendo a uno di loro, disse: «Amico, io non ti faccio torto. Non hai forse concordato con me per un denaro? 14 Prendi il tuo e vattene. Ma io voglio dare anche a quest'ultimo quanto a te: 15 non posso fare delle mie cose quello che voglio? Oppure tu sei invidioso perché io sono buono?». 16 Così gli ultimi saranno primi e i primi, ultimi»."
+    }
+  ]
+}

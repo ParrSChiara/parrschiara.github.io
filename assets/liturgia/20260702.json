@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-02",
+  "settimana": "Giovedì della XIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Am 7,10-17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Am 7,10-17",
+      "tipo": "prima_lettura",
+      "testo": "«Non ero profeta né figlio di profeta; ero un mandriano e coltivavo piante di sicomòro. 15 Il Signore mi prese, mi chiamò mentre seguivo il gregge. Il Signore mi disse: Va', profetizza al mio popolo Israele.\n16 Ora ascolta la parola del Signore: Tu dici: «Non profetizzare contro Israele, non parlare contro la casa d'Isacco». 17 Ebbene, dice il Signore: «Tua moglie diventerà una prostituta nella città, i tuoi figli e le tue figlie cadranno di spada, la tua terra sarà divisa con la corda in più proprietà; tu morirai in terra impura e Israele sarà deportato in esilio lontano dalla sua terra»»."
+    },
+    {
+      "sigla": "Sal 18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 18",
+      "tipo": "salmo",
+      "testo": "R. I giudizi del Signore sono fedeli e giusti.\n\nLa legge del Signore è perfetta,\nrinfranca l’anima;\nla testimonianza del Signore è stabile,\nrende saggio il semplice.\n\nI precetti del Signore sono retti,\nfanno gioire il cuore;\nil comando del Signore è limpido,\nillumina gli occhi.\n\nIl timore del Signore è puro,\nrimane per sempre;\ni giudizi del Signore sono fedeli,\nsono tutti giusti.\n\nSono più preziosi dell’oro,\ndi molto oro fino,\npiù dolci del miele\ne di un favo stillante.",
+      "ritornello": "R. I giudizi del Signore sono fedeli e giusti."
+    },
+    {
+      "sigla": "2Cor 5,19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Cor 5,19",
+      "tipo": "canto_vangelo",
+      "testo": "Dio ha riconciliato a sé il mondo in Cristo, affidando a noi la parola della riconciliazione."
+    },
+    {
+      "sigla": "Mt 9,1-8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 9,1-8",
+      "tipo": "vangelo",
+      "testo": "1 Salito su una barca, passò all'altra riva e giunse nella sua città. 2 Ed ecco, gli portavano un paralitico disteso su un letto. Gesù, vedendo la loro fede, disse al paralitico: «Coraggio, figlio, ti sono perdonati i peccati». 3 Allora alcuni scribi dissero fra sé: «Costui bestemmia». 4 Ma Gesù, conoscendo i loro pensieri, disse: «Perché pensate cose malvagie nel vostro cuore? 5 Che cosa infatti è più facile: dire «Ti sono perdonati i peccati», oppure dire «Àlzati e cammina»? 6 Ma, perché sappiate che il Figlio dell'uomo ha il potere sulla terra di perdonare i peccati: Àlzati - disse allora al paralitico -, prendi il tuo letto e va' a casa tua». 7 Ed egli si alzò e andò a casa sua. 8 Le folle, vedendo questo, furono prese da timore e resero gloria a Dio che aveva dato un tale potere agli uomini."
+    }
+  ]
+}

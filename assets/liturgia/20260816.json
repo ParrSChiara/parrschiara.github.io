@@ -1,0 +1,39 @@
+{
+  "data": "2026-08-16",
+  "settimana": "XX DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Is 56,1.6-7",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 56,1.6-7",
+      "tipo": "prima_lettura",
+      "testo": "1 Così dice il Signore: «Osservate il diritto e praticate la giustizia, perché la mia salvezza sta per venire, la mia giustizia sta per rivelarsi». 6 Gli stranieri, che hanno aderito al Signore per servirlo e per amare il nome del Signore, e per essere suoi servi, quanti si guardano dal profanare il sabato e restano fermi nella mia alleanza, 7 li condurrò sul mio monte santo e li colmerò di gioia nella mia casa di preghiera. I loro olocausti e i loro sacrifici saranno graditi sul mio altare, perché la mia casa si chiamerà casa di preghiera per tutti i popoli»."
+    },
+    {
+      "sigla": "Sal 66",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 66",
+      "tipo": "salmo",
+      "testo": "R. Popoli tutti, lodate il Signore.\n\nDio abbia pietà di noi e ci benedica,\nsu di noi faccia splendere il suo volto;\nperché si conosca sulla terra la tua via,\nla tua salvezza fra tutte le genti.\n\nGioiscano le nazioni e si rallegrino,\nperché tu giudichi i popoli con rettitudine,\ngoverni le nazioni sulla terra.\n\nTi lodino i popoli, o Dio,\nti lodino i popoli tutti.\nCi benedica Dio e lo temano\ntutti i confini della terra.",
+      "ritornello": "R. Popoli tutti, lodate il Signore."
+    },
+    {
+      "sigla": "Rm 11,13-15.29-32",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 11,13-15.29-32",
+      "tipo": "seconda_lettura",
+      "testo": "29 perché i doni e la chiamata di Dio sono irrevocabili! 30 Come voi un tempo siete stati disobbedienti a Dio e ora avete ottenuto misericordia per la loro disobbedienza, 31 così anch'essi ora sono diventati disobbedienti in vista della misericordia usata verso di voi, perché anch'essi ottengano misericordia. 32 Dio infatti ha rinchiuso tutti nella disobbedienza, per usare a tutti misericordia!"
+    },
+    {
+      "sigla": "Mt 4,23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 4,23",
+      "tipo": "canto_vangelo",
+      "testo": "Gesù annunciava il vangelo del Regno e guariva ogni sorta di infermità nel popolo."
+    },
+    {
+      "sigla": "Mt 15,21-28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 15,21-28",
+      "tipo": "vangelo",
+      "testo": "21 Partito di là, Gesù si ritirò verso la zona di Tiro e di Sidone. 22 Ed ecco, una donna cananea, che veniva da quella regione, si mise a gridare: «Pietà di me, Signore, figlio di Davide! Mia figlia è molto tormentata da un demonio». 23 Ma egli non le rivolse neppure una parola. Allora i suoi discepoli gli si avvicinarono e lo implorarono: «Esaudiscila, perché ci viene dietro gridando!». 24 Egli rispose: «Non sono stato mandato se non alle pecore perdute della casa d'Israele». 25 Ma quella si avvicinò e si prostrò dinanzi a lui, dicendo: «Signore, aiutami!». 26 Ed egli rispose: «Non è bene prendere il pane dei figli e gettarlo ai cagnolini». 27 «È vero, Signore - disse la donna -, eppure i cagnolini mangiano le briciole che cadono dalla tavola dei loro padroni». 28 Allora Gesù le replicò: «Donna, grande è la tua fede! Avvenga per te come desideri». E da quell'istante sua figlia fu guarita."
+    }
+  ]
+}

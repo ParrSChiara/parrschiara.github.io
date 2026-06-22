@@ -1,0 +1,39 @@
+{
+  "data": "2026-08-30",
+  "settimana": "XXII DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ger 20,7-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ger 20,7-9",
+      "tipo": "prima_lettura",
+      "testo": "7 Mi hai sedotto, Signore, e io mi sono lasciato sedurre; mi hai fatto violenza e hai prevalso. Sono diventato oggetto di derisione ogni giorno; ognuno si beffa di me. 8 Quando parlo, devo gridare, devo urlare: «Violenza! Oppressione!». Così la parola del Signore è diventata per me causa di vergogna e di scherno tutto il giorno. 9 Mi dicevo: «Non penserò più a lui, non parlerò più nel suo nome!». Ma nel mio cuore c'era come un fuoco ardente, trattenuto nelle mie ossa; mi sforzavo di contenerlo, ma non potevo."
+    },
+    {
+      "sigla": "Sal 62",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 62",
+      "tipo": "salmo",
+      "testo": "R. Ha sete di te, Signore, l’anima mia.\n\nO Dio, tu sei il mio Dio,\ndall’aurora io ti cerco,\nha sete di te l’anima mia,\ndesidera te la mia carne\nin terra arida, assetata, senz’acqua.\n\nCosì nel santuario ti ho contemplato,\nguardando la tua potenza e la tua gloria.\nPoiché il tuo amore vale più della vita,\nle mie labbra canteranno la tua lode.\n\nCosì ti benedirò per tutta la vita:\nnel tuo nome alzerò le mie mani.\nCome saziato dai cibi migliori,\ncon labbra gioiose ti loderà la mia bocca.\n\nQuando penso a te che sei stato il mio aiuto,\nesulto di gioia all’ombra delle tue ali.\nA te si stringe l’anima mia:\nla tua destra mi sostiene.",
+      "ritornello": "R. Ha sete di te, Signore, l’anima mia."
+    },
+    {
+      "sigla": "Rm 12,1-2",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 12,1-2",
+      "tipo": "seconda_lettura",
+      "testo": "1 Vi esorto dunque, fratelli, per la misericordia di Dio, a offrire i vostri corpi come sacrificio vivente, santo e gradito a Dio; è questo il vostro culto spirituale. 2 Non conformatevi a questo mondo, ma lasciatevi trasformare rinnovando il vostro modo di pensare, per poter discernere la volontà di Dio, ciò che è buono, a lui gradito e perfetto."
+    },
+    {
+      "sigla": "Ef 1,17-18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 1,17-18",
+      "tipo": "canto_vangelo",
+      "testo": "Il Padre del Signore nostro Gesù Cristo illumini gli occhi del nostro cuore per farci comprendere a quale speranza ci ha chiamati."
+    },
+    {
+      "sigla": "Mt 16,21-27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 16,21-27",
+      "tipo": "vangelo",
+      "testo": "24 Allora Gesù disse ai suoi discepoli: «Se qualcuno vuole venire dietro a me, rinneghi se stesso, prenda la sua croce e mi segua. 25 Perché chi vuole salvare la propria vita, la perderà; ma chi perderà la propria vita per causa mia, la troverà. 26 Infatti quale vantaggio avrà un uomo se guadagnerà il mondo intero, ma perderà la propria vita? O che cosa un uomo potrà dare in cambio della propria vita? 27 Perché il Figlio dell'uomo sta per venire nella gloria del Padre suo, con i suoi angeli, e allora renderà a ciascuno secondo le sue azioni ."
+    }
+  ]
+}

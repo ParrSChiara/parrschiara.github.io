@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-15",
+  "settimana": "San Bonaventura",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Is 10,5-7.13-16",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 10,5-7.13-16",
+      "tipo": "prima_lettura",
+      "testo": "5 Oh! Assiria, verga del mio furore, bastone del mio sdegno! 6 Contro una nazione empia io la mando e la dirigo contro un popolo con cui sono in collera, perché lo saccheggi, lo depredi e lo calpesti come fango di strada. 7 Essa però non pensa così e così non giudica il suo cuore, ma vuole distruggere e annientare non poche nazioni. 13 Poiché ha detto: «Con la forza della mia mano ho agito e con la mia sapienza, perché sono intelligente; ho rimosso i confini dei popoli e ho saccheggiato i loro tesori, ho abbattuto come un eroe coloro che sedevano sul trono. 14 La mia mano ha scovato, come in un nido, la ricchezza dei popoli. Come si raccolgono le uova abbandonate, così ho raccolto tutta la terra. Non vi fu battito d'ala, e neppure becco aperto o pigolìo». 15 Può forse vantarsi la scure contro chi se ne serve per tagliare o la sega insuperbirsi contro chi la maneggia? Come se un bastone volesse brandire chi lo impugna e una verga sollevare ciò che non è di legno! 16 Perciò il Signore, Dio degli eserciti, manderà una peste contro le sue più valide milizie; sotto ciò che è sua gloria arderà un incendio come incendio di fuoco;"
+    },
+    {
+      "sigla": "Sal 93",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 93",
+      "tipo": "salmo",
+      "testo": "R. Il Signore non respinge il suo popolo.\n\nCalpestano il tuo popolo, Signore,\nopprimono la tua eredità.\nUccidono la vedova e il forestiero,\nmassacrano gli orfani.\n\nDicono: «Il Signore non vede,\nil Dio di Giacobbe non intende».\nIntendete, ignoranti del popolo:\nstolti, quando diventerete saggi?\n\nChi ha formato l’orecchio, forse non sente?\nChi ha plasmato l’occhio, forse non vede?\nColui che castiga le genti, forse non punisce,\nlui che insegna all’uomo il sapere?\n\nPoiché il Signore non respinge il suo popolo\ne non abbandona la sua eredità,\nil giudizio ritornerà a essere giusto\ne lo seguiranno tutti i retti di cuore.",
+      "ritornello": "R. Il Signore non respinge il suo popolo."
+    },
+    {
+      "sigla": "Mt 11,25",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,25",
+      "tipo": "canto_vangelo",
+      "testo": "Ti rendo lode, Padre, Signore del cielo e della terra, perché ai piccoli hai rivelato i misteri del Regno."
+    },
+    {
+      "sigla": "Mt 11,25-27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,25-27",
+      "tipo": "vangelo",
+      "testo": "25 In quel tempo Gesù disse: «Ti rendo lode, Padre, Signore del cielo e della terra, perché hai nascosto queste cose ai sapienti e ai dotti e le hai rivelate ai piccoli. 26 Sì, o Padre, perché così hai deciso nella tua benevolenza. 27 Tutto è stato dato a me dal Padre mio; nessuno conosce il Figlio se non il Padre, e nessuno conosce il Padre se non il Figlio e colui al quale il Figlio vorrà rivelarlo."
+    }
+  ]
+}

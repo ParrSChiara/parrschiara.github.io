@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-03",
+  "settimana": "SAN TOMMASO",
+  "celebrazione": "FESTA",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "Ef 2,19-22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 2,19-22",
+      "tipo": "prima_lettura",
+      "testo": "19 Così dunque voi non siete più stranieri né ospiti, ma siete concittadini dei santi e familiari di Dio, 20 edificati sopra il fondamento degli apostoli e dei profeti, avendo come pietra d'angolo lo stesso Cristo Gesù. 21 In lui tutta la costruzione cresce ben ordinata per essere tempio santo nel Signore; 22 in lui anche voi venite edificati insieme per diventare abitazione di Dio per mezzo dello Spirito."
+    },
+    {
+      "sigla": "Sal 116",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 116",
+      "tipo": "salmo",
+      "testo": "R. Andate in tutto il mondo e proclamate il Vangelo.\n\nGenti tutte, lodate il Signore,\npopoli tutti, cantate la sua lode.\n\nPerché forte è il suo amore per noi\ne la fedeltà del Signore dura per sempre.",
+      "ritornello": "R. Andate in tutto il mondo e proclamate il Vangelo."
+    },
+    {
+      "sigla": "Gv 20,29",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 20,29",
+      "tipo": "canto_vangelo",
+      "testo": "Perché mi hai veduto, Tommaso, tu hai creduto; beati quelli che non hanno visto e hanno creduto!"
+    },
+    {
+      "sigla": "Gv 20,24-29",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 20,24-29",
+      "tipo": "vangelo",
+      "testo": "24 Tommaso, uno dei Dodici, chiamato Dìdimo, non era con loro quando venne Gesù. 25 Gli dicevano gli altri discepoli: «Abbiamo visto il Signore!». Ma egli disse loro: «Se non vedo nelle sue mani il segno dei chiodi e non metto il mio dito nel segno dei chiodi e non metto la mia mano nel suo fianco, io non credo». 26 Otto giorni dopo i discepoli erano di nuovo in casa e c'era con loro anche Tommaso. Venne Gesù, a porte chiuse, stette in mezzo e disse: «Pace a voi!». 27 Poi disse a Tommaso: «Metti qui il tuo dito e guarda le mie mani; tendi la tua mano e mettila nel mio fianco; e non essere incredulo, ma credente!». 28 Gli rispose Tommaso: «Mio Signore e mio Dio!». 29 Gesù gli disse: «Perché mi hai veduto, tu hai creduto; beati quelli che non hanno visto e hanno creduto!»."
+    }
+  ]
+}

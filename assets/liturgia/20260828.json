@@ -1,0 +1,33 @@
+{
+  "data": "2026-08-28",
+  "settimana": "Sant'Agostino",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "1Cor 1,17-25",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 1,17-25",
+      "tipo": "prima_lettura",
+      "testo": "Distruggerò la sapienza dei sapienti e annullerò l'intelligenza degli intelligenti ."
+    },
+    {
+      "sigla": "Sal 32",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 32",
+      "tipo": "salmo",
+      "testo": "R. Dell’amore del Signore è piena la terra.\n\nEsultate, o giusti, nel Signore;\nper gli uomini retti è bella la lode.\nLodate il Signore con la cetra,\ncon l’arpa a dieci corde a lui cantate.\n\nRetta è la parola del Signore\ne fedele ogni sua opera.\nEgli ama la giustizia e il diritto;\ndell’amore del Signore è piena la terra.\n\nIl Signore annulla i disegni delle nazioni,\nrende vani i progetti dei popoli.\nMa il disegno del Signore sussiste per sempre,\ni progetti del suo cuore per tutte le generazioni.",
+      "ritornello": "R. Dell’amore del Signore è piena la terra."
+    },
+    {
+      "sigla": "Lc 21,36",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 21,36",
+      "tipo": "canto_vangelo",
+      "testo": "Vegliate in ogni momento pregando, perché abbiate la forza di comparire davanti al Figlio dell’uomo."
+    },
+    {
+      "sigla": "Mt 25,1-13",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 25,1-13",
+      "tipo": "vangelo",
+      "testo": "1 Allora il regno dei cieli sarà simile a dieci vergini che presero le loro lampade e uscirono incontro allo sposo. 2 Cinque di esse erano stolte e cinque sagge; 3 le stolte presero le loro lampade, ma non presero con sé l'olio; 4 le sagge invece, insieme alle loro lampade, presero anche l'olio in piccoli vasi. 5 Poiché lo sposo tardava, si assopirono tutte e si addormentarono. 6 A mezzanotte si alzò un grido: «Ecco lo sposo! Andategli incontro!». 7 Allora tutte quelle vergini si destarono e prepararono le loro lampade. 8 Le stolte dissero alle sagge: «Dateci un po' del vostro olio, perché le nostre lampade si spengono». 9 Le sagge risposero: «No, perché non venga a mancare a noi e a voi; andate piuttosto dai venditori e compratevene». 10 Ora, mentre quelle andavano a comprare l'olio, arrivò lo sposo e le vergini che erano pronte entrarono con lui alle nozze, e la porta fu chiusa. 11 Più tardi arrivarono anche le altre vergini e incominciarono a dire: «Signore, signore, aprici!». 12 Ma egli rispose: «In verità io vi dico: non vi conosco». 13 Vegliate dunque, perché non sapete né il giorno né l'ora."
+    }
+  ]
+}

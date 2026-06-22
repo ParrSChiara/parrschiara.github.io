@@ -1,0 +1,39 @@
+{
+  "data": "2026-08-23",
+  "settimana": "XXI DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Is 22,19-23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 22,19-23",
+      "tipo": "prima_lettura",
+      "testo": "19 Il Signore ti toglierà l'incarico e ti farà precipitare dalla tua alta posizione. 20 Quel giorno il Signore manderà il suo servo Eliakim, figlio di Chelkia; 21 gli farà indossare la tua veste, gli metterà ai fianchi la tua cintura, darà a lui il tuo potere. Egli sarà come un padre per il popolo di Gerusalemme e di Giuda. 22 Gli darà piena autorità sul palazzo di Davide. Gli consegnerà le chiavi: se aprirà, nessuno potrà chiudere; se chiuderà, nessuno potrà aprire. 23 Lo metterà al suo posto come un chiodo piantato saldamente, sarà motivo di gloria per tutta la sua famiglia."
+    },
+    {
+      "sigla": "Sal 137",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 137",
+      "tipo": "salmo",
+      "testo": "R. Signore, il tuo amore è per sempre.\n\nTi rendo grazie, Signore, con tutto il cuore:\nhai ascoltato le parole della mia bocca.\nNon agli dèi, ma a te voglio cantare,\nmi prostro verso il tuo tempio santo.\n\nRendo grazie al tuo nome per il tuo amore e la tua fedeltà:\nhai reso la tua promessa più grande del tuo nome.\nNel giorno in cui ti ho invocato, mi hai risposto,\nhai accresciuto in me la forza.\n\nPerché eccelso è il Signore, ma guarda verso l’umile;\nil superbo invece lo riconosce da lontano.\nSignore, il tuo amore è per sempre:\nnon abbandonare l’opera delle tue mani.",
+      "ritornello": "R. Signore, il tuo amore è per sempre."
+    },
+    {
+      "sigla": "Rm 11,33-36",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 11,33-36",
+      "tipo": "seconda_lettura",
+      "testo": "33 O profondità della ricchezza, della sapienza e della conoscenza di Dio! Quanto insondabili sono i suoi giudizi e inaccessibili le sue vie! 34 Infatti, chi mai ha conosciuto il pensiero del Signore? O chi mai è stato suo consigliere? 35 O chi gli ha dato qualcosa per primo tanto da riceverne il contraccambio? 36 Poiché da lui, per mezzo di lui e per lui sono tutte le cose. A lui la gloria nei secoli. Amen."
+    },
+    {
+      "sigla": "Mt 16,18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 16,18",
+      "tipo": "canto_vangelo",
+      "testo": "Tu sei Pietro e su questa pietra edificherò la mia Chiesa e le potenze degli inferi non prevarranno su di essa."
+    },
+    {
+      "sigla": "Mt 16,13-20",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 16,13-20",
+      "tipo": "vangelo",
+      "testo": "13 Gesù, giunto nella regione di Cesarèa di Filippo, domandò ai suoi discepoli: «La gente, chi dice che sia il Figlio dell'uomo?». 14 Risposero: «Alcuni dicono Giovanni il Battista, altri Elia, altri Geremia o qualcuno dei profeti». 15 Disse loro: «Ma voi, chi dite che io sia?». 16 Rispose Simon Pietro: «Tu sei il Cristo, il Figlio del Dio vivente». 17 E Gesù gli disse: «Beato sei tu, Simone, figlio di Giona, perché né carne né sangue te lo hanno rivelato, ma il Padre mio che è nei cieli. 18 E io a te dico: tu sei Pietro e su questa pietra edificherò la mia Chiesa e le potenze degli inferi non prevarranno su di essa. 19 A te darò le chiavi del regno dei cieli: tutto ciò che legherai sulla terra sarà legato nei cieli, e tutto ciò che scioglierai sulla terra sarà sciolto nei cieli». 20 Allora ordinò ai discepoli di non dire ad alcuno che egli era il Cristo."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-08-29",
+  "settimana": "Martirio di San Giovanni Battista",
+  "celebrazione": "Memoria",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "Ger 1,17-19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ger 1,17-19",
+      "tipo": "prima_lettura",
+      "testo": "17 Tu, dunque, stringi la veste ai fianchi, àlzati e di' loro tutto ciò che ti ordinerò; non spaventarti di fronte a loro, altrimenti sarò io a farti paura davanti a loro. 18 Ed ecco, oggi io faccio di te come una città fortificata, una colonna di ferro e un muro di bronzo contro tutto il paese, contro i re di Giuda e i suoi capi, contro i suoi sacerdoti e il popolo del paese. 19 Ti faranno guerra, ma non ti vinceranno, perché io sono con te per salvarti». Oracolo del Signore."
+    },
+    {
+      "sigla": "Sal 70",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 70",
+      "tipo": "salmo",
+      "testo": "R. La mia bocca, Signore, racconterà la tua salvezza.\n\nIn te, Signore, mi sono rifugiato,\nmai sarò deluso.\nPer la tua giustizia, liberami e difendimi,\ntendi a me il tuo orecchio e salvami.\n\nSii tu la mia roccia,\nuna dimora sempre accessibile;\nhai deciso di darmi salvezza:\ndavvero mia rupe e mia fortezza tu sei!\nMio Dio, liberami dalle mani del malvagio.\n\nSei tu, mio Signore, la mia speranza,\nla mia fiducia, Signore, fin dalla mia giovinezza.\nSu di te mi appoggiai fin dal grembo materno,\ndal seno di mia madre sei tu il mio sostegno.\n\nLa mia bocca racconterà la tua giustizia,\nogni giorno la tua salvezza.\nFin dalla giovinezza, o Dio, mi hai istruito\ne oggi ancora proclamo le tue meraviglie.",
+      "ritornello": "R. La mia bocca, Signore, racconterà la tua salvezza."
+    },
+    {
+      "sigla": "Mt 5,10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 5,10",
+      "tipo": "canto_vangelo",
+      "testo": "Beati i perseguitati per la giustizia, perché di essi è il regno dei cieli."
+    },
+    {
+      "sigla": "Mc 6,17-29",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 6,17-29",
+      "tipo": "vangelo",
+      "testo": "17 Proprio Erode, infatti, aveva mandato ad arrestare Giovanni e lo aveva messo in prigione a causa di Erodìade, moglie di suo fratello Filippo, perché l'aveva sposata. 18 Giovanni infatti diceva a Erode: «Non ti è lecito tenere con te la moglie di tuo fratello». 19 Per questo Erodìade lo odiava e voleva farlo uccidere, ma non poteva, 20 perché Erode temeva Giovanni, sapendolo uomo giusto e santo, e vigilava su di lui; nell'ascoltarlo restava molto perplesso, tuttavia lo ascoltava volentieri. 21 Venne però il giorno propizio, quando Erode, per il suo compleanno, fece un banchetto per i più alti funzionari della sua corte, gli ufficiali dell'esercito e i notabili della Galilea. 22 Entrata la figlia della stessa Erodìade, danzò e piacque a Erode e ai commensali. Allora il re disse alla fanciulla: «Chiedimi quello che vuoi e io te lo darò». 23 E le giurò più volte: «Qualsiasi cosa mi chiederai, te la darò, fosse anche la metà del mio regno». 24 Ella uscì e disse alla madre: «Che cosa devo chiedere?». Quella rispose: «La testa di Giovanni il Battista». 25 E subito, entrata di corsa dal re, fece la richiesta, dicendo: «Voglio che tu mi dia adesso, su un vassoio, la testa di Giovanni il Battista». 26 Il re, fattosi molto triste, a motivo del giuramento e dei commensali non volle opporle un rifiuto. 27 E subito il re mandò una guardia e ordinò che gli fosse portata la testa di Giovanni. La guardia andò, lo decapitò in prigione 28 e ne portò la testa su un vassoio, la diede alla fanciulla e la fanciulla la diede a sua madre. 29 I discepoli di Giovanni, saputo il fatto, vennero, ne presero il cadavere e lo posero in un sepolcro."
+    }
+  ]
+}

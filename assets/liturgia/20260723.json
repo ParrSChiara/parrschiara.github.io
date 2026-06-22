@@ -1,0 +1,32 @@
+{
+  "data": "2026-07-23",
+  "settimana": "SANTA BRIGIDA DI SVEZIA",
+  "celebrazione": "FESTA",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Gal 2,19-20",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gal 2,19-20",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 33",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 33",
+      "tipo": "salmo",
+      "testo": "R. Benedirò il Signore in ogni tempo.\n\nBenedirò il Signore in ogni tempo,\nsulla mia bocca sempre la sua lode.\nIo mi glorio nel Signore:\ni poveri ascoltino e si rallegrino.\n\nMagnificate con me il Signore,\nesaltiamo insieme il suo nome.\nHo cercato il Signore: mi ha risposto\ne da ogni mia paura mi ha liberato.\n\nGuardate a lui e sarete raggianti,\ni vostri volti non dovranno arrossire.\nQuesto povero grida e il Signore lo ascolta,\nlo salva da tutte le sue angosce.\n\nL’angelo del Signore si accampa\nattorno a quelli che lo temono, e li libera.\nGustate e vedete com’è buono il Signore;\nbeato l’uomo che in lui si rifugia.\n\nTemete il Signore, suoi santi:\nnulla manca a coloro che lo temono.\nI leoni sono miseri e affamati,\nma a chi cerca il Signore non manca alcun bene.",
+      "ritornello": "R. Benedirò il Signore in ogni tempo."
+    },
+    {
+      "sigla": "Gv 15,9.5",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,9.5",
+      "tipo": "canto_vangelo",
+      "testo": "Rimanete nel mio amore, dice il Signore, chi rimane in me, e io in lui, porta molto frutto."
+    },
+    {
+      "sigla": "Gv 15,1-8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,1-8",
+      "tipo": "vangelo",
+      "testo": "1 «Io sono la vite vera e il Padre mio è l'agricoltore. 2 Ogni tralcio che in me non porta frutto, lo taglia, e ogni tralcio che porta frutto, lo pota perché porti più frutto. 3 Voi siete già puri, a causa della parola che vi ho annunciato. 4 Rimanete in me e io in voi. Come il tralcio non può portare frutto da se stesso se non rimane nella vite, così neanche voi se non rimanete in me. 5 Io sono la vite, voi i tralci. Chi rimane in me, e io in lui, porta molto frutto, perché senza di me non potete far nulla. 6 Chi non rimane in me viene gettato via come il tralcio e secca; poi lo raccolgono, lo gettano nel fuoco e lo bruciano. 7 Se rimanete in me e le mie parole rimangono in voi, chiedete quello che volete e vi sarà fatto. 8 In questo è glorificato il Padre mio: che portiate molto frutto e diventiate miei discepoli."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-16",
+  "settimana": "Giovedì della XV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Is 26,7-9.12.16-19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 26,7-9.12.16-19",
+      "tipo": "prima_lettura",
+      "testo": "19 Popolo mio, tutti i tuoi morti vivranno di nuovo! I loro corpi ritorneranno a vivere. Quelli che dormono nelle tombe si sveglieranno e canteranno di gioia. Infatti tu, o Signore, al mattino mandi la rugiada che vivifica la terra; essa darà vita a quelli che sono morti da tempo."
+    },
+    {
+      "sigla": "Sal 101",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 101",
+      "tipo": "salmo",
+      "testo": "R. Il Signore dal cielo ha guardato la terra.\n\nOppure:\nIl popolo che hai creato, benedice il tuo nome.\n\nTu, Signore, rimani in eterno,\nil tuo ricordo di generazione in generazione.\nTi alzerai e avrai compassione di Sion:\nè tempo di averne pietà, l’ora è venuta!\nPoiché ai tuoi servi sono care le sue pietre\ne li muove a pietà la sua polvere.\n\nLe genti temeranno il nome del Signore\ne tutti i re della terra la tua gloria,\nquando il Signore avrà ricostruito Sion\ne sarà apparso in tutto il suo splendore.\nEgli si volge alla preghiera dei derelitti,\nnon disprezza la loro preghiera.\n\nQuesto si scriva per la generazione futura\ne un popolo, da lui creato, darà lode al Signore:\n«Il Signore si è affacciato dall’alto del suo santuario,\ndal cielo ha guardato la terra,\nper ascoltare il sospiro del prigioniero,\nper liberare i condannati a morte».",
+      "ritornello": "R. Il Signore dal cielo ha guardato la terra."
+    },
+    {
+      "sigla": "Mt 11,28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,28",
+      "tipo": "canto_vangelo",
+      "testo": "Venite a me, voi tutti che siete stanchi e oppressi, e io vi darò ristoro, dice il Signore."
+    },
+    {
+      "sigla": "Mt 11,28-30",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,28-30",
+      "tipo": "vangelo",
+      "testo": "28 Venite a me, voi tutti che siete stanchi e oppressi, e io vi darò ristoro. 29 Prendete il mio giogo sopra di voi e imparate da me, che sono mite e umile di cuore, e troverete ristoro per la vostra vita . 30 Il mio giogo infatti è dolce e il mio peso leggero»."
+    }
+  ]
+}

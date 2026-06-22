@@ -1,0 +1,32 @@
+{
+  "data": "2026-07-08",
+  "settimana": "Mercoledì della XIV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Os 10,1-3.7-8.12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Os 10,1-3.7-8.12",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 104",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 104",
+      "tipo": "salmo",
+      "testo": "R. Ricercate sempre il volto del Signore.\n\nCantate al Signore, a lui inneggiate,\nmeditate tutte le sue meraviglie.\nGloriatevi del suo santo nome:\ngioisca il cuore di chi cerca il Signore.\n\nCercate il Signore e la sua potenza,\nricercate sempre il suo volto.\nRicordate le meraviglie che ha compiuto,\ni suoi prodigi e i giudizi della sua bocca.\n\nVoi, stirpe di Abramo, suo servo,\nfigli di Giacobbe, suo eletto.\nÈ lui il Signore, nostro Dio:\nsu tutta la terra i suoi giudizi.",
+      "ritornello": "R. Ricercate sempre il volto del Signore."
+    },
+    {
+      "sigla": "Mc 1,15",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 1,15",
+      "tipo": "canto_vangelo",
+      "testo": "Il regno di Dio è vicino; convertitevi e credete nel Vangelo."
+    },
+    {
+      "sigla": "Mt 10,1-7",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 10,1-7",
+      "tipo": "vangelo",
+      "testo": "1 Chiamati a sé i suoi dodici discepoli, diede loro potere sugli spiriti impuri per scacciarli e guarire ogni malattia e ogni infermità. 2 I nomi dei dodici apostoli sono: primo, Simone, chiamato Pietro, e Andrea suo fratello; Giacomo, figlio di Zebedeo, e Giovanni suo fratello; 3 Filippo e Bartolomeo; Tommaso e Matteo il pubblicano; Giacomo, figlio di Alfeo, e Taddeo; 4 Simone il Cananeo e Giuda l'Iscariota, colui che poi lo tradì. 5 Questi sono i Dodici che Gesù inviò, ordinando loro: «Non andate fra i pagani e non entrate nelle città dei Samaritani; 6 rivolgetevi piuttosto alle pecore perdute della casa d'Israele. 7 Strada facendo, predicate, dicendo che il regno dei cieli è vicino."
+    }
+  ]
+}

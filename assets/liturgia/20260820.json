@@ -1,0 +1,32 @@
+{
+  "data": "2026-08-20",
+  "settimana": "San Bernardo",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Ez 36,23-28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ez 36,23-28",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 50",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 50",
+      "tipo": "salmo",
+      "testo": "R. Vi aspergerò con acqua pura e sarete purificati.\n\nCrea in me, o Dio, un cuore puro,\nrinnova in me uno spirito saldo.\nNon scacciarmi dalla tua presenza\ne non privarmi del tuo santo spirito.\n\nRendimi la gioia della tua salvezza,\nsostienimi con uno spirito generoso.\nInsegnerò ai ribelli le tue vie\ne i peccatori a te ritorneranno.\n\nTu non gradisci il sacrificio;\nse offro olocausti, tu non li accetti.\nUno spirito contrito è sacrificio a Dio;\nun cuore contrito e affranto tu, o Dio, non disprezzi.",
+      "ritornello": "R. Vi aspergerò con acqua pura e sarete purificati."
+    },
+    {
+      "sigla": "Sal 94,8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 94,8",
+      "tipo": "canto_vangelo",
+      "testo": "Oggi non indurite il vostro cuore, ma ascoltate la voce del Signore."
+    },
+    {
+      "sigla": "Mt 22,1-14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 22,1-14",
+      "tipo": "vangelo",
+      "testo": "1 Gesù riprese a parlare loro con parabole e disse: 2 «Il regno dei cieli è simile a un re, che fece una festa di nozze per suo figlio. 3 Egli mandò i suoi servi a chiamare gli invitati alle nozze, ma questi non volevano venire. 4 Mandò di nuovo altri servi con quest'ordine: «Dite agli invitati: Ecco, ho preparato il mio pranzo; i miei buoi e gli animali ingrassati sono già uccisi e tutto è pronto; venite alle nozze!». 5 Ma quelli non se ne curarono e andarono chi al proprio campo, chi ai propri affari; 6 altri poi presero i suoi servi, li insultarono e li uccisero. 7 Allora il re si indignò: mandò le sue truppe, fece uccidere quegli assassini e diede alle fiamme la loro città. 8 Poi disse ai suoi servi: «La festa di nozze è pronta, ma gli invitati non erano degni; 9 andate ora ai crocicchi delle strade e tutti quelli che troverete, chiamateli alle nozze». 10 Usciti per le strade, quei servi radunarono tutti quelli che trovarono, cattivi e buoni, e la sala delle nozze si riempì di commensali. 11 Il re entrò per vedere i commensali e lì scorse un uomo che non indossava l'abito nuziale. 12 Gli disse: «Amico, come mai sei entrato qui senza l'abito nuziale?». Quello ammutolì. 13 Allora il re ordinò ai servi: «Legatelo mani e piedi e gettatelo fuori nelle tenebre; là sarà pianto e stridore di denti». 14 Perché molti sono chiamati, ma pochi eletti»."
+    }
+  ]
+}

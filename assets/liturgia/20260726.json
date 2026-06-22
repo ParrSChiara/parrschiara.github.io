@@ -1,0 +1,38 @@
+{
+  "data": "2026-07-26",
+  "settimana": "XVII DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "1Re 3,5.7-12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Re 3,5.7-12",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 118",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 118",
+      "tipo": "salmo",
+      "testo": "R. Quanto amo la tua legge, Signore!\n\nLa mia parte è il Signore:\nho deciso di osservare le tue parole.\nBene per me è la legge della tua bocca,\npiù di mille pezzi d’oro e d’argento.\n\nIl tuo amore sia la mia consolazione,\nsecondo la promessa fatta al tuo servo.\nVenga a me la tua misericordia e io avrò vita,\nperché la tua legge è la mia delizia.\n\nPerciò amo i tuoi comandi,\npiù dell’oro, dell’oro più fino.\nPer questo io considero retti tutti i tuoi precetti\ne odio ogni falso sentiero.\n\nMeravigliosi sono i tuoi insegnamenti:\nper questo li custodisco.\nLa rivelazione delle tue parole illumina,\ndona intelligenza ai semplici.",
+      "ritornello": "R. Quanto amo la tua legge, Signore!"
+    },
+    {
+      "sigla": "Rm 8,28-30",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 8,28-30",
+      "tipo": "seconda_lettura",
+      "testo": "28 Del resto, noi sappiamo che tutto concorre al bene di coloro che amano Dio, che sono stati chiamati secondo il suo disegno. 29 Poiché quelli che egli da sempre ha conosciuto li ha anche predestinati ad essere conformi all'immagine del Figlio suo, perché egli sia il primogenito tra molti fratelli; 30 quelli poi che ha predestinati li ha anche chiamati; quelli che ha chiamati li ha anche giustificati; quelli che ha giustificati li ha anche glorificati."
+    },
+    {
+      "sigla": "Mt 11,25",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,25",
+      "tipo": "canto_vangelo",
+      "testo": "Ti rendo lode, Padre, Signore del cielo e della terra, perché ai piccoli hai rivelato i misteri del Regno."
+    },
+    {
+      "sigla": "Mt 13,44-52",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 13,44-52",
+      "tipo": "vangelo",
+      "testo": "44 Il regno dei cieli è simile a un tesoro nascosto in un campo; un uomo lo trova e lo nasconde di nuovo, poi va, pieno di gioia, e vende tutti i suoi averi e compra quel campo.\n47 Il regno dei cieli è simile anche a una rete gettata nel mare, che raccoglie ogni genere di pesci. 48 Quando è piena, i pescatori la tirano a riva e poi, sedutisi, raccolgono i pesci buoni nei canestri e buttano via i cattivi. 49 Così sarà alla fine del mondo. Verranno gli angeli e separeranno i cattivi dai buoni 50 e li getteranno nella fornace ardente, dove sarà pianto e stridore di denti.\n51 Avete capito tutte queste cose?». Gli risposero: «Sì». 52 Ed egli disse loro: «Per questo ogni scriba divenuto discepolo del regno dei cieli è simile a un padrone di casa che estrae dal suo tesoro cose nuove e cose antiche»."
+    }
+  ]
+}

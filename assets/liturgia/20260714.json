@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-14",
+  "settimana": "Martedì della XV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Is 7,1-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 7,1-9",
+      "tipo": "prima_lettura",
+      "testo": "1 Nei giorni di Acaz, figlio di Iotam, figlio di Ozia, re di Giuda, Resin, re di Aram, e Pekach, figlio di Romelia, re d'Israele, salirono contro Gerusalemme per muoverle guerra, ma non riuscirono a espugnarla. 2 Fu dunque annunciato alla casa di Davide: «Gli Aramei si sono accampati in Èfraim». Allora il suo cuore e il cuore del suo popolo si agitarono, come si agitano gli alberi della foresta per il vento. 3 Il Signore disse a Isaia: «Va' incontro ad Acaz, tu e tuo figlio Seariasùb, fino al termine del canale della piscina superiore, sulla strada del campo del lavandaio. 4 Tu gli dirai: «Fa' attenzione e sta' tranquillo, non temere e il tuo cuore non si abbatta per quei due avanzi di tizzoni fumanti, per la collera di Resin, degli Aramei, e del figlio di Romelia. 5 Poiché gli Aramei, Èfraim e il figlio di Romelia hanno tramato il male contro di te, dicendo: 6 Saliamo contro Giuda, devastiamolo e occupiamolo, e vi metteremo come re il figlio di Tabeèl. 7 Così dice il Signore Dio: Ciò non avverrà e non sarà! 8a Perché capitale di Aram è Damasco e capo di Damasco è Resin. 9a Capitale di Èfraim è Samaria e capo di Samaria il figlio di Romelia. 8b Ancora sessantacinque anni ed Èfraim cesserà di essere un popolo. 9b Ma se non crederete, non resterete saldi» ."
+    },
+    {
+      "sigla": "Sal 47",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 47",
+      "tipo": "salmo",
+      "testo": "R. Dio ha fondato la sua città per sempre.\n\nGrande è il Signore e degno di ogni lode\nnella città del nostro Dio.\nLa tua santa montagna, altura stupenda,\nè la gioia di tutta la terra.\n\nIl monte Sion, vera dimora divina,\nè la capitale del grande re.\nDio nei suoi palazzi\nun baluardo si è dimostrato.\n\nEcco, i re si erano alleati,\navanzavano insieme.\nEssi hanno visto:\natterriti, presi dal panico, sono fuggiti.\n\nLà uno sgomento li ha colti,\ndoglie come di partoriente,\nsimile al vento orientale,\nche squarcia le navi di Tarsis.",
+      "ritornello": "R. Dio ha fondato la sua città per sempre."
+    },
+    {
+      "sigla": "Sal 94",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 94",
+      "tipo": "canto_vangelo",
+      "testo": "Oggi non indurite il vostro cuore, ma ascoltate la voce del Signore."
+    },
+    {
+      "sigla": "Mt 11,20-24",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,20-24",
+      "tipo": "vangelo",
+      "testo": "Perché, se in Sòdoma fossero avvenuti i miracoli compiuti in te, oggi ancora essa esisterebbe! 24 Ebbene io vi dico: Nel giorno del giudizio avrà una sorte meno dura della tua!»."
+    }
+  ]
+}

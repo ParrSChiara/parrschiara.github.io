@@ -1,0 +1,39 @@
+{
+  "data": "2026-07-19",
+  "settimana": "XVI DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Sap 12,13.16-19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sap 12,13.16-19",
+      "tipo": "prima_lettura",
+      "testo": "19 Con tale modo di agire hai insegnato al tuo popolo che il giusto deve amare gli uomini, e hai dato ai tuoi figli la buona speranza che, dopo i peccati, tu concedi il pentimento."
+    },
+    {
+      "sigla": "Sal 85",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 85",
+      "tipo": "salmo",
+      "testo": "R. Tu sei buono, Signore, e perdoni.\n\nTu sei buono, Signore, e perdoni,\nsei pieno di misericordia con chi t’invoca.\nPorgi l’orecchio, Signore, alla mia preghiera\ne sii attento alla voce delle mie suppliche.\n\nTutte le genti che hai creato verranno\ne si prostreranno davanti a te, Signore,\nper dare gloria al tuo nome.\nGrande tu sei e compi meraviglie:\ntu solo sei Dio.\n\nMa tu, Signore, Dio misericordioso e pietoso,\nlento all’ira e ricco di amore e di fedeltà,\nvolgiti a me e abbi pietà.",
+      "ritornello": "R. Tu sei buono, Signore, e perdoni."
+    },
+    {
+      "sigla": "Rm 8,26-27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 8,26-27",
+      "tipo": "seconda_lettura",
+      "testo": "26 Allo stesso modo, anche lo Spirito viene in aiuto della nostra debolezza, perché noi non sappiamo neppure come dobbiamo pregare, mentre lo Spirito stesso prega Dio per noi con sospiri che non si possono spiegare a parole. 27 E Dio, che conosce i nostri cuori, conosce anche le intenzioni dello Spirito che prega per i credenti come Dio desidera."
+    },
+    {
+      "sigla": "Mt 11,25",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,25",
+      "tipo": "canto_vangelo",
+      "testo": "Ti rendo lode, Padre, Signore del cielo e della terra, perché ai piccoli hai rivelato i misteri del Regno."
+    },
+    {
+      "sigla": "Mt 13,24-43",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 13,24-43",
+      "tipo": "vangelo",
+      "testo": "Aprirò la mia bocca con parabole, proclamerò cose nascoste fin dalla fondazione del mondo.\n36 Poi congedò la folla ed entrò in casa; i suoi discepoli gli si avvicinarono per dirgli: «Spiegaci la parabola della zizzania nel campo». 37 Ed egli rispose: «Colui che semina il buon seme è il Figlio dell'uomo. 38 Il campo è il mondo e il seme buono sono i figli del Regno. La zizzania sono i figli del Maligno 39 e il nemico che l'ha seminata è il diavolo. La mietitura è la fine del mondo e i mietitori sono gli angeli. 40 Come dunque si raccoglie la zizzania e la si brucia nel fuoco, così avverrà alla fine del mondo. 41 Il Figlio dell'uomo manderà i suoi angeli, i quali raccoglieranno dal suo regno tutti gli scandali e tutti quelli che commettono iniquità 42 e li getteranno nella fornace ardente , dove sarà pianto e stridore di denti. 43 Allora i giusti splenderanno come il sole nel regno del Padre loro. Chi ha orecchi, ascolti!"
+    }
+  ]
+}

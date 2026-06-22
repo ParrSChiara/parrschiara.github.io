@@ -1,0 +1,32 @@
+{
+  "data": "2026-08-10",
+  "settimana": "SAN LORENZO",
+  "celebrazione": "FESTA",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "2Cor 9,6-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Cor 9,6-10",
+      "tipo": "prima_lettura",
+      "testo": "10 Colui che dà il seme al seminatore e il pane per il nutrimento, darà e moltiplicherà anche la vostra semente e farà crescere i frutti della vostra giustizia."
+    },
+    {
+      "sigla": "Sal 111",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 111",
+      "tipo": "salmo",
+      "testo": "R. Beato l’uomo che teme il Signore.\n\nBeato l’uomo che teme il Signore\ne nei suoi precetti trova grande gioia.\nPotente sulla terra sarà la sua stirpe,\nla discendenza degli uomini retti sarà benedetta.\n\nFelice l’uomo pietoso che dà in prestito,\namministra i suoi beni con giustizia.\nEgli non vacillerà in eterno:\neterno sarà il ricordo del giusto.\n\nEgli dona largamente ai poveri,\nla sua giustizia rimane per sempre,\nla sua fronte s’innalza nella gloria.",
+      "ritornello": "R. Beato l’uomo che teme il Signore."
+    },
+    {
+      "sigla": "Gv 8,12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 8,12",
+      "tipo": "canto_vangelo",
+      "testo": "Chi segue me, non camminerà nelle tenebre, ma avrà la luce della vita, dice il Signore."
+    },
+    {
+      "sigla": "Gv 12,24-26",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 12,24-26",
+      "tipo": "vangelo"
+    }
+  ]
+}

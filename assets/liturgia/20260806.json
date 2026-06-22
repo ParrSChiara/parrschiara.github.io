@@ -1,0 +1,39 @@
+{
+  "data": "2026-08-06",
+  "settimana": "TRASFIGURAZIONE DEL SIGNORE (ANNO A)",
+  "celebrazione": "FESTA",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Dn 7,9-10.13-14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Dn 7,9-10.13-14",
+      "tipo": "prima_lettura",
+      "testo": "13 Guardando ancora nelle visioni notturne, ecco venire con le nubi del cielo uno simile a un figlio d'uomo; giunse fino al vegliardo e fu presentato a lui. 14 Gli furono dati potere, gloria e regno; tutti i popoli, nazioni e lingue lo servivano: il suo potere è un potere eterno, che non finirà mai, e il suo regno non sarà mai distrutto."
+    },
+    {
+      "sigla": "Sal 96",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 96",
+      "tipo": "salmo",
+      "testo": "R. Il Signore regna, il Dio di tutta la terra.\n\nIl Signore regna: esulti la terra,\ngioiscano le isole tutte.\nNubi e tenebre lo avvolgono,\ngiustizia e diritto sostengono il suo trono.\n\nI monti fondono come cera davanti al Signore,\ndavanti al Signore di tutta la terra.\nAnnunciano i cieli la sua giustizia,\ne tutti i popoli vedono la sua gloria.\n\nPerché tu, Signore,\nsei l’Altissimo su tutta la terra,\neccelso su tutti gli dèi.",
+      "ritornello": "R. Il Signore regna, il Dio di tutta la terra."
+    },
+    {
+      "sigla": "2Pt 1,16-19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Pt 1,16-19",
+      "tipo": "seconda_lettura",
+      "testo": "16 Infatti, non per essere andati dietro a favole artificiosamente inventate vi abbiamo fatto conoscere la potenza e la venuta del Signore nostro Gesù Cristo, ma perché siamo stati testimoni oculari della sua grandezza. 17 Egli ricevette infatti onore e gloria da Dio Padre quando dalla maestosa gloria gli fu rivolta questa voce: «Questi è il Figlio mio prediletto, nel quale mi sono compiaciuto». 18 Questa voce noi l'abbiamo udita scendere dal cielo mentre eravamo con lui sul santo monte. 19 E così abbiamo conferma migliore della parola dei profeti, alla quale fate bene a volgere l'attenzione, come a lampada che brilla in un luogo oscuro, finché non spunti il giorno e la stella del mattino si levi nei vostri cuori."
+    },
+    {
+      "sigla": "Mt 17,5c",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 17,5c",
+      "tipo": "canto_vangelo",
+      "testo": "Questi è il Figlio mio, l’amato: in lui ho posto il mio compiacimento. Ascoltatelo."
+    },
+    {
+      "sigla": "Mt 17,1-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 17,1-9",
+      "tipo": "vangelo",
+      "testo": "1 Sei giorni dopo, Gesù prese con sé Pietro, Giacomo e Giovanni suo fratello e li condusse in disparte, su un alto monte. 2 E fu trasfigurato davanti a loro: il suo volto brillò come il sole e le sue vesti divennero candide come la luce. 3 Ed ecco, apparvero loro Mosè ed Elia, che conversavano con lui. 4 Prendendo la parola, Pietro disse a Gesù: «Signore, è bello per noi essere qui! Se vuoi, farò qui tre capanne, una per te, una per Mosè e una per Elia». 5 Egli stava ancora parlando, quando una nube luminosa li coprì con la sua ombra. Ed ecco una voce dalla nube che diceva: «Questi è il Figlio mio, l'amato: in lui ho posto il mio compiacimento. Ascoltatelo». 6 All'udire ciò, i discepoli caddero con la faccia a terra e furono presi da grande timore. 7 Ma Gesù si avvicinò, li toccò e disse: «Alzatevi e non temete». 8 Alzando gli occhi non videro nessuno, se non Gesù solo. 9 Mentre scendevano dal monte, Gesù ordinò loro: «Non parlate a nessuno di questa visione, prima che il Figlio dell'uomo non sia risorto dai morti»."
+    }
+  ]
+}

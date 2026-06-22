@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-13",
+  "settimana": "Lunedì della XV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Is 1,10-17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 1,10-17",
+      "tipo": "prima_lettura",
+      "testo": "10 Popolo e governanti di Gerusalemme, corrotti come Sodoma e Gomorra. Udite quel che il Signore sta per dirvi; ascoltate quel che il nostro Dio vuole insegnarvi:"
+    },
+    {
+      "sigla": "Sal 49",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 49",
+      "tipo": "salmo",
+      "testo": "R. A chi cammina per la retta via, mostrerò la salvezza di Dio.\n\nNon ti rimprovero per i tuoi sacrifici,\ni tuoi olocausti mi stanno sempre davanti.\nNon prenderò vitelli dalla tua casa\nné capri dai tuoi ovili.\n\n«Perché vai ripetendo i miei decreti\ne hai sempre in bocca la mia alleanza,\ntu che hai in odio la disciplina\ne le mie parole ti getti alle spalle?\n\nHai fatto questo e io dovrei tacere?\nForse credevi che io fossi come te!\nTi rimprovero: pongo davanti a te la mia accusa.\nChi offre la lode in sacrificio, questi mi onora;\na chi cammina per la retta via\nmostrerò la salvezza di Dio».",
+      "ritornello": "R. A chi cammina per la retta via, mostrerò la salvezza di Dio."
+    },
+    {
+      "sigla": "Mt 5,10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 5,10",
+      "tipo": "canto_vangelo",
+      "testo": "Beati i perseguitati per la giustizia, perché di essi è il regno dei cieli."
+    },
+    {
+      "sigla": "Mt 10,34-11,1",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 10,34-11,1",
+      "tipo": "vangelo",
+      "testo": "34 Non crediate che io sia venuto a portare pace sulla terra; sono venuto a portare non pace, ma spada. 35 Sono infatti venuto a separare l'uomo da suo padre e la figlia da sua madre e la nuora da sua suocera ; 36 e nemici dell'uomo saranno quelli della sua casa . 37 Chi ama padre o madre più di me, non è degno di me; chi ama figlio o figlia più di me, non è degno di me; 38 chi non prende la propria croce e non mi segue, non è degno di me. 39 Chi avrà tenuto per sé la propria vita, la perderà, e chi avrà perduto la propria vita per causa mia, la troverà. 40 Chi accoglie voi accoglie me, e chi accoglie me accoglie colui che mi ha mandato. 41 Chi accoglie un profeta perché è un profeta, avrà la ricompensa del profeta, e chi accoglie un giusto perché è un giusto, avrà la ricompensa del giusto. 42 Chi avrà dato da bere anche un solo bicchiere d'acqua fresca a uno di questi piccoli perché è un discepolo, in verità io vi dico: non perderà la sua ricompensa»."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": "2026-08-05",
+  "settimana": "Mercoledì della XVIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ger 31,1-7",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ger 31,1-7",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Ger 31,10-13",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ger 31,10-13",
+      "tipo": "salmo",
+      "testo": "R. Il Signore ci custodisce come un pastore il suo gregge.\n\nAscoltate, genti, la parola del Signore,\nannunciatela alle isole più lontane e dite:\n«Chi ha disperso Israele lo raduna\ne lo custodisce come un pastore il suo gregge».\n\nPerché il Signore ha riscattato Giacobbe,\nlo ha liberato dalle mani di uno più forte di lui.\nVerranno e canteranno inni sull’altura di Sion,\nandranno insieme verso i beni del Signore.\n\nLa vergine allora gioirà danzando\ne insieme i giovani e i vecchi.\n«Cambierò il loro lutto in gioia,\nli consolerò e li renderò felici, senza afflizioni».",
+      "ritornello": "R. Il Signore ci custodisce come un pastore il suo gregge."
+    },
+    {
+      "sigla": "Lc 7,16",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 7,16",
+      "tipo": "canto_vangelo",
+      "testo": "Un grande profeta è sorto tra noi, e Dio ha visitato il suo popolo."
+    },
+    {
+      "sigla": "Mt 15,21-28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 15,21-28",
+      "tipo": "vangelo",
+      "testo": "21 Partito di là, Gesù si ritirò verso la zona di Tiro e di Sidone. 22 Ed ecco, una donna cananea, che veniva da quella regione, si mise a gridare: «Pietà di me, Signore, figlio di Davide! Mia figlia è molto tormentata da un demonio». 23 Ma egli non le rivolse neppure una parola. Allora i suoi discepoli gli si avvicinarono e lo implorarono: «Esaudiscila, perché ci viene dietro gridando!». 24 Egli rispose: «Non sono stato mandato se non alle pecore perdute della casa d'Israele». 25 Ma quella si avvicinò e si prostrò dinanzi a lui, dicendo: «Signore, aiutami!». 26 Ed egli rispose: «Non è bene prendere il pane dei figli e gettarlo ai cagnolini». 27 «È vero, Signore - disse la donna -, eppure i cagnolini mangiano le briciole che cadono dalla tavola dei loro padroni». 28 Allora Gesù le replicò: «Donna, grande è la tua fede! Avvenga per te come desideri». E da quell'istante sua figlia fu guarita."
+    }
+  ]
+}

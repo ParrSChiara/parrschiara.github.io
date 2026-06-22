@@ -1,0 +1,39 @@
+{
+  "data": "2026-08-02",
+  "settimana": "XVIII DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Is 55,1-3",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 55,1-3",
+      "tipo": "prima_lettura",
+      "testo": "1 O voi tutti assetati, venite all'acqua, voi che non avete denaro, venite, comprate e mangiate; venite, comprate senza denaro, senza pagare, vino e latte. 2 Perché spendete denaro per ciò che non è pane, il vostro guadagno per ciò che non sazia? Su, ascoltatemi e mangerete cose buone e gusterete cibi succulenti. 3 Porgete l'orecchio e venite a me, ascoltate e vivrete. Io stabilirò per voi un'alleanza eterna, i favori assicurati a Davide."
+    },
+    {
+      "sigla": "Sal 144",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 144",
+      "tipo": "salmo",
+      "testo": "R. Apri la tua mano, Signore, e sazia ogni vivente.\n\nMisericordioso e pietoso è il Signore,\nlento all’ira e grande nell’amore.\nBuono è il Signore verso tutti,\nla sua tenerezza si espande su tutte le creature.\n\nGli occhi di tutti a te sono rivolti in attesa\ne tu dai loro il cibo a tempo opportuno.\nTu apri la tua mano\ne sazi il desiderio di ogni vivente.\n\nGiusto è il Signore in tutte le sue vie\ne buono in tutte le sue opere.\nIl Signore è vicino a chiunque lo invoca,\na quanti lo invocano con sincerità.",
+      "ritornello": "R. Apri la tua mano, Signore, e sazia ogni vivente."
+    },
+    {
+      "sigla": "Rm 8,35.37-39",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 8,35.37-39",
+      "tipo": "seconda_lettura",
+      "testo": "35 Chi ci separerà dall'amore di Cristo? Forse la tribolazione, l'angoscia, la persecuzione, la fame, la nudità, il pericolo, la spada? 37 Ma in tutte queste cose noi siamo più che vincitori grazie a colui che ci ha amati. 38 Io sono infatti persuaso che né morte né vita, né angeli né principati, né presente né avvenire, né potenze, 39 né altezza né profondità, né alcun'altra creatura potrà mai separarci dall'amore di Dio, che è in Cristo Gesù, nostro Signore."
+    },
+    {
+      "sigla": "Mt 4,4b",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 4,4b",
+      "tipo": "canto_vangelo",
+      "testo": "Non di solo pane vivrà l’uomo, ma di ogni parola che esce dalla bocca di Dio."
+    },
+    {
+      "sigla": "Mt 14,13-21",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 14,13-21",
+      "tipo": "vangelo",
+      "testo": "13 Avendo udito questo, Gesù partì di là su una barca e si ritirò in un luogo deserto, in disparte. Ma le folle, avendolo saputo, lo seguirono a piedi dalle città. 14 Sceso dalla barca, egli vide una grande folla, sentì compassione per loro e guarì i loro malati. 15 Sul far della sera, gli si avvicinarono i discepoli e gli dissero: «Il luogo è deserto ed è ormai tardi; congeda la folla perché vada nei villaggi a comprarsi da mangiare». 16 Ma Gesù disse loro: «Non occorre che vadano; voi stessi date loro da mangiare». 17 Gli risposero: «Qui non abbiamo altro che cinque pani e due pesci!». 18 Ed egli disse: «Portatemeli qui». 19 E, dopo aver ordinato alla folla di sedersi sull'erba, prese i cinque pani e i due pesci, alzò gli occhi al cielo, recitò la benedizione, spezzò i pani e li diede ai discepoli, e i discepoli alla folla. 20 Tutti mangiarono a sazietà, e portarono via i pezzi avanzati: dodici ceste piene. 21 Quelli che avevano mangiato erano circa cinquemila uomini, senza contare le donne e i bambini."
+    }
+  ]
+}

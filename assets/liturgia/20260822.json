@@ -1,0 +1,33 @@
+{
+  "data": "2026-08-22",
+  "settimana": "Beata Vergine Maria Regina",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Ez 43,1-7",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ez 43,1-7",
+      "tipo": "prima_lettura",
+      "testo": "1 Mi condusse allora verso la porta che guarda a oriente 2 ed ecco che la gloria del Dio d'Israele giungeva dalla via orientale e il suo rumore era come il rumore delle grandi acque e la terra risplendeva della sua gloria. 3 La visione che io vidi era simile a quella che avevo visto quando andai per distruggere la città e simile a quella che avevo visto presso il fiume Chebar. Io caddi con la faccia a terra. 4 La gloria del Signore entrò nel tempio per la porta che guarda a oriente. 5 Lo spirito mi prese e mi condusse nel cortile interno: ecco, la gloria del Signore riempiva il tempio. 6 Mentre quell'uomo stava in piedi accanto a me, sentii che qualcuno entro il tempio mi parlava 7 e mi diceva: «Figlio dell'uomo, questo è il luogo del mio trono e il luogo dove posano i miei piedi, dove io abiterò in mezzo ai figli d'Israele, per sempre. E la casa d'Israele, il popolo e i suoi re, non profaneranno più il mio santo nome con le loro prostituzioni e con i cadaveri dei loro re e con le loro stele,"
+    },
+    {
+      "sigla": "Sal 84",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 84",
+      "tipo": "salmo",
+      "testo": "R. La gloria del Signore abiti la nostra terra.\n\nAscolterò che cosa dice Dio, il Signore:\negli annuncia la pace.\nSì, la sua salvezza è vicina a chi lo teme,\nperché la sua gloria abiti la nostra terra.\n\nAmore e verità s’incontreranno,\ngiustizia e pace si baceranno.\nVerità germoglierà dalla terra\ne giustizia si affaccerà dal cielo.\n\nCerto, il Signore donerà il suo bene\ne la nostra terra darà il suo frutto;\ngiustizia camminerà davanti a lui:\ni suoi passi tracceranno il cammino.",
+      "ritornello": "R. La gloria del Signore abiti la nostra terra."
+    },
+    {
+      "sigla": "Mt 23,9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 23,9",
+      "tipo": "canto_vangelo",
+      "testo": "Uno solo è il Padre vostro, quello celeste e uno solo è la vostra Guida, il Cristo."
+    },
+    {
+      "sigla": "Mt 23,1-12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 23,1-12",
+      "tipo": "vangelo",
+      "testo": "1 Allora Gesù si rivolse alla folla e ai suoi discepoli 2 dicendo: «Sulla cattedra di Mosè si sono seduti gli scribi e i farisei. 3 Praticate e osservate tutto ciò che vi dicono, ma non agite secondo le loro opere, perché essi dicono e non fanno. 4 Legano infatti fardelli pesanti e difficili da portare e li pongono sulle spalle della gente, ma essi non vogliono muoverli neppure con un dito. 5 Tutte le loro opere le fanno per essere ammirati dalla gente: allargano i loro filattèri e allungano le frange; 6 si compiacciono dei posti d'onore nei banchetti, dei primi seggi nelle sinagoghe, 7 dei saluti nelle piazze, come anche di essere chiamati «rabbì» dalla gente. 8 Ma voi non fatevi chiamare «rabbì», perché uno solo è il vostro Maestro e voi siete tutti fratelli. 9 E non chiamate «padre» nessuno di voi sulla terra, perché uno solo è il Padre vostro, quello celeste. 10 E non fatevi chiamare «guide», perché uno solo è la vostra Guida, il Cristo. 11 Chi tra voi è più grande, sarà vostro servo; 12 chi invece si esalterà, sarà umiliato e chi si umilierà sarà esaltato."
+    }
+  ]
+}

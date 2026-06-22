@@ -1,0 +1,39 @@
+{
+  "data": "2026-07-05",
+  "settimana": "XIV DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Zc 9,9-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Zc 9,9-10",
+      "tipo": "prima_lettura",
+      "testo": "9 Esulta grandemente, figlia di Sion, giubila, figlia di Gerusalemme! Ecco, a te viene il tuo re. Egli è giusto e vittorioso, umile, cavalca un asino, un puledro figlio d'asina. 10 Farà sparire il carro da guerra da Èfraim e il cavallo da Gerusalemme, l'arco di guerra sarà spezzato, annuncerà la pace alle nazioni, il suo dominio sarà da mare a mare e dal Fiume fino ai confini della terra."
+    },
+    {
+      "sigla": "Sal 144",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 144",
+      "tipo": "salmo",
+      "testo": "R. Benedirò il tuo nome per sempre, Signore.\n\nO Dio, mio re, voglio esaltarti\ne benedire il tuo nome in eterno e per sempre.\nTi voglio benedire ogni giorno,\nlodare il tuo nome in eterno e per sempre.\n\nMisericordioso e pietoso è il Signore,\nlento all’ira e grande nell’amore.\nBuono è il Signore verso tutti,\nla sua tenerezza si espande su tutte le creature.\n\nTi lodino, Signore, tutte le tue opere\ne ti benedicano i tuoi fedeli.\nDicano la gloria del tuo regno\ne parlino della tua potenza.\n\nFedele è il Signore in tutte le sue parole\ne buono in tutte le sue opere.\nIl Signore sostiene quelli che vacillano\ne rialza chiunque è caduto.",
+      "ritornello": "R. Benedirò il tuo nome per sempre, Signore."
+    },
+    {
+      "sigla": "Rm 8,9.11-13",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 8,9.11-13",
+      "tipo": "seconda_lettura",
+      "testo": "12 Così dunque fratelli, noi siamo debitori, ma non verso la carne per vivere secondo la carne; 13 poiché se vivete secondo la carne, voi morirete; se invece con l'aiuto dello Spirito voi fate morire le opere del corpo, vivrete."
+    },
+    {
+      "sigla": "Cf Mt 11, 25",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Cf Mt 11, 25",
+      "tipo": "canto_vangelo",
+      "testo": "Cf Mt 11, 25"
+    },
+    {
+      "sigla": "Mt 11,25-30",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,25-30",
+      "tipo": "vangelo",
+      "testo": "25 In quel tempo Gesù disse: «Ti rendo lode, Padre, Signore del cielo e della terra, perché hai nascosto queste cose ai sapienti e ai dotti e le hai rivelate ai piccoli. 26 Sì, o Padre, perché così hai deciso nella tua benevolenza. 27 Tutto è stato dato a me dal Padre mio; nessuno conosce il Figlio se non il Padre, e nessuno conosce il Padre se non il Figlio e colui al quale il Figlio vorrà rivelarlo. 28 Venite a me, voi tutti che siete stanchi e oppressi, e io vi darò ristoro. 29 Prendete il mio giogo sopra di voi e imparate da me, che sono mite e umile di cuore, e troverete ristoro per la vostra vita . 30 Il mio giogo infatti è dolce e il mio peso leggero»."
+    }
+  ]
+}

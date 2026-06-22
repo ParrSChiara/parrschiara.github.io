@@ -1,0 +1,33 @@
+{
+  "data": "2026-08-26",
+  "settimana": "Mercoledì della XXI settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "2Ts 3,6-10.16-18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Ts 3,6-10.16-18",
+      "tipo": "prima_lettura",
+      "testo": "16 Il Signore della pace vi dia la pace sempre e in ogni modo. Il Signore sia con tutti voi. 17 Il saluto è di mia mano, di Paolo. Questo è il segno autografo di ogni mia lettera; io scrivo così. 18 La grazia del Signore nostro Gesù Cristo sia con tutti voi."
+    },
+    {
+      "sigla": "Sal 127",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 127",
+      "tipo": "salmo",
+      "testo": "R. Beato chi teme il Signore.\n\nBeato chi teme il Signore\ne cammina nelle sue vie.\nDella fatica delle tue mani ti nutrirai,\nsarai felice e avrai ogni bene.\n\nEcco com’è benedetto\nl’uomo che teme il Signore.\nTi benedica il Signore da Sion.\nPossa tu vedere il bene di Gerusalemme\ntutti i giorni della tua vita!",
+      "ritornello": "R. Beato chi teme il Signore."
+    },
+    {
+      "sigla": "1 Gv 2,5",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1 Gv 2,5",
+      "tipo": "canto_vangelo",
+      "testo": "Chi osserva la parola di Gesù Cristo, in lui l’amore di Dio è veramente perfetto."
+    },
+    {
+      "sigla": "Mt 23,27-32",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 23,27-32",
+      "tipo": "vangelo",
+      "testo": "29 Guai a voi, scribi e farisei ipocriti, che innalzate i sepolcri ai profeti e adornate le tombe dei giusti, 30 e dite: Se fossimo vissuti al tempo dei nostri padri, non ci saremmo associati a loro per versare il sangue dei profeti; 31 e così testimoniate, contro voi stessi, di essere figli degli uccisori dei profeti. 32 Ebbene, colmate la misura dei vostri padri!"
+    }
+  ]
+}

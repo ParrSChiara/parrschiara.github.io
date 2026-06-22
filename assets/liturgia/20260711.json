@@ -1,0 +1,33 @@
+{
+  "data": "2026-07-11",
+  "settimana": "SAN BENEDETTO",
+  "celebrazione": "FESTA",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Pr 2,1-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Pr 2,1-9",
+      "tipo": "prima_lettura",
+      "testo": "1 Figlio mio, se tu accoglierai le mie parole e custodirai in te i miei precetti, 2 tendendo il tuo orecchio alla sapienza, inclinando il tuo cuore alla prudenza, 3 se appunto invocherai l'intelligenza e rivolgerai la tua voce alla prudenza, 4 se la ricercherai come l'argento e per averla scaverai come per i tesori, 5 allora comprenderai il timore del Signore e troverai la conoscenza di Dio, 6 perché il Signore dà la sapienza, dalla sua bocca escono scienza e prudenza. 7 Egli riserva ai giusti il successo, è scudo a coloro che agiscono con rettitudine, 8 vegliando sui sentieri della giustizia e proteggendo le vie dei suoi fedeli. 9 Allora comprenderai l'equità e la giustizia, la rettitudine e tutte le vie del bene,"
+    },
+    {
+      "sigla": "Sal 33",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 33",
+      "tipo": "salmo",
+      "testo": "R. Gustate e vedete com’è buono il Signore.\n\nBenedirò il Signore in ogni tempo,\nsulla mia bocca sempre la sua lode.\nIo mi glorio nel Signore:\ni poveri ascoltino e si rallegrino.\n\nMagnificate con me il Signore,\nesaltiamo insieme il suo nome.\nHo cercato il Signore: mi ha risposto\ne da ogni mia paura mi ha liberato.\n\nGuardate a lui e sarete raggianti,\ni vostri volti non dovranno arrossire.\nQuesto povero grida e il Signore lo ascolta,\nlo salva da tutte le sue angosce.\n\nL’angelo del Signore si accampa\nattorno a quelli che lo temono, e li libera.\nGustate e vedete com’è buono il Signore;\nbeato l’uomo che in lui si rifugia.\n\nTemete il Signore, suoi santi:\nnulla manca a coloro che lo temono.\nI leoni sono miseri e affamati,\nma a chi cerca il Signore non manca alcun bene.",
+      "ritornello": "R. Gustate e vedete com’è buono il Signore."
+    },
+    {
+      "sigla": "Mt 5,3",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 5,3",
+      "tipo": "canto_vangelo",
+      "testo": "Beati i poveri in spirito, perché di essi è il regno dei cieli."
+    },
+    {
+      "sigla": "Mt 19,27-29",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 19,27-29",
+      "tipo": "vangelo",
+      "testo": "27 Allora Pietro prendendo la parola disse: «Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito; che cosa dunque ne otterremo?». 28 E Gesù disse loro: «In verità vi dico: voi che mi avete seguito, nella nuova creazione, quando il Figlio dell'uomo sarà seduto sul trono della sua gloria, siederete anche voi su dodici troni a giudicare le dodici tribù di Israele. 29 Chiunque avrà lasciato case, o fratelli, o sorelle, o padre, o madre, o figli, o campi per il mio nome, riceverà cento volte tanto e avrà in eredità la vita eterna."
+    }
+  ]
+}
