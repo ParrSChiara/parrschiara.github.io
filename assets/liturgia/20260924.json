@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-24",
+  "settimana": "Giovedì della XXV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Qo 1,2-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Qo 1,2-11",
+      "tipo": "prima_lettura",
+      "testo": "2 Vanità delle vanità, dice Qoèlet, vanità delle vanità: tutto è vanità. 3 Quale guadagno viene all'uomo per tutta la fatica con cui si affanna sotto il sole? 4 Una generazione se ne va e un'altra arriva, ma la terra resta sempre la stessa. 5 Il sole sorge, il sole tramonta e si affretta a tornare là dove rinasce. 6 Il vento va verso sud e piega verso nord. Gira e va e sui suoi giri ritorna il vento. 7 Tutti i fiumi scorrono verso il mare, eppure il mare non è mai pieno: al luogo dove i fiumi scorrono, continuano a scorrere. 8 Tutte le parole si esauriscono e nessuno è in grado di esprimersi a fondo. Non si sazia l'occhio di guardare né l'orecchio è mai sazio di udire. 9 Quel che è stato sarà e quel che si è fatto si rifarà; non c'è niente di nuovo sotto il sole. 10 C'è forse qualcosa di cui si possa dire: «Ecco, questa è una novità»? Proprio questa è già avvenuta nei secoli che ci hanno preceduto. 11 Nessun ricordo resta degli antichi, ma neppure di coloro che saranno si conserverà memoria presso quelli che verranno in seguito."
+    },
+    {
+      "sigla": "Sal 89",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 89",
+      "tipo": "salmo",
+      "testo": "R. Signore, tu sei stato per noi un rifugio di generazione in generazione.\n\nTu fai ritornare l’uomo in polvere,\nquando dici: «Ritornate, figli dell’uomo».\nMille anni, ai tuoi occhi,\nsono come il giorno di ieri che è passato,\ncome un turno di veglia nella notte.\n\nTu li sommergi:\nsono come un sogno al mattino,\ncome l’erba che germoglia;\nal mattino fiorisce e germoglia,\nalla sera è falciata e secca.\n\nInsegnaci a contare i nostri giorni\ne acquisteremo un cuore saggio.\nRitorna, Signore: fino a quando?\nAbbi pietà dei tuoi servi!\n\nSaziaci al mattino con il tuo amore:\nesulteremo e gioiremo per tutti i nostri giorni.\nSia su di noi la dolcezza del Signore, nostro Dio:\nrendi salda per noi l’opera delle nostre mani,\nl’opera delle nostre mani rendi salda.",
+      "ritornello": "R. Signore, tu sei stato per noi un rifugio di generazione in generazione."
+    },
+    {
+      "sigla": "Gv 14,6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 14,6",
+      "tipo": "canto_vangelo",
+      "testo": "Io sono la via, la verità e la vita, dice il Signore. Nessuno viene al Padre se non per mezzo di me."
+    },
+    {
+      "sigla": "Lc 9,7-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 9,7-9",
+      "tipo": "vangelo",
+      "testo": "7 Intanto Erode, re della Galilea, venne a conoscere tutte queste cose e non sapeva che cosa pensare. Alcuni infatti dicevano: 'Giovanni il Battezzatore è tornato dal mondo dei morti'. 8 Altri invece dicevano: 'Il profeta Elia è riapparso tra noi'. Altri ancora: 'È uno degli antichi profeti ritornato in vita'. 9 Ma Erode disse: 'Io ho fatto tagliare la testa, a Giovanni. Chi è dunque costui del quale sento dire queste cose?'. E faceva di tutto per vedere Gesù."
+    }
+  ]
+}

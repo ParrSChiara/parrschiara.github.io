@@ -1,0 +1,39 @@
+{
+  "data": "2026-09-06",
+  "settimana": "XXIII DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ez 33,1.7-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ez 33,1.7-9",
+      "tipo": "prima_lettura",
+      "testo": "1 Mi fu rivolta questa parola del Signore: 7 O figlio dell'uomo, io ti ho posto come sentinella per la casa d'Israele. Quando sentirai dalla mia bocca una parola, tu dovrai avvertirli da parte mia. 8 Se io dico al malvagio: «Malvagio, tu morirai», e tu non parli perché il malvagio desista dalla sua condotta, egli, il malvagio, morirà per la sua iniquità, ma della sua morte io domanderò conto a te. 9 Ma se tu avverti il malvagio della sua condotta perché si converta ed egli non si converte dalla sua condotta, egli morirà per la sua iniquità, ma tu ti sarai salvato."
+    },
+    {
+      "sigla": "Sal 94",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 94",
+      "tipo": "salmo",
+      "testo": "R. Ascoltate oggi la voce del Signore.\n\nVenite, cantiamo al Signore,\nacclamiamo la roccia della nostra salvezza.\nAccostiamoci a lui per rendergli grazie,\na lui acclamiamo con canti di gioia.\n\nEntrate: prostràti, adoriamo,\nin ginocchio davanti al Signore che ci ha fatti.\nÈ lui il nostro Dio\ne noi il popolo del suo pascolo,\nil gregge che egli conduce.\n\nSe ascoltaste oggi la sua voce!\n«Non indurite il cuore come a Merìba,\ncome nel giorno di Massa nel deserto,\ndove mi tentarono i vostri padri:\nmi misero alla prova\npur avendo visto le mie opere».",
+      "ritornello": "R. Ascoltate oggi la voce del Signore."
+    },
+    {
+      "sigla": "Rm 13,8-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 13,8-10",
+      "tipo": "seconda_lettura",
+      "testo": "8 Non siate debitori di nulla a nessuno, se non dell'amore vicendevole; perché chi ama l'altro ha adempiuto la Legge. 9 Infatti: Non commetterai adulterio, non ucciderai, non ruberai, non desidererai , e qualsiasi altro comandamento, si ricapitola in questa parola: Amerai il tuo prossimo come te stesso . 10 La carità non fa alcun male al prossimo: pienezza della Legge infatti è la carità."
+    },
+    {
+      "sigla": "2Cor 5,19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Cor 5,19",
+      "tipo": "canto_vangelo",
+      "testo": "Dio ha riconciliato a sé il mondo in Cristo, affidando a noi la parola della riconciliazione."
+    },
+    {
+      "sigla": "Mt 18,15-20",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 18,15-20",
+      "tipo": "vangelo",
+      "testo": "19 In verità io vi dico ancora: se due di voi sulla terra si metteranno d'accordo per chiedere qualunque cosa, il Padre mio che è nei cieli gliela concederà. 20 Perché dove sono due o tre riuniti nel mio nome, lì sono io in mezzo a loro»."
+    }
+  ]
+}

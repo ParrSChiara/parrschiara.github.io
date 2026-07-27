@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-02",
+  "settimana": "Mercoledì della XXII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "1Cor 3,1-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 3,1-9",
+      "tipo": "prima_lettura",
+      "testo": "1 Io, fratelli, sinora non ho potuto parlare a voi come a esseri spirituali, ma carnali, come a neonati in Cristo. 2 Vi ho dato da bere latte, non cibo solido, perché non ne eravate ancora capaci. E neanche ora lo siete, 3 perché siete ancora carnali. Dal momento che vi sono tra voi invidia e discordia, non siete forse carnali e non vi comportate in maniera umana? 4 Quando uno dice: «Io sono di Paolo , e un altro: «Io sono di Apollo , non vi dimostrate semplicemente uomini? 5 Ma che cosa è mai Apollo? Che cosa è Paolo? Servitori, attraverso i quali siete venuti alla fede, e ciascuno come il Signore gli ha concesso. 6 Io ho piantato, Apollo ha irrigato, ma era Dio che faceva crescere. 7 Sicché, né chi pianta né chi irriga vale qualcosa, ma solo Dio, che fa crescere. 8 Chi pianta e chi irriga sono una medesima cosa: ciascuno riceverà la propria ricompensa secondo il proprio lavoro. 9 Siamo infatti collaboratori di Dio, e voi siete campo di Dio, edificio di Dio."
+    },
+    {
+      "sigla": "Sal 32",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 32",
+      "tipo": "salmo",
+      "testo": "R. Beato il popolo scelto dal Signore.\n\nBeata la nazione che ha il Signore come Dio,\nil popolo che egli ha scelto come sua eredità.\nIl Signore guarda dal cielo:\negli vede tutti gli uomini.\n\nDal trono dove siede\nscruta tutti gli abitanti della terra,\nlui, che di ognuno ha plasmato il cuore\ne ne comprende tutte le opere.\n\nL’anima nostra attende il Signore:\negli è nostro aiuto e nostro scudo.\nÈ in lui che gioisce il nostro cuore,\nnel suo santo nome noi confidiamo.",
+      "ritornello": "R. Beato il popolo scelto dal Signore."
+    },
+    {
+      "sigla": "Lc 4,18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 4,18",
+      "tipo": "canto_vangelo",
+      "testo": "Il Signore mi ha mandato a portare ai poveri il lieto annuncio, a proclamare ai prigionieri la liberazione."
+    },
+    {
+      "sigla": "Lc 4,38-44",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 4,38-44",
+      "tipo": "vangelo",
+      "testo": "38 Uscito dalla sinagoga entrò nella casa di Simone. La suocera di Simone era in preda a una grande febbre e lo pregarono per lei. 39 Chinatosi su di lei, intimò alla febbre, e la febbre la lasciò. Levatasi all'istante, la donna cominciò a servirli.\n40 Al calar del sole, tutti quelli che avevano infermi colpiti da mali di ogni genere li condussero a lui. Ed egli, imponendo su ciascuno le mani, li guariva. 41 Da molti uscivano demòni gridando: «Tu sei il Figlio di Dio!». Ma egli li minacciava e non li lasciava parlare, perché sapevano che era il Cristo."
+    }
+  ]
+}

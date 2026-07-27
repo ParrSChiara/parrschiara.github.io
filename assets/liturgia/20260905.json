@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-05",
+  "settimana": "Sabato della XXII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "1Cor 4,6-15",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 4,6-15",
+      "tipo": "prima_lettura",
+      "testo": "14 Non per farvi vergognare vi scrivo queste cose, ma per ammonirvi, come figli miei carissimi. 15 Potreste infatti avere anche diecimila pedagoghi in Cristo, ma non certo molti padri: sono io che vi ho generato in Cristo Gesù mediante il Vangelo."
+    },
+    {
+      "sigla": "Sal 144",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 144",
+      "tipo": "salmo",
+      "testo": "R. Il Signore è vicino a chiunque lo invoca.\n\nGiusto è il Signore in tutte le sue vie\ne buono in tutte le sue opere.\nIl Signore è vicino a chiunque lo invoca,\na quanti lo invocano con sincerità.\n\nAppaga il desiderio di quelli che lo temono,\nascolta il loro grido e li salva.\nIl Signore custodisce tutti quelli che lo amano,\nma distrugge tutti i malvagi.\n\nCanti la mia bocca la lode del Signore\ne benedica ogni vivente il suo santo nome,\nin eterno e per sempre.",
+      "ritornello": "R. Il Signore è vicino a chiunque lo invoca."
+    },
+    {
+      "sigla": "Gv 14,6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 14,6",
+      "tipo": "canto_vangelo",
+      "testo": "Io sono la via, la verità e la vita, dice il Signore. Nessuno viene al Padre se non per mezzo di me."
+    },
+    {
+      "sigla": "Lc 6,1-5",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 6,1-5",
+      "tipo": "vangelo",
+      "testo": "1 Un sabato Gesù passava fra campi di grano e i suoi discepoli coglievano e mangiavano le spighe, sfregandole con le mani. 2 Alcuni farisei dissero: «Perché fate in giorno di sabato quello che non è lecito?». 3 Gesù rispose loro: «Non avete letto quello che fece Davide, quando lui e i suoi compagni ebbero fame? 4 Come entrò nella casa di Dio, prese i pani dell'offerta, ne mangiò e ne diede ai suoi compagni, sebbene non sia lecito mangiarli se non ai soli sacerdoti?». 5 E diceva loro: «Il Figlio dell'uomo è signore del sabato»."
+    }
+  ]
+}

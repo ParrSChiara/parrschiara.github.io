@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-30",
+  "settimana": "San Girolamo",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Gb 9,1-12.14-16",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gb 9,1-12.14-16",
+      "tipo": "prima_lettura",
+      "testo": "1 Giobbe rispose dicendo:\n2 In verità io so che è così: e come può un uomo aver ragione innanzi a Dio? 3 Se uno volesse disputare con lui, non gli risponderebbe una volta su mille. 4 Saggio di mente, potente per la forza, chi s'è opposto a lui ed è rimasto salvo? 5 Sposta le montagne e non lo sanno, egli nella sua ira le sconvolge. 6 Scuote la terra dal suo posto e le sue colonne tremano. 7 Comanda al sole ed esso non sorge e alle stelle pone il suo sigillo. 8 Egli da solo stende i cieli e cammina sulle onde del mare. 9 Crea l'Orsa e l'Orione, le Pleiadi e i penetrali del cielo australe. 10 Fa cose tanto grandi da non potersi indagare, meraviglie da non potersi contare. 11 Ecco, mi passa vicino e non lo vedo, se ne va e di lui non m'accorgo. 12 Se rapisce qualcosa, chi lo può impedire? Chi gli può dire: «Che fai?». 14 Tanto meno io potrei rispondergli, trovare parole da dirgli! 15 Se avessi anche ragione, non risponderei, al mio giudice dovrei domandare pietà. 16 Se io lo invocassi e mi rispondesse, non crederei che voglia ascoltare la mia voce."
+    },
+    {
+      "sigla": "Sal 87",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 87",
+      "tipo": "salmo",
+      "testo": "R. Giunga fino a te la mia preghiera, Signore.\n\nTutto il giorno ti chiamo, Signore,\nverso di te protendo le mie mani.\nCompi forse prodigi per i morti?\nO si alzano le ombre a darti lode?\n\nSi narra forse la tua bontà nel sepolcro,\nla tua fedeltà nel regno della morte?\nSi conoscono forse nelle tenebre i tuoi prodigi,\nla tua giustizia nella terra dell’oblio?\n\nMa io, Signore, a te grido aiuto\ne al mattino viene incontro a te la mia preghiera.\nPerché, Signore, mi respingi?\nPerché mi nascondi il tuo volto?",
+      "ritornello": "R. Giunga fino a te la mia preghiera, Signore."
+    },
+    {
+      "sigla": "Fil 3,8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Fil 3,8",
+      "tipo": "canto_vangelo",
+      "testo": "Tutto ho lasciato perdere e considero spazzatura, per guadagnare Cristo ed essere trovato in lui."
+    },
+    {
+      "sigla": "Lc 9,57-62",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 9,57-62",
+      "tipo": "vangelo",
+      "testo": "57 Mentre camminavano per la strada, un tale gli disse: «Ti seguirò dovunque tu vada». 58 E Gesù gli rispose: «Le volpi hanno le loro tane e gli uccelli del cielo i loro nidi, ma il Figlio dell'uomo non ha dove posare il capo». 59 A un altro disse: «Seguimi». E costui rispose: «Signore, permettimi di andare prima a seppellire mio padre». 60 Gli replicò: «Lascia che i morti seppelliscano i loro morti; tu invece va' e annuncia il regno di Dio». 61 Un altro disse: «Ti seguirò, Signore; prima però lascia che io mi congedi da quelli di casa mia». 62 Ma Gesù gli rispose: «Nessuno che mette mano all'aratro e poi si volge indietro è adatto per il regno di Dio»."
+    }
+  ]
+}

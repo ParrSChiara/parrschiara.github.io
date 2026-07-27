@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-23",
+  "settimana": "Venerdì della XXIX settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ef 4,1-6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 4,1-6",
+      "tipo": "prima_lettura",
+      "testo": "1 Io dunque, prigioniero a motivo del Signore, vi esorto: comportatevi in maniera degna della chiamata che avete ricevuto, 2 con ogni umiltà, dolcezza e magnanimità, sopportandovi a vicenda nell'amore, 3 avendo a cuore di conservare l'unità dello spirito per mezzo del vincolo della pace. 4 Un solo corpo e un solo spirito, come una sola è la speranza alla quale siete stati chiamati, quella della vostra vocazione; 5 un solo Signore, una sola fede, un solo battesimo. 6 Un solo Dio e Padre di tutti, che è al di sopra di tutti, opera per mezzo di tutti ed è presente in tutti."
+    },
+    {
+      "sigla": "Sal 23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 23",
+      "tipo": "salmo",
+      "testo": "R. Noi cerchiamo il tuo volto, Signore.\n\nDel Signore è la terra e quanto contiene:\nil mondo, con i suoi abitanti.\nÈ lui che l’ha fondato sui mari\ne sui fiumi l’ha stabilito.\n\nChi potrà salire il monte del Signore?\nChi potrà stare nel suo luogo santo?\nChi ha mani innocenti e cuore puro,\nchi non si rivolge agli idoli.\n\nEgli otterrà benedizione dal Signore,\ngiustizia da Dio sua salvezza.\nEcco la generazione che lo cerca,\nche cerca il tuo volto, Dio di Giacobbe.",
+      "ritornello": "R. Noi cerchiamo il tuo volto, Signore."
+    },
+    {
+      "sigla": "Mt 11,25",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,25",
+      "tipo": "canto_vangelo",
+      "testo": "Ti rendo lode, Padre, Signore del cielo e della terra, perché ai piccoli hai rivelato i misteri del Regno."
+    },
+    {
+      "sigla": "Lc 12,54-59",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 12,54-59",
+      "tipo": "vangelo",
+      "testo": "54 Diceva ancora alle folle: «Quando vedete una nuvola salire da ponente, subito dite: Viene la pioggia, e così accade. 55 E quando soffia lo scirocco, dite: Ci sarà caldo, e così accade. 56 Ipocriti! Sapete giudicare l'aspetto della terra e del cielo, come mai questo tempo non sapete giudicarlo? 57 E perché non giudicate da voi stessi ciò che è giusto? 58 Quando vai con il tuo avversario davanti al magistrato, lungo la strada procura di accordarti con lui, perché non ti trascini davanti al giudice e il giudice ti consegni all'esecutore e questi ti getti in prigione. 59 Ti assicuro, non ne uscirai finché non avrai pagato fino all'ultimo spicciolo»."
+    }
+  ]
+}

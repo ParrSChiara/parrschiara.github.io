@@ -1,0 +1,39 @@
+{
+  "data": "2026-10-25",
+  "settimana": "XXX DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Es 22,20-26",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Es 22,20-26",
+      "tipo": "prima_lettura",
+      "testo": "21 Non maltratterai la vedova o l'orfano. 22 Se tu lo maltratti, quando invocherà da me l'aiuto, io ascolterò il suo grido, 23 la mia collera si accenderà e vi farò morire di spada: le vostre mogli saranno vedove e i vostri figli orfani.\n24 Se tu presti denaro a qualcuno del mio popolo, all'indigente che sta con te, non ti comporterai con lui da usuraio: voi non dovete imporgli alcun interesse.\n25 Se prendi in pegno il mantello del tuo prossimo, glielo renderai al tramonto del sole, 26 perché è la sua sola coperta, è il mantello per la sua pelle; come potrebbe coprirsi dormendo? Altrimenti, quando invocherà da me l'aiuto, io ascolterò il suo grido, perché io sono pietoso."
+    },
+    {
+      "sigla": "Sal 17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 17",
+      "tipo": "salmo",
+      "testo": "R. Ti amo, Signore, mia forza.\n\nTi amo, Signore, mia forza,\nSignore, mia roccia,\nmia fortezza, mio liberatore.\n\nMio Dio, mia rupe, in cui mi rifugio;\nmio scudo, mia potente salvezza e mio baluardo.\nInvoco il Signore, degno di lode,\ne sarò salvato dai miei nemici.\n\nViva il Signore e benedetta la mia roccia,\nsia esaltato il Dio della mia salvezza.\nEgli concede al suo re grandi vittorie,\nsi mostra fedele al suo consacrato.",
+      "ritornello": "R. Ti amo, Signore, mia forza."
+    },
+    {
+      "sigla": "1Ts 1,5-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Ts 1,5-10",
+      "tipo": "seconda_lettura",
+      "testo": "5 Il nostro Vangelo, infatti, non si diffuse fra voi soltanto per mezzo della parola, ma anche con la potenza dello Spirito Santo e con profonda convinzione: ben sapete come ci siamo comportati in mezzo a voi per il vostro bene. 6 E voi avete seguito il nostro esempio e quello del Signore, avendo accolto la Parola in mezzo a grandi prove, con la gioia dello Spirito Santo, 7 così da diventare modello per tutti i credenti della Macedonia e dell'Acaia. 8 Infatti per mezzo vostro la parola del Signore risuona non soltanto in Macedonia e in Acaia, ma la vostra fede in Dio si è diffusa dappertutto, tanto che non abbiamo bisogno di parlarne. 9 Sono essi infatti a raccontare come noi siamo venuti in mezzo a voi e come vi siete convertiti dagli idoli a Dio, per servire il Dio vivo e vero 10 e attendere dai cieli il suo Figlio, che egli ha risuscitato dai morti, Gesù, il quale ci libera dall'ira che viene."
+    },
+    {
+      "sigla": "Gv 14,23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 14,23",
+      "tipo": "canto_vangelo",
+      "testo": "Se uno mi ama, osserverà la mia parola, dice il Signore, e il Padre mio lo amerà e noi verremo a lui."
+    },
+    {
+      "sigla": "Mt 22,34-40",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 22,34-40",
+      "tipo": "vangelo",
+      "testo": "34 Allora i farisei, avendo udito che egli aveva chiuso la bocca ai sadducei, si riunirono insieme 35 e uno di loro, un dottore della Legge, lo interrogò per metterlo alla prova: 36 «Maestro, nella Legge, qual è il grande comandamento?». 37 Gli rispose: « Amerai il Signore tuo Dio con tutto il tuo cuore, con tutta la tua anima e con tutta la tua mente . 38 Questo è il grande e primo comandamento. 39 Il secondo poi è simile a quello: Amerai il tuo prossimo come te stesso . 40 Da questi due comandamenti dipendono tutta la Legge e i Profeti»."
+    }
+  ]
+}

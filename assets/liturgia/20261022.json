@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-22",
+  "settimana": "Giovedì della XXIX settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ef 3,14-21",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 3,14-21",
+      "tipo": "prima_lettura",
+      "testo": "14 Per questo io piego le ginocchia davanti al Padre, 15 dal quale ha origine ogni discendenza in cielo e sulla terra, 16 perché vi conceda, secondo la ricchezza della sua gloria, di essere potentemente rafforzati nell'uomo interiore mediante il suo Spirito. 17 Che il Cristo abiti per mezzo della fede nei vostri cuori, e così, radicati e fondati nella carità, 18 siate in grado di comprendere con tutti i santi quale sia l'ampiezza, la lunghezza, l'altezza e la profondità, 19 e di conoscere l'amore di Cristo che supera ogni conoscenza, perché siate ricolmi di tutta la pienezza di Dio. 20 A colui che in tutto ha potere di fare molto più di quanto possiamo domandare o pensare, secondo la potenza che opera in noi, 21 a lui la gloria nella Chiesa e in Cristo Gesù per tutte le generazioni, nei secoli dei secoli! Amen."
+    },
+    {
+      "sigla": "Sal 33",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 33",
+      "tipo": "salmo",
+      "testo": "R. Dell’amore del Signore è piena la terra.\n\nEsultate, o giusti, nel Signore;\nper gli uomini retti è bella la lode.\nLodate il Signore con la cetra,\ncon l’arpa a dieci corde a lui cantate.\n\nRetta è la parola del Signore\ne fedele ogni sua opera.\nEgli ama la giustizia e il diritto;\ndell’amore del Signore è piena la terra.\n\nIl disegno del Signore sussiste per sempre,\ni progetti del suo cuore per tutte le generazioni.\nBeata la nazione che ha il Signore come Dio,\nil popolo che egli ha scelto come sua eredità.\n\nEcco, l’occhio del Signore è su chi lo teme,\nsu chi spera nel suo amore,\nper liberarlo dalla morte\ne nutrirlo in tempo di fame.",
+      "ritornello": "R. Dell’amore del Signore è piena la terra."
+    },
+    {
+      "sigla": "Fil 3,8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Fil 3,8",
+      "tipo": "canto_vangelo",
+      "testo": "Tutto ho lasciato perdere e considero spazzatura, per guadagnare Cristo ed essere trovato in lui."
+    },
+    {
+      "sigla": "Lc 12,49-53",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 12,49-53",
+      "tipo": "vangelo",
+      "testo": "49 Sono venuto a gettare fuoco sulla terra, e quanto vorrei che fosse già acceso! 50 Ho un battesimo nel quale sarò battezzato, e come sono angosciato finché non sia compiuto! 51 Pensate che io sia venuto a portare pace sulla terra? No, io vi dico, ma divisione. 52 D'ora innanzi, se in una famiglia vi sono cinque persone, saranno divisi tre contro due e due contro tre; 53 si divideranno padre contro figlio e figlio contro padre , madre contro figlia e figlia contro madre , suocera contro nuora e nuora contro suocera »."
+    }
+  ]
+}

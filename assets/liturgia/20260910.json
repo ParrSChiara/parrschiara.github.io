@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-10",
+  "settimana": "Giovedì della XXIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "1Cor 8,1-7.11-13",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 8,1-7.11-13",
+      "tipo": "prima_lettura",
+      "testo": "1 Riguardo alle carni sacrificate agli idoli, so che tutti ne abbiamo conoscenza. Ma la conoscenza riempie di orgoglio, mentre l'amore edifica. 2 Se qualcuno crede di conoscere qualcosa, non ha ancora imparato come bisogna conoscere. 3 Chi invece ama Dio, è da lui conosciuto. 4 Riguardo dunque al mangiare le carni sacrificate agli idoli, noi sappiamo che non esiste al mondo alcun idolo e che non c'è alcun dio, se non uno solo. 5 In realtà, anche se vi sono cosiddetti dèi sia nel cielo che sulla terra - e difatti ci sono molti dèi e molti signori -,\n6 per noi c'è un solo Dio, il Padre, dal quale tutto proviene e noi siamo per lui; e un solo Signore, Gesù Cristo, in virtù del quale esistono tutte le cose e noi esistiamo grazie a lui.\n7 Ma non tutti hanno la conoscenza; alcuni, fino ad ora abituati agli idoli, mangiano le carni come se fossero sacrificate agli idoli, e così la loro coscienza, debole com'è, resta contaminata. 11 Ed ecco, per la tua conoscenza, va in rovina il debole, un fratello per il quale Cristo è morto! 12 Peccando così contro i fratelli e ferendo la loro coscienza debole, voi peccate contro Cristo. 13 Per questo, se un cibo scandalizza il mio fratello, non mangerò mai più carne, per non dare scandalo al mio fratello."
+    },
+    {
+      "sigla": "Sal 138",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 138",
+      "tipo": "salmo",
+      "testo": "R. Guidami, Signore, per una via di eternità.\n\nSignore, tu mi scruti e mi conosci,\ntu conosci quando mi siedo e quando mi alzo,\nintendi da lontano i miei pensieri,\nosservi il mio cammino e il mio riposo,\nti sono note tutte le mie vie.\n\nSei tu che hai formato i miei reni\ne mi hai tessuto nel grembo di mia madre.\nIo ti rendo grazie:\nhai fatto di me una meraviglia stupenda;\nmeravigliose sono le tue opere.\n\nScrutami, o Dio, e conosci il mio cuore,\nprovami e conosci i miei pensieri;\nvedi se percorro una via di dolore\ne guidami per una via di eternità.",
+      "ritornello": "R. Guidami, Signore, per una via di eternità."
+    },
+    {
+      "sigla": "1Gv 4,12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Gv 4,12",
+      "tipo": "canto_vangelo",
+      "testo": "Se ci amiamo gli uni gli altri, Dio rimane in noi e l’amore di lui è perfetto in noi."
+    },
+    {
+      "sigla": "Lc 6,27-38",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 6,27-38",
+      "tipo": "vangelo",
+      "testo": "37 Non giudicate e non sarete giudicati; non condannate e non sarete condannati; perdonate e sarete perdonati. 38 Date e vi sarà dato: una misura buona, pigiata, colma e traboccante vi sarà versata nel grembo, perché con la misura con la quale misurate, sarà misurato a voi in cambio»."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-02",
+  "settimana": "Santi Angeli Custodi",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Es 23,20-23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Es 23,20-23",
+      "tipo": "prima_lettura",
+      "testo": "20 Ecco, io mando un angelo davanti a te per custodirti sul cammino e per farti entrare nel luogo che ho preparato. 21 Abbi rispetto della sua presenza, ascolta la sua voce e non ribellarti a lui; egli infatti non perdonerebbe la vostra trasgressione, perché il mio nome è in lui. 22 Se tu ascolti la sua voce e fai quanto ti dirò, io sarò il nemico dei tuoi nemici e l'avversario dei tuoi avversari.\n23 Quando il mio angelo camminerà alla tua testa e ti farà entrare presso l'Amorreo, l'Hittita, il Perizzita, il Cananeo, l'Eveo e il Gebuseo e io li distruggerò,"
+    },
+    {
+      "sigla": "Sal 90",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 90",
+      "tipo": "salmo",
+      "testo": "R. Darà ordine ai suoi angeli di custodirti in tutte le tue vie.\n\nChi abita al riparo dell’Altissimo\npasserà la notte all’ombra dell’Onnipotente.\nIo dico al Signore: «Mio rifugio e mia fortezza,\nmio Dio in cui confido».\n\nEgli ti libererà dal laccio del cacciatore,\ndalla peste che distrugge.\nTi coprirà con le sue penne,\nsotto le sue ali troverai rifugio;\nla sua fedeltà ti sarà scudo e corazza.\n\nNon temerai il terrore della notte\nné la freccia che vola di giorno,\nla peste che vaga nelle tenebre,\nlo sterminio che devasta a mezzogiorno.\n\nNon ti potrà colpire la sventura,\nnessun colpo cadrà sulla tua tenda.\nEgli per te darà ordine ai suoi angeli\ndi custodirti in tutte le tue vie.",
+      "ritornello": "R. Darà ordine ai suoi angeli di custodirti in tutte le tue vie."
+    },
+    {
+      "sigla": "Sal 102,21",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 102,21",
+      "tipo": "canto_vangelo",
+      "testo": "Benedite il Signore, voi tutte sue schiere, suoi ministri, che eseguite la sua volontà."
+    },
+    {
+      "sigla": "Mt 18,1-5.10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 18,1-5.10",
+      "tipo": "vangelo",
+      "testo": "1 In quel momento i discepoli si avvicinarono a Gesù dicendo: «Chi dunque è più grande nel regno dei cieli?». 2 Allora chiamò a sé un bambino, lo pose in mezzo a loro 3 e disse: «In verità io vi dico: se non vi convertirete e non diventerete come i bambini, non entrerete nel regno dei cieli. 4 Perciò chiunque si farà piccolo come questo bambino, costui è il più grande nel regno dei cieli. 5 E chi accoglierà un solo bambino come questo nel mio nome, accoglie me. 10 Guardate di non disprezzare uno solo di questi piccoli, perché io vi dico che i loro angeli nei cieli vedono sempre la faccia del Padre mio che è nei cieli. ["
+    }
+  ]
+}

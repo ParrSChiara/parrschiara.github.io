@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-17",
+  "settimana": "Sant'Ignazio di Antiochia",
+  "celebrazione": "Memoria",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "Ef 1,15-23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 1,15-23",
+      "tipo": "prima_lettura",
+      "testo": "15 Perciò anch'io, avendo avuto notizia della vostra fede nel Signore Gesù e dell'amore che avete verso tutti i santi, 16 continuamente rendo grazie per voi ricordandovi nelle mie preghiere, 17 affinché il Dio del Signore nostro Gesù Cristo, il Padre della gloria, vi dia uno spirito di sapienza e di rivelazione per una profonda conoscenza di lui; 18 illumini gli occhi del vostro cuore per farvi comprendere a quale speranza vi ha chiamati, quale tesoro di gloria racchiude la sua eredità fra i santi 19 e qual è la straordinaria grandezza della sua potenza verso di noi, che crediamo, secondo l'efficacia della sua forza e del suo vigore. 20 Egli la manifestò in Cristo, quando lo risuscitò dai morti e lo fece sedere alla sua destra nei cieli, 21 al di sopra di ogni Principato e Potenza, al di sopra di ogni Forza e Dominazione e di ogni nome che viene nominato non solo nel tempo presente ma anche in quello futuro. 22 Tutto infatti egli ha messo sotto i suoi piedi e lo ha dato alla Chiesa come capo su tutte le cose: 23 essa è il corpo di lui, la pienezza di colui che è il perfetto compimento di tutte le cose."
+    },
+    {
+      "sigla": "Sal 8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 8",
+      "tipo": "salmo",
+      "testo": "R. Hai posto il tuo Figlio sopra ogni cosa.\n\nO Signore, Signore nostro,\nquanto è mirabile il tuo nome su tutta la terra!\nVoglio innalzare sopra i cieli la tua magnificenza,\ncon la bocca di bambini e di lattanti.\n\nQuando vedo i tuoi cieli, opera delle tue dita,\nla luna e le stelle che tu hai fissato,\nche cosa è mai l’uomo perché di lui ti ricordi,\nil figlio dell’uomo, perché te ne curi?\n\nDavvero l’hai fatto poco meno di un dio,\ndi gloria e di onore lo hai coronato.\nGli hai dato potere sulle opere delle tue mani,\ntutto hai posto sotto i suoi piedi.",
+      "ritornello": "R. Hai posto il tuo Figlio sopra ogni cosa."
+    },
+    {
+      "sigla": "Gv 15,26",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,26",
+      "tipo": "canto_vangelo",
+      "testo": "Lo Spirito della verità darà testimonianza di me, dice il Signore, e anche voi date testimonianza."
+    },
+    {
+      "sigla": "Lc 12,8-12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 12,8-12",
+      "tipo": "vangelo",
+      "testo": "10 Chiunque parlerà contro il Figlio dell'uomo gli sarà perdonato, ma chi bestemmierà lo Spirito Santo non gli sarà perdonato.\n11 Quando vi condurranno davanti alle sinagoghe, ai magistrati e alle autorità, non preoccupatevi come discolparvi o che cosa dire; 12 perché lo Spirito Santo vi insegnerà in quel momento ciò che bisogna dire»."
+    }
+  ]
+}

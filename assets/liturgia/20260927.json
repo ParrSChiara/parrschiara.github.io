@@ -1,0 +1,39 @@
+{
+  "data": "2026-09-27",
+  "settimana": "XXVI DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ez 18,25-28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ez 18,25-28",
+      "tipo": "prima_lettura",
+      "testo": "26 Se il giusto si allontana dalla giustizia per commettere l'iniquità e a causa di questa muore, egli muore appunto per l'iniquità che ha commessa. 27 E se l'ingiusto desiste dall'ingiustizia che ha commessa e agisce con giustizia e rettitudine, egli fa vivere se stesso. 28 Ha riflettuto, si è allontanato da tutte le colpe commesse: egli certo vivrà e non morirà."
+    },
+    {
+      "sigla": "Sal 24",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 24",
+      "tipo": "salmo",
+      "testo": "R. Ricòrdati, Signore, della tua misericordia.\n\nFammi conoscere, Signore, le tue vie,\ninsegnami i tuoi sentieri.\nGuidami nella tua fedeltà e istruiscimi,\nperché sei tu il Dio della mia salvezza;\nio spero in te tutto il giorno.\n\nRicòrdati, Signore, della tua misericordia\ne del tuo amore, che è da sempre.\nI peccati della mia giovinezza\ne le mie ribellioni, non li ricordare:\nricòrdati di me nella tua misericordia,\nper la tua bontà, Signore.\n\nBuono e retto è il Signore,\nindica ai peccatori la via giusta;\nguida i poveri secondo giustizia,\ninsegna ai poveri la sua via.",
+      "ritornello": "R. Ricòrdati, Signore, della tua misericordia."
+    },
+    {
+      "sigla": "Fil 2,1-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Fil 2,1-11",
+      "tipo": "seconda_lettura",
+      "testo": "1 Se dunque c'è qualche consolazione in Cristo, se c'è qualche conforto, frutto della carità, se c'è qualche comunione di spirito, se ci sono sentimenti di amore e di compassione, 2 rendete piena la mia gioia con un medesimo sentire e con la stessa carità, rimanendo unanimi e concordi. 3 Non fate nulla per rivalità o vanagloria, ma ciascuno di voi, con tutta umiltà, consideri gli altri superiori a se stesso. 4 Ciascuno non cerchi l'interesse proprio, ma anche quello degli altri.\n5 Abbiate in voi gli stessi sentimenti di Cristo Gesù: 6 egli, pur essendo nella condizione di Dio, non ritenne un privilegio l'essere come Dio, 7 ma svuotò se stesso assumendo una condizione di servo, diventando simile agli uomini. Dall'aspetto riconosciuto come uomo, 8 umiliò se stesso facendosi obbediente fino alla morte e a una morte di croce. 9 Per questo Dio lo esaltò e gli donò il nome che è al di sopra di ogni nome, 10 perché nel nome di Gesù ogni ginocchio si pieghi nei cieli, sulla terra e sotto terra, 11 e ogni lingua proclami: «Gesù Cristo è Signore! , a gloria di Dio Padre."
+    },
+    {
+      "sigla": "Gv 10,27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,27",
+      "tipo": "canto_vangelo",
+      "testo": "Le mie pecore ascoltano la mia voce, dice il Signore, e io le conosco ed esse mi seguono."
+    },
+    {
+      "sigla": "Mt 21,28-32",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 21,28-32",
+      "tipo": "vangelo",
+      "testo": "28 «Che ve ne pare? Un uomo aveva due figli. Si rivolse al primo e disse: «Figlio, oggi va' a lavorare nella vigna». 29 Ed egli rispose: «Non ne ho voglia». Ma poi si pentì e vi andò. 30 Si rivolse al secondo e disse lo stesso. Ed egli rispose: «Sì, signore». Ma non vi andò. 31 Chi dei due ha compiuto la volontà del padre?». Risposero: «Il primo». E Gesù disse loro: «In verità io vi dico: i pubblicani e le prostitute vi passano avanti nel regno di Dio. 32 Giovanni infatti venne a voi sulla via della giustizia, e non gli avete creduto; i pubblicani e le prostitute invece gli hanno creduto. Voi, al contrario, avete visto queste cose, ma poi non vi siete nemmeno pentiti così da credergli."
+    }
+  ]
+}

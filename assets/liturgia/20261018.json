@@ -1,0 +1,39 @@
+{
+  "data": "2026-10-18",
+  "settimana": "XXIX DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Is 45,1.4-6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 45,1.4-6",
+      "tipo": "prima_lettura",
+      "testo": "1 Dice il Signore del suo eletto, di Ciro: «Io l'ho preso per la destra, per abbattere davanti a lui le nazioni, per sciogliere le cinture ai fianchi dei re, per aprire davanti a lui i battenti delle porte e nessun portone rimarrà chiuso. 4 Per amore di Giacobbe, mio servo, e d'Israele, mio eletto, io ti ho chiamato per nome, ti ho dato un titolo, sebbene tu non mi conosca. 5 Io sono il Signore e non c'è alcun altro, fuori di me non c'è dio; ti renderò pronto all'azione, anche se tu non mi conosci, 6 perché sappiano dall'oriente e dall'occidente che non c'è nulla fuori di me. Io sono il Signore, non ce n'è altri."
+    },
+    {
+      "sigla": "Sal 95",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 95",
+      "tipo": "salmo",
+      "testo": "R. Grande è il Signore e degno di ogni lode.\n\nCantate al Signore un canto nuovo,\ncantate al Signore, uomini di tutta la terra.\nIn mezzo alle genti narrate la sua gloria,\na tutti i popoli dite le sue meraviglie.\n\nGrande è il Signore e degno di ogni lode,\nterribile sopra tutti gli dèi.\nTutti gli dèi dei popoli sono un nulla,\nil Signore invece ha fatto i cieli.\n\nDate al Signore, o famiglie dei popoli,\ndate al Signore gloria e potenza,\ndate al Signore la gloria del suo nome.\nPortate offerte ed entrate nei suoi atri.\n\nProstratevi al Signore nel suo atrio santo.\nTremi davanti a lui tutta la terra.\nDite tra le genti: «Il Signore regna!».\nEgli giudica i popoli con rettitudine.",
+      "ritornello": "R. Grande è il Signore e degno di ogni lode."
+    },
+    {
+      "sigla": "1Ts 1,1-5",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Ts 1,1-5",
+      "tipo": "seconda_lettura",
+      "testo": "1 Paolo e Silvano e Timòteo alla Chiesa dei Tessalonicesi che è in Dio Padre e nel Signore Gesù Cristo: a voi, grazia e pace. 2 Rendiamo sempre grazie a Dio per tutti voi, ricordandovi nelle nostre preghiere 3 e tenendo continuamente presenti l'operosità della vostra fede, la fatica della vostra carità e la fermezza della vostra speranza nel Signore nostro Gesù Cristo, davanti a Dio e Padre nostro. 4 Sappiamo bene, fratelli amati da Dio, che siete stati scelti da lui. 5 Il nostro Vangelo, infatti, non si diffuse fra voi soltanto per mezzo della parola, ma anche con la potenza dello Spirito Santo e con profonda convinzione: ben sapete come ci siamo comportati in mezzo a voi per il vostro bene."
+    },
+    {
+      "sigla": "Fil 2,15-16",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Fil 2,15-16",
+      "tipo": "canto_vangelo",
+      "testo": "Fil 2,15-16"
+    },
+    {
+      "sigla": "Mt 22,15-21",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 22,15-21",
+      "tipo": "vangelo",
+      "testo": "15 Allora i farisei se ne andarono e tennero consiglio per vedere come coglierlo in fallo nei suoi discorsi. 16 Mandarono dunque da lui i propri discepoli, con gli erodiani, a dirgli: «Maestro, sappiamo che sei veritiero e insegni la via di Dio secondo verità. Tu non hai soggezione di alcuno, perché non guardi in faccia a nessuno. 17 Dunque, di' a noi il tuo parere: è lecito, o no, pagare il tributo a Cesare?». 18 Ma Gesù, conoscendo la loro malizia, rispose: «Ipocriti, perché volete mettermi alla prova? 19 Mostratemi la moneta del tributo». Ed essi gli presentarono un denaro. 20 Egli domandò loro: «Questa immagine e l'iscrizione, di chi sono?». 21 Gli risposero: «Di Cesare». Allora disse loro: «Rendete dunque a Cesare quello che è di Cesare e a Dio quello che è di Dio»."
+    }
+  ]
+}

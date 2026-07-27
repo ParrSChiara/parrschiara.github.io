@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-10",
+  "settimana": "Sabato della XXVII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Gal 3,22-29",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gal 3,22-29",
+      "tipo": "prima_lettura",
+      "testo": "22 la Scrittura invece ha rinchiuso ogni cosa sotto il peccato, perché la promessa venisse data ai credenti mediante la fede in Gesù Cristo. 23 Ma prima che venisse la fede, noi eravamo custoditi e rinchiusi sotto la Legge, in attesa della fede che doveva essere rivelata. 24 Così la Legge è stata per noi un pedagogo, fino a Cristo, perché fossimo giustificati per la fede. 25 Sopraggiunta la fede, non siamo più sotto un pedagogo. 26 Tutti voi infatti siete figli di Dio mediante la fede in Cristo Gesù, 27 poiché quanti siete stati battezzati in Cristo vi siete rivestiti di Cristo. 28 Non c'è Giudeo né Greco; non c'è schiavo né libero; non c'è maschio e femmina, perché tutti voi siete uno in Cristo Gesù. 29 Se appartenete a Cristo, allora siete discendenza di Abramo, eredi secondo la promessa."
+    },
+    {
+      "sigla": "Sal 104",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 104",
+      "tipo": "salmo",
+      "testo": "R. Il Signore si è sempre ricordato della sua alleanza.\n\nCantate al Signore, a lui inneggiate,\nmeditate tutte le sue meraviglie.\nGloriatevi del suo santo nome:\ngioisca il cuore di chi cerca il Signore.\n\nCercate il Signore e la sua potenza,\nricercate sempre il suo volto.\nRicordate le meraviglie che ha compiuto,\ni suoi prodigi e i giudizi della sua bocca.\n\nVoi, stirpe di Abramo, suo servo,\nfigli di Giacobbe, suo eletto.\nÈ lui il Signore, nostro Dio:\nsu tutta la terra i suoi giudizi.",
+      "ritornello": "R. Il Signore si è sempre ricordato della sua alleanza."
+    },
+    {
+      "sigla": "Lc 11,28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 11,28",
+      "tipo": "canto_vangelo",
+      "testo": "Beati coloro che ascoltano la parola di Dio e la osservano."
+    },
+    {
+      "sigla": "Lc 11,27-28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 11,27-28",
+      "tipo": "vangelo",
+      "testo": "27 Mentre diceva questo, una donna dalla folla alzò la voce e gli disse: «Beato il grembo che ti ha portato e il seno che ti ha allattato!». 28 Ma egli disse: «Beati piuttosto coloro che ascoltano la parola di Dio e la osservano!»."
+    }
+  ]
+}

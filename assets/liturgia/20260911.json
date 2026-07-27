@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-11",
+  "settimana": "Venerdì della XXIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "1Cor 9,16-19.22-27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 9,16-19.22-27",
+      "tipo": "prima_lettura",
+      "testo": "24 Non sapete che, nelle corse allo stadio, tutti corrono, ma uno solo conquista il premio? Correte anche voi in modo da conquistarlo! 25 Però ogni atleta è disciplinato in tutto; essi lo fanno per ottenere una corona che appassisce, noi invece una che dura per sempre. 26 Io dunque corro, ma non come chi è senza mèta; faccio pugilato, ma non come chi batte l'aria; 27 anzi tratto duramente il mio corpo e lo riduco in schiavitù, perché non succeda che, dopo avere predicato agli altri, io stesso venga squalificato."
+    },
+    {
+      "sigla": "Sal 83",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 83",
+      "tipo": "salmo",
+      "testo": "R. Quanto sono amabili le tue dimore, Signore!\n\nL’anima mia anela\ne desidera gli atri del Signore.\nIl mio cuore e la mia carne\nesultano nel Dio vivente.\n\nAnche il passero trova una casa\ne la rondine il nido dove porre i suoi piccoli,\npresso i tuoi altari, Signore degli eserciti,\nmio re e mio Dio.\n\nBeato chi abita nella tua casa:\nsenza fine canta le tue lodi.\nBeato l’uomo che trova in te il suo rifugio\ne ha le tue vie nel suo cuore.\n\nPerché sole e scudo è il Signore Dio;\nil Signore concede grazia e gloria,\nnon rifiuta il bene\na chi cammina nell’integrità.",
+      "ritornello": "R. Quanto sono amabili le tue dimore, Signore!"
+    },
+    {
+      "sigla": "Gv 17,17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 17,17",
+      "tipo": "canto_vangelo",
+      "testo": "La tua parola, Signore, è verità; consacraci nella verità."
+    },
+    {
+      "sigla": "Lc 6,39-42",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 6,39-42",
+      "tipo": "vangelo",
+      "testo": "39 Disse loro anche una parabola: «Può forse un cieco guidare un altro cieco? Non cadranno tutt'e due in una buca? 40 Il discepolo non è da più del maestro; ma ognuno ben preparato sarà come il suo maestro. 41 Perché guardi la pagliuzza che è nell'occhio del tuo fratello, e non t'accorgi della trave che è nel tuo? 42 Come puoi dire al tuo fratello: Permetti che tolga la pagliuzza che è nel tuo occhio, e tu non vedi la trave che è nel tuo? Ipocrita, togli prima la trave dal tuo occhio e allora potrai vederci bene nel togliere la pagliuzza dall'occhio del tuo fratello."
+    }
+  ]
+}

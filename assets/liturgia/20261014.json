@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-14",
+  "settimana": "Mercoledì della XXVIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Gal 5,18-25",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gal 5,18-25",
+      "tipo": "prima_lettura",
+      "testo": "24 Ora quelli che sono di Cristo Gesù hanno crocifisso la loro carne con le sue passioni e i suoi desideri. 25 Se pertanto viviamo dello Spirito, camminiamo anche secondo lo Spirito."
+    },
+    {
+      "sigla": "Sal 1",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 1",
+      "tipo": "salmo",
+      "testo": "R. Chi ti segue, Signore, avrà la luce della vita.\n\nBeato l’uomo che non entra nel consiglio dei malvagi,\nnon resta nella via dei peccatori\ne non siede in compagnia degli arroganti,\nma nella legge del Signore trova la sua gioia,\nla sua legge medita giorno e notte.\n\nÈ come albero piantato lungo corsi d’acqua,\nche dà frutto a suo tempo:\nle sue foglie non appassiscono\ne tutto quello che fa, riesce bene.\n\nNon così, non così i malvagi,\nma come pula che il vento disperde;\npoiché il Signore veglia sul cammino dei giusti,\nmentre la via dei malvagi va in rovina.",
+      "ritornello": "R. Chi ti segue, Signore, avrà la luce della vita."
+    },
+    {
+      "sigla": "Gv 10,27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,27",
+      "tipo": "canto_vangelo",
+      "testo": "Le mie pecore ascoltano la mia voce, dice il Signore, e io le conosco ed esse mi seguono."
+    },
+    {
+      "sigla": "Lc 11,42-46",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 11,42-46",
+      "tipo": "vangelo",
+      "testo": "45 Uno dei dottori della legge intervenne: «Maestro, dicendo questo, offendi anche noi». 46 Egli rispose: «Guai anche a voi, dottori della legge, che caricate gli uomini di pesi insopportabili, e quei pesi voi non li toccate nemmeno con un dito!"
+    }
+  ]
+}

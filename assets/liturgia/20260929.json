@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-29",
+  "settimana": "SANTI ARCANGELI MICHELE, GABRIELE E RAFFAELE",
+  "celebrazione": "FESTA",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Dn 7,9-10.13-14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Dn 7,9-10.13-14",
+      "tipo": "prima_lettura",
+      "testo": "13 Guardando ancora nelle visioni notturne, ecco venire con le nubi del cielo uno simile a un figlio d'uomo; giunse fino al vegliardo e fu presentato a lui. 14 Gli furono dati potere, gloria e regno; tutti i popoli, nazioni e lingue lo servivano: il suo potere è un potere eterno, che non finirà mai, e il suo regno non sarà mai distrutto."
+    },
+    {
+      "sigla": "Sal 137",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 137",
+      "tipo": "salmo",
+      "testo": "R. Cantiamo al Signore, grande è la sua gloria.\n\nTi rendo grazie, Signore, con tutto il cuore:\nhai ascoltato le parole della mia bocca.\nNon agli dèi, ma a te voglio cantare,\nmi prostro verso il tuo tempio santo.\n\nRendo grazie al tuo nome per il tuo amore e la tua fedeltà:\nhai reso la tua promessa più grande del tuo nome.\nNel giorno in cui ti ho invocato, mi hai risposto,\nhai accresciuto in me la forza.\n\nTi renderanno grazie, Signore, tutti i re della terra,\nquando ascolteranno le parole della tua bocca.\nCanteranno le vie del Signore:\ngrande è la gloria del Signore!",
+      "ritornello": "R. Cantiamo al Signore, grande è la sua gloria."
+    },
+    {
+      "sigla": "Sal 102,20.21",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 102,20.21",
+      "tipo": "canto_vangelo",
+      "testo": "Sal 102,20.21"
+    },
+    {
+      "sigla": "Gv 1,47-51",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 1,47-51",
+      "tipo": "vangelo",
+      "testo": "47 Gesù intanto, visto Natanaele che gli veniva incontro, disse di lui: «Ecco davvero un Israelita in cui non c'è falsità». 48 Natanaele gli domandò: «Come mi conosci?». Gli rispose Gesù: «Prima che Filippo ti chiamasse, io ti ho visto quando eri sotto l'albero di fichi». 49 Gli replicò Natanaele: «Rabbì, tu sei il Figlio di Dio, tu sei il re d'Israele!». 50 Gli rispose Gesù: «Perché ti ho detto che ti avevo visto sotto l'albero di fichi, tu credi? Vedrai cose più grandi di queste!». 51 Poi gli disse: «In verità, in verità io vi dico: vedrete il cielo aperto e gli angeli di Dio salire e scendere sopra il Figlio dell'uomo»."
+    }
+  ]
+}

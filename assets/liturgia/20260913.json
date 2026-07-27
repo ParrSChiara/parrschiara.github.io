@@ -1,0 +1,39 @@
+{
+  "data": "2026-09-13",
+  "settimana": "XXIV DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Sir 27,33-28,9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sir 27,33-28,9",
+      "tipo": "prima_lettura",
+      "testo": "8 Astieniti dalle risse e diminuirai i peccati, perché l'uomo passionale attizza la lite. 9 Un uomo peccatore semina discordia tra gli amici e tra persone pacifiche diffonde la calunnia."
+    },
+    {
+      "sigla": "Sal 102",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 102",
+      "tipo": "salmo",
+      "testo": "R. Il Signore è buono e grande nell’amore.\n\nBenedici il Signore, anima mia,\nquanto è in me benedica il suo santo nome.\nBenedici il Signore, anima mia,\nnon dimenticare tutti i suoi benefici.\n\nEgli perdona tutte le tue colpe,\nguarisce tutte le tue infermità,\nsalva dalla fossa la tua vita,\nti circonda di bontà e misericordia.\n\nNon è in lite per sempre,\nnon rimane adirato in eterno.\nNon ci tratta secondo i nostri peccati\ne non ci ripaga secondo le nostre colpe.\n\nPerché quanto il cielo è alto sulla terra,\ncosì la sua misericordia è potente su quelli che lo temono;\nquanto dista l’oriente dall’occidente,\ncosì egli allontana da noi le nostre colpe.",
+      "ritornello": "R. Il Signore è buono e grande nell’amore."
+    },
+    {
+      "sigla": "Rm 14,7-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 14,7-9",
+      "tipo": "seconda_lettura",
+      "testo": "7 Nessuno di noi infatti vive per se stesso o muore per se stesso. 8 Perché se viviamo, viviamo per il Signore, e se moriamo, moriamo per il Signore. E così, sia che viviamo, sia che moriamo, apparteniamo al Signore. 9 Infatti Cristo è morto ed è tornato in vita per essere il Signore dei morti e dei vivi."
+    },
+    {
+      "sigla": "Gv 13,34",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 13,34",
+      "tipo": "canto_vangelo",
+      "testo": "Vi do un comandamento nuovo, dice il Signore: come io ho amato voi, così amatevi anche voi gli uni gli altri."
+    },
+    {
+      "sigla": "Mt 18,21-35",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 18,21-35",
+      "tipo": "vangelo",
+      "testo": "21 Allora Pietro gli si avvicinò e gli disse: «Signore, se il mio fratello commette colpe contro di me, quante volte dovrò perdonargli? Fino a sette volte?». 22 E Gesù gli rispose: «Non ti dico fino a sette volte, ma fino a settanta volte sette. 23 Per questo, il regno dei cieli è simile a un re che volle regolare i conti con i suoi servi. 24 Aveva cominciato a regolare i conti, quando gli fu presentato un tale che gli doveva diecimila talenti. 25 Poiché costui non era in grado di restituire, il padrone ordinò che fosse venduto lui con la moglie, i figli e quanto possedeva, e così saldasse il debito. 26 Allora il servo, prostrato a terra, lo supplicava dicendo: «Abbi pazienza con me e ti restituirò ogni cosa». 27 Il padrone ebbe compassione di quel servo, lo lasciò andare e gli condonò il debito. 28 Appena uscito, quel servo trovò uno dei suoi compagni, che gli doveva cento denari. Lo prese per il collo e lo soffocava, dicendo: «Restituisci quello che devi!». 29 Il suo compagno, prostrato a terra, lo pregava dicendo: «Abbi pazienza con me e ti restituirò». 30 Ma egli non volle, andò e lo fece gettare in prigione, fino a che non avesse pagato il debito. 31 Visto quello che accadeva, i suoi compagni furono molto dispiaciuti e andarono a riferire al loro padrone tutto l'accaduto. 32 Allora il padrone fece chiamare quell'uomo e gli disse: «Servo malvagio, io ti ho condonato tutto quel debito perché tu mi hai pregato. 33 Non dovevi anche tu aver pietà del tuo compagno, così come io ho avuto pietà di te?». 34 Sdegnato, il padrone lo diede in mano agli aguzzini, finché non avesse restituito tutto il dovuto. 35 Così anche il Padre mio celeste farà con voi se non perdonerete di cuore, ciascuno al proprio fratello»."
+    }
+  ]
+}

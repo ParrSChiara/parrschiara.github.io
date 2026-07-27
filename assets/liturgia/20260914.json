@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-14",
+  "settimana": "ESALTAZIONE DELLA SANTA CROCE",
+  "celebrazione": "FESTA",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "Nm 21,4-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Nm 21,4-9",
+      "tipo": "prima_lettura",
+      "testo": "4 Gli Israeliti si mossero dal monte Or per la via del Mar Rosso, per aggirare il territorio di Edom. Ma il popolo non sopportò il viaggio. 5 Il popolo disse contro Dio e contro Mosè: «Perché ci avete fatto salire dall'Egitto per farci morire in questo deserto? Perché qui non c'è né pane né acqua e siamo nauseati di questo cibo così leggero». 6 Allora il Signore mandò fra il popolo serpenti brucianti i quali mordevano la gente, e un gran numero d'Israeliti morì. 7 Il popolo venne da Mosè e disse: «Abbiamo peccato, perché abbiamo parlato contro il Signore e contro di te; supplica il Signore che allontani da noi questi serpenti». Mosè pregò per il popolo. 8 Il Signore disse a Mosè: «Fatti un serpente e mettilo sopra un'asta; chiunque sarà stato morso e lo guarderà, resterà in vita». 9 Mosè allora fece un serpente di bronzo e lo mise sopra l'asta; quando un serpente aveva morso qualcuno, se questi guardava il serpente di bronzo, restava in vita."
+    },
+    {
+      "sigla": "Sal 77",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 77",
+      "tipo": "salmo",
+      "testo": "R. Non dimenticate le opere del Signore!\n\nAscolta, popolo mio, la mia legge,\nporgi l’orecchio alle parole della mia bocca.\nAprirò la mia bocca con una parabola,\nrievocherò gli enigmi dei tempi antichi.\n\nQuando li uccideva, lo cercavano\ne tornavano a rivolgersi a lui,\nricordavano che Dio è la loro roccia\ne Dio, l’Altissimo, il loro redentore.\n\nLo lusingavano con la loro bocca,\nma gli mentivano con la lingua:\nil loro cuore non era costante verso di lui\ne non erano fedeli alla sua alleanza.\n\nMa lui, misericordioso, perdonava la colpa,\ninvece di distruggere.\nMolte volte trattenne la sua ira\ne non scatenò il suo furore.",
+      "ritornello": "R. Non dimenticate le opere del Signore!"
+    },
+    {
+      "sigla": "Fil 2,6-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Fil 2,6-11",
+      "tipo": "seconda_lettura",
+      "testo": "6 Egli era come Dio ma non conservò gelosamente il suo essere uguale a Dio. 7 Rinunziò a tutto: diventò come un servo, fu uomo tra gli uomini e fu considerato come uno di loro. 8 Abbassò se stesso, fu obbediente fino alla morte, alla morte di croce. 9 Perciò Dio lo ha innalzato sopra tutte le cose e gli ha dato il nome più grande. 10 Perché in onore di Gesù, in cielo, in terra e sotto terra, ognuno pieghi le ginocchia, 11 e per la gloria di Dio Padre ogni lingua proclami: Gesù Cristo è il Signore."
+    },
+    {
+      "sigla": "Gv 3,13-17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 3,13-17",
+      "tipo": "vangelo",
+      "testo": "16 Dio infatti ha tanto amato il mondo da dare il Figlio unigenito, perché chiunque crede in lui non vada perduto, ma abbia la vita eterna. 17 Dio, infatti, non ha mandato il Figlio nel mondo per condannare il mondo, ma perché il mondo sia salvato per mezzo di lui."
+    }
+  ]
+}

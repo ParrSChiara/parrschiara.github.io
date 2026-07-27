@@ -1,0 +1,27 @@
+{
+  "data": "2026-09-08",
+  "settimana": "NATIVITA' DELLA BEATA VERGINE MARIA",
+  "celebrazione": "FESTA",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Mi 5,1-4",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mi 5,1-4",
+      "tipo": "prima_lettura",
+      "testo": "1 E tu, Betlemme di Èfrata, così piccola per essere fra i villaggi di Giuda, da te uscirà per me colui che deve essere il dominatore in Israele; le sue origini sono dall'antichità, dai giorni più remoti. 2 Perciò Dio li metterà in potere altrui fino a quando partorirà colei che deve partorire; e il resto dei tuoi fratelli ritornerà ai figli d'Israele. 3 Egli si leverà e pascerà con la forza del Signore, con la maestà del nome del Signore, suo Dio. Abiteranno sicuri, perché egli allora sarà grande fino agli estremi confini della terra. 4 Egli stesso sarà la pace! Se Assur entrerà nella nostra terra e metterà il piede nei nostri palazzi, noi schiereremo contro di lui sette pastori e otto capi di uomini,"
+    },
+    {
+      "sigla": "Sal 12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 12",
+      "tipo": "salmo",
+      "testo": "R. Gioisco pienamente nel Signore.\n\nGuarda, rispondimi, Signore, mio Dio,\nconserva la luce ai miei occhi.\n\nIo nella tua fedeltà ho confidato;\nesulterà il mio cuore nella tua salvezza,\ncanterò al Signore, che mi ha beneficato.",
+      "ritornello": "R. Gioisco pienamente nel Signore."
+    },
+    {
+      "sigla": "Mt 1,1-16.18-23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 1,1-16.18-23",
+      "tipo": "vangelo",
+      "testo": "18 Così fu generato Gesù Cristo: sua madre Maria, essendo promessa sposa di Giuseppe, prima che andassero a vivere insieme si trovò incinta per opera dello Spirito Santo. 19 Giuseppe suo sposo, poiché era uomo giusto e non voleva accusarla pubblicamente, pensò di ripudiarla in segreto. 20 Mentre però stava considerando queste cose, ecco, gli apparve in sogno un angelo del Signore e gli disse: «Giuseppe, figlio di Davide, non temere di prendere con te Maria, tua sposa. Infatti il bambino che è generato in lei viene dallo Spirito Santo; 21 ella darà alla luce un figlio e tu lo chiamerai Gesù: egli infatti salverà il suo popolo dai suoi peccati». 22 Tutto questo è avvenuto perché si compisse ciò che era stato detto dal Signore per mezzo del profeta:\nche significa Dio con noi ."
+    }
+  ]
+}

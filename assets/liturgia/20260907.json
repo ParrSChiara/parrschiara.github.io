@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-07",
+  "settimana": "Lunedì della XXIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "1Cor 5,1-8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 5,1-8",
+      "tipo": "prima_lettura",
+      "testo": "6 Non è bello che voi vi vantiate. Non sapete che un po' di lievito fa fermentare tutta la pasta? 7 Togliete via il lievito vecchio, per essere pasta nuova, poiché siete azzimi. E infatti Cristo, nostra Pasqua, è stato immolato! 8 Celebriamo dunque la festa non con il lievito vecchio, né con lievito di malizia e di perversità, ma con azzimi di sincerità e di verità."
+    },
+    {
+      "sigla": "Sal 5",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 5",
+      "tipo": "salmo",
+      "testo": "R. Guidami, Signore, nella tua giustizia.\n\nTu non sei un Dio che gode del male,\nnon è tuo ospite il malvagio;\ngli stolti non resistono al tuo sguardo.\n\nTu hai in odio tutti i malfattori,\ntu distruggi chi dice menzogne.\nSanguinari e ingannatori, il Signore li detesta.\n\nGioiscano quanti in te si rifugiano,\nesultino senza fine.\nProteggili, perché in te si allietino\nquanti amano il tuo nome.",
+      "ritornello": "R. Guidami, Signore, nella tua giustizia."
+    },
+    {
+      "sigla": "Gv 10,27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,27",
+      "tipo": "canto_vangelo",
+      "testo": "Le mie pecore ascoltano la mia voce, dice il Signore, e io le conosco ed esse mi seguono."
+    },
+    {
+      "sigla": "Lc 6,6-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 6,6-11",
+      "tipo": "vangelo",
+      "testo": "6 Un altro sabato egli entrò nella sinagoga e si mise a insegnare. Ora c'era là un uomo, che aveva la mano destra inaridita. 7 Gli scribi e i farisei lo osservavano per vedere se lo guariva di sabato, allo scopo di trovare un capo di accusa contro di lui. 8 Ma Gesù era a conoscenza dei loro pensieri e disse all'uomo che aveva la mano inaridita: «Alzati e mettiti nel mezzo!». L'uomo, alzatosi, si mise nel punto indicato. 9 Poi Gesù disse loro: «Domando a voi: E' lecito in giorno di sabato fare del bene o fare del male, salvare una vita o perderla?». 10 E volgendo tutt'intorno lo sguardo su di loro, disse all'uomo: «Stendi la mano!». Egli lo fece e la mano guarì. 11 Ma essi furono pieni di rabbia e discutevano fra di loro su quello che avrebbero potuto fare a Gesù."
+    }
+  ]
+}

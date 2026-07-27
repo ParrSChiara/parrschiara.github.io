@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-09",
+  "settimana": "Venerdì della XXVII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Gal 3,7-14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gal 3,7-14",
+      "tipo": "prima_lettura",
+      "testo": "7 Sappiate dunque che i veri discendenti di Abramo sono quelli che hanno fede. 8 È previsto nella Bibbia che Dio avrebbe salvato anche i non Ebrei che hanno fede. Infatti Dio ha fatto questa promessa ad Abramo: Per mezzo tuo benedirò tutti i popoli. 9 Abramo credette a Dio e fu benedetto, e così tutti quelli che credono sono benedetti con lui. 10 Invece quanti mettono la loro fiducia nella pratica della Legge sono sotto la maledizione. Perché la Bibbia dice: Maledetto chiunque non osserva e non mette in pratica ogni precetto contenuto nel libro della Legge. 11 È chiaro dunque che Dio non salva nessuno per mezzo della Legge. Lo dice anche la Bibbia: Colui che crede è giusto davanti a Dio, egli avrà la vita. 12 Ma la Legge non ha nulla a che fare con la fede. La Bibbia dice: Chi mette in pratica i precetti della Legge avrà la vita per mezzo di essa. 13 Quindi noi eravamo sotto la maledizione della Legge. Cristo ce ne ha liberati quando sulla croce ha preso su di sé questa maledizione. Infatti la Bibbia dice: Chiunque è appeso a un legno è maledetto. 14 Così, per mezzo di Gesù Cristo, la benedizione che Dio aveva promesso ad Abramo raggiunge anche i pagani; e tutti noi che abbiamo fede in Cristo riceviamo lo Spirito promesso."
+    },
+    {
+      "sigla": "Sal 110",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 110",
+      "tipo": "salmo",
+      "testo": "R. Il Signore si ricorda sempre della sua alleanza.\n\nRenderò grazie al Signore con tutto il cuore,\ntra gli uomini retti riuniti in assemblea.\nGrandi sono le opere del Signore:\nle ricerchino coloro che le amano.\n\nIl suo agire è splendido e maestoso,\nla sua giustizia rimane per sempre.\nHa lasciato un ricordo delle sue meraviglie:\nmisericordioso e pietoso è il Signore.\n\nEgli dà il cibo a chi lo teme,\nsi ricorda sempre della sua alleanza.\nMostrò al suo popolo la potenza delle sue opere,\ngli diede l’eredità delle genti.",
+      "ritornello": "R. Il Signore si ricorda sempre della sua alleanza."
+    },
+    {
+      "sigla": "Gv 12,31-32",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 12,31-32",
+      "tipo": "canto_vangelo",
+      "testo": "Gv 12,31-32"
+    },
+    {
+      "sigla": "Lc 11,15-26",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 11,15-26",
+      "tipo": "vangelo",
+      "testo": "21 Quando un uomo forte, bene armato, fa la guardia al suo palazzo, tutti i suoi beni stanno al sicuro. 22 Ma se arriva uno più forte di lui e lo vince, gli strappa via l'armatura nella quale confidava e ne distribuisce il bottino.\n23 Chi non è con me, è contro di me; e chi non raccoglie con me, disperde."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "data": "2026-09-20",
+  "settimana": "XXV DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Is 55,6-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 55,6-9",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 144",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 144",
+      "tipo": "salmo",
+      "testo": "R. Il Signore è vicino a chi lo invoca.\n\nTi voglio benedire ogni giorno,\nlodare il tuo nome in eterno e per sempre.\nGrande è il Signore e degno di ogni lode;\nsenza fine è la sua grandezza.\n\nMisericordioso e pietoso è il Signore,\nlento all’ira e grande nell’amore.\nBuono è il Signore verso tutti,\nla sua tenerezza si espande su tutte le creature.\n\nGiusto è il Signore in tutte le sue vie\ne buono in tutte le sue opere.\nIl Signore è vicino a chiunque lo invoca,\na quanti lo invocano con sincerità.",
+      "ritornello": "R. Il Signore è vicino a chi lo invoca."
+    },
+    {
+      "sigla": "Fil 1,20-24.27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Fil 1,20-24.27",
+      "tipo": "seconda_lettura",
+      "testo": "27 Comportatevi dunque in modo degno del vangelo di Cristo perché, sia che io venga e vi veda, sia che io rimanga lontano, abbia notizie di voi: che state saldi in un solo spirito e che combattete unanimi per la fede del Vangelo,"
+    },
+    {
+      "sigla": "At 16,14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 16,14",
+      "tipo": "canto_vangelo",
+      "testo": "Apri, Signore, il nostro cuore e accoglieremo le parole del Figlio tuo."
+    },
+    {
+      "sigla": "Mt 20,1-16",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 20,1-16",
+      "tipo": "vangelo",
+      "testo": "1 Il regno dei cieli è simile a un padrone di casa che uscì all'alba per prendere a giornata lavoratori per la sua vigna. 2 Si accordò con loro per un denaro al giorno e li mandò nella sua vigna. 3 Uscito poi verso le nove del mattino, ne vide altri che stavano in piazza, disoccupati, 4 e disse loro: «Andate anche voi nella vigna; quello che è giusto ve lo darò». 5 Ed essi andarono. Uscì di nuovo verso mezzogiorno, e verso le tre, e fece altrettanto. 6 Uscito ancora verso le cinque, ne vide altri che se ne stavano lì e disse loro: «Perché ve ne state qui tutto il giorno senza far niente?». 7 Gli risposero: «Perché nessuno ci ha presi a giornata». Ed egli disse loro: «Andate anche voi nella vigna». 8 Quando fu sera, il padrone della vigna disse al suo fattore: «Chiama i lavoratori e da' loro la paga, incominciando dagli ultimi fino ai primi». 9 Venuti quelli delle cinque del pomeriggio, ricevettero ciascuno un denaro. 10 Quando arrivarono i primi, pensarono che avrebbero ricevuto di più. Ma anch'essi ricevettero ciascuno un denaro. 11 Nel ritirarlo, però, mormoravano contro il padrone 12 dicendo: «Questi ultimi hanno lavorato un'ora soltanto e li hai trattati come noi, che abbiamo sopportato il peso della giornata e il caldo». 13 Ma il padrone, rispondendo a uno di loro, disse: «Amico, io non ti faccio torto. Non hai forse concordato con me per un denaro? 14 Prendi il tuo e vattene. Ma io voglio dare anche a quest'ultimo quanto a te: 15 non posso fare delle mie cose quello che voglio? Oppure tu sei invidioso perché io sono buono?». 16 Così gli ultimi saranno primi e i primi, ultimi»."
+    }
+  ]
+}

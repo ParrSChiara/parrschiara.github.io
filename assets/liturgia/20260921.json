@@ -1,0 +1,27 @@
+{
+  "data": "2026-09-21",
+  "settimana": "SAN MATTEO",
+  "celebrazione": "FESTA",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "Ef 4,1-7.11-13",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 4,1-7.11-13",
+      "tipo": "prima_lettura",
+      "testo": "1 Io dunque, prigioniero a motivo del Signore, vi esorto: comportatevi in maniera degna della chiamata che avete ricevuto, 2 con ogni umiltà, dolcezza e magnanimità, sopportandovi a vicenda nell'amore, 3 avendo a cuore di conservare l'unità dello spirito per mezzo del vincolo della pace. 4 Un solo corpo e un solo spirito, come una sola è la speranza alla quale siete stati chiamati, quella della vostra vocazione; 5 un solo Signore, una sola fede, un solo battesimo. 6 Un solo Dio e Padre di tutti, che è al di sopra di tutti, opera per mezzo di tutti ed è presente in tutti. 7 A ciascuno di noi, tuttavia, è stata data la grazia secondo la misura del dono di Cristo. 11 Ed egli ha dato ad alcuni di essere apostoli, ad altri di essere profeti, ad altri ancora di essere evangelisti, ad altri di essere pastori e maestri, 12 per preparare i fratelli a compiere il ministero, allo scopo di edificare il corpo di Cristo, 13 finché arriviamo tutti all'unità della fede e della conoscenza del Figlio di Dio, fino all'uomo perfetto, fino a raggiungere la misura della pienezza di Cristo."
+    },
+    {
+      "sigla": "Sal 18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 18",
+      "tipo": "salmo",
+      "testo": "R. Per tutta la terra si diffonde il loro annuncio.\n\nI cieli narrano la gloria di Dio,\nl’opera delle sue mani annuncia il firmamento.\nIl giorno al giorno ne affida il racconto\ne la notte alla notte ne trasmette notizia.\n\nSenza linguaggio, senza parole,\nsenza che si oda la loro voce,\nper tutta la terra si diffonde il loro annuncio\ne ai confini del mondo il loro messaggio.",
+      "ritornello": "R. Per tutta la terra si diffonde il loro annuncio."
+    },
+    {
+      "sigla": "Mt 9,9-13",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 9,9-13",
+      "tipo": "vangelo",
+      "testo": "9 Andando via di là, Gesù vide un uomo, chiamato Matteo, seduto al banco delle imposte, e gli disse: «Seguimi». Ed egli si alzò e lo seguì. 10 Mentre sedeva a tavola nella casa, sopraggiunsero molti pubblicani e peccatori e se ne stavano a tavola con Gesù e con i suoi discepoli. 11 Vedendo ciò, i farisei dicevano ai suoi discepoli: «Come mai il vostro maestro mangia insieme ai pubblicani e ai peccatori?». 12 Udito questo, disse: «Non sono i sani che hanno bisogno del medico, ma i malati. 13 Andate a imparare che cosa vuol dire: Misericordia io voglio e non sacrifici . Io non sono venuto infatti a chiamare i giusti, ma i peccatori»."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": "2026-10-21",
+  "settimana": "Mercoledì della XXIX settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ef 3,2-12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 3,2-12",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Is 12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 12",
+      "tipo": "salmo",
+      "testo": "R. Attingerete acqua con gioia alle sorgenti della salvezza.\n\nEcco, Dio è la mia salvezza;\nio avrò fiducia, non avrò timore,\nperché mia forza e mio canto è il Signore;\negli è stato la mia salvezza.\n\nAttingerete acqua con gioia\nalle sorgenti della salvezza.\nRendete grazie al Signore e invocate il suo nome,\nproclamate fra i popoli le sue opere,\nfate ricordare che il suo nome è sublime.\n\nCantate inni al Signore, perché ha fatto cose eccelse,\nle conosca tutta la terra.\nCanta ed esulta, tu che abiti in Sion,\nperché grande in mezzo a te è il Santo d’Israele.",
+      "ritornello": "R. Attingerete acqua con gioia alle sorgenti della salvezza."
+    },
+    {
+      "sigla": "Mt 24,44",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 24,44",
+      "tipo": "canto_vangelo",
+      "testo": "Vegliate e tenetevi pronti, perché, nell’ora che non immaginate, viene il Figlio dell’uomo."
+    },
+    {
+      "sigla": "Lc 12,39-48",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 12,39-48",
+      "tipo": "vangelo",
+      "testo": "41 Allora Pietro disse: «Signore, questa parabola la dici per noi o anche per tutti?». 42 Il Signore rispose: «Qual è dunque l'amministratore fedele e saggio, che il Signore porrà a capo della sua servitù, per distribuire a tempo debito la razione di cibo? 43 Beato quel servo che il padrone, arrivando, troverà al suo lavoro. 44 In verità vi dico, lo metterà a capo di tutti i suoi averi. 45 Ma se quel servo dicesse in cuor suo: Il padrone tarda a venire, e cominciasse a percuotere i servi e le serve, a mangiare, a bere e a ubriacarsi, 46 il padrone di quel servo arriverà nel giorno in cui meno se l'aspetta e in un'ora che non sa, e lo punirà con rigore assegnandogli il posto fra gli infedeli. 47 Il servo che, conoscendo la volontà del padrone, non avrà disposto o agito secondo la sua volontà, riceverà molte percosse; 48 quello invece che, non conoscendola, avrà fatto cose meritevoli di percosse, ne riceverà poche. A chiunque fu dato molto, molto sarà chiesto; a chi fu affidato molto, sarà richiesto molto di più."
+    }
+  ]
+}

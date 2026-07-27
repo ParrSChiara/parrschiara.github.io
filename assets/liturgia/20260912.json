@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-12",
+  "settimana": "Sabato della XXIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "1Cor 10,14-22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 10,14-22",
+      "tipo": "prima_lettura",
+      "testo": "14 Perciò, o miei cari, fuggite l'idolatria. 15 Parlo come a persone intelligenti; giudicate voi stessi quello che dico: 16 il calice della benedizione che noi benediciamo, non è forse comunione con il sangue di Cristo? E il pane che noi spezziamo, non è forse comunione con il corpo di Cristo? 17 Poiché c'è un solo pane, noi, pur essendo molti, siamo un corpo solo: tutti infatti partecipiamo dell'unico pane. 18 Guardate Israele secondo la carne: quelli che mangiano le vittime sacrificali non sono forse in comunione con l'altare?\n19 Che cosa dunque intendo dire? Che la carne immolata agli idoli è qualche cosa? O che un idolo è qualche cosa? 20 No, ma dico che i sacrifici dei pagani sono fatti a demòni e non a Dio. Ora, io non voglio che voi entriate in comunione con i demòni; 21 non potete bere il calice del Signore e il calice dei demòni; non potete partecipare alla mensa del Signore e alla mensa dei demòni. 22 O vogliamo provocare la gelosia del Signore? Siamo forse più forti di lui?"
+    },
+    {
+      "sigla": "Sal 115",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 115",
+      "tipo": "salmo",
+      "testo": "R. A te, Signore, offrirò un sacrificio di ringraziamento.\n\nChe cosa renderò al Signore\nper tutti i benefici che mi ha fatto?\nAlzerò il calice della salvezza\ne invocherò il nome del Signore.\n\nA te offrirò un sacrificio di ringraziamento\ne invocherò il nome del Signore.\nAdempirò i miei voti al Signore\ndavanti a tutto il suo popolo.",
+      "ritornello": "R. A te, Signore, offrirò un sacrificio di ringraziamento."
+    },
+    {
+      "sigla": "Gv 14,23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 14,23",
+      "tipo": "canto_vangelo",
+      "testo": "Se uno mi ama, osserverà la mia parola, dice il Signore, e il Padre mio lo amerà e noi verremo a lui."
+    },
+    {
+      "sigla": "Lc 6,43-49",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 6,43-49",
+      "tipo": "vangelo",
+      "testo": "46 Perché mi invocate: «Signore, Signore!» e non fate quello che dico? 47 Chiunque viene a me e ascolta le mie parole e le mette in pratica, vi mostrerò a chi è simile: 48 è simile a un uomo che, costruendo una casa, ha scavato molto profondo e ha posto le fondamenta sulla roccia. Venuta la piena, il fiume investì quella casa, ma non riuscì a smuoverla perché era costruita bene. 49 Chi invece ascolta e non mette in pratica, è simile a un uomo che ha costruito una casa sulla terra, senza fondamenta. Il fiume la investì e subito crollò; e la distruzione di quella casa fu grande»."
+    }
+  ]
+}

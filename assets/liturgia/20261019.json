@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-19",
+  "settimana": "Lunedì della XXIX settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ef 2,1-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 2,1-10",
+      "tipo": "prima_lettura",
+      "testo": "1 Anche voi eravate morti per le vostre colpe e i vostri peccati, 2 nei quali un tempo viveste, alla maniera di questo mondo, seguendo il principe delle Potenze dell'aria, quello spirito che ora opera negli uomini ribelli. 3 Anche tutti noi, come loro, un tempo siamo vissuti nelle nostre passioni carnali seguendo le voglie della carne e dei pensieri cattivi: eravamo per natura meritevoli d'ira, come gli altri. 4 Ma Dio, ricco di misericordia, per il grande amore con il quale ci ha amato, 5 da morti che eravamo per le colpe, ci ha fatto rivivere con Cristo: per grazia siete salvati. 6 Con lui ci ha anche risuscitato e ci ha fatto sedere nei cieli, in Cristo Gesù, 7 per mostrare nei secoli futuri la straordinaria ricchezza della sua grazia mediante la sua bontà verso di noi in Cristo Gesù. 8 Per grazia infatti siete salvati mediante la fede; e ciò non viene da voi, ma è dono di Dio; 9 né viene dalle opere, perché nessuno possa vantarsene. 10 Siamo infatti opera sua, creati in Cristo Gesù per le opere buone, che Dio ha preparato perché in esse camminassimo."
+    },
+    {
+      "sigla": "Sal 99",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 99",
+      "tipo": "salmo",
+      "testo": "R. Il Signore ci ha fatti e noi siamo suoi.\n\nAcclamate il Signore, voi tutti della terra,\nservite il Signore nella gioia,\npresentatevi a lui con esultanza.\n\nRiconoscete che solo il Signore è Dio:\negli ci ha fatti e noi siamo suoi,\nsuo popolo e gregge del suo pascolo.\n\nVarcate le sue porte con inni di grazie,\ni suoi atri con canti di lode,\nlodatelo, benedite il suo nome.\n\nPerché buono è il Signore,\nil suo amore è per sempre,\nla sua fedeltà di generazione in generazione.",
+      "ritornello": "R. Il Signore ci ha fatti e noi siamo suoi."
+    },
+    {
+      "sigla": "Mt 5,3",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 5,3",
+      "tipo": "canto_vangelo",
+      "testo": "Beati i poveri in spirito, perché di essi è il regno dei cieli."
+    },
+    {
+      "sigla": "Lc 12,13-21",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 12,13-21",
+      "tipo": "vangelo",
+      "testo": "13 Uno della folla gli disse: «Maestro, di' a mio fratello che divida con me l'eredità». 14 Ma egli rispose: «O uomo, chi mi ha costituito giudice o mediatore sopra di voi?». 15 E disse loro: «Fate attenzione e tenetevi lontani da ogni cupidigia perché, anche se uno è nell'abbondanza, la sua vita non dipende da ciò che egli possiede». 16 Poi disse loro una parabola: «La campagna di un uomo ricco aveva dato un raccolto abbondante. 17 Egli ragionava tra sé: «Che farò, poiché non ho dove mettere i miei raccolti? 18 Farò così - disse -: demolirò i miei magazzini e ne costruirò altri più grandi e vi raccoglierò tutto il grano e i miei beni. 19 Poi dirò a me stesso: Anima mia, hai a disposizione molti beni, per molti anni; ripòsati, mangia, bevi e divèrtiti!». 20 Ma Dio gli disse: «Stolto, questa notte stessa ti sarà richiesta la tua vita. E quello che hai preparato, di chi sarà?». 21 Così è di chi accumula tesori per sé e non si arricchisce presso Dio»."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-01",
+  "settimana": "Santa Teresa di Gesù Bambino",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Gb 19,21-27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gb 19,21-27",
+      "tipo": "prima_lettura",
+      "testo": "21 'Pietà, amici miei, abbiate pietà di me! Dio mi ha percosso. 22 Perché mi perseguitate come fa Dio? Non mi avete tormentato abbastanza?\n25 'Io lo so, colui che mi difende è vivo; egli un giorno mi riabiliterà, 26 e, perduta la mia pelle, distrutto il mio corpo, io stesso vedrò Dio. 27 Lo vedrò accanto a me e lo riconoscerò. Lo sento con il cuore, ne sono certo."
+    },
+    {
+      "sigla": "Sal 26",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 26",
+      "tipo": "salmo",
+      "testo": "R. Contemplerò la bontà del Signore nella terra dei viventi.\n\nAscolta, Signore, la mia voce.\nIo grido: abbi pietà di me, rispondimi!\nIl mio cuore ripete il tuo invito:\n«Cercate il mio volto!».\n\nIl tuo volto, Signore, io cerco.\nNon nascondermi il tuo volto,\nnon respingere con ira il tuo servo.\nSei tu il mio aiuto, non lasciarmi.\n\nSono certo di contemplare la bontà del Signore\nnella terra dei viventi.\nSpera nel Signore, sii forte,\nsi rinsaldi il tuo cuore e spera nel Signore.",
+      "ritornello": "R. Contemplerò la bontà del Signore nella terra dei viventi."
+    },
+    {
+      "sigla": "Mc 1,15",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 1,15",
+      "tipo": "canto_vangelo",
+      "testo": "Il regno di Dio è vicino; convertitevi e credete nel Vangelo."
+    },
+    {
+      "sigla": "Lc 10,1-12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 10,1-12",
+      "tipo": "vangelo",
+      "testo": "1 Dopo questi fatti il Signore designò altri settantadue e li inviò a due a due davanti a sé in ogni città e luogo dove stava per recarsi. 2 Diceva loro: «La messe è abbondante, ma sono pochi gli operai! Pregate dunque il signore della messe, perché mandi operai nella sua messe! 3 Andate: ecco, vi mando come agnelli in mezzo a lupi; 4 non portate borsa, né sacca, né sandali e non fermatevi a salutare nessuno lungo la strada. 5 In qualunque casa entriate, prima dite: «Pace a questa casa!». 6 Se vi sarà un figlio della pace, la vostra pace scenderà su di lui, altrimenti ritornerà su di voi. 7 Restate in quella casa, mangiando e bevendo di quello che hanno, perché chi lavora ha diritto alla sua ricompensa. Non passate da una casa all'altra. 8 Quando entrerete in una città e vi accoglieranno, mangiate quello che vi sarà offerto, 9 guarite i malati che vi si trovano, e dite loro: «È vicino a voi il regno di Dio». 10 Ma quando entrerete in una città e non vi accoglieranno, uscite sulle sue piazze e dite: 11 «Anche la polvere della vostra città, che si è attaccata ai nostri piedi, noi la scuotiamo contro di voi; sappiate però che il regno di Dio è vicino». 12 Io vi dico che, in quel giorno, Sòdoma sarà trattata meno duramente di quella città."
+    }
+  ]
+}

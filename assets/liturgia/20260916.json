@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-16",
+  "settimana": "Santi Cornelio e Cipriano",
+  "celebrazione": "Memoria",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "1Cor 12,31-13,13",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 12,31-13,13",
+      "tipo": "prima_lettura",
+      "testo": "2 E se avessi il dono della profezia e conoscessi tutti i misteri e tutta la scienza, e possedessi la pienezza della fede così da trasportare le montagne, ma non avessi la carità, non sono nulla.\n3 E se anche distribuissi tutte le mie sostanze e dessi il mio corpo per esser bruciato, ma non avessi la carità, niente mi giova.\n13 Queste dunque le tre cose che rimangono: la fede, la speranza e la carità; ma di tutte più grande è la carità!"
+    },
+    {
+      "sigla": "Sal 32",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 32",
+      "tipo": "salmo",
+      "testo": "R. Beato il popolo scelto dal Signore.\n\nLodate il Signore con la cetra,\ncon l’arpa a dieci corde a lui cantate.\nCantate al Signore un canto nuovo,\ncon arte suonate la cetra e acclamate.\n\nPerché retta è la parola del Signore\ne fedele ogni sua opera.\nEgli ama la giustizia e il diritto;\ndell’amore del Signore è piena la terra.\n\nBeata la nazione che ha il Signore come Dio,\nil popolo che egli ha scelto come sua eredità.\nSu di noi sia il tuo amore, Signore,\ncome da te noi speriamo.",
+      "ritornello": "R. Beato il popolo scelto dal Signore."
+    },
+    {
+      "sigla": "Gv 6,63",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 6,63",
+      "tipo": "canto_vangelo",
+      "testo": "Le tue parole, Signore, sono spirito e sono vita; tu hai parole di vita eterna."
+    },
+    {
+      "sigla": "Lc 7,31-35",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 7,31-35",
+      "tipo": "vangelo",
+      "testo": "«Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non avete pianto!».\n33 È venuto infatti Giovanni il Battista, che non mangia pane e non beve vino, e voi dite: «È indemoniato». 34 È venuto il Figlio dell'uomo, che mangia e beve, e voi dite: «Ecco un mangione e un beone, un amico di pubblicani e di peccatori!». 35 Ma la Sapienza è stata riconosciuta giusta da tutti i suoi figli»."
+    }
+  ]
+}

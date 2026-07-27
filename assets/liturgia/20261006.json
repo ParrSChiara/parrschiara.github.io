@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-06",
+  "settimana": "Martedì della XXVII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Gal 1,13-24",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gal 1,13-24",
+      "tipo": "prima_lettura",
+      "testo": "13 Voi avete certamente sentito parlare della mia condotta di un tempo nel giudaismo: perseguitavo ferocemente la Chiesa di Dio e la devastavo, 14 superando nel giudaismo la maggior parte dei miei coetanei e connazionali, accanito com'ero nel sostenere le tradizioni dei padri. 15 Ma quando Dio, che mi scelse fin dal seno di mia madre e mi chiamò con la sua grazia, si compiacque 16 di rivelare in me il Figlio suo perché lo annunciassi in mezzo alle genti, subito, senza chiedere consiglio a nessuno, 17 senza andare a Gerusalemme da coloro che erano apostoli prima di me, mi recai in Arabia e poi ritornai a Damasco. 18 In seguito, tre anni dopo, salii a Gerusalemme per andare a conoscere Cefa e rimasi presso di lui quindici giorni; 19 degli apostoli non vidi nessun altro, se non Giacomo, il fratello del Signore. 20 In ciò che vi scrivo - lo dico davanti a Dio - non mentisco. 21 Poi andai nelle regioni della Siria e della Cilìcia. 22 Ma non ero personalmente conosciuto dalle Chiese della Giudea che sono in Cristo; 23 avevano soltanto sentito dire: «Colui che una volta ci perseguitava, ora va annunciando la fede che un tempo voleva distruggere». 24 E glorificavano Dio per causa mia."
+    },
+    {
+      "sigla": "Sal 138",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 138",
+      "tipo": "salmo",
+      "testo": "R. Guidami, Signore, per una via di eternità.\n\nSignore, tu mi scruti e mi conosci,\ntu conosci quando mi siedo e quando mi alzo,\nintendi da lontano i miei pensieri,\nosservi il mio cammino e il mio riposo,\nti sono note tutte le mie vie.\n\nSei tu che hai formato i miei reni\ne mi hai tessuto nel grembo di mia madre.\nIo ti rendo grazie:\nhai fatto di me una meraviglia stupenda.\n\nMeravigliose sono le tue opere,\nle riconosce pienamente l’anima mia.\nNon ti erano nascoste le mie ossa\nquando venivo formato nel segreto,\nricamato nelle profondità della terra.",
+      "ritornello": "R. Guidami, Signore, per una via di eternità."
+    },
+    {
+      "sigla": "Lc 11,28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 11,28",
+      "tipo": "canto_vangelo",
+      "testo": "Beati coloro che ascoltano la parola di Dio e la osservano."
+    },
+    {
+      "sigla": "Lc 10,38-42",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 10,38-42",
+      "tipo": "vangelo",
+      "testo": "38 Mentre erano in cammino, entrò in un villaggio e una donna, di nome Marta, lo ospitò . 39 Ella aveva una sorella, di nome Maria, la quale, seduta ai piedi del Signore, ascoltava la sua parola. 40 Marta invece era distolta per i molti servizi. Allora si fece avanti e disse: «Signore, non t'importa nulla che mia sorella mi abbia lasciata sola a servire? Dille dunque che mi aiuti». 41 Ma il Signore le rispose: «Marta, Marta, tu ti affanni e ti agiti per molte cose, 42 ma di una cosa sola c'è bisogno . Maria ha scelto la parte migliore, che non le sarà tolta»."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": "2026-09-22",
+  "settimana": "Martedì della XXV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Pr 21,1-6.10-13",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Pr 21,1-6.10-13",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 118",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 118",
+      "tipo": "salmo",
+      "testo": "R. Guidami, Signore, sul sentiero dei tuoi comandi.\n\nBeato chi è integro nella sua via\ne cammina nella legge del Signore.\nFammi conoscere la via dei tuoi precetti\ne mediterò le tue meraviglie.\n\nHo scelto la via della fedeltà,\nmi sono proposto i tuoi giudizi.\nDammi intelligenza, perché io custodisca la tua legge\ne la osservi con tutto il cuore.\n\nGuidami sul sentiero dei tuoi comandi,\nperché in essi è la mia felicità.\nOsserverò continuamente la tua legge,\nin eterno, per sempre.",
+      "ritornello": "R. Guidami, Signore, sul sentiero dei tuoi comandi."
+    },
+    {
+      "sigla": "Lc 11,28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 11,28",
+      "tipo": "canto_vangelo",
+      "testo": "Beati coloro che ascoltano la parola di Dio e la osservano."
+    },
+    {
+      "sigla": "Lc 8,19-21",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 8,19-21",
+      "tipo": "vangelo",
+      "testo": "19 E andarono da lui la madre e i suoi fratelli, ma non potevano avvicinarlo a causa della folla. 20 Gli fecero sapere: «Tua madre e i tuoi fratelli stanno fuori e desiderano vederti». 21 Ma egli rispose loro: «Mia madre e miei fratelli sono questi: coloro che ascoltano la parola di Dio e la mettono in pratica»."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-15",
+  "settimana": "Santa Teresa d'Avila",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Ef 1,1-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 1,1-10",
+      "tipo": "prima_lettura",
+      "testo": "3 Benedetto Dio, Padre del Signore nostro Gesù Cristo, che ci ha benedetti con ogni benedizione spirituale nei cieli in Cristo. 4 In lui ci ha scelti prima della creazione del mondo per essere santi e immacolati di fronte a lui nella carità, 5 predestinandoci a essere per lui figli adottivi mediante Gesù Cristo, secondo il disegno d'amore della sua volontà, 6 a lode dello splendore della sua grazia, di cui ci ha gratificati nel Figlio amato. 7 In lui, mediante il suo sangue, abbiamo la redenzione, il perdono delle colpe, secondo la ricchezza della sua grazia. 8 Egli l'ha riversata in abbondanza su di noi con ogni sapienza e intelligenza, 9 facendoci conoscere il mistero della sua volontà, secondo la benevolenza che in lui si era proposto 10 per il governo della pienezza dei tempi: ricondurre al Cristo, unico capo, tutte le cose, quelle nei cieli e quelle sulla terra."
+    },
+    {
+      "sigla": "Sal 97",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 97",
+      "tipo": "salmo",
+      "testo": "R. Il Signore ha rivelato la sua giustizia.\n\nCantate al Signore un canto nuovo,\nperché ha compiuto meraviglie.\nGli ha dato vittoria la sua destra\ne il suo braccio santo.\n\nIl Signore ha fatto conoscere la sua salvezza,\nagli occhi delle genti ha rivelato la sua giustizia.\nEgli si è ricordato del suo amore,\ndella sua fedeltà alla casa d’Israele.\n\nTutti i confini della terra hanno veduto\nla vittoria del nostro Dio.\nAcclami il Signore tutta la terra,\ngridate, esultate, cantate inni!\n\nCantate inni al Signore con la cetra,\ncon la cetra e al suono di strumenti a corde;\ncon le trombe e al suono del corno\nacclamate davanti al re, il Signore.",
+      "ritornello": "R. Il Signore ha rivelato la sua giustizia."
+    },
+    {
+      "sigla": "Gv 14,6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 14,6",
+      "tipo": "canto_vangelo",
+      "testo": "Io sono la via, la verità e la vita, dice il Signore. Nessuno viene al Padre se non per mezzo di me."
+    },
+    {
+      "sigla": "Lc 11,47-54",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 11,47-54",
+      "tipo": "vangelo",
+      "testo": "47 Guai a voi, che costruite i sepolcri dei profeti, e i vostri padri li hanno uccisi. 48 Così voi testimoniate e approvate le opere dei vostri padri: essi li uccisero e voi costruite. 49 Per questo la sapienza di Dio ha detto: «Manderò loro profeti e apostoli ed essi li uccideranno e perseguiteranno», 50 perché a questa generazione sia chiesto conto del sangue di tutti i profeti, versato fin dall'inizio del mondo: 51 dal sangue di Abele fino al sangue di Zaccaria, che fu ucciso tra l'altare e il santuario. Sì, io vi dico, ne sarà chiesto conto a questa generazione. 52 Guai a voi, dottori della Legge, che avete portato via la chiave della conoscenza; voi non siete entrati, e a quelli che volevano entrare voi l'avete impedito». 53 Quando fu uscito di là, gli scribi e i farisei cominciarono a trattarlo in modo ostile e a farlo parlare su molti argomenti, 54 tendendogli insidie, per sorprenderlo in qualche parola uscita dalla sua stessa bocca."
+    }
+  ]
+}

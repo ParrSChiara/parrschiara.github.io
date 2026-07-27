@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-25",
+  "settimana": "Venerdì della XXV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Qo 3,1-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Qo 3,1-11",
+      "tipo": "prima_lettura",
+      "testo": "1 Tutto ha il suo momento, e ogni evento ha il suo tempo sotto il cielo.\n10 Ho considerato l'occupazione che Dio ha dato agli uomini perché vi si affatichino. 11 Egli ha fatto bella ogni cosa a suo tempo; inoltre ha posto nel loro cuore la durata dei tempi, senza però che gli uomini possano trovare la ragione di ciò che Dio compie dal principio alla fine."
+    },
+    {
+      "sigla": "Sal 143",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 143",
+      "tipo": "salmo",
+      "testo": "R. Benedetto il Signore, mia roccia.\n\nBenedetto il Signore, mia roccia,\nmio alleato e mia fortezza,\nmio rifugio e mio liberatore,\nmio scudo in cui confido.\n\nSignore, che cos’è l’uomo perché tu l’abbia a cuore?\nIl figlio dell’uomo, perché te ne dia pensiero?\nL’uomo è come un soffio,\ni suoi giorni come ombra che passa.",
+      "ritornello": "R. Benedetto il Signore, mia roccia."
+    },
+    {
+      "sigla": "Mt 10,45",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 10,45",
+      "tipo": "canto_vangelo",
+      "testo": "Il Figlio dell’uomo è venuto per servire e dare la propria vita in riscatto per molti."
+    },
+    {
+      "sigla": "Lc 9,18-22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 9,18-22",
+      "tipo": "vangelo",
+      "testo": "21 Egli ordinò loro severamente di non riferirlo ad alcuno. 22 «Il Figlio dell'uomo - disse - deve soffrire molto, essere rifiutato dagli anziani, dai capi dei sacerdoti e dagli scribi, venire ucciso e risorgere il terzo giorno»."
+    }
+  ]
+}

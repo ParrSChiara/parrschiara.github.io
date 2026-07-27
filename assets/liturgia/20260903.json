@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-03",
+  "settimana": "San Gregorio Magno",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "1Cor 3,18-23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 3,18-23",
+      "tipo": "prima_lettura",
+      "testo": "18 Nessuno si illuda. Se qualcuno tra voi si crede un sapiente in questo mondo, si faccia stolto per diventare sapiente, 19 perché la sapienza di questo mondo è stoltezza davanti a Dio. Sta scritto infatti: Egli fa cadere i sapienti per mezzo della loro astuzia . 20 E ancora: Il Signore sa che i progetti dei sapienti sono vani . 21 Quindi nessuno ponga il suo vanto negli uomini, perché tutto è vostro: 22 Paolo, Apollo, Cefa, il mondo, la vita, la morte, il presente, il futuro: tutto è vostro! 23 Ma voi siete di Cristo e Cristo è di Dio."
+    },
+    {
+      "sigla": "Sal 23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 23",
+      "tipo": "salmo",
+      "testo": "R. Del Signore è la terra e quanto contiene.\n\nDel Signore è la terra e quanto contiene:\nil mondo, con i suoi abitanti.\nÈ lui che l’ha fondato sui mari\ne sui fiumi l’ha stabilito.\n\nChi potrà salire il monte del Signore?\nChi potrà stare nel suo luogo santo?\nChi ha mani innocenti e cuore puro,\nchi non si rivolge agli idoli.\n\nEgli otterrà benedizione dal Signore,\ngiustizia da Dio sua salvezza.\nEcco la generazione che lo cerca,\nche cerca il tuo volto, Dio di Giacobbe.",
+      "ritornello": "R. Del Signore è la terra e quanto contiene."
+    },
+    {
+      "sigla": "Mt 4,19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 4,19",
+      "tipo": "canto_vangelo",
+      "testo": "Venite dietro a me, dice il Signore, vi farò pescatori di uomini."
+    },
+    {
+      "sigla": "Lc 5,1-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 5,1-11",
+      "tipo": "vangelo",
+      "testo": "1 Mentre la folla gli faceva ressa attorno per ascoltare la parola di Dio, Gesù, stando presso il lago di Gennèsaret, 2 vide due barche accostate alla sponda. I pescatori erano scesi e lavavano le reti. 3 Salì in una barca, che era di Simone, e lo pregò di scostarsi un poco da terra. Sedette e insegnava alle folle dalla barca. 4 Quando ebbe finito di parlare, disse a Simone: «Prendi il largo e gettate le vostre reti per la pesca». 5 Simone rispose: «Maestro, abbiamo faticato tutta la notte e non abbiamo preso nulla; ma sulla tua parola getterò le reti». 6 Fecero così e presero una quantità enorme di pesci e le loro reti quasi si rompevano. 7 Allora fecero cenno ai compagni dell'altra barca, che venissero ad aiutarli. Essi vennero e riempirono tutte e due le barche fino a farle quasi affondare. 8 Al vedere questo, Simon Pietro si gettò alle ginocchia di Gesù, dicendo: «Signore, allontànati da me, perché sono un peccatore». 9 Lo stupore infatti aveva invaso lui e tutti quelli che erano con lui, per la pesca che avevano fatto; 10 così pure Giacomo e Giovanni, figli di Zebedeo, che erano soci di Simone. Gesù disse a Simone: «Non temere; d'ora in poi sarai pescatore di uomini». 11 E, tirate le barche a terra, lasciarono tutto e lo seguirono."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-04",
+  "settimana": "Venerdì della XXII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "1Cor 4,1-5",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 4,1-5",
+      "tipo": "prima_lettura",
+      "testo": "1 Ognuno ci consideri come servi di Cristo e amministratori dei misteri di Dio. 2 Ora, ciò che si richiede agli amministratori è che ognuno risulti fedele. 3 A me però importa assai poco di venire giudicato da voi o da un tribunale umano; anzi, io non giudico neppure me stesso, 4 perché, anche se non sono consapevole di alcuna colpa, non per questo sono giustificato. Il mio giudice è il Signore! 5 Non vogliate perciò giudicare nulla prima del tempo, fino a quando il Signore verrà. Egli metterà in luce i segreti delle tenebre e manifesterà le intenzioni dei cuori; allora ciascuno riceverà da Dio la lode."
+    },
+    {
+      "sigla": "Sal 36",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 36",
+      "tipo": "salmo",
+      "testo": "R. La salvezza dei giusti viene dal Signore.\n\nConfida nel Signore e fa’ il bene:\nabiterai la terra e vi pascolerai con sicurezza.\nCerca la gioia nel Signore:\nesaudirà i desideri del tuo cuore.\n\nAffida al Signore la tua via,\nconfida in lui ed egli agirà:\nfarà brillare come luce la tua giustizia,\nil tuo diritto come il mezzogiorno.\n\nSta’ lontano dal male e fa’ il bene\ne avrai sempre una casa.\nPerché il Signore ama il diritto\ne non abbandona i suoi fedeli.\n\nLa salvezza dei giusti viene dal Signore:\nnel tempo dell’angoscia è loro fortezza.\nIl Signore li aiuta e li libera,\nli libera dai malvagi e li salva,\nperché in lui si sono rifugiati.",
+      "ritornello": "R. La salvezza dei giusti viene dal Signore."
+    },
+    {
+      "sigla": "Gv 8,12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 8,12",
+      "tipo": "canto_vangelo",
+      "testo": "Io sono la luce del mondo, dice il Signore; chi segue me avrà la luce della vita."
+    },
+    {
+      "sigla": "Lc 5,33-39",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 5,33-39",
+      "tipo": "vangelo",
+      "testo": "33 Allora gli dissero: «I discepoli di Giovanni digiunano spesso e fanno preghiere, così pure i discepoli dei farisei; i tuoi invece mangiano e bevono!». 34 Gesù rispose loro: «Potete forse far digiunare gli invitati a nozze quando lo sposo è con loro? 35 Ma verranno giorni quando lo sposo sarà loro tolto: allora in quei giorni digiuneranno». 36 Diceva loro anche una parabola: «Nessuno strappa un pezzo da un vestito nuovo per metterlo su un vestito vecchio; altrimenti il nuovo lo strappa e al vecchio non si adatta il pezzo preso dal nuovo. 37 E nessuno versa vino nuovo in otri vecchi; altrimenti il vino nuovo spaccherà gli otri, si spanderà e gli otri andranno perduti. 38 Il vino nuovo bisogna versarlo in otri nuovi. 39 Nessuno poi che beve il vino vecchio desidera il nuovo, perché dice: «Il vecchio è gradevole!»»."
+    }
+  ]
+}

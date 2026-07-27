@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-07",
+  "settimana": "Beata Maria Vergine del Rosario",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Gal 2,1-2.7-14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gal 2,1-2.7-14",
+      "tipo": "prima_lettura",
+      "testo": "11 Ma quando Cefa venne ad Antiòchia, mi opposi a lui a viso aperto perché aveva torto. 12 Infatti, prima che giungessero alcuni da parte di Giacomo, egli prendeva cibo insieme ai pagani; ma, dopo la loro venuta, cominciò a evitarli e a tenersi in disparte, per timore dei circoncisi. 13 E anche gli altri Giudei lo imitarono nella simulazione, tanto che pure Bàrnaba si lasciò attirare nella loro ipocrisia. 14 Ma quando vidi che non si comportavano rettamente secondo la verità del Vangelo, dissi a Cefa in presenza di tutti: «Se tu, che sei Giudeo, vivi come i pagani e non alla maniera dei Giudei, come puoi costringere i pagani a vivere alla maniera dei Giudei?»."
+    },
+    {
+      "sigla": "Sal 116",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 116",
+      "tipo": "salmo",
+      "testo": "R. Andate in tutto il mondo e proclamate il Vangelo.\n\nGenti tutte, lodate il Signore,\npopoli tutti, cantate la sua lode.\n\nPerché forte è il suo amore per noi\ne la fedeltà del Signore dura per sempre.",
+      "ritornello": "R. Andate in tutto il mondo e proclamate il Vangelo."
+    },
+    {
+      "sigla": "Rom 8,15",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rom 8,15",
+      "tipo": "canto_vangelo",
+      "testo": "Avete ricevuto lo Spirito che rende figli adottivi, per mezzo del quale gridiamo: «Abbà! Padre!»."
+    },
+    {
+      "sigla": "Lc 11,1-4",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 11,1-4",
+      "tipo": "vangelo",
+      "testo": "Padre, sia santificato il tuo nome, venga il tuo regno; 3 dacci ogni giorno il nostro pane quotidiano, 4 e perdona a noi i nostri peccati, anche noi infatti perdoniamo a ogni nostro debitore, e non abbandonarci alla tentazione»."
+    }
+  ]
+}

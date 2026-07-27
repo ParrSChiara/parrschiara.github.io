@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-05",
+  "settimana": "Lunedì della XXVII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Gal 1,6-12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gal 1,6-12",
+      "tipo": "prima_lettura",
+      "testo": "11 Vi dichiaro, fratelli, che il Vangelo da me annunciato non segue un modello umano; 12 infatti io non l'ho ricevuto né l'ho imparato da uomini, ma per rivelazione di Gesù Cristo."
+    },
+    {
+      "sigla": "Sal 110",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 110",
+      "tipo": "salmo",
+      "testo": "R. Il Signore si ricorda sempre della sua alleanza.\n\nRenderò grazie al Signore con tutto il cuore,\ntra gli uomini retti riuniti in assemblea.\nGrandi sono le opere del Signore:\nle ricerchino coloro che le amano.\n\nLe opere delle sue mani sono verità e diritto,\nstabili sono tutti i suoi comandi,\nimmutabili nei secoli, per sempre,\nda eseguire con verità e rettitudine.\n\nMandò a liberare il suo popolo,\nstabilì la sua alleanza per sempre.\nSanto e terribile è il suo nome.\nLa lode del Signore rimane per sempre.",
+      "ritornello": "R. Il Signore si ricorda sempre della sua alleanza."
+    },
+    {
+      "sigla": "Gv 13,34",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 13,34",
+      "tipo": "canto_vangelo",
+      "testo": "Vi do un comandamento nuovo, dice il Signore: come io ho amato voi, così amatevi anche voi gli uni gli altri."
+    },
+    {
+      "sigla": "Lc 10,25-37",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 10,25-37",
+      "tipo": "vangelo",
+      "testo": "25 Ed ecco, un dottore della Legge si alzò per metterlo alla prova e chiese: «Maestro, che cosa devo fare per ereditare la vita eterna?». 26 Gesù gli disse: «Che cosa sta scritto nella Legge? Come leggi?». 27 Costui rispose: « Amerai il Signore tuo Dio con tutto il tuo cuore, con tutta la tua anima, con tutta la tua forza e con tutta la tua mente, e il tuo prossimo come te stesso ». 28 Gli disse: «Hai risposto bene; fa' questo e vivrai». 29 Ma quello, volendo giustificarsi, disse a Gesù: «E chi è mio prossimo?». 30 Gesù riprese: «Un uomo scendeva da Gerusalemme a Gerico e cadde nelle mani dei briganti, che gli portarono via tutto, lo percossero a sangue e se ne andarono, lasciandolo mezzo morto. 31 Per caso, un sacerdote scendeva per quella medesima strada e, quando lo vide, passò oltre. 32 Anche un levita, giunto in quel luogo, vide e passò oltre. 33 Invece un Samaritano, che era in viaggio, passandogli accanto, vide e ne ebbe compassione. 34 Gli si fece vicino, gli fasciò le ferite, versandovi olio e vino; poi lo caricò sulla sua cavalcatura, lo portò in un albergo e si prese cura di lui. 35 Il giorno seguente, tirò fuori due denari e li diede all'albergatore, dicendo: «Abbi cura di lui; ciò che spenderai in più, te lo pagherò al mio ritorno». 36 Chi di questi tre ti sembra sia stato prossimo di colui che è caduto nelle mani dei briganti?». 37 Quello rispose: «Chi ha avuto compassione di lui». Gesù gli disse: «Va' e anche tu fa' così»."
+    }
+  ]
+}

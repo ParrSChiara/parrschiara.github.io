@@ -1,0 +1,33 @@
+{
+  "data": "2026-09-09",
+  "settimana": "Mercoledì della XXIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "1Cor 7,25-31",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 7,25-31",
+      "tipo": "prima_lettura",
+      "testo": "29 Questo vi dico, fratelli: il tempo ormai si è fatto breve; d'ora innanzi, quelli che hanno moglie, vivano come se non l'avessero; 30 coloro che piangono, come se non piangessero e quelli che godono come se non godessero; quelli che comprano, come se non possedessero; 31 quelli che usano del mondo, come se non ne usassero appieno: perché passa la scena di questo mondo!"
+    },
+    {
+      "sigla": "Sal 44",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 44",
+      "tipo": "salmo",
+      "testo": "R. Ascolta, figlia, guarda, porgi l’orecchio.\n\nAscolta, figlia, guarda, porgi l’orecchio:\ndimentica il tuo popolo e la casa di tuo padre;\nil re è invaghito della tua bellezza.\nÈ lui il tuo signore: rendigli omaggio.\n\nEntra la figlia del re: è tutta splendore,\ntessuto d’oro è il suo vestito.\nÈ condotta al re in broccati preziosi;\ndietro a lei le vergini, sue compagne,\na te sono presentate.\n\nCondotte in gioia ed esultanza,\nsono presentate nel palazzo del re.\nAi tuoi padri succederanno i tuoi figli;\nli farai prìncipi di tutta la terra.",
+      "ritornello": "R. Ascolta, figlia, guarda, porgi l’orecchio."
+    },
+    {
+      "sigla": "Lc 6,23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 6,23",
+      "tipo": "canto_vangelo",
+      "testo": "Rallegratevi ed esultate, dice il Signore, perché, ecco, la vostra ricompensa è grande nel cielo."
+    },
+    {
+      "sigla": "Lc 6,20-26",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 6,20-26",
+      "tipo": "vangelo",
+      "testo": "«Beati voi, poveri, perché vostro è il regno di Dio. 21 Beati voi, che ora avete fame, perché sarete saziati. Beati voi, che ora piangete, perché riderete. 22 Beati voi, quando gli uomini vi odieranno e quando vi metteranno al bando e vi insulteranno e disprezzeranno il vostro nome come infame, a causa del Figlio dell'uomo. 23 Rallegratevi in quel giorno ed esultate perché, ecco, la vostra ricompensa è grande nel cielo. Allo stesso modo infatti agivano i loro padri con i profeti. 24 Ma guai a voi, ricchi, perché avete già ricevuto la vostra consolazione. 25 Guai a voi, che ora siete sazi, perché avrete fame. Guai a voi, che ora ridete, perché sarete nel dolore e piangerete. 26 Guai, quando tutti gli uomini diranno bene di voi. Allo stesso modo infatti agivano i loro padri con i falsi profeti."
+    }
+  ]
+}

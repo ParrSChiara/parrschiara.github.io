@@ -1,0 +1,26 @@
+{
+  "data": "2026-09-15",
+  "settimana": "Beata Vergine Maria Addolorata",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Eb 5,7-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Eb 5,7-9",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 30",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 30",
+      "tipo": "salmo",
+      "testo": "R. Salvami, Signore, per la tua misericordia.\n\nIn te, Signore, mi sono rifugiato,\nmai sarò deluso;\ndifendimi per la tua giustizia.\nTendi a me il tuo orecchio.\n\nVieni presto a liberarmi.\nSii per me una roccia di rifugio,\nun luogo fortificato che mi salva.\nPerché mia rupe e mia fortezza tu sei,\nper il tuo nome guidami e conducimi.\n\nScioglimi dal laccio che mi hanno teso,\nperché sei tu la mia difesa.\nAlle tue mani affido il mio spirito;\ntu mi hai riscattato, Signore, Dio fedele.\n\nMa io confido in te, Signore;\ndico: «Tu sei il mio Dio,\ni miei giorni sono nelle tue mani».\nLiberami dalla mano dei miei nemici\ne dai miei persecutori.\n\nQuanto è grande la tua bontà, Signore!\nLa riservi per coloro che ti temono,\nla dispensi, davanti ai figli dell’uomo,\na chi in te si rifugia.",
+      "ritornello": "R. Salvami, Signore, per la tua misericordia."
+    },
+    {
+      "sigla": "Gv 19,25-27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 19,25-27",
+      "tipo": "vangelo",
+      "testo": "25 stavano alcune donne: la madre di Gesù, sua sorella, Maria di Cléofa e Maria di Màgdala. 26 Gesù vide sua madre e accanto a lei il discepolo preferito. Allora disse a sua madre: 'Donna, ecco tuo figlio'. 27 Poi disse al discepolo: 'Ecco tua madre'. Da quel momento il discepolo la prese in casa sua."
+    }
+  ]
+}

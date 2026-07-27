@@ -1,0 +1,39 @@
+{
+  "data": "2026-10-04",
+  "settimana": "XXVII DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Is 5,1-7",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 5,1-7",
+      "tipo": "prima_lettura",
+      "testo": "1 Voglio cantare per il mio diletto il mio cantico d'amore per la sua vigna. Il mio diletto possedeva una vigna sopra un fertile colle. 2 Egli l'aveva dissodata e sgombrata dai sassi e vi aveva piantato viti pregiate; in mezzo vi aveva costruito una torre e scavato anche un tino. Egli aspettò che producesse uva; essa produsse, invece, acini acerbi. 3 E ora, abitanti di Gerusalemme e uomini di Giuda, siate voi giudici fra me e la mia vigna. 4 Che cosa dovevo fare ancora alla mia vigna che io non abbia fatto? Perché, mentre attendevo che producesse uva, essa ha prodotto acini acerbi? 5 Ora voglio farvi conoscere ciò che sto per fare alla mia vigna: toglierò la sua siepe e si trasformerà in pascolo; demolirò il suo muro di cinta e verrà calpestata. 6 La renderò un deserto, non sarà potata né vangata e vi cresceranno rovi e pruni; alle nubi comanderò di non mandarvi la pioggia. 7 Ebbene, la vigna del Signore degli eserciti è la casa d'Israele; gli abitanti di Giuda sono la sua piantagione preferita. Egli si aspettava giustizia ed ecco spargimento di sangue, attendeva rettitudine ed ecco grida di oppressi."
+    },
+    {
+      "sigla": "Sal 79",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 79",
+      "tipo": "salmo",
+      "testo": "R. La vigna del Signore è la casa d’Israele.\n\nHai sradicato una vite dall’Egitto,\nhai scacciato le genti e l’hai trapiantata.\nHa esteso i suoi tralci fino al mare,\narrivavano al fiume i suoi germogli.\n\nPerché hai aperto brecce nella sua cinta\ne ne fa vendemmia ogni passante?\nLa devasta il cinghiale del bosco\ne vi pascolano le bestie della campagna.\n\nDio degli eserciti, ritorna!\nGuarda dal cielo e vedi\ne visita questa vigna,\nproteggi quello che la tua destra ha piantato,\nil figlio dell’uomo che per te hai reso forte.\n\nDa te mai più ci allontaneremo,\nfacci rivivere e noi invocheremo il tuo nome.\nSignore, Dio degli eserciti, fa’ che ritorniamo,\nfa’ splendere il tuo volto e noi saremo salvi.",
+      "ritornello": "R. La vigna del Signore è la casa d’Israele."
+    },
+    {
+      "sigla": "Fil 4,6-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Fil 4,6-9",
+      "tipo": "seconda_lettura",
+      "testo": "8 In conclusione, fratelli, tutto quello che è vero, nobile, giusto, puro, amabile, onorato, quello che è virtù e merita lode, tutto questo sia oggetto dei vostri pensieri. 9 Ciò che avete imparato, ricevuto, ascoltato e veduto in me, è quello che dovete fare. E il Dio della pace sarà con voi!"
+    },
+    {
+      "sigla": "Gv 15,16",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,16",
+      "tipo": "canto_vangelo",
+      "testo": "Io ho scelto voi, dice il Signore, perché andiate e portiate frutto e il vostro frutto rimanga."
+    },
+    {
+      "sigla": "Mt 21,33-43",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 21,33-43",
+      "tipo": "vangelo",
+      "testo": "La pietra che i costruttori hanno scartato è diventata la pietra d'angolo; questo è stato fatto dal Signore ed è una meraviglia ai nostri occhi ?\n43 Perciò io vi dico: a voi sarà tolto il regno di Dio e sarà dato a un popolo che ne produca i frutti."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-20",
+  "settimana": "Martedì della XXIX settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ef 2,12-22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 2,12-22",
+      "tipo": "prima_lettura",
+      "testo": "12 ricordatevi che in quel tempo eravate senza Cristo, esclusi dalla cittadinanza d'Israele, estranei ai patti della promessa, senza speranza e senza Dio nel mondo. 13 Ora invece, in Cristo Gesù, voi che un tempo eravate lontani, siete diventati vicini, grazie al sangue di Cristo. 14 Egli infatti è la nostra pace, colui che di due ha fatto una cosa sola, abbattendo il muro di separazione che li divideva, cioè l'inimicizia, per mezzo della sua carne. 15 Così egli ha abolito la Legge, fatta di prescrizioni e di decreti, per creare in se stesso, dei due, un solo uomo nuovo, facendo la pace, 16 e per riconciliare tutti e due con Dio in un solo corpo, per mezzo della croce, eliminando in se stesso l'inimicizia. 17 Egli è venuto ad annunciare pace a voi che eravate lontani, e pace a coloro che erano vicini. 18 Per mezzo di lui infatti possiamo presentarci, gli uni e gli altri, al Padre in un solo Spirito. 19 Così dunque voi non siete più stranieri né ospiti, ma siete concittadini dei santi e familiari di Dio, 20 edificati sopra il fondamento degli apostoli e dei profeti, avendo come pietra d'angolo lo stesso Cristo Gesù. 21 In lui tutta la costruzione cresce ben ordinata per essere tempio santo nel Signore; 22 in lui anche voi venite edificati insieme per diventare abitazione di Dio per mezzo dello Spirito."
+    },
+    {
+      "sigla": "Sal 84",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 84",
+      "tipo": "salmo",
+      "testo": "R. Il Signore annuncia la pace al suo popolo.\n\nAscolterò che cosa dice Dio, il Signore:\negli annuncia la pace.\nSì, la sua salvezza è vicina a chi lo teme,\nperché la sua gloria abiti la nostra terra.\n\nAmore e verità s’incontreranno,\ngiustizia e pace si baceranno.\nVerità germoglierà dalla terra\ne giustizia si affaccerà dal cielo.\n\nCerto, il Signore donerà il suo bene\ne la nostra terra darà il suo frutto;\ngiustizia camminerà davanti a lui:\ni suoi passi tracceranno il cammino.",
+      "ritornello": "R. Il Signore annuncia la pace al suo popolo."
+    },
+    {
+      "sigla": "Lc 21,36",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 21,36",
+      "tipo": "canto_vangelo",
+      "testo": "Vegliate in ogni momento pregando, perché abbiate la forza di comparire davanti al Figlio dell’uomo."
+    },
+    {
+      "sigla": "Lc 12,35-38",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 12,35-38",
+      "tipo": "vangelo",
+      "testo": "35 Siate pronti, con la cintura ai fianchi e le lucerne accese; 36 siate simili a coloro che aspettano il padrone quando torna dalle nozze, per aprirgli subito, appena arriva e bussa. 37 Beati quei servi che il padrone al suo ritorno troverà ancora svegli; in verità vi dico, si cingerà le sue vesti, li farà mettere a tavola e passerà a servirli. 38 E se, giungendo nel mezzo della notte o prima dell'alba, li troverà così, beati loro!"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": "2026-09-23",
+  "settimana": "San Pio da Pietrelcina",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Pr 30,5-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Pr 30,5-9",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 118",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 118",
+      "tipo": "salmo",
+      "testo": "R. Lampada per i miei passi, Signore, è la tua parola.\n\nTieni lontana da me la via della menzogna,\ndonami la grazia della tua legge.\nBene per me è la legge della tua bocca,\npiù di mille pezzi d’oro e d’argento.\n\nPer sempre, o Signore,\nla tua parola è stabile nei cieli.\nTengo lontani i miei piedi da ogni cattivo sentiero,\nper osservare la tua parola.\n\nI tuoi precetti mi danno intelligenza,\nperciò odio ogni falso sentiero.\nOdio la menzogna e la detesto,\namo la tua legge.",
+      "ritornello": "R. Lampada per i miei passi, Signore, è la tua parola."
+    },
+    {
+      "sigla": "Mc 1,15",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 1,15",
+      "tipo": "canto_vangelo",
+      "testo": "Il regno di Dio è vicino; convertitevi e credete nel Vangelo."
+    },
+    {
+      "sigla": "Lc 9,1-6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 9,1-6",
+      "tipo": "vangelo",
+      "testo": "1 Convocò i Dodici e diede loro forza e potere su tutti i demòni e di guarire le malattie. 2 E li mandò ad annunciare il regno di Dio e a guarire gli infermi. 3 Disse loro: «Non prendete nulla per il viaggio, né bastone, né sacca, né pane, né denaro, e non portatevi due tuniche. 4 In qualunque casa entriate, rimanete là, e di là poi ripartite. 5 Quanto a coloro che non vi accolgono, uscite dalla loro città e scuotete la polvere dai vostri piedi come testimonianza contro di loro». 6 Allora essi uscirono e giravano di villaggio in villaggio, ovunque annunciando la buona notizia e operando guarigioni."
+    }
+  ]
+}

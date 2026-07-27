@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-24",
+  "settimana": "Sabato della XXIX settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ef 4,7-16",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 4,7-16",
+      "tipo": "prima_lettura",
+      "testo": "Ascendendo in cielo ha portato con sé prigionieri, ha distribuito doni agli uomini.\n9 Ma che significa la parola «ascese», se non che prima era disceso quaggiù sulla terra? 10 Colui che discese è lo stesso che anche ascese al di sopra di tutti i cieli, per riempire tutte le cose.\n11 E' lui che ha stabilito alcuni come apostoli, altri come profeti, altri come evangelisti, altri come pastori e maestri, 12 per rendere idonei i fratelli a compiere il ministero, al fine di edificare il corpo di Cristo, 13 finché arriviamo tutti all'unità della fede e della conoscenza del Figlio di Dio, allo stato di uomo perfetto, nella misura che conviene alla piena maturità di Cristo. 14 Questo affinchè non siamo più come fanciulli sballottati dalle onde e portati qua e là da qualsiasi vento di dottrina, secondo l'inganno degli uomini, con quella loro astuzia che tende a trarre nell'errore. 15 Al contrario, vivendo secondo la verità nella carità, cerchiamo di crescere in ogni cosa verso di lui, che è il capo, Cristo, 16 dal quale tutto il corpo, ben compaginato e connesso, mediante la collaborazione di ogni giuntura, secondo l'energia propria di ogni membro, riceve forza per crescere in modo da edificare se stesso nella carità."
+    },
+    {
+      "sigla": "Sal 121",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 121",
+      "tipo": "salmo",
+      "testo": "R. Andremo con gioia alla casa del Signore.\n\nQuale gioia, quando mi dissero:\n«Andremo alla casa del Signore!».\nGià sono fermi i nostri piedi\nalle tue porte, Gerusalemme!\n\nGerusalemme è costruita\ncome città unita e compatta.\nÈ là che salgono le tribù,\nle tribù del Signore.\n\nSecondo la legge d’Israele,\nper lodare il nome del Signore.\nLà sono posti i troni del giudizio,\ni troni della casa di Davide.",
+      "ritornello": "R. Andremo con gioia alla casa del Signore."
+    },
+    {
+      "sigla": "Ez 33,11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ez 33,11",
+      "tipo": "canto_vangelo",
+      "testo": "Io non godo della morte del malvagio, dice il Signore, ma che si converta dalla sua malvagità e viva."
+    },
+    {
+      "sigla": "Lc 13,1-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 13,1-9",
+      "tipo": "vangelo",
+      "testo": "1 In quello stesso tempo si presentarono alcuni a riferirgli circa quei Galilei, il cui sangue Pilato aveva mescolato con quello dei loro sacrifici. 2 Prendendo la parola, Gesù rispose: «Credete che quei Galilei fossero più peccatori di tutti i Galilei, per aver subito tale sorte? 3 No, vi dico, ma se non vi convertite, perirete tutti allo stesso modo. 4 O quei diciotto, sopra i quali rovinò la torre di Sìloe e li uccise, credete che fossero più colpevoli di tutti gli abitanti di Gerusalemme? 5 No, vi dico, ma se non vi convertite, perirete tutti allo stesso modo»."
+    }
+  ]
+}
