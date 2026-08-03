@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-30",
+  "settimana": "Venerdì della XXX settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Fil 1,1-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Fil 1,1-11",
+      "tipo": "prima_lettura",
+      "testo": "3 Rendo grazie al mio Dio ogni volta che mi ricordo di voi. 4 Sempre, quando prego per tutti voi, lo faccio con gioia 5 a motivo della vostra cooperazione per il Vangelo, dal primo giorno fino al presente. 6 Sono persuaso che colui il quale ha iniziato in voi quest'opera buona, la porterà a compimento fino al giorno di Cristo Gesù. 7 È giusto, del resto, che io provi questi sentimenti per tutti voi, perché vi porto nel cuore, sia quando sono in prigionia, sia quando difendo e confermo il Vangelo, voi che con me siete tutti partecipi della grazia. 8 Infatti Dio mi è testimone del vivo desiderio che nutro per tutti voi nell'amore di Cristo Gesù. 9 E perciò prego che la vostra carità cresca sempre più in conoscenza e in pieno discernimento, 10 perché possiate distinguere ciò che è meglio ed essere integri e irreprensibili per il giorno di Cristo, 11 ricolmi di quel frutto di giustizia che si ottiene per mezzo di Gesù Cristo, a gloria e lode di Dio."
+    },
+    {
+      "sigla": "Sal 110",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 110",
+      "tipo": "salmo",
+      "testo": "R. Grandi sono le opere del Signore.\n\nRenderò grazie al Signore con tutto il cuore,\ntra gli uomini retti riuniti in assemblea.\nGrandi sono le opere del Signore:\nle ricerchino coloro che le amano.\n\nIl suo agire è splendido e maestoso,\nla sua giustizia rimane per sempre.\nHa lasciato un ricordo delle sue meraviglie:\nmisericordioso e pietoso è il Signore.\n\nEgli dà il cibo a chi lo teme,\nsi ricorda sempre della sua alleanza.\nMostrò al suo popolo la potenza delle sue opere,\ngli diede l’eredità delle genti.",
+      "ritornello": "R. Grandi sono le opere del Signore."
+    },
+    {
+      "sigla": "Gv 10,27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,27",
+      "tipo": "canto_vangelo",
+      "testo": "Le mie pecore ascoltano la mia voce, dice il Signore, e io le conosco ed esse mi seguono."
+    },
+    {
+      "sigla": "Lc 14,1-6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 14,1-6",
+      "tipo": "vangelo",
+      "testo": "1 Un sabato si recò a casa di uno dei capi dei farisei per pranzare ed essi stavano a osservarlo. 2 Ed ecco, davanti a lui vi era un uomo malato di idropisìa. 3 Rivolgendosi ai dottori della Legge e ai farisei, Gesù disse: «È lecito o no guarire di sabato?». 4 Ma essi tacquero. Egli lo prese per mano, lo guarì e lo congedò. 5 Poi disse loro: «Chi di voi, se un figlio o un bue gli cade nel pozzo, non lo tirerà fuori subito in giorno di sabato?». 6 E non potevano rispondere nulla a queste parole."
+    }
+  ]
+}

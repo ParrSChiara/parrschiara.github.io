@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-26",
+  "settimana": "Lunedì della XXX settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ef 4,32-5,8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 4,32-5,8",
+      "tipo": "prima_lettura",
+      "testo": "32 Siate invece benevoli gli uni verso gli altri, misericordiosi, perdonandovi a vicenda come Dio ha perdonato a voi in Cristo.\n1 Fatevi dunque imitatori di Dio, quali figli carissimi, 2 e camminate nella carità, nel modo in cui anche Cristo ci ha amato e ha dato se stesso per noi, offrendosi a Dio in sacrificio di soave odore. 3 Di fornicazione e di ogni specie di impurità o di cupidigia neppure si parli fra voi - come deve essere tra santi - 4 né di volgarità, insulsaggini, trivialità, che sono cose sconvenienti. Piuttosto rendete grazie! 5 Perché, sappiatelo bene, nessun fornicatore, o impuro, o avaro - cioè nessun idolatra - ha in eredità il regno di Cristo e di Dio. 6 Nessuno vi inganni con parole vuote: per queste cose infatti l'ira di Dio viene sopra coloro che gli disobbediscono. 7 Non abbiate quindi niente in comune con loro. 8 Un tempo infatti eravate tenebra, ora siete luce nel Signore. Comportatevi perciò come figli della luce;"
+    },
+    {
+      "sigla": "Sal 1",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 1",
+      "tipo": "salmo",
+      "testo": "R. Facciamoci imitatori di Dio, quali figli carissimi.\n\nBeato l’uomo che non entra nel consiglio dei malvagi,\nnon resta nella via dei peccatori\ne non siede in compagnia degli arroganti,\nma nella legge del Signore trova la sua gioia,\nla sua legge medita giorno e notte.\n\nÈ come albero piantato lungo corsi d’acqua,\nche dà frutto a suo tempo:\nle sue foglie non appassiscono\ne tutto quello che fa, riesce bene.\n\nNon così, non così i malvagi,\nma come pula che il vento disperde.\nIl Signore veglia sul cammino dei giusti,\nmentre la via dei malvagi va in rovina.",
+      "ritornello": "R. Facciamoci imitatori di Dio, quali figli carissimi."
+    },
+    {
+      "sigla": "Gv 17,17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 17,17",
+      "tipo": "canto_vangelo",
+      "testo": "La tua parola, Signore, è verità; consacraci nella verità."
+    },
+    {
+      "sigla": "Lc 13,10-17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 13,10-17",
+      "tipo": "vangelo",
+      "testo": "10 Stava insegnando in una sinagoga in giorno di sabato. 11 C'era là una donna che uno spirito teneva inferma da diciotto anni; era curva e non riusciva in alcun modo a stare diritta. 12 Gesù la vide, la chiamò a sé e le disse: «Donna, sei liberata dalla tua malattia». 13 Impose le mani su di lei e subito quella si raddrizzò e glorificava Dio. 14 Ma il capo della sinagoga, sdegnato perché Gesù aveva operato quella guarigione di sabato, prese la parola e disse alla folla: «Ci sono sei giorni in cui si deve lavorare; in quelli dunque venite a farvi guarire e non in giorno di sabato». 15 Il Signore gli replicò: «Ipocriti, non è forse vero che, di sabato, ciascuno di voi slega il suo bue o l'asino dalla mangiatoia, per condurlo ad abbeverarsi? 16 E questa figlia di Abramo, che Satana ha tenuto prigioniera per ben diciotto anni, non doveva essere liberata da questo legame nel giorno di sabato?». 17 Quando egli diceva queste cose, tutti i suoi avversari si vergognavano, mentre la folla intera esultava per tutte le meraviglie da lui compiute."
+    }
+  ]
+}

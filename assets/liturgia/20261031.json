@@ -1,0 +1,31 @@
+{
+  "data": "2026-10-31",
+  "settimana": "Sabato della XXX settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Fil 1,18-26",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Fil 1,18-26",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 41",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 41",
+      "tipo": "salmo",
+      "testo": "R. L’anima mia ha sete di Dio, del Dio vivente.\n\nCome la cerva anela\nai corsi d’acqua,\ncosì l’anima mia anela\na te, o Dio.\n\nL’anima mia ha sete di Dio,\ndel Dio vivente:\nquando verrò e vedrò\nil volto di Dio?\n\nAvanzavo tra la folla,\nla precedevo fino alla casa di Dio,\nfra canti di gioia e di lode\ndi una moltitudine in festa.",
+      "ritornello": "R. L’anima mia ha sete di Dio, del Dio vivente."
+    },
+    {
+      "sigla": "Mt 11,29",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,29",
+      "tipo": "canto_vangelo",
+      "testo": "Prendete il mio giogo sopra di voi, dice il Signore, e imparate da me, che sono mite e umile di cuore."
+    },
+    {
+      "sigla": "Lc 14,1.7-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 14,1.7-11",
+      "tipo": "vangelo"
+    }
+  ]
+}

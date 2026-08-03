@@ -1,0 +1,27 @@
+{
+  "data": "2026-10-28",
+  "settimana": "SANTI SIMONE E GIUDA",
+  "celebrazione": "FESTA",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "Ef 2,19-22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 2,19-22",
+      "tipo": "prima_lettura",
+      "testo": "19 Così dunque voi non siete più stranieri né ospiti, ma siete concittadini dei santi e familiari di Dio, 20 edificati sopra il fondamento degli apostoli e dei profeti, avendo come pietra d'angolo lo stesso Cristo Gesù. 21 In lui tutta la costruzione cresce ben ordinata per essere tempio santo nel Signore; 22 in lui anche voi venite edificati insieme per diventare abitazione di Dio per mezzo dello Spirito."
+    },
+    {
+      "sigla": "Sal 18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 18",
+      "tipo": "salmo",
+      "testo": "R. Per tutta la terra si diffonde il loro annuncio.\n\nI cieli narrano la gloria di Dio,\nl’opera delle sue mani annuncia il firmamento.\nIl giorno al giorno ne affida il racconto\ne la notte alla notte ne trasmette notizia.\n\nSenza linguaggio, senza parole,\nsenza che si oda la loro voce,\nper tutta la terra si diffonde il loro annuncio\ne ai confini del mondo il loro messaggio.",
+      "ritornello": "R. Per tutta la terra si diffonde il loro annuncio."
+    },
+    {
+      "sigla": "Lc 6,12-19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 6,12-19",
+      "tipo": "vangelo",
+      "testo": "12 In quei giorni Gesù se ne andò sulla montagna a pregare e passò la notte in orazione. 13 Quando fu giorno, chiamò a sé i suoi discepoli e ne scelse dodici, ai quali diede il nome di apostoli: 14 Simone, che chiamò anche Pietro, Andrea suo fratello, Giacomo, Giovanni, Filippo, Bartolomeo, 15 Matteo, Tommaso, Giacomo d'Alfeo, Simone soprannominato Zelota, 16 Giuda di Giacomo e Giuda Iscariota, che fu il traditore."
+    }
+  ]
+}

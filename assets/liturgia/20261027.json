@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-27",
+  "settimana": "Martedì della XXX settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ef 5,21-33",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 5,21-33",
+      "tipo": "prima_lettura",
+      "testo": "21 Nel timore di Cristo, siate sottomessi gli uni agli altri: 22 le mogli lo siano ai loro mariti, come al Signore; 23 il marito infatti è capo della moglie, così come Cristo è capo della Chiesa, lui che è salvatore del corpo. 24 E come la Chiesa è sottomessa a Cristo, così anche le mogli lo siano ai loro mariti in tutto. 25 E voi, mariti, amate le vostre mogli, come anche Cristo ha amato la Chiesa e ha dato se stesso per lei, 26 per renderla santa, purificandola con il lavacro dell'acqua mediante la parola, 27 e per presentare a se stesso la Chiesa tutta gloriosa, senza macchia né ruga o alcunché di simile, ma santa e immacolata. 28 Così anche i mariti hanno il dovere di amare le mogli come il proprio corpo: chi ama la propria moglie, ama se stesso. 29 Nessuno infatti ha mai odiato la propria carne, anzi la nutre e la cura, come anche Cristo fa con la Chiesa, 30 poiché siamo membra del suo corpo. 31 Per questo l'uomo lascerà il padre e la madre e si unirà a sua moglie e i due diventeranno una sola carne. 32 Questo mistero è grande: io lo dico in riferimento a Cristo e alla Chiesa! 33 Così anche voi: ciascuno da parte sua ami la propria moglie come se stesso, e la moglie sia rispettosa verso il marito."
+    },
+    {
+      "sigla": "Sal 127",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 127",
+      "tipo": "salmo",
+      "testo": "R. Beato chi teme il Signore.\n\nBeato chi teme il Signore\ne cammina nelle sue vie.\nDella fatica delle tue mani ti nutrirai,\nsarai felice e avrai ogni bene.\n\nLa tua sposa come vite feconda\nnell’intimità della tua casa;\ni tuoi figli come virgulti d’ulivo\nintorno alla tua mensa.\n\nEcco com’è benedetto\nl’uomo che teme il Signore.\nTi benedica il Signore da Sion.\nPossa tu vedere il bene di Gerusalemme\ntutti i giorni della tua vita!",
+      "ritornello": "R. Beato chi teme il Signore."
+    },
+    {
+      "sigla": "Mt 11,25",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,25",
+      "tipo": "canto_vangelo",
+      "testo": "Ti rendo lode, Padre, Signore del cielo e della terra, perché ai piccoli hai rivelato i misteri del Regno."
+    },
+    {
+      "sigla": "Lc 13,18-21",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 13,18-21",
+      "tipo": "vangelo",
+      "testo": "18 Diceva dunque: «A che cosa è simile il regno di Dio, e a che cosa lo posso paragonare? 19 È simile a un granello di senape, che un uomo prese e gettò nel suo giardino; crebbe, divenne un albero e gli uccelli del cielo vennero a fare il nido fra i suoi rami ». 20 E disse ancora: «A che cosa posso paragonare il regno di Dio? 21 È simile al lievito, che una donna prese e mescolò in tre misure di farina, finché non fu tutta lievitata»."
+    }
+  ]
+}
