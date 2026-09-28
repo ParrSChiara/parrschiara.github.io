@@ -1,0 +1,33 @@
+{
+  "data": "2026-12-26",
+  "settimana": "SANTO STEFANO",
+  "celebrazione": "FESTA",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "At 6,8-12;7,54-60",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=At 6,8-12;7,54-60",
+      "tipo": "prima_lettura",
+      "testo": "8 Stefano intanto, pieno di grazia e di potenza, faceva grandi prodigi e segni tra il popolo. 9 Allora alcuni della sinagoga detta dei Liberti, dei Cirenei, degli Alessandrini e di quelli della Cilìcia e dell'Asia, si alzarono a discutere con Stefano, 10 ma non riuscivano a resistere alla sapienza e allo Spirito con cui egli parlava. 11 Allora istigarono alcuni perché dicessero: «Lo abbiamo udito pronunciare parole blasfeme contro Mosè e contro Dio». 12 E così sollevarono il popolo, gli anziani e gli scribi, gli piombarono addosso, lo catturarono e lo condussero davanti al sinedrio.\n55 Ma egli, pieno di Spirito Santo, fissando il cielo, vide la gloria di Dio e Gesù che stava alla destra di Dio 56 e disse: «Ecco, contemplo i cieli aperti e il Figlio dell'uomo che sta alla destra di Dio». 57 Allora, gridando a gran voce, si turarono gli orecchi e si scagliarono tutti insieme contro di lui, 58 lo trascinarono fuori della città e si misero a lapidarlo. E i testimoni deposero i loro mantelli ai piedi di un giovane, chiamato Saulo. 59 E lapidavano Stefano, che pregava e diceva: «Signore Gesù, accogli il mio spirito». 60 Poi piegò le ginocchia e gridò a gran voce: «Signore, non imputare loro questo peccato». Detto questo, morì."
+    },
+    {
+      "sigla": "Sal 30",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 30",
+      "tipo": "salmo",
+      "testo": "R. Alle tue mani, Signore, affido il mio spirito.\n\nSii per me una roccia di rifugio,\nun luogo fortificato che mi salva.\nPerché mia rupe e mia fortezza tu sei,\nper il tuo nome guidami e conducimi.\n\nAlle tue mani affido il mio spirito;\ntu mi hai riscattato, Signore, Dio fedele.\nEsulterò e gioirò per la tua grazia,\nperché hai guardato alla mia miseria.\n\nLiberami dalla mano dei miei nemici\ne dai miei persecutori:\nsul tuo servo fa’ splendere il tuo volto,\nsalvami per la tua misericordia.",
+      "ritornello": "R. Alle tue mani, Signore, affido il mio spirito."
+    },
+    {
+      "sigla": "Sal 117,26.27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 117,26.27",
+      "tipo": "canto_vangelo",
+      "testo": "Sal 117,26.27"
+    },
+    {
+      "sigla": "Mt 10,17-22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 10,17-22",
+      "tipo": "vangelo",
+      "testo": "21 Il fratello darà a morte il fratello e il padre il figlio, e i figli insorgeranno contro i genitori e li faranno morire. 22 E sarete odiati da tutti a causa del mio nome; ma chi persevererà sino alla fine sarà salvato."
+    }
+  ]
+}

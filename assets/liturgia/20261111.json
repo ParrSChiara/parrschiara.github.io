@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-11",
+  "settimana": "San Martino di Tours",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Tt 3,1-7",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Tt 3,1-7",
+      "tipo": "prima_lettura",
+      "testo": "1 Ricorda loro di essere sottomessi alle autorità che governano, di obbedire, di essere pronti per ogni opera buona; 2 di non parlare male di nessuno, di evitare le liti, di essere mansueti, mostrando ogni mitezza verso tutti gli uomini. 3 Anche noi un tempo eravamo insensati, disobbedienti, corrotti, schiavi di ogni sorta di passioni e di piaceri, vivendo nella malvagità e nell'invidia, odiosi e odiandoci a vicenda.\n4 Ma quando apparvero la bontà di Dio, salvatore nostro, e il suo amore per gli uomini, 5 egli ci ha salvati, non per opere giuste da noi compiute, ma per la sua misericordia, con un'acqua che rigenera e rinnova nello Spirito Santo, 6 che Dio ha effuso su di noi in abbondanza per mezzo di Gesù Cristo, salvatore nostro, 7 affinché, giustificati per la sua grazia, diventassimo, nella speranza, eredi della vita eterna."
+    },
+    {
+      "sigla": "Sal 22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 22",
+      "tipo": "salmo",
+      "testo": "R. Il Signore è il mio pastore: non manco di nulla.\n\nIl Signore è il mio pastore:\nnon manco di nulla.\nSu pascoli erbosi mi fa riposare,\nad acque tranquille mi conduce.\n\nRinfranca l’anima mia,\nmi guida per il giusto cammino\na motivo del suo nome.\n\nAnche se vado per una valle oscura,\nnon temo alcun male, perché tu sei con me.\nIl tuo bastone e il tuo vincastro\nmi danno sicurezza.\n\nDavanti a me tu prepari una mensa\nsotto gli occhi dei miei nemici.\nUngi di olio il mio capo;\nil mio calice trabocca.\n\nSì, bontà e fedeltà mi saranno compagne\ntutti i giorni della mia vita,\nabiterò ancora nella casa del Signore\nper lunghi giorni.",
+      "ritornello": "R. Il Signore è il mio pastore: non manco di nulla."
+    },
+    {
+      "sigla": "1Ts 5,18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Ts 5,18",
+      "tipo": "canto_vangelo",
+      "testo": "In ogni cosa rendete grazie: questa infatti è volontà di Dio in Cristo Gesù verso di voi."
+    },
+    {
+      "sigla": "Lc 17,11-19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 17,11-19",
+      "tipo": "vangelo",
+      "testo": "11 Lungo il cammino verso Gerusalemme, Gesù attraversava la Samaria e la Galilea. 12 Entrando in un villaggio, gli vennero incontro dieci lebbrosi, che si fermarono a distanza 13 e dissero ad alta voce: «Gesù, maestro, abbi pietà di noi!». 14 Appena li vide, Gesù disse loro: «Andate a presentarvi ai sacerdoti». E mentre essi andavano, furono purificati. 15 Uno di loro, vedendosi guarito, tornò indietro lodando Dio a gran voce, 16 e si prostrò davanti a Gesù, ai suoi piedi, per ringraziarlo. Era un Samaritano. 17 Ma Gesù osservò: «Non ne sono stati purificati dieci? E gli altri nove dove sono? 18 Non si è trovato nessuno che tornasse indietro a rendere gloria a Dio, all'infuori di questo straniero?». 19 E gli disse: «Àlzati e va'; la tua fede ti ha salvato!»."
+    }
+  ]
+}

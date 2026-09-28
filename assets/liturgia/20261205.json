@@ -1,0 +1,33 @@
+{
+  "data": "2026-12-05",
+  "settimana": "Sabato della I settimana di Avvento",
+  "celebrazione": "Feria",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "Is 30,19-21.23-26",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 30,19-21.23-26",
+      "tipo": "prima_lettura",
+      "testo": "19 Ascoltate, popolo di Sion, voi che abitate a Gerusalemme: non dovrete più piangere. Il Signore ha compassione di voi e vi soccorre appena gridate a lui. 20 Anche se vi attendono sempre tempi duri, il Signore che vi istruisce non si terrà più nascosto e potrete vederlo con i vostri occhi. 21 Con le vostre orecchie sentirete una voce alle vostre spalle: 'Questa è la via giusta, seguitela!'. Vi insegnerà se dovete andare a destra o a sinistra. 23 Quando seminerete il grano, il Signore vi concederà la pioggia per farlo crescere, e alla fine un abbondante raccolto. Quel giorno anche il vostro bestiame avrà ricchi pascoli. 24 I buoi e gli asini che lavorano i campi mangeranno biada scelta e saporita e ne avranno in abbondanza. 25 Nel giorno del grande massacro dei nemici, quando crolleranno le loro torri scorreranno fiumi d'acqua da ogni monte e da ogni collina. 26 Quando il Signore curerà e fascerà la ferita dei suo popolo, la luna brillerà come il sole. La luce del sole sarà sette volte più intensa, sarà come la luce di sette giorni."
+    },
+    {
+      "sigla": "Sal 146",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 146",
+      "tipo": "salmo",
+      "testo": "R. Beati coloro che aspettano il Signore.\n\nÈ bello cantare inni al nostro Dio,\nè dolce innalzare la lode.\nIl Signore ricostruisce Gerusalemme,\nraduna i dispersi d’Israele.\n\nRisana i cuori affranti\ne fascia le loro ferite.\nEgli conta il numero delle stelle\ne chiama ciascuna per nome.\n\nGrande è il Signore nostro,\ngrande nella sua potenza;\nla sua sapienza non si può calcolare.\nIl Signore sostiene i poveri,\nma abbassa fino a terra i malvagi.",
+      "ritornello": "R. Beati coloro che aspettano il Signore."
+    },
+    {
+      "sigla": "Is 33,22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 33,22",
+      "tipo": "canto_vangelo",
+      "testo": "Il Signore è nostro giudice, nostro legislatore, nostro re: egli ci salverà."
+    },
+    {
+      "sigla": "Mt 9,35-10,1.6-8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 9,35-10,1.6-8",
+      "tipo": "vangelo",
+      "testo": "35 Gesù percorreva tutte le città e i villaggi, insegnando nelle loro sinagoghe, annunciando il vangelo del Regno e guarendo ogni malattia e ogni infermità. 36 Vedendo le folle, ne sentì compassione, perché erano stanche e sfinite come pecore che non hanno pastore . 37 Allora disse ai suoi discepoli: «La messe è abbondante, ma sono pochi gli operai! 38 Pregate dunque il signore della messe, perché mandi operai nella sua messe!».\n1 Chiamati a sé i suoi dodici discepoli, diede loro potere sugli spiriti impuri per scacciarli e guarire ogni malattia e ogni infermità. 6 rivolgetevi piuttosto alle pecore perdute della casa d'Israele."
+    }
+  ]
+}

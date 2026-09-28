@@ -1,0 +1,39 @@
+{
+  "data": "2026-12-27",
+  "settimana": "SANTA FAMIGLIA DI GESÙ, MARIA E GIUSEPPE (ANNO B)",
+  "celebrazione": "FESTA",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Gen 15,1-6; 21,1-3",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gen 15,1-6; 21,1-3",
+      "tipo": "prima_lettura",
+      "testo": "1 Dopo tali fatti, fu rivolta ad Abram, in visione, questa parola del Signore: «Non temere, Abram. Io sono il tuo scudo; la tua ricompensa sarà molto grande». 2 Rispose Abram: «Signore Dio, che cosa mi darai? Io me ne vado senza figli e l'erede della mia casa è Elièzer di Damasco». 3 Soggiunse Abram: «Ecco, a me non hai dato discendenza e un mio domestico sarà mio erede». 4 Ed ecco, gli fu rivolta questa parola dal Signore: «Non sarà costui il tuo erede, ma uno nato da te sarà il tuo erede». 5 Poi lo condusse fuori e gli disse: «Guarda in cielo e conta le stelle, se riesci a contarle»; e soggiunse: «Tale sarà la tua discendenza». 6 Egli credette al Signore, che glielo accreditò come giustizia."
+    },
+    {
+      "sigla": "Sal 104",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 104",
+      "tipo": "salmo",
+      "testo": "R. Il Signore è fedele al suo patto.\n\nRendete grazie al Signore e invocate il suo nome,\nproclamate fra i popoli le sue opere.\nA lui cantate, a lui inneggiate,\nmeditate tutte le sue meraviglie.\n\nGloriatevi del suo santo nome:\ngioisca il cuore di chi cerca il Signore.\nCercate il Signore e la sua potenza,\nricercate sempre il suo volto.\n\nRicordate le meraviglie che ha compiuto,\ni suoi prodigi e i giudizi della sua bocca,\nvoi, stirpe di Abramo, suo servo,\nfigli di Giacobbe, suo eletto.\n\nSi è sempre ricordato della sua alleanza,\nparola data per mille generazioni,\ndell’alleanza stabilita con Abramo\ne del suo giuramento a Isacco.",
+      "ritornello": "R. Il Signore è fedele al suo patto."
+    },
+    {
+      "sigla": "Eb 11,8.11-12.17-19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Eb 11,8.11-12.17-19",
+      "tipo": "seconda_lettura",
+      "testo": "11 Per fede anche Sara, sebbene fuori dell'età, ricevette la possibilità di diventare madre perché ritenne fedele colui che glielo aveva promesso. 12 Per questo da un uomo solo, e inoltre gia segnato dalla morte, nacque una discendenza numerosa come le stelle del cielo e come la sabbia innumerevole che si trova lungo la spiaggia del mare.\n17 Per fede Abramo, messo alla prova, offrì Isacco e proprio lui, che aveva ricevuto le promesse, offrì il suo unico figlio, 18 del quale era stato detto: In Isacco avrai una discendenza che porterà il tuo nome. 19 Egli pensava infatti che Dio è capace di far risorgere anche dai morti: per questo lo riebbe e fu come un simbolo."
+    },
+    {
+      "sigla": "Eb 1,1.2",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Eb 1,1.2",
+      "tipo": "canto_vangelo",
+      "testo": "Molte volte e in diversi modi nei tempi antichi Dio ha parlato ai padri per mezzo dei profeti, ultimamente, in questi giorni, ha parlato a noi per mezzo del Figlio."
+    },
+    {
+      "sigla": "Lc 2,22-40",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 2,22-40",
+      "tipo": "vangelo",
+      "testo": "29 «Ora puoi lasciare, o Signore, che il tuo servo vada in pace, secondo la tua parola, 30 perché i miei occhi hanno visto la tua salvezza, 31 preparata da te davanti a tutti i popoli: 32 luce per rivelarti alle genti e gloria del tuo popolo, Israele».\n39 Quando ebbero adempiuto ogni cosa secondo la legge del Signore, fecero ritorno in Galilea, alla loro città di Nàzaret. 40 Il bambino cresceva e si fortificava, pieno di sapienza, e la grazia di Dio era su di lui."
+    }
+  ]
+}

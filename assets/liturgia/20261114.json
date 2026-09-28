@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-14",
+  "settimana": "Sabato della XXXII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "3Gv 1,5-8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=3Gv 1,5-8",
+      "tipo": "prima_lettura",
+      "testo": "5 Carissimo, tu ti comporti bene quando sei ospitale con i fratelli, anche con quelli che non conosci. 6 Essi hanno parlato alla nostra comunità della tua affettuosa accoglienza. Faresti bene ad aiutarli a proseguire la loro missione in modo degno di Dio. 7 Infatti sono partiti al servizio del Signore, senza accettare niente dai pagani. 8 Pertanto, abbiamo l'obbligo di sostenerli, così saremo anche noi collaboratori della verità."
+    },
+    {
+      "sigla": "Sal 111",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 111",
+      "tipo": "salmo",
+      "testo": "R. Beato l’uomo che teme il Signore.\n\nBeato l’uomo che teme il Signore\ne nei suoi precetti trova grande gioia.\nPotente sulla terra sarà la sua stirpe,\nla discendenza degli uomini retti sarà benedetta.\n\nProsperità e ricchezza nella sua casa,\nla sua giustizia rimane per sempre.\nSpunta nelle tenebre, luce per gli uomini retti:\nmisericordioso, pietoso e giusto.\n\nFelice l’uomo pietoso che dà in prestito,\namministra i suoi beni con giustizia.\nEgli non vacillerà in eterno:\neterno sarà il ricordo del giusto.",
+      "ritornello": "R. Beato l’uomo che teme il Signore."
+    },
+    {
+      "sigla": "2Ts 2,14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Ts 2,14",
+      "tipo": "canto_vangelo",
+      "testo": "Dio ci ha chiamati mediante il Vangelo, per entrare in possesso della gloria del Signore nostro Gesù Cristo."
+    },
+    {
+      "sigla": "Lc 18,1-8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 18,1-8",
+      "tipo": "vangelo",
+      "testo": "1 Diceva loro una parabola sulla necessità di pregare sempre, senza stancarsi mai: 2 «In una città viveva un giudice, che non temeva Dio né aveva riguardo per alcuno. 3 In quella città c'era anche una vedova, che andava da lui e gli diceva: «Fammi giustizia contro il mio avversario». 4 Per un po' di tempo egli non volle; ma poi disse tra sé: «Anche se non temo Dio e non ho riguardo per alcuno, 5 dato che questa vedova mi dà tanto fastidio, le farò giustizia perché non venga continuamente a importunarmi»». 6 E il Signore soggiunse: «Ascoltate ciò che dice il giudice disonesto. 7 E Dio non farà forse giustizia ai suoi eletti, che gridano giorno e notte verso di lui? Li farà forse aspettare a lungo? 8 Io vi dico che farà loro giustizia prontamente. Ma il Figlio dell'uomo, quando verrà, troverà la fede sulla terra?»."
+    }
+  ]
+}

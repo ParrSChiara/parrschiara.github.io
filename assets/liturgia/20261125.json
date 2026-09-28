@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-25",
+  "settimana": "Mercoledì della XXXIV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ap 15,1-4",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 15,1-4",
+      "tipo": "prima_lettura",
+      "testo": "« Grandi e mirabili sono le tue opere, Signore Dio onnipotente; giuste e vere le tue vie, Re delle genti! 4 O Signore, chi non temerà e non darà gloria al tuo nome? Poiché tu solo sei santo, e tutte le genti verranno e si prostreranno davanti a te, perché i tuoi giudizi furono manifestati»."
+    },
+    {
+      "sigla": "Sal 97",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 97",
+      "tipo": "salmo",
+      "testo": "R. Grandi e mirabili sono le tue opere, Signore Dio onnipotente.\n\nCantate al Signore un canto nuovo,\nperché ha compiuto meraviglie.\nGli ha dato vittoria la sua destra\ne il suo braccio santo.\n\nIl Signore ha fatto conoscere la sua salvezza,\nagli occhi delle genti ha rivelato la sua giustizia.\nEgli si è ricordato del suo amore,\ndella sua fedeltà alla casa d’Israele.\n\nRisuoni il mare e quanto racchiude,\nil mondo e i suoi abitanti.\nI fiumi battano le mani,\nesultino insieme le montagne.\n\nDavanti al Signore\nche viene a giudicare la terra:\ngiudicherà il mondo con giustizia\ne i popoli con rettitudine.",
+      "ritornello": "R. Grandi e mirabili sono le tue opere, Signore Dio onnipotente."
+    },
+    {
+      "sigla": "Apoc 2,10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Apoc 2,10",
+      "tipo": "canto_vangelo",
+      "testo": "Sii fedele fino alla morte, dice il Signore, e ti darò la corona della vita."
+    },
+    {
+      "sigla": "Lc 21,12-19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 21,12-19",
+      "tipo": "vangelo",
+      "testo": "12 'Però, prima di queste cose, vi prenderanno con violenza e vi perseguiteranno. Vi porteranno nelle loro sinagoghe e nelle loro prigioni, vi trascineranno davanti a re e governatori a causa del mio nome. 13 Avrete allora occasione per dare testimonianza di me. 14 Siate decisi! Non preoccupatevi di quel che dovrete dire per difendervi. 15 Sarò io a suggerirvi le parole giuste, e vi darò una sapienza tale che tutti i vostri avversari non potranno resistere e tanto meno combattere. 16 'In quel tempo, perfino i genitori, i fratelli, i parenti e gli amici vi tradiranno e faranno morire alcuni di voi. 17 Sarete odiati da tutti per causa mia. 18 Eppure, neanche un capello del vostro capo andrà perduto. 19 Se saprete resistere sino alla fine salverete voi stessi."
+    }
+  ]
+}

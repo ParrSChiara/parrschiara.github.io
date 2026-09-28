@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-28",
+  "settimana": "Sabato della XXXIV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ap 22,1-7",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 22,1-7",
+      "tipo": "prima_lettura",
+      "testo": "1 E mi mostrò poi un fiume d'acqua viva, limpido come cristallo, che scaturiva dal trono di Dio e dell'Agnello. 2 In mezzo alla piazza della città, e da una parte e dall'altra del fiume, si trova un albero di vita che dà frutti dodici volte all'anno, portando frutto ogni mese; le foglie dell'albero servono a guarire le nazioni.\n3 E non vi sarà più maledizione. Nella città vi sarà il trono di Dio e dell'Agnello: i suoi servi lo adoreranno; 4 vedranno il suo volto e porteranno il suo nome sulla fronte. 5 Non vi sarà più notte, e non avranno più bisogno di luce di lampada né di luce di sole, perché il Signore Dio li illuminerà. E regneranno nei secoli dei secoli.\n6 E mi disse: «Queste parole sono certe e vere. Il Signore, il Dio che ispira i profeti, ha mandato il suo angelo per mostrare ai suoi servi le cose che devono accadere tra breve. 7 Ecco, io vengo presto. Beato chi custodisce le parole profetiche di questo libro»."
+    },
+    {
+      "sigla": "Sal 94",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 94",
+      "tipo": "salmo",
+      "testo": "R. Marána tha! Vieni, Signore Gesù!\n\nVenite, cantiamo al Signore,\nacclamiamo la roccia della nostra salvezza.\nAccostiamoci a lui per rendergli grazie,\na lui acclamiamo con canti di gioia.\n\nPerché grande Dio è il Signore,\ngrande re sopra tutti gli dèi.\nNella sua mano sono gli abissi della terra,\nsono sue le vette dei monti.\nSuo è il mare, è lui che l’ha fatto;\nle sue mani hanno plasmato la terra.\n\nEntrate: prostràti, adoriamo,\nin ginocchio davanti al Signore che ci ha fatti.\nÈ lui il nostro Dio\ne noi il popolo del suo pascolo,\nil gregge che egli conduce.",
+      "ritornello": "R. Marána tha! Vieni, Signore Gesù!"
+    },
+    {
+      "sigla": "Lc 21,36",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 21,36",
+      "tipo": "canto_vangelo",
+      "testo": "Vegliate in ogni momento pregando, perché abbiate la forza di comparire davanti al Figlio dell’uomo."
+    },
+    {
+      "sigla": "Lc 21,34-36",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 21,34-36",
+      "tipo": "vangelo",
+      "testo": "34 State bene attenti che i vostri cuori non si appesantiscano in dissipazioni, ubriachezze e affanni della vita e che quel giorno non vi piombi addosso improvviso; 35 come un laccio esso si abbatterà sopra tutti coloro che abitano sulla faccia di tutta la terra. 36 Vegliate e pregate in ogni momento, perché abbiate la forza di sfuggire a tutto ciò che deve accadere, e di comparire davanti al Figlio dell'uomo»."
+    }
+  ]
+}

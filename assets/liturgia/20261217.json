@@ -1,0 +1,26 @@
+{
+  "data": "2026-12-17",
+  "settimana": "Feria propria del 17 Dicembre",
+  "celebrazione": "Feria",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "Gn 49,2.8-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gn 49,2.8-10",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 71",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 71",
+      "tipo": "salmo",
+      "testo": "R. Venga il tuo regno di giustizia e di pace.\n\nO Dio, affida al re il tuo diritto,\nal figlio di re la tua giustizia;\negli giudichi il tuo popolo secondo giustizia\ne i tuoi poveri secondo il diritto.\n\nLe montagne portino pace al popolo\ne le colline giustizia.\nAi poveri del popolo renda giustizia,\nsalvi i figli del misero.\n\nNei suoi giorni fiorisca il giusto\ne abbondi la pace,\nfinché non si spenga la luna.\nE dòmini da mare a mare,\ndal fiume sino ai confini della terra.\n\nIl suo nome duri in eterno,\ndavanti al sole germogli il suo nome.\nIn lui siano benedette tutte le stirpi della terra\ne tutte le genti lo dicano beato.",
+      "ritornello": "R. Venga il tuo regno di giustizia e di pace."
+    },
+    {
+      "sigla": "Mt 1,1-17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 1,1-17",
+      "tipo": "vangelo",
+      "testo": "1 Genealogia di Gesù Cristo figlio di Davide, figlio di Abramo. 2 Abramo generò Isacco, Isacco generò Giacobbe, Giacobbe generò Giuda e i suoi fratelli, 3 Giuda generò Fares e Zara da Tamar, Fares generò Esrom, Esrom generò Aram, 4 Aram generò Aminadàb, Aminadàb generò Naassòn, Naassòn generò Salmon, 5 Salmon generò Booz da Racab, Booz generò Obed da Rut, Obed generò Iesse, 6 Iesse generò il re Davide. Davide generò Salomone da quella che era stata la moglie di Uria, 7 Salomone generò Roboamo, Roboamo generò Abia, Abia generò Asaf, 8 Asaf generò Giòsafat, Giòsafat generò Ioram, Ioram generò Ozia, 9 Ozia generò Ioatàm, Ioatàm generò Acaz, Acaz generò Ezechia, 10 Ezechia generò Manasse, Manasse generò Amos, Amos generò Giosia, 11 Giosia generò Ieconia e i suoi fratelli, al tempo della deportazione in Babilonia. 12 Dopo la deportazione in Babilonia, Ieconia generò Salatièl, Salatièl generò Zorobabele, 13 Zorobabele generò Abiùd, Abiùd generò Eliachìm, Eliachìm generò Azor, 14 Azor generò Sadoc, Sadoc generò Achim, Achim generò Eliùd, 15 Eliùd generò Eleazar, Eleazar generò Mattan, Mattan generò Giacobbe, 16 Giacobbe generò Giuseppe, lo sposo di Maria, dalla quale è nato Gesù, chiamato Cristo. 17 In tal modo, tutte le generazioni da Abramo a Davide sono quattordici, da Davide fino alla deportazione in Babilonia quattordici, dalla deportazione in Babilonia a Cristo quattordici."
+    }
+  ]
+}

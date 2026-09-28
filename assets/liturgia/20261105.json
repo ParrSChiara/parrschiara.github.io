@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-05",
+  "settimana": "Giovedì della XXXI settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Fil 3,3-8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Fil 3,3-8",
+      "tipo": "prima_lettura",
+      "testo": "7 Ma quello che poteva essere per me un guadagno, l'ho considerato una perdita a motivo di Cristo. 8 Anzi, tutto ormai io reputo una perdita di fronte alla sublimità della conoscenza di Cristo Gesù, mio Signore, per il quale ho lasciato perdere tutte queste cose e le considero come spazzatura, al fine di guadagnare Cristo"
+    },
+    {
+      "sigla": "Sal 104",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 104",
+      "tipo": "salmo",
+      "testo": "R. Gioisca il cuore di chi cerca il Signore.\n\nCantate al Signore, a lui inneggiate,\nmeditate tutte le sue meraviglie.\nGloriatevi del suo santo nome:\ngioisca il cuore di chi cerca il Signore.\n\nCercate il Signore e la sua potenza,\nricercate sempre il suo volto.\nRicordate le meraviglie che ha compiuto,\ni suoi prodigi e i giudizi della sua bocca.\n\nVoi, stirpe di Abramo, suo servo,\nfigli di Giacobbe, suo eletto.\nÈ lui il Signore, nostro Dio:\nsu tutta la terra i suoi giudizi.",
+      "ritornello": "R. Gioisca il cuore di chi cerca il Signore."
+    },
+    {
+      "sigla": "Mt 11,28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,28",
+      "tipo": "canto_vangelo",
+      "testo": "Venite a me, voi tutti che siete stanchi e oppressi, e io vi darò ristoro, dice il Signore."
+    },
+    {
+      "sigla": "Lc 15,1-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 15,1-10",
+      "tipo": "vangelo",
+      "testo": "1 Si avvicinavano a lui tutti i pubblicani e i peccatori per ascoltarlo. 2 I farisei e gli scribi mormoravano: «Costui riceve i peccatori e mangia con loro». 3 Allora egli disse loro questa parabola:"
+    }
+  ]
+}

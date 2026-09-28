@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-19",
+  "settimana": "Giovedì della XXXIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ap 5,1-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 5,1-10",
+      "tipo": "prima_lettura",
+      "testo": "«Tu sei degno di prendere il libro e di aprirne i sigilli, perché sei stato immolato e hai riscattato per Dio, con il tuo sangue, uomini di ogni tribù, lingua, popolo e nazione, 10 e hai fatto di loro, per il nostro Dio, un regno e sacerdoti, e regneranno sopra la terra»."
+    },
+    {
+      "sigla": "Sal 149",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 149",
+      "tipo": "salmo",
+      "testo": "R. Hai fatto di noi, per il nostro Dio, un regno e sacerdoti.\n\nCantate al Signore un canto nuovo;\nla sua lode nell’assemblea dei fedeli.\nGioisca Israele nel suo creatore,\nesultino nel loro re i figli di Sion.\n\nLodino il suo nome con danze,\ncon tamburelli e cetre gli cantino inni.\nIl Signore ama il suo popolo,\nincorona i poveri di vittoria.\n\nEsultino i fedeli nella gloria,\nfacciano festa sui loro giacigli.\nLe lodi di Dio sulla loro bocca:\nquesto è un onore per tutti i suoi fedeli.",
+      "ritornello": "R. Hai fatto di noi, per il nostro Dio, un regno e sacerdoti."
+    },
+    {
+      "sigla": "Sal 94,8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 94,8",
+      "tipo": "canto_vangelo",
+      "testo": "Oggi non indurite il vostro cuore, ma ascoltate la voce del Signore."
+    },
+    {
+      "sigla": "Lc 19,41-44",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 19,41-44",
+      "tipo": "vangelo",
+      "testo": "41 Quando fu vicino, alla vista della città pianse su di essa 42 dicendo: «Se avessi compreso anche tu, in questo giorno, quello che porta alla pace! Ma ora è stato nascosto ai tuoi occhi. 43 Per te verranno giorni in cui i tuoi nemici ti circonderanno di trincee, ti assedieranno e ti stringeranno da ogni parte; 44 distruggeranno te e i tuoi figli dentro di te e non lasceranno in te pietra su pietra, perché non hai riconosciuto il tempo in cui sei stata visitata»."
+    }
+  ]
+}

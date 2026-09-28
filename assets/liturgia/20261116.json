@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-16",
+  "settimana": "Lunedì della XXXIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ap 1,1-5;2,1-5",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 1,1-5;2,1-5",
+      "tipo": "prima_lettura",
+      "testo": "4 Giovanni, alle sette Chiese che sono in Asia: grazia a voi e pace da Colui che è, che era e che viene, e dai sette spiriti che stanno davanti al suo trono, 5 e da Gesù Cristo, il testimone fedele, il primogenito dei morti e il sovrano dei re della terra. A Colui che ci ama e ci ha liberati dai nostri peccati con il suo sangue,\n1 All'angelo della Chiesa che è a Èfeso scrivi: «Così parla Colui che tiene le sette stelle nella sua destra e cammina in mezzo ai sette candelabri d'oro. 2 Conosco le tue opere, la tua fatica e la tua perseveranza, per cui non puoi sopportare i cattivi. Hai messo alla prova quelli che si dicono apostoli e non lo sono, e li hai trovati bugiardi. 3 Sei perseverante e hai molto sopportato per il mio nome, senza stancarti. 4 Ho però da rimproverarti di avere abbandonato il tuo primo amore. 5 Ricorda dunque da dove sei caduto, convèrtiti e compi le opere di prima. Se invece non ti convertirai, verrò da te e toglierò il tuo candelabro dal suo posto."
+    },
+    {
+      "sigla": "Sal 1",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 1",
+      "tipo": "salmo",
+      "testo": "R. Al vincitore darò da mangiare dall’albero della vita.\n\nBeato l’uomo che non entra nel consiglio dei malvagi,\nnon resta nella via dei peccatori\ne non siede in compagnia degli arroganti,\nma nella legge del Signore trova la sua gioia,\nla sua legge medita giorno e notte.\n\nÈ come albero piantato lungo corsi d’acqua,\nche dà frutto a suo tempo:\nle sue foglie non appassiscono\ne tutto quello che fa, riesce bene.\n\nNon così, non così i malvagi,\nma come pula che il vento disperde.\nPoiché il Signore veglia sul cammino dei giusti,\nmentre la via dei malvagi va in rovina.",
+      "ritornello": "R. Al vincitore darò da mangiare dall’albero della vita."
+    },
+    {
+      "sigla": "Gv 8,12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 8,12",
+      "tipo": "canto_vangelo",
+      "testo": "Io sono la luce del mondo, dice il Signore; chi segue me avrà la luce della vita."
+    },
+    {
+      "sigla": "Lc 18,35-43",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 18,35-43",
+      "tipo": "vangelo",
+      "testo": "35 Mentre si avvicinava a Gerico, un cieco era seduto lungo la strada a mendicare. 36 Sentendo passare la gente, domandò che cosa accadesse. 37 Gli annunciarono: «Passa Gesù, il Nazareno!». 38 Allora gridò dicendo: «Gesù, figlio di Davide, abbi pietà di me!». 39 Quelli che camminavano avanti lo rimproveravano perché tacesse; ma egli gridava ancora più forte: «Figlio di Davide, abbi pietà di me!». 40 Gesù allora si fermò e ordinò che lo conducessero da lui. Quando fu vicino, gli domandò: 41 «Che cosa vuoi che io faccia per te?». Egli rispose: «Signore, che io veda di nuovo!». 42 E Gesù gli disse: «Abbi di nuovo la vista! La tua fede ti ha salvato». 43 Subito ci vide di nuovo e cominciò a seguirlo glorificando Dio. E tutto il popolo, vedendo, diede lode a Dio."
+    }
+  ]
+}

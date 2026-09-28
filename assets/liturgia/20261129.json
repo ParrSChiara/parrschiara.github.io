@@ -1,0 +1,39 @@
+{
+  "data": "2026-11-29",
+  "settimana": "I DOMENICA DI AVVENTO (ANNO B)",
+  "celebrazione": "DOMENICA",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "Is 63,16-17.19; 64,2-7",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 63,16-17.19; 64,2-7",
+      "tipo": "prima_lettura",
+      "testo": "16 perché tu sei nostro padre, poiché Abramo non ci riconosce e Israele non si ricorda di noi. Tu, Signore, sei nostro padre, da sempre ti chiami nostro redentore. 17 Perché, Signore, ci lasci vagare lontano dalle tue vie e lasci indurire il nostro cuore, così che non ti tema? Ritorna per amore dei tuoi servi, per amore delle tribù, tua eredità. 19 Siamo diventati da tempo gente su cui non comandi più, su cui il tuo nome non è stato mai invocato. Se tu squarciassi i cieli e scendessi! Davanti a te sussulterebbero i monti,"
+    },
+    {
+      "sigla": "Sal 79",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 79",
+      "tipo": "salmo",
+      "testo": "R. Signore, fa’ splendere il tuo volto e noi saremo salvi.\n\nTu, pastore d’Israele, ascolta,\nseduto sui cherubini, risplendi.\nRisveglia la tua potenza\ne vieni a salvarci.\n\nDio degli eserciti, ritorna!\nGuarda dal cielo e vedi\ne visita questa vigna,\nproteggi quello che la tua destra ha piantato,\nil figlio dell’uomo che per te hai reso forte.\n\nSia la tua mano sull’uomo della tua destra,\nsul figlio dell’uomo che per te hai reso forte.\nDa te mai più ci allontaneremo,\nfacci rivivere e noi invocheremo il tuo nome.",
+      "ritornello": "R. Signore, fa’ splendere il tuo volto e noi saremo salvi."
+    },
+    {
+      "sigla": "1Cor 1,3-9",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 1,3-9",
+      "tipo": "seconda_lettura",
+      "testo": "4 Ringrazio continuamente il mio Dio per voi, a motivo della grazia di Dio che vi è stata data in Cristo Gesù, 5 perché in lui siete stati arricchiti di tutti i doni, quelli della parola e quelli della scienza. 6 La testimonianza di Cristo si è infatti stabilita tra voi così saldamente, 7 che nessun dono di grazia più vi manca, mentre aspettate la manifestazione del Signore nostro Gesù Cristo. 8 Egli vi confermerà sino alla fine, irreprensibili nel giorno del Signore nostro Gesù Cristo: 9 fedele è Dio, dal quale siete stati chiamati alla comunione del Figlio suo Gesù Cristo, Signore nostro!"
+    },
+    {
+      "sigla": "Sal 84,8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 84,8",
+      "tipo": "canto_vangelo",
+      "testo": "Mostraci, Signore, la tua misericordia e donaci la tua salvezza."
+    },
+    {
+      "sigla": "Mc 13,33-37",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 13,33-37",
+      "tipo": "vangelo",
+      "testo": "33 Fate attenzione, vegliate, perché non sapete quando è il momento. 34 È come un uomo, che è partito dopo aver lasciato la propria casa e dato il potere ai suoi servi, a ciascuno il suo compito, e ha ordinato al portiere di vegliare. 35 Vegliate dunque: voi non sapete quando il padrone di casa ritornerà, se alla sera o a mezzanotte o al canto del gallo o al mattino; 36 fate in modo che, giungendo all'improvviso, non vi trovi addormentati. 37 Quello che dico a voi, lo dico a tutti: vegliate!»."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": "2026-11-09",
+  "settimana": "DEDICAZIONE DELLA BASILICA LATERANENSE",
+  "celebrazione": "FESTA",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Ez 47, 1-2.8-9.12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ez 47, 1-2.8-9.12",
+      "tipo": "prima_lettura",
+      "testo": "1 Mi condusse poi all'ingresso del tempio e vidi che sotto la soglia del tempio usciva acqua verso oriente, poiché la facciata del tempio era verso oriente. Quell'acqua scendeva sotto il lato destro del tempio, dalla parte meridionale dell'altare. 2 Mi condusse fuori dalla porta settentrionale e mi fece girare all'esterno, fino alla porta esterna rivolta a oriente, e vidi che l'acqua scaturiva dal lato destro. 8 Mi disse: «Queste acque scorrono verso la regione orientale, scendono nell'Araba ed entrano nel mare: sfociate nel mare, ne risanano le acque. 9 Ogni essere vivente che si muove dovunque arriva il torrente, vivrà: il pesce vi sarà abbondantissimo, perché dove giungono quelle acque, risanano, e là dove giungerà il torrente tutto rivivrà. 12 Lungo il torrente, su una riva e sull'altra, crescerà ogni sorta di alberi da frutto, le cui foglie non appassiranno: i loro frutti non cesseranno e ogni mese matureranno, perché le loro acque sgorgano dal santuario. I loro frutti serviranno come cibo e le foglie come medicina."
+    },
+    {
+      "sigla": "Sal 45",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 45",
+      "tipo": "salmo",
+      "testo": "R. Un fiume rallegra la città di Dio.\n\nDio è per noi rifugio e fortezza,\naiuto infallibile si è mostrato nelle angosce.\nPerciò non temiamo se trema la terra,\nse vacillano i monti nel fondo del mare.\n\nUn fiume e i suoi canali rallegrano la città di Dio,\nla più santa delle dimore dell’Altissimo.\nDio è in mezzo a essa: non potrà vacillare.\nDio la soccorre allo spuntare dell’alba.\n\nIl Signore degli eserciti è con noi,\nnostro baluardo è il Dio di Giacobbe.\nVenite, vedete le opere del Signore,\negli ha fatto cose tremende sulla terra.",
+      "ritornello": "R. Un fiume rallegra la città di Dio."
+    },
+    {
+      "sigla": "1Cor 3,9-11.16-17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Cor 3,9-11.16-17",
+      "tipo": "seconda_lettura",
+      "testo": "10 Secondo la grazia di Dio che mi è stata data, come un sapiente architetto io ho posto il fondamento; un altro poi vi costruisce sopra. Ma ciascuno stia attento come costruisce. 11 Infatti nessuno può porre un fondamento diverso da quello che gia vi si trova, che è Gesù Cristo. 16 Non sapete che siete tempio di Dio e che lo Spirito di Dio abita in voi? 17 Se uno distrugge il tempio di Dio, Dio distruggerà lui. Perché santo è il tempio di Dio, che siete voi."
+    },
+    {
+      "sigla": "2Cr 7, 16",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Cr 7, 16",
+      "tipo": "canto_vangelo",
+      "testo": "Io mi sono scelto e ho consacrato questa casa perché il mio nome vi resti sempre."
+    },
+    {
+      "sigla": "Gv 2, 13-22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 2, 13-22",
+      "tipo": "vangelo",
+      "testo": "13 Si avvicinava intanto la Pasqua dei Giudei e Gesù salì a Gerusalemme. 14 Trovò nel tempio gente che vendeva buoi, pecore e colombe e, là seduti, i cambiamonete. 15 Allora fece una frusta di cordicelle e scacciò tutti fuori dal tempio, con le pecore e i buoi; gettò a terra il denaro dei cambiamonete e ne rovesciò i banchi, 16 e ai venditori di colombe disse: «Portate via di qui queste cose e non fate della casa del Padre mio un mercato!». 17 I suoi discepoli si ricordarono che sta scritto: Lo zelo per la tua casa mi divorerà . 18 Allora i Giudei presero la parola e gli dissero: «Quale segno ci mostri per fare queste cose?». 19 Rispose loro Gesù: «Distruggete questo tempio e in tre giorni lo farò risorgere». 20 Gli dissero allora i Giudei: «Questo tempio è stato costruito in quarantasei anni e tu in tre giorni lo farai risorgere?». 21 Ma egli parlava del tempio del suo corpo. 22 Quando poi fu risuscitato dai morti, i suoi discepoli si ricordarono che aveva detto questo, e credettero alla Scrittura e alla parola detta da Gesù."
+    }
+  ]
+}

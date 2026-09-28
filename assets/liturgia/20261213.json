@@ -1,0 +1,39 @@
+{
+  "data": "2026-12-13",
+  "settimana": "III DOMENICA DI AVVENTO  (ANNO B) - GAUDETE",
+  "celebrazione": "DOMENICA",
+  "colore": "viola o rosaceo",
+  "letture": [
+    {
+      "sigla": "Is 61,1-2.10-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 61,1-2.10-11",
+      "tipo": "prima_lettura",
+      "testo": "1 Lo spirito del Signore Dio è su di me, perché il Signore mi ha consacrato con l'unzione; mi ha mandato a portare il lieto annuncio ai miseri, a fasciare le piaghe dei cuori spezzati, a proclamare la libertà degli schiavi, la scarcerazione dei prigionieri, 2 a promulgare l'anno di grazia del Signore, il giorno di vendetta del nostro Dio, per consolare tutti gli afflitti, 10 Io gioisco pienamente nel Signore, la mia anima esulta nel mio Dio, perché mi ha rivestito delle vesti della salvezza, mi ha avvolto con il mantello della giustizia, come uno sposo si mette il diadema e come una sposa si adorna di gioielli. 11 Poiché, come la terra produce i suoi germogli e come un giardino fa germogliare i suoi semi, così il Signore Dio farà germogliare la giustizia e la lode davanti a tutte le genti."
+    },
+    {
+      "sigla": "Lc 1",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 1",
+      "tipo": "salmo",
+      "testo": "R. La mia anima esulta nel mio Dio.\n\nL’anima mia magnifica il Signore\ne il mio spirito esulta in Dio, mio salvatore,\nperché ha guardato l’umiltà della sua serva.\nD’ora in poi tutte le generazioni mi chiameranno beata.\n\nGrandi cose ha fatto per me l’Onnipotente\ne Santo è il suo nome;\ndi generazione in generazione la sua misericordia\nper quelli che lo temono.\n\nHa ricolmato di beni gli affamati,\nha rimandato i ricchi a mani vuote.\nHa soccorso Israele, suo servo,\nricordandosi della sua misericordia.",
+      "ritornello": "R. La mia anima esulta nel mio Dio."
+    },
+    {
+      "sigla": "1Ts 5,16-24",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Ts 5,16-24",
+      "tipo": "seconda_lettura",
+      "testo": "23 Il Dio della pace vi santifichi interamente, e tutta la vostra persona, spirito, anima e corpo, si conservi irreprensibile per la venuta del Signore nostro Gesù Cristo. 24 Degno di fede è colui che vi chiama: egli farà tutto questo!"
+    },
+    {
+      "sigla": "Is 61,1",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 61,1",
+      "tipo": "canto_vangelo",
+      "testo": "Lo Spirito del Signore è sopra di me, mi ha mandato a portare ai poveri il lieto annuncio."
+    },
+    {
+      "sigla": "Gv 1,6-8.19-28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 1,6-8.19-28",
+      "tipo": "vangelo",
+      "testo": "«Io sono voce di uno che grida nel deserto : Rendete diritta la via del Signore , come disse il profeta Isaia». 24 Quelli che erano stati inviati venivano dai farisei. 25 Essi lo interrogarono e gli dissero: «Perché dunque tu battezzi, se non sei il Cristo, né Elia, né il profeta?». 26 Giovanni rispose loro: «Io battezzo nell'acqua. In mezzo a voi sta uno che voi non conoscete, 27 colui che viene dopo di me: a lui io non sono degno di slegare il laccio del sandalo». 28 Questo avvenne in Betània, al di là del Giordano, dove Giovanni stava battezzando."
+    }
+  ]
+}

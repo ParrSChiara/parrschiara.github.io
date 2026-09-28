@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-21",
+  "settimana": "Presentazione della Beata Vergine Maria",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Zc 2,14-17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Zc 2,14-17",
+      "tipo": "prima_lettura",
+      "testo": "14 Rallégrati, esulta, figlia di Sion, perché, ecco, io vengo ad abitare in mezzo a te. Oracolo del Signore. 15 Nazioni numerose aderiranno in quel giorno al Signore e diverranno suo popolo, ed egli dimorerà in mezzo a te e tu saprai che il Signore degli eserciti mi ha inviato a te. 16 Il Signore si terrà Giuda come eredità nella terra santa ed eleggerà di nuovo Gerusalemme. 17 Taccia ogni mortale davanti al Signore, poiché egli si è destato dalla sua santa dimora»."
+    },
+    {
+      "sigla": "Lc 1",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 1",
+      "tipo": "salmo",
+      "testo": "R. Il Signore si è ricordato della sua misericordia.\n\nL’anima mia magnifica il Signore\ne il mio spirito esulta in Dio, mio salvatore.\n\nPerché ha guardato l’umiltà della sua serva.\nD’ora in poi tutte le generazioni mi chiameranno beata.\nGrandi cose ha fatto per me l’Onnipotente\ne Santo è il suo nome.\n\nDi generazione in generazione la sua misericordia\nper quelli che lo temono.\nHa spiegato la potenza del suo braccio,\nha disperso i superbi nei pensieri del loro cuore.\n\nHa rovesciato i potenti dai troni,\nha innalzato gli umili;\nha ricolmato di beni gli affamati,\nha rimandato i ricchi a mani vuote.\n\nHa soccorso Israele, suo servo,\nricordandosi della sua misericordia,\ncome aveva detto ai nostri padri,\nper Abramo e la sua discendenza, per sempre.",
+      "ritornello": "R. Il Signore si è ricordato della sua misericordia."
+    },
+    {
+      "sigla": "Lc 11,28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 11,28",
+      "tipo": "canto_vangelo",
+      "testo": "Beati coloro che ascoltano la parola di Dio e la osservano."
+    },
+    {
+      "sigla": "Mt 12,46-50",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 12,46-50",
+      "tipo": "vangelo",
+      "testo": "46 Gesù stava parlando alla folla. Sua madre e i suoi fratelli volevano parlare con lui, ma erano rimasti fuori. 47 Un tale disse a Gesù: - Qui fuori ci sono tua madre e i tuoi fratelli che vogliono parlare con te. 48 Gesù a chi gi parlava rispose: - Chi è mia madre? e chi sono i miei fratelli? 49 Poi, con la mano indicò i suoi discepoli e disse: - Guarda: sono questi mia madre e i miei fratelli: 50 perché se uno fa la volontà del Padre mio che è in cielo, egli è mio fratello, mia sorella e mia madre."
+    }
+  ]
+}

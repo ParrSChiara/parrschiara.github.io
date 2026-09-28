@@ -1,0 +1,33 @@
+{
+  "data": "2026-12-12",
+  "settimana": "Sabato della II settimana di Avvento",
+  "celebrazione": "Feria",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "Sir 48,1-4.9-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sir 48,1-4.9-11",
+      "tipo": "prima_lettura",
+      "testo": "1 Allora sorse Elia profeta, come un fuoco; la sua parola bruciava come fiaccola. 2 Egli fece venire su di loro la carestia e con zelo li ridusse a pochi. 3 Per la parola del Signore chiuse il cielo e così fece scendere per tre volte il fuoco. 4 Come ti rendesti glorioso, Elia, con i tuoi prodigi! E chi può vantarsi di esserti uguale? 9 Tu sei stato assunto in un turbine di fuoco, su un carro di cavalli di fuoco; 10 tu sei stato designato a rimproverare i tempi futuri, per placare l'ira prima che divampi, per ricondurre il cuore del padre verso il figlio e ristabilire le tribù di Giacobbe. 11 Beati coloro che ti hanno visto e si sono addormentati nell'amore, perché è certo che anche noi vivremo."
+    },
+    {
+      "sigla": "Sal 79",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 79",
+      "tipo": "salmo",
+      "testo": "R. Fa’ splendere il tuo volto, Signore, e noi saremo salvi.\n\nTu, pastore d’Israele, ascolta.\nSeduto sui cherubini, risplendi.\nRisveglia la tua potenza\ne vieni a salvarci.\n\nDio degli eserciti, ritorna!\nGuarda dal cielo e vedi\ne visita questa vigna,\nproteggi quello che la tua destra ha piantato,\nil figlio dell’uomo che per te hai reso forte.\n\nSia la tua mano sull’uomo della tua destra,\nsul figlio dell’uomo che per te hai reso forte.\nDa te mai più ci allontaneremo,\nfacci rivivere e noi invocheremo il tuo nome.",
+      "ritornello": "R. Fa’ splendere il tuo volto, Signore, e noi saremo salvi."
+    },
+    {
+      "sigla": "Lc 3,4.6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 3,4.6",
+      "tipo": "canto_vangelo",
+      "testo": "Preparate la via del Signore, raddrizzate i suoi sentieri! Ogni uomo vedrà la salvezza di Dio."
+    },
+    {
+      "sigla": "Mt 17,10-13",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 17,10-13",
+      "tipo": "vangelo",
+      "testo": "10 Poi i discepoli fecero una domanda a Gesù: - Perché dunque i maestri della Legge dicono che prima di tutto deve tornare il profeta Elia? 11 Egli rispose: - È vero, prima deve venire Elia per mettere in ordine ogni cosa. 12 Vi assicuro però che Elia è già venuto, ma non l'hanno riconosciuto e gli hanno fatto quel che hanno voluto. Allo stesso modo faranno soffrire anche il Figlio dell'uomo. 13 Allora i discepoli capirono che aveva parlato di Giovanni il Battezzatore."
+    }
+  ]
+}

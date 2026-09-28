@@ -1,0 +1,27 @@
+{
+  "data": "2026-12-09",
+  "settimana": "Mercoledì della II settimana di Avvento",
+  "celebrazione": "Feria",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "Is 40,25-31",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 40,25-31",
+      "tipo": "prima_lettura",
+      "testo": "27 Perché dici, Giacobbe, e tu, Israele, ripeti: «La mia via è nascosta al Signore e il mio diritto è trascurato dal mio Dio»? 28 Non lo sai forse? Non l'hai udito? Dio eterno è il Signore, che ha creato i confini della terra. Egli non si affatica né si stanca, la sua intelligenza è inscrutabile. 29 Egli dà forza allo stanco e moltiplica il vigore allo spossato. 30 Anche i giovani faticano e si stancano, gli adulti inciampano e cadono; 31 ma quanti sperano nel Signore riacquistano forza, mettono ali come aquile, corrono senza affannarsi, camminano senza stancarsi."
+    },
+    {
+      "sigla": "Sal 102",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 102",
+      "tipo": "salmo",
+      "testo": "R. Benedici il Signore, anima mia.\n\nBenedici il Signore, anima mia,\nquanto è in me benedica il suo santo nome.\nBenedici il Signore, anima mia,\nnon dimenticare tutti i suoi benefici.\n\nEgli perdona tutte le tue colpe,\nguarisce tutte le tue infermità,\nsalva dalla fossa la tua vita,\nti circonda di bontà e misericordia.\n\nMisericordioso e pietoso è il Signore,\nlento all’ira e grande nell’amore.\nNon ci tratta secondo i nostri peccati\ne non ci ripaga secondo le nostre colpe.",
+      "ritornello": "R. Benedici il Signore, anima mia."
+    },
+    {
+      "sigla": "Mt 11,28-30",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,28-30",
+      "tipo": "vangelo",
+      "testo": "28 Venite a me, voi tutti che siete stanchi e oppressi, e io vi darò ristoro. 29 Prendete il mio giogo sopra di voi e imparate da me, che sono mite e umile di cuore, e troverete ristoro per la vostra vita . 30 Il mio giogo infatti è dolce e il mio peso leggero»."
+    }
+  ]
+}

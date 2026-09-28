@@ -1,0 +1,39 @@
+{
+  "data": "2026-12-08",
+  "settimana": "IMMACOLATA CONCEZIONE DELLA BEATA VERGINE MARIA",
+  "celebrazione": "SOLENNITA'",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Gen 3,9-15.20",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gen 3,9-15.20",
+      "tipo": "prima_lettura",
+      "testo": "11 Riprese: «Chi ti ha fatto sapere che eri nudo? Hai forse mangiato dell'albero di cui ti avevo comandato di non mangiare?».\n12 Rispose l'uomo: «La donna che tu mi hai posta accanto mi ha dato dell'albero e io ne ho mangiato». 13 Il Signore Dio disse alla donna: «Che hai fatto?». Rispose la donna: «Il serpente mi ha ingannata e io ho mangiato».\n«Poiché tu hai fatto questo, sii tu maledetto più di tutto il bestiame e più di tutte le bestie selvatiche; sul tuo ventre camminerai e polvere mangerai per tutti i giorni della tua vita. 15 Io porrò inimicizia tra te e la donna, tra la tua stripe e la sua stirpe: questa ti schiaccerà la testa e tu le insidierai il calcagno».\n20 L'uomo chiamò la moglie Eva, perché essa fu la madre di tutti i viventi."
+    },
+    {
+      "sigla": "Sal 97",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 97",
+      "tipo": "salmo",
+      "testo": "R. Cantate al Signore un canto nuovo, perché ha compiuto meraviglie.\n\nCantate al Signore un canto nuovo,\nperché ha compiuto meraviglie.\nGli ha dato vittoria la sua destra\ne il suo braccio santo.\n\nIl Signore ha fatto conoscere la sua salvezza,\nagli occhi delle genti ha rivelato la sua giustizia.\nEgli si è ricordato del suo amore,\ndella sua fedeltà alla casa d’Israele.\n\nTutti i confini della terra hanno veduto\nla vittoria del nostro Dio.\nAcclami il Signore tutta la terra,\ngridate, esultate, cantate inni!",
+      "ritornello": "R. Cantate al Signore un canto nuovo, perché ha compiuto meraviglie."
+    },
+    {
+      "sigla": "Ef 1,3-6.11-12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ef 1,3-6.11-12",
+      "tipo": "seconda_lettura",
+      "testo": "3 Benedetto Dio, Padre del Signore nostro Gesù Cristo, che ci ha benedetti con ogni benedizione spirituale nei cieli in Cristo. 4 In lui ci ha scelti prima della creazione del mondo per essere santi e immacolati di fronte a lui nella carità, 5 predestinandoci a essere per lui figli adottivi mediante Gesù Cristo, secondo il disegno d'amore della sua volontà, 6 a lode dello splendore della sua grazia, di cui ci ha gratificati nel Figlio amato. 11 In lui siamo stati fatti anche eredi, predestinati - secondo il progetto di colui che tutto opera secondo la sua volontà - 12 a essere lode della sua gloria, noi, che già prima abbiamo sperato nel Cristo."
+    },
+    {
+      "sigla": "Lc 1,28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 1,28",
+      "tipo": "canto_vangelo",
+      "testo": "Rallègrati, piena di grazia, il Signore è con te, benedetta tu fra le donne."
+    },
+    {
+      "sigla": "Lc 1,26-38",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 1,26-38",
+      "tipo": "vangelo",
+      "testo": "26 Al sesto mese, l'angelo Gabriele fu mandato da Dio in una città della Galilea, chiamata Nàzaret, 27 a una vergine, promessa sposa di un uomo della casa di Davide, di nome Giuseppe. La vergine si chiamava Maria. 28 Entrando da lei, disse: «Rallégrati, piena di grazia: il Signore è con te». 29 A queste parole ella fu molto turbata e si domandava che senso avesse un saluto come questo. 30 L'angelo le disse: «Non temere, Maria, perché hai trovato grazia presso Dio. 31 Ed ecco, concepirai un figlio, lo darai alla luce e lo chiamerai Gesù. 32 Sarà grande e verrà chiamato Figlio dell'Altissimo; il Signore Dio gli darà il trono di Davide suo padre 33 e regnerà per sempre sulla casa di Giacobbe e il suo regno non avrà fine». 34 Allora Maria disse all'angelo: «Come avverrà questo, poiché non conosco uomo?». 35 Le rispose l'angelo: «Lo Spirito Santo scenderà su di te e la potenza dell'Altissimo ti coprirà con la sua ombra. Perciò colui che nascerà sarà santo e sarà chiamato Figlio di Dio. 36 Ed ecco, Elisabetta, tua parente, nella sua vecchiaia ha concepito anch'essa un figlio e questo è il sesto mese per lei, che era detta sterile: 37 nulla è impossibile a Dio». 38 Allora Maria disse: «Ecco la serva del Signore: avvenga per me secondo la tua parola». E l'angelo si allontanò da lei."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "data": "2026-12-01",
+  "settimana": "Martedì della I settimana di Avvento",
+  "celebrazione": "Feria",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "Is 11,1-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 11,1-10",
+      "tipo": "prima_lettura",
+      "testo": "10 In quel giorno avverrà che la radice di Iesse sarà un vessillo per i popoli. Le nazioni la cercheranno con ansia. La sua dimora sarà gloriosa."
+    },
+    {
+      "sigla": "Sal 71",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 71",
+      "tipo": "salmo",
+      "testo": "R. Nei suoi giorni fioriranno giustizia e pace.\n\nO Dio, affida al re il tuo diritto,\nal figlio di re la tua giustizia;\negli giudichi il tuo popolo secondo giustizia\ne i tuoi poveri secondo il diritto.\n\nNei suoi giorni fiorisca il giusto\ne abbondi la pace,\nfinché non si spenga la luna.\nE dòmini da mare a mare,\ndal fiume sino ai confini della terra.\n\nPerché egli libererà il misero che invoca\ne il povero che non trova aiuto.\nAbbia pietà del debole e del misero\ne salvi la vita dei  miseri.\n\nIl suo nome duri in eterno,\ndavanti al sole germogli il suo nome.\nIn lui siano benedette tutte le stirpi della terra\ne tutte le genti lo dicano beato.",
+      "ritornello": "R. Nei suoi giorni fioriranno giustizia e pace."
+    },
+    {
+      "sigla": "Lc 10,21-24",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 10,21-24",
+      "tipo": "vangelo",
+      "testo": "21 In quella stessa ora Gesù esultò di gioia nello Spirito Santo e disse: «Ti rendo lode, o Padre, Signore del cielo e della terra, perché hai nascosto queste cose ai sapienti e ai dotti e le hai rivelate ai piccoli. Sì, o Padre, perché così hai deciso nella tua benevolenza. 22 Tutto è stato dato a me dal Padre mio e nessuno sa chi è il Figlio se non il Padre, né chi è il Padre se non il Figlio e colui al quale il Figlio vorrà rivelarlo». 23 E, rivolto ai discepoli, in disparte, disse: «Beati gli occhi che vedono ciò che voi vedete. 24 Io vi dico che molti profeti e re hanno voluto vedere ciò che voi guardate, ma non lo videro, e ascoltare ciò che voi ascoltate, ma non lo ascoltarono»."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-24",
+  "settimana": "Santi Andrea Dung-Lac e compagni",
+  "celebrazione": "Memoria",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "Ap 14,14-19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 14,14-19",
+      "tipo": "prima_lettura",
+      "testo": "14 E vidi: ecco una nube bianca, e sulla nube stava seduto uno simile a un Figlio d'uomo: aveva sul capo una corona d'oro e in mano una falce affilata. 15 Un altro angelo uscì dal tempio, gridando a gran voce a colui che era seduto sulla nube: «Getta la tua falce e mieti; è giunta l'ora di mietere, perché la messe della terra è matura». 16 Allora colui che era seduto sulla nube lanciò la sua falce sulla terra e la terra fu mietuta. 17 Allora un altro angelo uscì dal tempio che è nel cielo, tenendo anch'egli una falce affilata. 18 Un altro angelo, che ha potere sul fuoco, venne dall'altare e gridò a gran voce a quello che aveva la falce affilata: «Getta la tua falce affilata e vendemmia i grappoli della vigna della terra, perché le sue uve sono mature». 19 L'angelo lanciò la sua falce sulla terra, vendemmiò la vigna della terra e rovesciò l'uva nel grande tino dell'ira di Dio."
+    },
+    {
+      "sigla": "Sal 95",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 95",
+      "tipo": "salmo",
+      "testo": "R. Vieni, Signore, a giudicare la terra.\n\nDite tra le genti: «Il Signore regna!».\nÈ stabile il mondo, non potrà vacillare!\nEgli giudica i popoli con rettitudine.\n\nGioiscano i cieli, esulti la terra,\nrisuoni il mare e quanto racchiude;\nsia in festa la campagna e quanto contiene,\nacclamino tutti gli alberi della foresta.\n\nDavanti al Signore che viene:\nsì, egli viene a giudicare la terra;\ngiudicherà il mondo con giustizia\ne nella sua fedeltà i popoli.",
+      "ritornello": "R. Vieni, Signore, a giudicare la terra."
+    },
+    {
+      "sigla": "Ap 2,10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 2,10",
+      "tipo": "canto_vangelo",
+      "testo": "Sii fedele fino alla morte, dice il Signore, e ti darò la corona della vita."
+    },
+    {
+      "sigla": "Lc 21,5-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 21,5-11",
+      "tipo": "vangelo",
+      "testo": "5 Mentre alcuni parlavano del tempio, che era ornato di belle pietre e di doni votivi, disse: 6 «Verranno giorni nei quali, di quello che vedete, non sarà lasciata pietra su pietra che non sarà distrutta». 7 Gli domandarono: «Maestro, quando dunque accadranno queste cose e quale sarà il segno, quando esse staranno per accadere?». 8 Rispose: «Badate di non lasciarvi ingannare. Molti infatti verranno nel mio nome dicendo: «Sono io», e: «Il tempo è vicino». Non andate dietro a loro! 9 Quando sentirete di guerre e di rivoluzioni, non vi terrorizzate, perché prima devono avvenire queste cose, ma non è subito la fine». 10 Poi diceva loro: «Si solleverà nazione contro nazione e regno contro regno, 11 e vi saranno in diversi luoghi terremoti, carestie e pestilenze; vi saranno anche fatti terrificanti e segni grandiosi dal cielo."
+    }
+  ]
+}

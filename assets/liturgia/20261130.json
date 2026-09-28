@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-30",
+  "settimana": "SANT'ANDREA",
+  "celebrazione": "FESTA",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "Rm 10,9-18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Rm 10,9-18",
+      "tipo": "prima_lettura",
+      "testo": "Per tutta la terra è corsa la loro voce, e fino agli estremi confini del mondo le loro parole ."
+    },
+    {
+      "sigla": "Sal 18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 18",
+      "tipo": "salmo",
+      "testo": "R. Per tutta la terra si diffonde il loro annuncio.\n\nI cieli narrano la gloria di Dio,\nl’opera delle sue mani annuncia il firmamento.\nIl giorno al giorno ne affida il racconto\ne la notte alla notte ne trasmette notizia.\n\nSenza linguaggio, senza parole,\nsenza che si oda la loro voce,\nper tutta la terra si diffonde il loro annuncio\ne ai confini del mondo il loro messaggio.",
+      "ritornello": "R. Per tutta la terra si diffonde il loro annuncio."
+    },
+    {
+      "sigla": "Mt 4,19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 4,19",
+      "tipo": "canto_vangelo",
+      "testo": "Venite dietro a me, vi farò pescatori di uomini"
+    },
+    {
+      "sigla": "Mt 4,18-22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 4,18-22",
+      "tipo": "vangelo",
+      "testo": "18 Mentre camminava lungo il mare di Galilea, vide due fratelli, Simone, chiamato Pietro, e Andrea suo fratello, che gettavano le reti in mare; erano infatti pescatori. 19 E disse loro: «Venite dietro a me, vi farò pescatori di uomini». 20 Ed essi subito lasciarono le reti e lo seguirono. 21 Andando oltre, vide altri due fratelli, Giacomo, figlio di Zebedeo, e Giovanni suo fratello, che nella barca, insieme a Zebedeo loro padre, riparavano le loro reti, e li chiamò. 22 Ed essi subito lasciarono la barca e il loro padre e lo seguirono."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-20",
+  "settimana": "Venerdì della XXXIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ap 10,8-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 10,8-11",
+      "tipo": "prima_lettura",
+      "testo": "8 Poi la voce che avevo udito dal cielo mi parlò di nuovo: «Va', prendi il libro aperto dalla mano dell'angelo che sta in piedi sul mare e sulla terra». 9 Allora mi avvicinai all'angelo e lo pregai di darmi il piccolo libro. Ed egli mi disse: «Prendilo e divoralo; ti riempirà di amarezza le viscere, ma in bocca ti sarà dolce come il miele». 10 Presi quel piccolo libro dalla mano dell'angelo e lo divorai; in bocca lo sentii dolce come il miele, ma come l'ebbi inghiottito ne sentii nelle viscere tutta l'amarezza. 11 Allora mi fu detto: «Devi profetizzare ancora su molti popoli, nazioni, lingue e re»."
+    },
+    {
+      "sigla": "Sal 118",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 118",
+      "tipo": "salmo",
+      "testo": "R. Quanto sono dolci al mio palato le tue promesse!\n\nNella via dei tuoi insegnamenti è la mia gioia,\npiù che in tutte le ricchezze.\nI tuoi insegnamenti sono la mia delizia:\nsono essi i miei consiglieri.\n\nBene per me è la legge della tua bocca,\npiù di mille pezzi d’oro e d’argento.\nQuanto sono dolci al mio palato le tue promesse,\npiù del miele per la mia bocca.\n\nMia eredità per sempre sono i tuoi insegnamenti,\nperché sono essi la gioia del mio cuore.\nApro anelante la mia bocca,\nperché ho sete dei tuoi comandi.",
+      "ritornello": "R. Quanto sono dolci al mio palato le tue promesse!"
+    },
+    {
+      "sigla": "Gv 10,27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 10,27",
+      "tipo": "canto_vangelo",
+      "testo": "Le mie pecore ascoltano la mia voce, dice il Signore, e io le conosco ed esse mi seguono."
+    },
+    {
+      "sigla": "Lc 19,45-48",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 19,45-48",
+      "tipo": "vangelo",
+      "testo": "La mia casa sarà casa di preghiera. Voi invece ne avete fatto un covo di ladri»."
+    }
+  ]
+}

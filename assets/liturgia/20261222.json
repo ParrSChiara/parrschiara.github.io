@@ -1,0 +1,27 @@
+{
+  "data": "2026-12-22",
+  "settimana": "Feria propria del 22 Dicembre",
+  "celebrazione": "Feria",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "1Sam 1,24-28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Sam 1,24-28",
+      "tipo": "prima_lettura",
+      "testo": "24 Dopo averlo svezzato, lo portò con sé, con un giovenco di tre anni, un'efa di farina e un otre di vino, e lo introdusse nel tempio del Signore a Silo: era ancora un fanciullo. 25 Immolato il giovenco, presentarono il fanciullo a Eli 26 e lei disse: «Perdona, mio signore. Per la tua vita, mio signore, io sono quella donna che era stata qui presso di te a pregare il Signore. 27 Per questo fanciullo ho pregato e il Signore mi ha concesso la grazia che gli ho richiesto. 28 Anch'io lascio che il Signore lo richieda: per tutti i giorni della sua vita egli è richiesto per il Signore». E si prostrarono là davanti al Signore."
+    },
+    {
+      "sigla": "1Sam 2",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Sam 2",
+      "tipo": "salmo",
+      "testo": "R. Il mio cuore esulta nel Signore, mio Salvatore.\n\nIl mio cuore esulta nel Signore,\nla mia forza s’innalza grazie al mio Dio.\nSi apre la mia bocca contro i miei nemici,\nperché io gioisco per la tua salvezza.\n\nL’arco dei forti s’è spezzato,\nma i deboli si sono rivestiti di vigore.\nI sazi si sono venduti per un pane,\nhanno smesso di farlo gli affamati.\nLa sterile ha partorito sette volte\ne la ricca di figli è sfiorita.\n\nIl Signore fa morire e fa vivere,\nscendere agli inferi e risalire.\nIl Signore rende povero e arricchisce,\nabbassa ed esalta.\n\nSolleva dalla polvere il debole,\ndall’immondizia rialza il povero,\nper farli sedere con i nobili\ne assegnare loro un trono di gloria.",
+      "ritornello": "R. Il mio cuore esulta nel Signore, mio Salvatore."
+    },
+    {
+      "sigla": "Lc 1,46-55",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 1,46-55",
+      "tipo": "vangelo",
+      "testo": "«L'anima mia magnifica il Signore 47 e il mio spirito esulta in Dio, mio salvatore, 48 perché ha guardato l'umiltà della sua serva. D'ora in poi tutte le generazioni mi chiameranno beata. 49 Grandi cose ha fatto per me l'Onnipotente e Santo è il suo nome; 50 di generazione in generazione la sua misericordia per quelli che lo temono. 51 Ha spiegato la potenza del suo braccio, ha disperso i superbi nei pensieri del loro cuore; 52 ha rovesciato i potenti dai troni, ha innalzato gli umili; 53 ha ricolmato di beni gli affamati, ha rimandato i ricchi a mani vuote. 54 Ha soccorso Israele, suo servo, ricordandosi della sua misericordia, 55 come aveva detto ai nostri padri, per Abramo e la sua discendenza, per sempre»."
+    }
+  ]
+}

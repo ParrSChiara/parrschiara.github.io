@@ -1,0 +1,27 @@
+{
+  "data": "2026-12-21",
+  "settimana": "Feria propria del 21 Dicembre",
+  "celebrazione": "Feria",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "Cant 2,8-14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Cant 2,8-14",
+      "tipo": "prima_lettura",
+      "testo": "8 Una voce! L'amato mio! Eccolo, viene saltando per i monti, balzando per le colline. 9 L'amato mio somiglia a una gazzella o ad un cerbiatto. Eccolo, egli sta dietro il nostro muro; guarda dalla finestra, spia dalle inferriate. 10 Ora l'amato mio prende a dirmi: «Àlzati, amica mia, mia bella, e vieni, presto! 11 Perché, ecco, l'inverno è passato, è cessata la pioggia, se n'è andata; 12 i fiori sono apparsi nei campi, il tempo del canto è tornato e la voce della tortora ancora si fa sentire nella nostra campagna. 13 Il fico sta maturando i primi frutti e le viti in fiore spandono profumo. Àlzati, amica mia, mia bella, e vieni, presto! 14 O mia colomba, che stai nelle fenditure della roccia, nei nascondigli dei dirupi, mostrami il tuo viso, fammi sentire la tua voce, perché la tua voce è soave, il tuo viso è incantevole»."
+    },
+    {
+      "sigla": "Sal 32",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 32",
+      "tipo": "salmo",
+      "testo": "R. Esultate, o giusti, nel Signore; cantate a lui un canto nuovo.\n\nLodate il Signore con la cetra,\ncon l’arpa a dieci corde a lui cantate.\nCantate al Signore un canto nuovo,\ncon arte suonate la cetra e acclamate.\n\nIl disegno del Signore sussiste per sempre,\ni progetti del suo cuore per tutte le generazioni.\nBeata la nazione che ha il Signore come Dio,\nil popolo che egli ha scelto come sua eredità.\n\nL’anima nostra attende il Signore:\negli è nostro aiuto e nostro scudo.\nÈ in lui che gioisce il nostro cuore,\nnel suo santo nome noi confidiamo.",
+      "ritornello": "R. Esultate, o giusti, nel Signore; cantate a lui un canto nuovo."
+    },
+    {
+      "sigla": "Lc 1,39-45",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 1,39-45",
+      "tipo": "vangelo",
+      "testo": "39 In quei giorni Maria si alzò e andò in fretta verso la regione montuosa, in una città di Giuda. 40 Entrata nella casa di Zaccaria, salutò Elisabetta. 41 Appena Elisabetta ebbe udito il saluto di Maria, il bambino sussultò nel suo grembo . Elisabetta fu colmata di Spirito Santo 42 ed esclamò a gran voce: «Benedetta tu fra le donne e benedetto il frutto del tuo grembo! 43 A che cosa devo che la madre del mio Signore venga da me? 44 Ecco, appena il tuo saluto è giunto ai miei orecchi, il bambino ha sussultato di gioia nel mio grembo . 45 E beata colei che ha creduto nell'adempimento di ciò che il Signore le ha detto»."
+    }
+  ]
+}

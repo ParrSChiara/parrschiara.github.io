@@ -1,0 +1,27 @@
+{
+  "data": "2026-12-04",
+  "settimana": "Venerdì della I settimana di Avvento",
+  "celebrazione": "Feria",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "Is 29,17-24",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 29,17-24",
+      "tipo": "prima_lettura",
+      "testo": "17 Certo, ancora un po' e il Libano si cambierà in un frutteto e il frutteto sarà considerato una selva. 18 Udranno in quel giorno i sordi le parole del libro; liberati dall'oscurità e dalle tenebre, gli occhi dei ciechi vedranno. 19 Gli umili si rallegreranno di nuovo nel Signore, i più poveri gioiranno nel Santo d'Israele. 20 Perché il tiranno non sarà più, sparirà l'arrogante, saranno eliminati quanti tramano iniquità, 21 quanti con la parola rendono colpevoli gli altri, quanti alla porta tendono tranelli al giudice e rovinano il giusto per un nulla. 22 Pertanto, dice alla casa di Giacobbe il Signore, che riscattò Abramo: «D'ora in poi Giacobbe non dovrà più arrossire, il suo viso non impallidirà più, 23 poiché vedendo i suoi figli l'opera delle mie mani tra loro, santificheranno il mio nome, santificheranno il Santo di Giacobbe e temeranno il Dio d'Israele. 24 Gli spiriti traviati apprenderanno la sapienza, quelli che mormorano impareranno la lezione»."
+    },
+    {
+      "sigla": "Sal 26",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 26",
+      "tipo": "salmo",
+      "testo": "R. Il Signore è la mia luce e mia salvezza.\n\nIl Signore è mia luce e mia salvezza:\ndi chi avrò timore?\nIl Signore è difesa della mia vita:\ndi chi avrò paura?\n\nUna cosa ho chiesto al Signore,\nquesta sola io cerco:\nabitare nella casa del Signore\ntutti i giorni della mia vita,\nper contemplare la bellezza del Signore\ne ammirare il suo santuario.\n\nSono certo di contemplare la bontà del Signore\nnella terra dei viventi.\nSpera nel Signore, sii forte,\nsi rinsaldi il tuo cuore e spera nel Signore.",
+      "ritornello": "R. Il Signore è la mia luce e mia salvezza."
+    },
+    {
+      "sigla": "Mt 9,27-31",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 9,27-31",
+      "tipo": "vangelo",
+      "testo": "27 Mentre Gesù si allontanava di là, due ciechi lo seguirono gridando: «Figlio di Davide, abbi pietà di noi!». 28 Entrato in casa, i ciechi gli si avvicinarono e Gesù disse loro: «Credete che io possa fare questo?». Gli risposero: «Sì, o Signore!». 29 Allora toccò loro gli occhi e disse: «Avvenga per voi secondo la vostra fede». 30 E si aprirono loro gli occhi. Quindi Gesù li ammonì dicendo: «Badate che nessuno lo sappia!». 31 Ma essi, appena usciti, ne diffusero la notizia in tutta quella regione."
+    }
+  ]
+}

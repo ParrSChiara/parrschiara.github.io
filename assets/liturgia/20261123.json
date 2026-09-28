@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-23",
+  "settimana": "Lunedì della XXXIV settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ap 14,1-3.4-5",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 14,1-3.4-5",
+      "tipo": "prima_lettura",
+      "testo": "1 E vidi: ecco l'Agnello in piedi sul monte Sion, e insieme a lui centoquarantaquattromila persone, che recavano scritto sulla fronte il suo nome e il nome del Padre suo. 2 E udii una voce che veniva dal cielo, come un fragore di grandi acque e come un rimbombo di forte tuono. La voce che udii era come quella di suonatori di cetra che si accompagnano nel canto con le loro cetre. 3 Essi cantano come un canto nuovo davanti al trono e davanti ai quattro esseri viventi e agli anziani. E nessuno poteva comprendere quel canto se non i centoquarantaquattromila, i redenti della terra. 4 Sono coloro che non si sono contaminati con donne; sono vergini, infatti, e seguono l'Agnello dovunque vada. Questi sono stati redenti tra gli uomini come primizie per Dio e per l'Agnello. 5 Non fu trovata menzogna sulla loro bocca : sono senza macchia."
+    },
+    {
+      "sigla": "Sal 23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 23",
+      "tipo": "salmo",
+      "testo": "R. Ecco la generazione che cerca il tuo volto, Signore.\n\nDel Signore è la terra e quanto contiene:\nil mondo, con i suoi abitanti.\nÈ lui che l’ha fondato sui mari\ne sui fiumi l’ha stabilito.\n\nChi potrà salire il monte del Signore?\nChi potrà stare nel suo luogo santo?\nChi ha mani innocenti e cuore puro,\nchi non si rivolge agli idoli.\n\nEgli otterrà benedizione dal Signore,\ngiustizia da Dio sua salvezza.\nEcco la generazione che lo cerca,\nche cerca il tuo volto, Dio di Giacobbe.",
+      "ritornello": "R. Ecco la generazione che cerca il tuo volto, Signore."
+    },
+    {
+      "sigla": "Mt 24,42",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 24,42",
+      "tipo": "canto_vangelo",
+      "testo": "Vegliate e tenetevi pronti, perché, nell’ora che non immaginate, viene il Figlio dell’uomo."
+    },
+    {
+      "sigla": "Lc 21,1-4",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 21,1-4",
+      "tipo": "vangelo",
+      "testo": "1 Alzàti gli occhi, vide i ricchi che gettavano le loro offerte nel tesoro del tempio. 2 Vide anche una vedova povera, che vi gettava due monetine, 3 e disse: «In verità vi dico: questa vedova, così povera, ha gettato più di tutti. 4 Tutti costoro, infatti, hanno gettato come offerta parte del loro superfluo. Ella invece, nella sua miseria, ha gettato tutto quello che aveva per vivere»."
+    }
+  ]
+}

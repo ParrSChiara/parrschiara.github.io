@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-18",
+  "settimana": "Mercoledì della XXXIII settimana del Tempo Ordinario (Anno pari)",
+  "celebrazione": "Feria",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Ap 4,1-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 4,1-11",
+      "tipo": "prima_lettura",
+      "testo": "« Santo, santo, santo il Signore Dio, l'Onnipotente, Colui che era, che è e che viene!».\n9 E ogni volta che questi esseri viventi rendono gloria, onore e grazie a Colui che è seduto sul trono e che vive nei secoli dei secoli, 10 i ventiquattro anziani si prostrano davanti a Colui che siede sul trono e adorano Colui che vive nei secoli dei secoli e gettano le loro corone davanti al trono, dicendo:\n11 «Tu sei degno, o Signore e Dio nostro, di ricevere la gloria, l'onore e la potenza, perché tu hai creato tutte le cose, per la tua volontà esistevano e furono create»."
+    },
+    {
+      "sigla": "Sal 150",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 150",
+      "tipo": "salmo",
+      "testo": "R. Santo, santo, santo il Signore Dio, l’Onnipotente.\n\nLodate Dio nel suo santuario,\nlodatelo nel suo maestoso firmamento.\nLodatelo per le sue imprese,\nlodatelo per la sua immensa grandezza.\n\nLodatelo con il suono del corno,\nlodatelo con l’arpa e la cetra.\nLodatelo con tamburelli e danze,\nlodatelo sulle corde e con i flauti.\n\nLodatelo con cimbali sonori,\nlodatelo con cimbali squillanti.\nOgni vivente dia lode al Signore.",
+      "ritornello": "R. Santo, santo, santo il Signore Dio, l’Onnipotente."
+    },
+    {
+      "sigla": "Gv 15,16",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,16",
+      "tipo": "canto_vangelo",
+      "testo": "Io ho scelto voi, dice il Signore, perché andiate e portiate frutto e il vostro frutto rimanga."
+    },
+    {
+      "sigla": "Lc 19,11-28",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 19,11-28",
+      "tipo": "vangelo",
+      "testo": "28 Dette queste cose, Gesù camminava davanti a tutti salendo verso Gerusalemme."
+    }
+  ]
+}

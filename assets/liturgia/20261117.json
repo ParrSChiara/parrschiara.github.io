@@ -1,0 +1,32 @@
+{
+  "data": "2026-11-17",
+  "settimana": "Santa Elisabetta d'Ungheria",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Ap 3,1-6.14-22",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Ap 3,1-6.14-22",
+      "tipo": "prima_lettura",
+      "testo": "14 All'angelo della Chiesa che è a Laodicèa scrivi: «Così parla l'Amen, il Testimone degno di fede e veritiero, il Principio della creazione di Dio. 15 Conosco le tue opere: tu non sei né freddo né caldo. Magari tu fossi freddo o caldo! 16 Ma poiché sei tiepido, non sei cioè né freddo né caldo, sto per vomitarti dalla mia bocca. 17 Tu dici: Sono ricco, mi sono arricchito, non ho bisogno di nulla. Ma non sai di essere un infelice, un miserabile, un povero, cieco e nudo. 18 Ti consiglio di comperare da me oro purificato dal fuoco per diventare ricco, e abiti bianchi per vestirti e perché non appaia la tua vergognosa nudità, e collirio per ungerti gli occhi e recuperare la vista. 19 Io, tutti quelli che amo, li rimprovero e li educo. Sii dunque zelante e convèrtiti. 20 Ecco: sto alla porta e busso. Se qualcuno ascolta la mia voce e mi apre la porta, io verrò da lui, cenerò con lui ed egli con me. 21 Il vincitore lo farò sedere con me, sul mio trono, come anche io ho vinto e siedo con il Padre mio sul suo trono. 22 Chi ha orecchi, ascolti ciò che lo Spirito dice alle Chiese»»."
+    },
+    {
+      "sigla": "Sal 14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 14",
+      "tipo": "salmo",
+      "testo": "R. Il vincitore lo farò sedere con me, sul mio trono.\n\nColui che cammina senza colpa,\npratica la giustizia\ne dice la verità che ha nel cuore,\nnon sparge calunnie con la sua lingua.\n\nNon fa danno al suo prossimo\ne non lancia insulti al suo vicino.\nAi suoi occhi è spregevole il malvagio,\nma onora chi teme il Signore.\n\nNon presta il suo denaro a usura\ne non accetta doni contro l’innocente.\nColui che agisce in questo modo\nresterà saldo per sempre.",
+      "ritornello": "R. Il vincitore lo farò sedere con me, sul mio trono."
+    },
+    {
+      "sigla": "1Gv 4,10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Gv 4,10",
+      "tipo": "canto_vangelo",
+      "testo": "Dio ha amato noi e ha mandato il suo Figlio come vittima di espiazione per i nostri peccati."
+    },
+    {
+      "sigla": "Lc 19,1-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 19,1-10",
+      "tipo": "vangelo"
+    }
+  ]
+}

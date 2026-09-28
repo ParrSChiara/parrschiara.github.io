@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-10",
+  "settimana": "San Leone Magno",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Tt 2,1-8.11-14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Tt 2,1-8.11-14",
+      "tipo": "prima_lettura",
+      "testo": "11 È apparsa infatti la grazia di Dio, che porta salvezza a tutti gli uomini 12 e ci insegna a rinnegare l'empietà e i desideri mondani e a vivere in questo mondo con sobrietà, con giustizia e con pietà, 13 nell'attesa della beata speranza e della manifestazione della gloria del nostro grande Dio e salvatore Gesù Cristo. 14 Egli ha dato se stesso per noi, per riscattarci da ogni iniquità e formare per sé un popolo puro che gli appartenga, pieno di zelo per le opere buone."
+    },
+    {
+      "sigla": "Sal 36",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 36",
+      "tipo": "salmo",
+      "testo": "R. La salvezza dei giusti viene dal Signore.\n\nConfida nel Signore e fa’ il bene:\nabiterai la terra e vi pascolerai con sicurezza.\nCerca la gioia nel Signore:\nesaudirà i desideri del tuo cuore.\n\nIl Signore conosce i giorni degli uomini integri:\nla loro eredità durerà per sempre.\nIl Signore rende sicuri i passi dell’uomo\ne si compiace della sua via.\n\nSta’ lontano dal male e fa’ il bene\ne avrai sempre una casa.\nI giusti avranno in eredità la terra\ne vi abiteranno per sempre.",
+      "ritornello": "R. La salvezza dei giusti viene dal Signore."
+    },
+    {
+      "sigla": "Gv 14,23",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 14,23",
+      "tipo": "canto_vangelo",
+      "testo": "Se uno mi ama, osserverà la mia parola, dice il Signore, e il Padre mio lo amerà e noi verremo a lui."
+    },
+    {
+      "sigla": "Lc 17,7-10",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 17,7-10",
+      "tipo": "vangelo",
+      "testo": "7 Chi di voi, se ha un servo ad arare o a pascolare il gregge, gli dirà quando rientra dal campo: Vieni subito e mettiti a tavola? 8 Non gli dirà piuttosto: Preparami da mangiare, rimboccati la veste e servimi, finché io abbia mangiato e bevuto, e dopo mangerai e berrai anche tu? 9 Si riterrà obbligato verso il suo servo, perché ha eseguito gli ordini ricevuti? 10 Così anche voi, quando avrete fatto tutto quello che vi è stato ordinato, dite: Siamo servi inutili. Abbiamo fatto quanto dovevamo fare»."
+    }
+  ]
+}

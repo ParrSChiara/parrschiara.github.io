@@ -1,0 +1,33 @@
+{
+  "data": "2026-11-12",
+  "settimana": "San Giosafat",
+  "celebrazione": "Memoria",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "Fm 1,7-20",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Fm 1,7-20",
+      "tipo": "prima_lettura",
+      "testo": "8 Per questo, pur avendo in Cristo piena libertà di ordinarti ciò che è opportuno, 9 in nome della carità piuttosto ti esorto, io, Paolo, così come sono, vecchio, e ora anche prigioniero di Cristo Gesù. 10 Ti prego per Onèsimo, figlio mio, che ho generato nelle catene, 11 lui, che un giorno ti fu inutile, ma che ora è utile a te e a me. 12 Te lo rimando, lui che mi sta tanto a cuore. 13 Avrei voluto tenerlo con me perché mi assistesse al posto tuo, ora che sono in catene per il Vangelo. 14 Ma non ho voluto fare nulla senza il tuo parere, perché il bene che fai non sia forzato, ma volontario. 15 Per questo forse è stato separato da te per un momento: perché tu lo riavessi per sempre; 16 non più però come schiavo, ma molto più che schiavo, come fratello carissimo, in primo luogo per me, ma ancora più per te, sia come uomo sia come fratello nel Signore. 17 Se dunque tu mi consideri amico, accoglilo come me stesso. 18 E se in qualche cosa ti ha offeso o ti è debitore, metti tutto sul mio conto. 19 Io, Paolo, lo scrivo di mio pugno: pagherò io. Per non dirti che anche tu mi sei debitore, e proprio di te stesso! 20 Sì, fratello! Che io possa ottenere questo favore nel Signore; da' questo sollievo al mio cuore, in Cristo!"
+    },
+    {
+      "sigla": "Sal 145",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 145",
+      "tipo": "salmo",
+      "testo": "R. Beato chi ha per aiuto il Dio di Giacobbe.\n\nIl Signore rende giustizia agli oppressi,\ndà il pane agli affamati.\nIl Signore libera i prigionieri.\n\nIl Signore ridona la vista ai ciechi,\nil Signore rialza chi è caduto,\nil Signore ama i giusti,\nil Signore protegge i forestieri.\n\nEgli sostiene l’orfano e la vedova,\nma sconvolge le vie dei malvagi.\nIl Signore regna per sempre,\nil tuo Dio, o Sion, di generazione in generazione.",
+      "ritornello": "R. Beato chi ha per aiuto il Dio di Giacobbe."
+    },
+    {
+      "sigla": "Gv 15,5",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,5",
+      "tipo": "canto_vangelo",
+      "testo": "Io sono la vite, voi i tralci, dice il Signore; chi rimane in me, e io in lui, porta molto frutto."
+    },
+    {
+      "sigla": "Lc 17,20-25",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 17,20-25",
+      "tipo": "vangelo",
+      "testo": "20 I farisei gli domandarono: «Quando verrà il regno di Dio?». Egli rispose loro: «Il regno di Dio non viene in modo da attirare l'attenzione, 21 e nessuno dirà: «Eccolo qui», oppure: «Eccolo là». Perché, ecco, il regno di Dio è in mezzo a voi!». 22 Disse poi ai discepoli: «Verranno giorni in cui desidererete vedere anche uno solo dei giorni del Figlio dell'uomo, ma non lo vedrete. 23 Vi diranno: «Eccolo là», oppure: «Eccolo qui»; non andateci, non seguiteli. 24 Perché come la folgore, guizzando, brilla da un capo all'altro del cielo, così sarà il Figlio dell'uomo nel suo giorno. 25 Ma prima è necessario che egli soffra molto e venga rifiutato da questa generazione."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": "2026-11-15",
+  "settimana": "XXXIII DOMENICA DEL TEMPO ORDINARIO (ANNO A)",
+  "celebrazione": "DOMENICA",
+  "colore": "verde",
+  "letture": [
+    {
+      "sigla": "Pr 31,10-13.19-20.30-31",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Pr 31,10-13.19-20.30-31",
+      "tipo": "prima_lettura",
+      "testo": "13 Si procura lana e lino e li lavora volentieri con le mani. 19 Stende la sua mano alla conocchia e le sue dita tengono il fuso. 20 Apre le sue palme al misero, stende la mano al povero. 30 Illusorio è il fascino e fugace la bellezza, ma la donna che teme Dio è da lodare. 31 Siatele riconoscenti per il frutto delle sue mani e le sue opere la lodino alle porte della città."
+    },
+    {
+      "sigla": "Sal 127",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 127",
+      "tipo": "salmo",
+      "testo": "R. Beato chi teme il Signore.\n\nBeato chi teme il Signore\ne cammina nelle sue vie.\nDella fatica delle tue mani ti nutrirai,\nsarai felice e avrai ogni bene.\n\nLa tua sposa come vite feconda\nnell’intimità della tua casa;\ni tuoi figli come virgulti d’ulivo\nintorno alla tua mensa.\n\nEcco com’è benedetto\nl’uomo che teme il Signore.\nTi benedica il Signore da Sion.\nPossa tu vedere il bene di Gerusalemme\ntutti i giorni della tua vita!",
+      "ritornello": "R. Beato chi teme il Signore."
+    },
+    {
+      "sigla": "1Ts 5,1-6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Ts 5,1-6",
+      "tipo": "seconda_lettura",
+      "testo": "1 Riguardo poi ai tempi e ai momenti, fratelli, non avete bisogno che ve ne scriva; 2 infatti sapete bene che il giorno del Signore verrà come un ladro di notte. 3 E quando la gente dirà: «C'è pace e sicurezza!», allora d'improvviso la rovina li colpirà, come le doglie una donna incinta; e non potranno sfuggire. 4 Ma voi, fratelli, non siete nelle tenebre, cosicché quel giorno possa sorprendervi come un ladro. 5 Infatti siete tutti figli della luce e figli del giorno; noi non apparteniamo alla notte, né alle tenebre. 6 Non dormiamo dunque come gli altri, ma vigiliamo e siamo sobri."
+    },
+    {
+      "sigla": "Gv 15,4.5",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 15,4.5",
+      "tipo": "canto_vangelo",
+      "testo": "Rimanete in me e io in voi, dice il Signore, chi rimane in me porta molto frutto."
+    },
+    {
+      "sigla": "Mt 25,14-30",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 25,14-30",
+      "tipo": "vangelo",
+      "testo": "14 Avverrà infatti come a un uomo che, partendo per un viaggio, chiamò i suoi servi e consegnò loro i suoi beni. 15 A uno diede cinque talenti, a un altro due, a un altro uno, secondo le capacità di ciascuno; poi partì. Subito 16 colui che aveva ricevuto cinque talenti andò a impiegarli, e ne guadagnò altri cinque. 17 Così anche quello che ne aveva ricevuti due, ne guadagnò altri due. 18 Colui invece che aveva ricevuto un solo talento, andò a fare una buca nel terreno e vi nascose il denaro del suo padrone. 19 Dopo molto tempo il padrone di quei servi tornò e volle regolare i conti con loro. 20 Si presentò colui che aveva ricevuto cinque talenti e ne portò altri cinque, dicendo: «Signore, mi hai consegnato cinque talenti; ecco, ne ho guadagnati altri cinque». 21 «Bene, servo buono e fedele - gli disse il suo padrone -, sei stato fedele nel poco, ti darò potere su molto; prendi parte alla gioia del tuo padrone». 22 Si presentò poi colui che aveva ricevuto due talenti e disse: «Signore, mi hai consegnato due talenti; ecco, ne ho guadagnati altri due». 23 «Bene, servo buono e fedele - gli disse il suo padrone -, sei stato fedele nel poco, ti darò potere su molto; prendi parte alla gioia del tuo padrone». 24 Si presentò infine anche colui che aveva ricevuto un solo talento e disse: «Signore, so che sei un uomo duro, che mieti dove non hai seminato e raccogli dove non hai sparso. 25 Ho avuto paura e sono andato a nascondere il tuo talento sotto terra: ecco ciò che è tuo». 26 Il padrone gli rispose: «Servo malvagio e pigro, tu sapevi che mieto dove non ho seminato e raccolgo dove non ho sparso; 27 avresti dovuto affidare il mio denaro ai banchieri e così, ritornando, avrei ritirato il mio con l'interesse. 28 Toglietegli dunque il talento, e datelo a chi ha i dieci talenti. 29 Perché a chiunque ha, verrà dato e sarà nell'abbondanza; ma a chi non ha, verrà tolto anche quello che ha. 30 E il servo inutile gettatelo fuori nelle tenebre; là sarà pianto e stridore di denti»."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-12-03",
+  "settimana": "San Francesco Saverio",
+  "celebrazione": "Memoria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "Is 26,1-6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 26,1-6",
+      "tipo": "prima_lettura",
+      "testo": "1 In quel giorno si canterà questo canto nella terra di Giuda: «Abbiamo una città forte; mura e bastioni egli ha posto a salvezza. 2 Aprite le porte: entri una nazione giusta, che si mantiene fedele. 3 La sua volontà è salda; tu le assicurerai la pace, pace perché in te confida. 4 Confidate nel Signore sempre, perché il Signore è una roccia eterna, 5 perché egli ha abbattuto coloro che abitavano in alto, ha rovesciato la città eccelsa, l'ha rovesciata fino a terra, l'ha rasa al suolo. 6 I piedi la calpestano: sono i piedi degli oppressi, i passi dei poveri»."
+    },
+    {
+      "sigla": "Sal 117",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 117",
+      "tipo": "salmo",
+      "testo": "R. Benedetto colui che viene nel nome del Signore.\n\nRendete grazie al Signore perché è buono,\nperché il suo amore è per sempre.\nÈ meglio rifugiarsi nel Signore\nche confidare nell’uomo.\nÈ meglio rifugiarsi nel Signore\nche confidare nei potenti.\n\nApritemi le porte della giustizia:\nvi entrerò per ringraziare il Signore.\nÈ questa la porta del Signore:\nper essa entrano i giusti.\nTi rendo grazie, perché mi hai risposto,\nperché sei stato la mia salvezza.\n\nTi preghiamo, Signore: dona la salvezza!\nTi preghiamo, Signore: dona la vittoria!\nBenedetto colui che viene nel nome del Signore.\nVi benediciamo dalla casa del Signore.\nIl Signore è Dio, egli ci illumina.",
+      "ritornello": "R. Benedetto colui che viene nel nome del Signore."
+    },
+    {
+      "sigla": "Is 55,6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 55,6",
+      "tipo": "canto_vangelo",
+      "testo": "Cercate il Signore, mentre si fa trovare, invocatelo, mentre è vicino."
+    },
+    {
+      "sigla": "Mt 7,21.24-27",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 7,21.24-27",
+      "tipo": "vangelo",
+      "testo": "24 Perciò chiunque ascolta queste mie parole e le mette in pratica, sarà simile a un uomo saggio, che ha costruito la sua casa sulla roccia. 25 Cadde la pioggia, strariparono i fiumi, soffiarono i venti e si abbatterono su quella casa, ma essa non cadde, perché era fondata sulla roccia. 26 Chiunque ascolta queste mie parole e non le mette in pratica, sarà simile a un uomo stolto, che ha costruito la sua casa sulla sabbia. 27 Cadde la pioggia, strariparono i fiumi, soffiarono i venti e si abbatterono su quella casa, ed essa cadde e la sua rovina fu grande»."
+    }
+  ]
+}

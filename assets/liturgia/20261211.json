@@ -1,0 +1,27 @@
+{
+  "data": "2026-12-11",
+  "settimana": "Venerdì della II settimana di Avvento",
+  "celebrazione": "Feria",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "Is 48,17-19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 48,17-19",
+      "tipo": "prima_lettura",
+      "testo": "17 Il Signore, tuo salvatore, il Santo d'Israele ti assicura: 'Io, il Signore, sono il tuo Dio. Sono io che ti faccio sapere quel che ti potrà servire; sono io che ti faccio camminare sulla strada che devi seguire. 18 Perché non hai ascoltato quel che ti ho comandato! Avresti ricevuto un fiume di benedizioni, la salvezza ti sarebbe arrivata come le onde del mare! 19 I tuoi discendenti sarebbero numerosi come i granelli di sabbia sulla spiaggia del mare, i loro nomi non avrebbero rischiato di sparire dalla mia presenza!'."
+    },
+    {
+      "sigla": "Sal 1",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 1",
+      "tipo": "salmo",
+      "testo": "R. Chi ti segue, Signore, avrà la luce della vita.\n\nBeato l’uomo che non entra nel consiglio dei malvagi,\nnon resta nella via dei peccatori\ne non siede in compagnia degli arroganti,\nma nella legge del Signore trova la sua gioia,\nla sua legge medita giorno e notte.\n\nÈ come albero piantato lungo corsi d’acqua,\nche dà frutto a suo tempo:\nle sue foglie non appassiscono\ne tutto quello che fa, riesce bene.\n\nNon così, non così i malvagi,\nma come pula che il vento disperde;\npoiché il Signore veglia sul cammino dei giusti,\nmentre la via dei malvagi va in rovina.",
+      "ritornello": "R. Chi ti segue, Signore, avrà la luce della vita."
+    },
+    {
+      "sigla": "Mt 11,16-19",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,16-19",
+      "tipo": "vangelo",
+      "testo": "16 A chi posso paragonare questa generazione? È simile a bambini che stanno seduti in piazza e, rivolti ai compagni, gridano:\n17 «Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non vi siete battuti il petto!».\n18 È venuto Giovanni, che non mangia e non beve, e dicono: «È indemoniato». 19 È venuto il Figlio dell'uomo, che mangia e beve, e dicono: «Ecco, è un mangione e un beone, un amico di pubblicani e di peccatori». Ma la sapienza è stata riconosciuta giusta per le opere che essa compie»."
+    }
+  ]
+}

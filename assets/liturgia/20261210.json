@@ -1,0 +1,32 @@
+{
+  "data": "2026-12-10",
+  "settimana": "Giovedì della II settimana di Avvento",
+  "celebrazione": "Feria",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "Is 41,13-20",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 41,13-20",
+      "tipo": "prima_lettura"
+    },
+    {
+      "sigla": "Sal 144",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 144",
+      "tipo": "salmo",
+      "testo": "R. Il Signore è misericordioso e grande nell’amore.\n\nO Dio, mio re, voglio esaltarti\ne benedire il tuo nome in eterno e per sempre.\nBuono è il Signore verso tutti,\nla sua tenerezza si espande su tutte le creature.\n\nTi lodino, Signore, tutte le tue opere\ne ti benedicano i tuoi fedeli.\nDicano la gloria del tuo regno\ne parlino della tua potenza.\n\nFacciano conoscere agli uomini le tue imprese\ne la splendida gloria del tuo regno.\nIl tuo regno è un regno eterno,\nil tuo dominio si estende per tutte le generazioni.",
+      "ritornello": "R. Il Signore è misericordioso e grande nell’amore."
+    },
+    {
+      "sigla": "Is 45,8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 45,8",
+      "tipo": "canto_vangelo",
+      "testo": "Stillate, cieli, dall’alto e le nubi facciano piovere il Giusto; si apra la terra e germogli il Salvatore."
+    },
+    {
+      "sigla": "Mt 11,11-15",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 11,11-15",
+      "tipo": "vangelo",
+      "testo": "Gesù giudica la gente del suo tempo"
+    }
+  ]
+}

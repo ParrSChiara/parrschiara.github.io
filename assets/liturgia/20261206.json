@@ -1,0 +1,39 @@
+{
+  "data": "2026-12-06",
+  "settimana": "II DOMENICA DI AVVENTO  (ANNO B)",
+  "celebrazione": "DOMENICA",
+  "colore": "viola",
+  "letture": [
+    {
+      "sigla": "Is 40,1-5.9-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Is 40,1-5.9-11",
+      "tipo": "prima_lettura",
+      "testo": "1 «Consolate, consolate il mio popolo - dice il vostro Dio. 2 Parlate al cuore di Gerusalemme e gridatele che la sua tribolazione è compiuta, la sua colpa è scontata, perché ha ricevuto dalla mano del Signore il doppio per tutti i suoi peccati». 3 Una voce grida: «Nel deserto preparate la via al Signore, spianate nella steppa la strada per il nostro Dio. 4 Ogni valle sia innalzata, ogni monte e ogni colle siano abbassati; il terreno accidentato si trasformi in piano e quello scosceso in vallata. 5 Allora si rivelerà la gloria del Signore e tutti gli uomini insieme la vedranno, perché la bocca del Signore ha parlato». 9 Sali su un alto monte, tu che annunci liete notizie a Sion! Alza la tua voce con forza, tu che annunci liete notizie a Gerusalemme. Alza la voce, non temere; annuncia alle città di Giuda: «Ecco il vostro Dio! 10 Ecco, il Signore Dio viene con potenza, il suo braccio esercita il dominio. Ecco, egli ha con sé il premio e la sua ricompensa lo precede. 11 Come un pastore egli fa pascolare il gregge e con il suo braccio lo raduna; porta gli agnellini sul petto e conduce dolcemente le pecore madri»."
+    },
+    {
+      "sigla": "Sal 84",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 84",
+      "tipo": "salmo",
+      "testo": "R. Mostraci, Signore, la tua misericordia e donaci la tua salvezza.\n\nAscolterò che cosa dice Dio, il Signore:\negli annuncia la pace\nper il suo popolo, per i suoi fedeli.\nSì, la sua salvezza è vicina a chi lo teme,\nperché la sua gloria abiti la nostra terra.\n\nAmore e verità s’incontreranno,\ngiustizia e pace si baceranno.\nVerità germoglierà dalla terra\ne giustizia si affaccerà dal cielo.\n\nCerto, il Signore donerà il suo bene\ne la nostra terra darà il suo frutto;\ngiustizia camminerà davanti a lui:\ni suoi passi tracceranno il cammino.",
+      "ritornello": "R. Mostraci, Signore, la tua misericordia e donaci la tua salvezza."
+    },
+    {
+      "sigla": "2Pt 3,8-14",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=2Pt 3,8-14",
+      "tipo": "seconda_lettura",
+      "testo": "11 Dato che tutte queste cose dovranno finire in questo modo, quale deve essere la vostra vita nella santità della condotta e nelle preghiere, 12 mentre aspettate e affrettate la venuta del giorno di Dio, nel quale i cieli in fiamme si dissolveranno e gli elementi incendiati fonderanno! 13 Noi infatti, secondo la sua promessa, aspettiamo nuovi cieli e una terra nuova , nei quali abita la giustizia. 14 Perciò, carissimi, nell'attesa di questi eventi, fate di tutto perché Dio vi trovi in pace, senza colpa e senza macchia."
+    },
+    {
+      "sigla": "Lc 3,4.6",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 3,4.6",
+      "tipo": "canto_vangelo",
+      "testo": "Preparate la via del Signore, raddrizzate i suoi sentieri! Ogni uomo vedrà la salvezza di Dio!"
+    },
+    {
+      "sigla": "Mc 1,1-8",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mc 1,1-8",
+      "tipo": "vangelo",
+      "testo": "Ecco, dinanzi a te io mando il mio messaggero: egli preparerà la tua via. 3 Voce di uno che grida nel deserto: Preparate la via del Signore, raddrizzate i suoi sentieri"
+    }
+  ]
+}
