@@ -1,0 +1,27 @@
+{
+  "data": "2026-12-30",
+  "settimana": "30 Dicembre  - VI giorno fra l'Ottava di Natale",
+  "celebrazione": "Feria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "1Gv 2,12-17",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Gv 2,12-17",
+      "tipo": "prima_lettura",
+      "testo": "12 Scrivo a voi, figlioli, perché vi sono stati perdonati i peccati in virtù del suo nome. 13 Scrivo a voi, padri, perché avete conosciuto colui che è da principio. Scrivo a voi, giovani, perché avete vinto il Maligno. 14 Ho scritto a voi, figlioli, perché avete conosciuto il Padre. Ho scritto a voi, padri, perché avete conosciuto colui che è da principio. Ho scritto a voi, giovani, perché siete forti e la parola di Dio rimane in voi e avete vinto il Maligno.\n15 Non amate il mondo, né le cose del mondo! Se uno ama il mondo, l'amore del Padre non è in lui; 16 perché tutto quello che è nel mondo - la concupiscenza della carne, la concupiscenza degli occhi e la superbia della vita - non viene dal Padre, ma viene dal mondo. 17 E il mondo passa con la sua concupiscenza; ma chi fa la volontà di Dio rimane in eterno!"
+    },
+    {
+      "sigla": "Sal 95",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 95",
+      "tipo": "salmo",
+      "testo": "R. Gloria nei cieli e gioia sulla terra.\n\nDate al Signore, o famiglie dei popoli,\ndate al Signore gloria e potenza,\ndate al Signore la gloria del suo nome.\n\nPortate offerte ed entrate nei suoi atri,\nprostratevi al Signore nel suo atrio santo.\nTremi davanti a lui tutta la terra.\n\nDite tra le genti: «Il Signore regna!».\nÈ stabile il mondo, non potrà vacillare!\nEgli giudica i popoli con rettitudine.",
+      "ritornello": "R. Gloria nei cieli e gioia sulla terra."
+    },
+    {
+      "sigla": "Lc 2,36-40",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 2,36-40",
+      "tipo": "vangelo",
+      "testo": "39 Quando ebbero adempiuto ogni cosa secondo la legge del Signore, fecero ritorno in Galilea, alla loro città di Nàzaret. 40 Il bambino cresceva e si fortificava, pieno di sapienza, e la grazia di Dio era su di lui."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-12-29",
+  "settimana": "29 Dicembre  - V giorno fra l'Ottava di Natale",
+  "celebrazione": "Feria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "1Gv 2,3-11",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Gv 2,3-11",
+      "tipo": "prima_lettura",
+      "testo": "3 Da questo sappiamo di averlo conosciuto: se osserviamo i suoi comandamenti. 4 Chi dice: «Lo conosco», e non osserva i suoi comandamenti, è bugiardo e in lui non c'è la verità. 5 Chi invece osserva la sua parola, in lui l'amore di Dio è veramente perfetto. Da questo conosciamo di essere in lui. 6 Chi dice di rimanere in lui, deve anch'egli comportarsi come lui si è comportato. 7 Carissimi, non vi scrivo un nuovo comandamento, ma un comandamento antico, che avete ricevuto da principio. Il comandamento antico è la Parola che avete udito. 8 Eppure vi scrivo un comandamento nuovo, e ciò è vero in lui e in voi, perché le tenebre stanno diradandosi e già appare la luce vera. 9 Chi dice di essere nella luce e odia suo fratello, è ancora nelle tenebre. 10 Chi ama suo fratello, rimane nella luce e non vi è in lui occasione di inciampo. 11 Ma chi odia suo fratello, è nelle tenebre, cammina nelle tenebre e non sa dove va, perché le tenebre hanno accecato i suoi occhi."
+    },
+    {
+      "sigla": "Sal 95",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 95",
+      "tipo": "salmo",
+      "testo": "R. Gloria nei cieli e gioia sulla terra.\n\nCantate al Signore un canto nuovo,\ncantate al Signore, uomini di tutta la terra.\nCantate al Signore, benedite il suo nome.\n\nAnnunciate di giorno in giorno la sua salvezza.\nIn mezzo alle genti narrate la sua gloria,\na tutti i popoli dite le sue meraviglie.\n\nIl Signore ha fatto i cieli;\nmaestà e onore sono davanti a lui,\nforza e splendore nel suo santuario.",
+      "ritornello": "R. Gloria nei cieli e gioia sulla terra."
+    },
+    {
+      "sigla": "Lc 2,32",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 2,32",
+      "tipo": "canto_vangelo",
+      "testo": "Luce per rivelarti alle genti e gloria del tuo popolo, Israele. Alleluia.c"
+    },
+    {
+      "sigla": "Lc 2,22-35",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Lc 2,22-35",
+      "tipo": "vangelo",
+      "testo": "29 «Ora puoi lasciare, o Signore, che il tuo servo vada in pace, secondo la tua parola, 30 perché i miei occhi hanno visto la tua salvezza, 31 preparata da te davanti a tutti i popoli: 32 luce per rivelarti alle genti e gloria del tuo popolo, Israele».\n33 Il padre e la madre di Gesù si stupivano delle cose che si dicevano di lui. 34 Simeone li benedisse e a Maria, sua madre, disse: «Ecco, egli è qui per la caduta e la risurrezione di molti in Israele e come segno di contraddizione 35 - e anche a te una spada trafiggerà l'anima -, affinché siano svelati i pensieri di molti cuori»."
+    }
+  ]
+}

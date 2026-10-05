@@ -1,0 +1,33 @@
+{
+  "data": "2026-12-31",
+  "settimana": "31 Dicembre  - VII giorno fra l'Ottava di Natale",
+  "celebrazione": "Feria",
+  "colore": "bianco",
+  "letture": [
+    {
+      "sigla": "1Gv 2,18-21",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Gv 2,18-21",
+      "tipo": "prima_lettura",
+      "testo": "18 Figlioli, è giunta l'ultima ora. Come avete sentito dire che l'anticristo deve venire, di fatto molti anticristi sono già venuti. Da questo conosciamo che è l'ultima ora. 19 Sono usciti da noi, ma non erano dei nostri; se fossero stati dei nostri, sarebbero rimasti con noi; sono usciti perché fosse manifesto che non tutti sono dei nostri. 20 Ora voi avete ricevuto l'unzione dal Santo, e tutti avete la conoscenza. 21 Non vi ho scritto perché non conoscete la verità, ma perché la conoscete e perché nessuna menzogna viene dalla verità."
+    },
+    {
+      "sigla": "Sal 95",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 95",
+      "tipo": "salmo",
+      "testo": "R. Gloria nei cieli e gioia sulla terra.\n\nCantate al Signore un canto nuovo,\ncantate al Signore, uomini di tutta la terra.\nCantate al Signore, benedite il suo nome,\nannunciate di giorno in giorno la sua salvezza.\n\nGioiscano i cieli, esulti la terra,\nrisuoni il mare e quanto racchiude;\nsia in festa la campagna e quanto contiene,\nacclamino tutti gli alberi della foresta.\n\nDavanti al Signore che viene:\nsì, egli viene a giudicare la terra;\ngiudicherà il mondo con giustizia\ne nella sua fedeltà i popoli.",
+      "ritornello": "R. Gloria nei cieli e gioia sulla terra."
+    },
+    {
+      "sigla": "Gv 1,14.12",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 1,14.12",
+      "tipo": "canto_vangelo",
+      "testo": "Il Verbo si fece carne e venne ad abitare in mezzo a noi. A quanti lo hanno accolto ha dato il potere di diventare figli di Dio."
+    },
+    {
+      "sigla": "Gv 1,1-18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Gv 1,1-18",
+      "tipo": "vangelo",
+      "testo": "1 In principio era il Verbo, e il Verbo era presso Dio e il Verbo era Dio. 2 Egli era, in principio, presso Dio: 3 tutto è stato fatto per mezzo di lui e senza di lui nulla è stato fatto di ciò che esiste. 4 In lui era la vita e la vita era la luce degli uomini; 5 la luce splende nelle tenebre e le tenebre non l'hanno vinta. 6 Venne un uomo mandato da Dio: il suo nome era Giovanni. 7 Egli venne come testimone per dare testimonianza alla luce, perché tutti credessero per mezzo di lui. 8 Non era lui la luce, ma doveva dare testimonianza alla luce. 9 Veniva nel mondo la luce vera, quella che illumina ogni uomo. 10 Era nel mondo e il mondo è stato fatto per mezzo di lui; eppure il mondo non lo ha riconosciuto. 11 Venne fra i suoi, e i suoi non lo hanno accolto. 12 A quanti però lo hanno accolto ha dato potere di diventare figli di Dio: a quelli che credono nel suo nome, 13 i quali, non da sangue né da volere di carne né da volere di uomo, ma da Dio sono stati generati. 14 E il Verbo si fece carne e venne ad abitare in mezzo a noi; e noi abbiamo contemplato la sua gloria, gloria come del Figlio unigenito che viene dal Padre, pieno di grazia e di verità. 15 Giovanni gli dà testimonianza e proclama: «Era di lui che io dissi: Colui che viene dopo di me è avanti a me, perché era prima di me». 16 Dalla sua pienezza noi tutti abbiamo ricevuto: grazia su grazia. 17 Perché la Legge fu data per mezzo di Mosè, la grazia e la verità vennero per mezzo di Gesù Cristo. 18 Dio, nessuno lo ha mai visto: il Figlio unigenito, che è Dio ed è nel seno del Padre, è lui che lo ha rivelato."
+    }
+  ]
+}

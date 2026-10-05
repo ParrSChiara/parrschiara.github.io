@@ -1,0 +1,27 @@
+{
+  "data": "2026-12-28",
+  "settimana": "SANTI INNOCENTI",
+  "celebrazione": "FESTA",
+  "colore": "rosso",
+  "letture": [
+    {
+      "sigla": "1Gv 1,5-2,2",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=1Gv 1,5-2,2",
+      "tipo": "prima_lettura",
+      "testo": "5 Questo è il messaggio che abbiamo udito da lui e che noi vi annunciamo: Dio è luce e in lui non c'è tenebra alcuna. 6 Se diciamo di essere in comunione con lui e camminiamo nelle tenebre, siamo bugiardi e non mettiamo in pratica la verità. 7 Ma se camminiamo nella luce, come egli è nella luce, siamo in comunione gli uni con gli altri, e il sangue di Gesù, il Figlio suo, ci purifica da ogni peccato. 8 Se diciamo di essere senza peccato, inganniamo noi stessi e la verità non è in noi. 9 Se confessiamo i nostri peccati, egli è fedele e giusto tanto da perdonarci i peccati e purificarci da ogni iniquità. 10 Se diciamo di non avere peccato, facciamo di lui un bugiardo e la sua parola non è in noi."
+    },
+    {
+      "sigla": "Sal 123",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Sal 123",
+      "tipo": "salmo",
+      "testo": "R. Chi dona la sua vita risorge nel Signore.\n\nSe il Signore non fosse stato per noi,\nquando eravamo assaliti,\nallora ci avrebbero inghiottiti vivi,\nquando divampò contro di noi la loro collera.\n\nAllora le acque ci avrebbero travolti,\nun torrente ci avrebbe sommersi;\nallora ci avrebbero sommersi\nacque impetuose.\n\nSiamo stati liberati come un passero\ndal laccio dei cacciatori.\nIl nostro aiuto è nel nome del Signore:\negli ha fatto cielo e terra.",
+      "ritornello": "R. Chi dona la sua vita risorge nel Signore."
+    },
+    {
+      "sigla": "Mt 2,13-18",
+      "url": "https://www.lachiesa.it/bibbia.php?ricerca=citazione&Cerca=Cerca&Versione_CEI2008=3&Versione_CEI74=1&Versione_TILC=2&VersettoOn=1&Citazione=Mt 2,13-18",
+      "tipo": "vangelo",
+      "testo": "Dall'Egitto ho chiamato mio figlio .\n16 Quando Erode si accorse che i Magi si erano presi gioco di lui, si infuriò e mandò a uccidere tutti i bambini che stavano a Betlemme e in tutto il suo territorio e che avevano da due anni in giù, secondo il tempo che aveva appreso con esattezza dai Magi. 17 Allora si compì ciò che era stato detto per mezzo del profeta Geremia:\n18 Un grido è stato udito in Rama, un pianto e un lamento grande: Rachele piange i suoi figli e non vuole essere consolata, perché non sono più ."
+    }
+  ]
+}
